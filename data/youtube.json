@@ -1,0 +1,68 @@
+{
+  "CHICARA_CAM": {
+    "camera": "CHICARA_CAM",
+    "channel_name": "ROB NILSSON ART FORMS",
+    "channel_id": "UCFVsk5TWJPDgA6UKyEbn3sQ",
+    "channel_url": "https://www.youtube.com/@robnilssonartforms",
+    "video_id": "uDzz9I73Dvk",
+    "youtu_be": "https://youtu.be/uDzz9I73Dvk",
+    "watch_url": "https://www.youtube.com/watch?v=uDzz9I73Dvk",
+    "playlist_watch_url": "https://www.youtube.com/watch?v=uDzz9I73Dvk&list=PLcER0Yz7OUpU",
+    "playlist_id": "PLcER0Yz7OUpU",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLcER0Yz7OUpU",
+    "playlist_selection": {
+      "matched": true,
+      "hadDialog": true
+    },
+    "embed_url": "https://www.youtube.com/embed/uDzz9I73Dvk",
+    "title": "PRECIPICE \u2014 Chicara Cam (Complete Assembly, 17 Shots) | Rob Nilsson",
+    "visibility": "UNLISTED",
+    "verified_is_unlisted": true,
+    "verified_oembed": true,
+    "oembed_author": "ROB NILSSON ART FORMS "
+  },
+  "ROB_CAM": {
+    "camera": "ROB_CAM",
+    "channel_name": "ROB NILSSON ART FORMS",
+    "channel_id": "UCFVsk5TWJPDgA6UKyEbn3sQ",
+    "channel_url": "https://www.youtube.com/@robnilssonartforms",
+    "video_id": "AL6Lk7bXx8s",
+    "youtu_be": "https://youtu.be/AL6Lk7bXx8s",
+    "watch_url": "https://www.youtube.com/watch?v=AL6Lk7bXx8s",
+    "playlist_watch_url": "https://www.youtube.com/watch?v=AL6Lk7bXx8s&list=PLcER0Yz7OUpU",
+    "playlist_id": "PLcER0Yz7OUpU",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLcER0Yz7OUpU",
+    "playlist_selection": {
+      "matched": true,
+      "hadDialog": true
+    },
+    "embed_url": "https://www.youtube.com/embed/AL6Lk7bXx8s",
+    "title": "PRECIPICE \u2014 Rob Cam (Complete Assembly, 55 Shots) | Rob Nilsson",
+    "visibility": "UNLISTED",
+    "verified_is_unlisted": true,
+    "verified_oembed": true,
+    "oembed_author": "ROB NILSSON ART FORMS "
+  },
+  "SECRET_CAM": {
+    "camera": "SECRET_CAM",
+    "channel_name": "ROB NILSSON ART FORMS",
+    "channel_id": "UCFVsk5TWJPDgA6UKyEbn3sQ",
+    "channel_url": "https://www.youtube.com/@robnilssonartforms",
+    "video_id": "x1A5buxjFKY",
+    "youtu_be": "https://youtu.be/x1A5buxjFKY",
+    "watch_url": "https://www.youtube.com/watch?v=x1A5buxjFKY",
+    "playlist_watch_url": "https://www.youtube.com/watch?v=x1A5buxjFKY&list=PLcER0Yz7OUpU",
+    "playlist_id": "PLcER0Yz7OUpU",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLcER0Yz7OUpU",
+    "playlist_selection": {
+      "matched": true,
+      "hadDialog": true
+    },
+    "embed_url": "https://www.youtube.com/embed/x1A5buxjFKY",
+    "title": "PRECIPICE \u2014 Secret Cam (Complete Uncut Take) | Rob Nilsson",
+    "visibility": "UNLISTED",
+    "verified_is_unlisted": true,
+    "verified_oembed": true,
+    "oembed_author": "ROB NILSSON ART FORMS "
+  }
+}

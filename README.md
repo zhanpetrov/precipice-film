@@ -10,12 +10,12 @@ Interactive Apple-designed dailies screening room, frame-accurate unlisted YouTu
 
 ## Archive Overview
 
-| Camera | Shots | Runtime | Indexed Words | Transcripts |
-| :--- | ---: | ---: | ---: | :--- |
-| **Chicara Cam** | 17 | 2h 17m | 21,209 | [`CHICARA_CAM_FULL.txt`](transcripts/CHICARA_CAM_FULL.txt) · [`CHICARA_CAM_FULL.srt`](transcripts/CHICARA_CAM_FULL.srt) |
-| **Rob Cam** | 55 | 2h 57m | 28,452 | [`ROB_CAM_FULL.txt`](transcripts/ROB_CAM_FULL.txt) · [`ROB_CAM_FULL.srt`](transcripts/ROB_CAM_FULL.srt) |
-| **Secret Cam** | 1 | 1h 20m | 5,912 | [`SECRET_CAM_FULL.txt`](transcripts/SECRET_CAM_FULL.txt) · [`SECRET_CAM_FULL.srt`](transcripts/SECRET_CAM_FULL.srt) |
-| **Total** | **73** | **6h 36m** | **55,573** | Per-shot `.json`, `.srt`, `.txt` in [`transcripts/`](transcripts/) |
+| Camera | Shots | Runtime | Chapters | Indexed Words | YouTube (Unlisted · PRECIPICE) | Transcripts |
+| :--- | ---: | ---: | ---: | ---: | :--- | :--- |
+| **Chicara Cam** | 17 | 2h 17m | 13 | 21,209 | [Watch on YouTube ↗](https://www.youtube.com/watch?v=uDzz9I73Dvk&list=PLcER0Yz7OUpU) | [`CHICARA_CAM_FULL.txt`](transcripts/CHICARA_CAM_FULL.txt) · [`CHICARA_CAM_FULL.srt`](transcripts/CHICARA_CAM_FULL.srt) |
+| **Rob Cam** | 55 | 2h 57m | 46 | 28,452 | [Watch on YouTube ↗](https://www.youtube.com/watch?v=AL6Lk7bXx8s&list=PLcER0Yz7OUpU) | [`ROB_CAM_FULL.txt`](transcripts/ROB_CAM_FULL.txt) · [`ROB_CAM_FULL.srt`](transcripts/ROB_CAM_FULL.srt) |
+| **Secret Cam** | 1 | 1h 20m | 16 | 5,912 | [Watch on YouTube ↗](https://www.youtube.com/watch?v=x1A5buxjFKY&list=PLcER0Yz7OUpU) | [`SECRET_CAM_FULL.txt`](transcripts/SECRET_CAM_FULL.txt) · [`SECRET_CAM_FULL.srt`](transcripts/SECRET_CAM_FULL.srt) |
+| **Total** | **73** | **6h 36m** | **75** | **55,573** | [Full PRECIPICE Playlist ↗](https://www.youtube.com/playlist?list=PLcER0Yz7OUpU) | Per-shot `.json`, `.srt`, `.txt` in [`transcripts/`](transcripts/) |
 
 ## Repository Structure
 

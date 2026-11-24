@@ -355,65 +355,105 @@ def upload_one(
         time.sleep(2.5)
 
     total_bytes = mp4_path.stat().st_size
-    print(f"[{cam}] [2/6] Staging {total_bytes / (1024*1024):.1f} MB into Chrome Blobs (16 MB slices)...", flush=True)
-    exec_tab_js(win_id, tab_id, "window.__ytLeafBlobs = []; window.__ytBytes = 0; 'INIT';")
+    print(f"[{cam}] [2/6] Attaching {total_bytes / (1024*1024):.1f} MB via real OS click + native file picker...", flush=True)
 
-    chunk_sz = 16 * 1024 * 1024
-    idx_chunk = 0
-    t_stage_0 = time.time()
-    with open(mp4_path, "rb") as f:
-        while True:
-            buf = f.read(chunk_sz)
-            if not buf:
-                break
-            idx_chunk += 1
-            b64 = base64.b64encode(buf).decode("ascii")
-            sz_now = exec_tab_js(
-                win_id,
-                tab_id,
-                f"""
-                (() => {{
-                  const bin = atob("{b64}");
-                  const arr = new Uint8Array(bin.length);
-                  for (let i = 0; i < bin.length; i++) arr[i] = bin.charCodeAt(i);
-                  window.__ytLeafBlobs.push(new Blob([arr], {{ type: "video/mp4" }}));
-                  window.__ytBytes += arr.byteLength;
-                  return String(window.__ytBytes);
-                }})()
-                """,
-                timeout=120,
-            )
-            if idx_chunk % 15 == 0 or int(sz_now) == total_bytes:
-                el = time.time() - t_stage_0
-                mb_done = int(sz_now) / (1024 * 1024)
-                mb_tot = total_bytes / (1024 * 1024)
-                print(f"  [{cam}] Staged {mb_done:.1f} / {mb_tot:.1f} MB ({100.0*mb_done/mb_tot:.1f}%, {el:.0f}s)...", flush=True)
+    # Put exact path on clipboard so spaces and '????' paste cleanly
+    subprocess.run(["pbcopy"], input=str(mp4_path), text=True, check=True)
 
-    att = exec_tab_js(
-        win_id,
-        tab_id,
+    # Bring Chrome window & Studio tab to front
+    run_jxa(
         f"""
         (() => {{
-          const inp = document.querySelector("input[type='file'][name='Filedata']") ||
-                      document.querySelector("ytcp-uploads-file-picker input[type='file']") ||
-                      document.querySelector("input[type='file']");
-          if (!inp) return "NO_INPUT";
-          const blob = new Blob(window.__ytLeafBlobs, {{ type: "video/mp4" }});
-          window.__ytLeafBlobs = [];
-          const file = new File([blob], {json.dumps(mp4_path.name)}, {{ type: "video/mp4" }});
-          const dt = new DataTransfer();
-          dt.items.add(file);
-          inp.files = dt.files;
-          inp.dispatchEvent(new Event("change", {{ bubbles: true }}));
-          inp.dispatchEvent(new Event("input", {{ bubbles: true }}));
-          return "ATTACHED_" + file.size;
+          const chrome = Application("Google Chrome");
+          chrome.activate();
+          const w = chrome.windows.byId({win_id});
+          w.index = 1;
+          const ids = w.tabs.id().map(String);
+          const idx = ids.indexOf({json.dumps(str(tab_id))});
+          if (idx >= 0) w.activeTabIndex = idx + 1;
+          return "ACTIVATED";
         }})()
         """,
-        timeout=120,
+        timeout=30,
     )
-    print(f"[{cam}] [3/6] Attached MP4: {att}", flush=True)
-    if not str(att).startswith("ATTACHED_"):
-        raise RuntimeError(f"Failed to attach MP4: {att}")
+    time.sleep(0.8)
+
+    # Get exact screen coordinates of #select-files-button
+    coords_raw = exec_tab_js(
+        win_id,
+        tab_id,
+        """
+        (() => {
+          const btn = document.querySelector("#select-files-button") ||
+                      document.querySelector("ytcp-uploads-file-picker ytcp-button") ||
+                      document.querySelector("ytcp-uploads-file-picker button");
+          if (!btn) return JSON.stringify({ error: "NO_PICKER_BTN" });
+          btn.scrollIntoView({ block: "center" });
+          const r = btn.getBoundingClientRect();
+          const topChrome = window.outerHeight - window.innerHeight;
+          const leftChrome = Math.round((window.outerWidth - window.innerWidth) / 2);
+          const sx = Math.round(window.screenX + leftChrome + r.left + r.width / 2);
+          const sy = Math.round(window.screenY + topChrome + r.top + r.height / 2);
+          return JSON.stringify({ x: sx, y: sy });
+        })()
+        """,
+    )
+    coords = json.loads(coords_raw)
+    if "x" not in coords:
+        raise RuntimeError(f"Could not locate Select Files button: {coords}")
+    sx, sy = int(coords["x"]), int(coords["y"])
+    print(f"[{cam}] [3/6] Clicking Select Files at screen ({sx}, {sy})...", flush=True)
+
+    # Genuine OS-level click via CoreGraphics in JXA (satisfies Chrome user-gesture requirement)
+    run_jxa(
+        f"""
+        ObjC.import('CoreGraphics');
+        (() => {{
+          const pt = {{ x: {sx}, y: {sy} }};
+          const move = $.CGEventCreateMouseEvent(null, $.kCGEventMouseMoved, pt, $.kCGMouseButtonLeft);
+          const down = $.CGEventCreateMouseEvent(null, $.kCGEventLeftMouseDown, pt, $.kCGMouseButtonLeft);
+          const up   = $.CGEventCreateMouseEvent(null, $.kCGEventLeftMouseUp, pt, $.kCGMouseButtonLeft);
+          $.CGEventPost($.kCGHIDEventTap, move);
+          delay(0.15);
+          $.CGEventPost($.kCGHIDEventTap, down);
+          delay(0.08);
+          $.CGEventPost($.kCGHIDEventTap, up);
+          return "CLICKED_OS";
+        }})()
+        """,
+        timeout=30,
+    )
+
+    # Wait up to 8s for macOS Open Sheet to appear
+    sheet_open = False
+    for _ in range(16):
+        time.sleep(0.5)
+        cnt = subprocess.check_output(
+            ["osascript", "-e", 'tell application "System Events" to tell process "Google Chrome" to get count of sheets of window 1'],
+            text=True,
+        ).strip()
+        if cnt.isdigit() and int(cnt) > 0:
+            sheet_open = True
+            break
+    if not sheet_open:
+        raise RuntimeError(f"Native macOS Open sheet did not appear after clicking ({sx}, {sy})")
+
+    subprocess.run(
+        [
+            "osascript",
+            "-e", 'tell application "Google Chrome" to activate',
+            "-e", 'delay 0.3',
+            "-e", 'tell application "System Events" to keystroke "g" using {command down, shift down}',
+            "-e", 'delay 1.0',
+            "-e", 'tell application "System Events" to keystroke "v" using {command down}',
+            "-e", 'delay 0.6',
+            "-e", 'tell application "System Events" to key code 36',
+            "-e", 'delay 1.2',
+            "-e", 'tell application "System Events" to key code 36',
+        ],
+        check=True,
+    )
+    print(f"[{cam}] [3/6] Selected {mp4_path.name} in native Open sheet", flush=True)
 
     yt_id = ""
     for _ in range(120):
