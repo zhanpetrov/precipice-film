@@ -1,0 +1,26 @@
+{
+  "CHICARA_CAM": {
+    "mp4": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/exports/PRECIPICE_CHICARA_CAM_MASTER_1080p.mp4",
+    "duration_sec": 8273.382,
+    "duration_hms": "2:17:53",
+    "size_mb": 4801.0,
+    "hero_thumb": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/assets/thumbs/HERO_CHICARA_CAM.jpg",
+    "shot_count": 17
+  },
+  "ROB_CAM": {
+    "mp4": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/exports/PRECIPICE_ROB_CAM_MASTER_1080p.mp4",
+    "duration_sec": 10664.648,
+    "duration_hms": "2:57:45",
+    "size_mb": 7582.0,
+    "hero_thumb": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/assets/thumbs/HERO_ROB_CAM.jpg",
+    "shot_count": 55
+  },
+  "SECRET_CAM": {
+    "mp4": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/exports/PRECIPICE_SECRET_CAM_MASTER_1080p.mp4",
+    "duration_sec": 4833.8,
+    "duration_hms": "1:20:34",
+    "size_mb": 3241.9,
+    "hero_thumb": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/assets/thumbs/HERO_SECRET_CAM.jpg",
+    "shot_count": 1
+  }
+}

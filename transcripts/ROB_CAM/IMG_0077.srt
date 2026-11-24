@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:02,000
+Where are you from?
+
+2
+00:00:02,000 --> 00:00:06,000
+Just, you know, somewhere.
+
+3
+00:00:06,000 --> 00:00:10,000
+But I think it's more about where we're going.
+
+4
+00:00:10,000 --> 00:00:12,000
+Oh, that's not crypto.
+
+5
+00:00:12,000 --> 00:00:14,000
+Where are we from?
+
+6
+00:00:14,000 --> 00:00:18,000
+You guys, you know something about this game.

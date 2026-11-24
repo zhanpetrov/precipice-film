@@ -1,0 +1,50 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0074",
+  "duration": 15.483333,
+  "creation_time": "2026-11-24T03:30:09-0800",
+  "language": "en",
+  "text": "I can guarantee... Do you know who's here? Do you know who's here? Do you know who's here? Do you know who's here? Do you know? Who's asking? Just a little guy...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "I can guarantee..."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Do you know who's here?"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Do you know who's here?"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Do you know who's here?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Do you know who's here?"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Do you know?"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Who's asking?"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "Just a little guy..."
+    }
+  ]
+}

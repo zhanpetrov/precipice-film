@@ -1,0 +1,30 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0078",
+  "duration": 29.625,
+  "creation_time": "2026-11-24T03:31:21-0800",
+  "language": "en",
+  "text": "I mean look this guy you think this guy's good I don't know I don't know you you're a player yeah how about you know your guy my guy and some earned money well let's talk man how many pussies I don't know you got you guys I feel I'm certainly surrounded by like five dudes that I've never seen him as barbie bro",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "I mean look this guy you think this guy's good I don't know I don't know you you're a player"
+    },
+    {
+      "start": 6.0,
+      "end": 17.28,
+      "text": "yeah how about you know your guy my guy and some earned money well let's talk man"
+    },
+    {
+      "start": 17.28,
+      "end": 26.88,
+      "text": "how many pussies I don't know you got you guys I feel I'm certainly surrounded by like five dudes"
+    },
+    {
+      "start": 26.88,
+      "end": 30.72,
+      "text": "that I've never seen him as barbie bro"
+    }
+  ]
+}

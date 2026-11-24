@@ -1,0 +1,510 @@
+{
+  "camera": "CHICARA_CAM",
+  "shot": "IMG_1333",
+  "duration": 178.038333,
+  "creation_time": "2026-11-12T11:42:34-0800",
+  "language": "en",
+  "text": "It's okay, we're almost done. So what's your rank? In this? You can't. You can't. Couple seconds, couple seconds. Move in the door. Move. Move. All right, everybody stand back. Stay in your chairs. Stay in your chairs. Stay in your chairs, everybody. Nobody stand up. We're federal agents doing our job. Everyone sit down. Everyone sit down. Stay seated. This is not a test. Hey, shut the fuck up. Fuck you. Get the fuck out of my bar. Everyone stand back. Everyone stand back. Everyone stand back. Hey, hey. Everybody stand back. Stand down. Stand down. Stand down. Everybody stand down. Stand down. Stand down. He needs some help. We're not helping you. We're not helping you. Are you in here? Are you in here? Then help him. Everybody stand down. Help him. Everybody stand down. You fucking up. You fucking up. You fucking up. You fucking up. Move across the street. You fucking up. This motherfucker has his fucking hands off me. This motherfucker has his fucking hands off me. Back up. Back up. Back up. You fucking up. You fucking up. You fucking up. You fucking up. You fucking up. You fuck it. You fuck the fuck up. Yeah, you fuck the fuck up. You fuck the fuck with me. This motherfucker has his fucking hands off me. This motherfucker has his fucking hands off me. My face. You fuck the fuck. You crazy. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. You fuck. Get back, get back. Everyone get back. I'll use your own signs against you. Use your own signs against you. Get back now. Get back. Can somebody please call an ambulance? Everyone get back. This is Officer Brown. Okay. Come down, come down. Okay.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "It's okay, we're almost done."
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "So what's your rank?"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "In this?"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "You can't."
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "You can't."
+    },
+    {
+      "start": 12.0,
+      "end": 17.0,
+      "text": "Couple seconds, couple seconds."
+    },
+    {
+      "start": 17.0,
+      "end": 22.0,
+      "text": "Move in the door."
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "text": "Move."
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "text": "Move."
+    },
+    {
+      "start": 24.0,
+      "end": 28.0,
+      "text": "All right, everybody stand back."
+    },
+    {
+      "start": 28.0,
+      "end": 31.0,
+      "text": "Stay in your chairs."
+    },
+    {
+      "start": 31.0,
+      "end": 34.0,
+      "text": "Stay in your chairs."
+    },
+    {
+      "start": 34.0,
+      "end": 36.0,
+      "text": "Stay in your chairs, everybody."
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "Nobody stand up."
+    },
+    {
+      "start": 38.0,
+      "end": 43.0,
+      "text": "We're federal agents doing our job."
+    },
+    {
+      "start": 43.0,
+      "end": 45.0,
+      "text": "Everyone sit down."
+    },
+    {
+      "start": 45.0,
+      "end": 47.0,
+      "text": "Everyone sit down."
+    },
+    {
+      "start": 47.0,
+      "end": 49.0,
+      "text": "Stay seated."
+    },
+    {
+      "start": 49.0,
+      "end": 52.0,
+      "text": "This is not a test."
+    },
+    {
+      "start": 52.0,
+      "end": 55.0,
+      "text": "Hey, shut the fuck up."
+    },
+    {
+      "start": 55.0,
+      "end": 57.0,
+      "text": "Fuck you."
+    },
+    {
+      "start": 57.0,
+      "end": 60.0,
+      "text": "Get the fuck out of my bar."
+    },
+    {
+      "start": 60.0,
+      "end": 62.0,
+      "text": "Everyone stand back."
+    },
+    {
+      "start": 62.0,
+      "end": 64.0,
+      "text": "Everyone stand back."
+    },
+    {
+      "start": 64.0,
+      "end": 66.0,
+      "text": "Everyone stand back."
+    },
+    {
+      "start": 66.0,
+      "end": 68.0,
+      "text": "Hey, hey."
+    },
+    {
+      "start": 68.0,
+      "end": 74.0,
+      "text": "Everybody stand back."
+    },
+    {
+      "start": 74.0,
+      "end": 75.0,
+      "text": "Stand down."
+    },
+    {
+      "start": 75.0,
+      "end": 77.0,
+      "text": "Stand down."
+    },
+    {
+      "start": 77.0,
+      "end": 79.0,
+      "text": "Stand down."
+    },
+    {
+      "start": 79.0,
+      "end": 80.0,
+      "text": "Everybody stand down."
+    },
+    {
+      "start": 80.0,
+      "end": 81.0,
+      "text": "Stand down."
+    },
+    {
+      "start": 81.0,
+      "end": 82.0,
+      "text": "Stand down."
+    },
+    {
+      "start": 82.0,
+      "end": 83.0,
+      "text": "He needs some help."
+    },
+    {
+      "start": 83.0,
+      "end": 84.0,
+      "text": "We're not helping you."
+    },
+    {
+      "start": 84.0,
+      "end": 85.0,
+      "text": "We're not helping you."
+    },
+    {
+      "start": 85.0,
+      "end": 86.0,
+      "text": "Are you in here?"
+    },
+    {
+      "start": 86.0,
+      "end": 87.0,
+      "text": "Are you in here?"
+    },
+    {
+      "start": 87.0,
+      "end": 88.0,
+      "text": "Then help him."
+    },
+    {
+      "start": 88.0,
+      "end": 89.0,
+      "text": "Everybody stand down."
+    },
+    {
+      "start": 89.0,
+      "end": 90.0,
+      "text": "Help him."
+    },
+    {
+      "start": 90.0,
+      "end": 91.0,
+      "text": "Everybody stand down."
+    },
+    {
+      "start": 91.0,
+      "end": 92.0,
+      "text": "You fucking up."
+    },
+    {
+      "start": 92.0,
+      "end": 93.0,
+      "text": "You fucking up."
+    },
+    {
+      "start": 93.0,
+      "end": 94.0,
+      "text": "You fucking up."
+    },
+    {
+      "start": 94.0,
+      "end": 95.0,
+      "text": "You fucking up."
+    },
+    {
+      "start": 95.0,
+      "end": 96.0,
+      "text": "Move across the street."
+    },
+    {
+      "start": 96.0,
+      "end": 97.0,
+      "text": "You fucking up."
+    },
+    {
+      "start": 97.0,
+      "end": 99.0,
+      "text": "This motherfucker has his fucking hands off me."
+    },
+    {
+      "start": 99.0,
+      "end": 100.0,
+      "text": "This motherfucker has his fucking hands off me."
+    },
+    {
+      "start": 100.0,
+      "end": 101.0,
+      "text": "Back up."
+    },
+    {
+      "start": 101.0,
+      "end": 102.0,
+      "text": "Back up."
+    },
+    {
+      "start": 102.0,
+      "end": 103.0,
+      "text": "Back up."
+    },
+    {
+      "start": 103.0,
+      "end": 104.0,
+      "text": "You fucking up."
+    },
+    {
+      "start": 104.0,
+      "end": 105.0,
+      "text": "You fucking up."
+    },
+    {
+      "start": 105.0,
+      "end": 106.0,
+      "text": "You fucking up."
+    },
+    {
+      "start": 106.0,
+      "end": 107.0,
+      "text": "You fucking up."
+    },
+    {
+      "start": 107.0,
+      "end": 108.0,
+      "text": "You fucking up."
+    },
+    {
+      "start": 108.0,
+      "end": 109.0,
+      "text": "You fuck it."
+    },
+    {
+      "start": 109.0,
+      "end": 110.0,
+      "text": "You fuck the fuck up."
+    },
+    {
+      "start": 110.0,
+      "end": 110.4,
+      "text": "Yeah, you fuck the fuck up."
+    },
+    {
+      "start": 110.4,
+      "end": 111.0,
+      "text": "You fuck the fuck with me."
+    },
+    {
+      "start": 111.0,
+      "end": 112.0,
+      "text": "This motherfucker has his fucking hands off me."
+    },
+    {
+      "start": 112.0,
+      "end": 113.0,
+      "text": "This motherfucker has his fucking hands off me."
+    },
+    {
+      "start": 113.0,
+      "end": 114.0,
+      "text": "My face."
+    },
+    {
+      "start": 114.0,
+      "end": 115.0,
+      "text": "You fuck the fuck."
+    },
+    {
+      "start": 115.0,
+      "end": 116.0,
+      "text": "You crazy."
+    },
+    {
+      "start": 116.0,
+      "end": 117.0,
+      "text": "You fuck."
+    },
+    {
+      "start": 117.0,
+      "end": 117.04,
+      "text": "You fuck."
+    },
+    {
+      "start": 117.04,
+      "end": 118.0,
+      "text": "You fuck."
+    },
+    {
+      "start": 118.0,
+      "end": 118.7,
+      "text": "You fuck."
+    },
+    {
+      "start": 118.7,
+      "end": 118.84,
+      "text": "You fuck."
+    },
+    {
+      "start": 118.84,
+      "end": 119.3,
+      "text": "You fuck."
+    },
+    {
+      "start": 119.3,
+      "end": 119.76,
+      "text": "You fuck."
+    },
+    {
+      "start": 119.76,
+      "end": 120.2,
+      "text": "You fuck."
+    },
+    {
+      "start": 120.2,
+      "end": 120.52,
+      "text": "You fuck."
+    },
+    {
+      "start": 120.52,
+      "end": 120.64,
+      "text": "You fuck."
+    },
+    {
+      "start": 120.64,
+      "end": 120.84,
+      "text": "You fuck."
+    },
+    {
+      "start": 120.84,
+      "end": 121.14,
+      "text": "You fuck."
+    },
+    {
+      "start": 121.14,
+      "end": 121.44,
+      "text": "You fuck."
+    },
+    {
+      "start": 121.44,
+      "end": 121.72,
+      "text": "You fuck."
+    },
+    {
+      "start": 121.72,
+      "end": 122.06,
+      "text": "You fuck."
+    },
+    {
+      "start": 122.06,
+      "end": 122.34,
+      "text": "You fuck."
+    },
+    {
+      "start": 122.34,
+      "end": 122.56,
+      "text": "You fuck."
+    },
+    {
+      "start": 122.56,
+      "end": 122.64,
+      "text": "You fuck."
+    },
+    {
+      "start": 122.64,
+      "end": 122.84,
+      "text": "You fuck."
+    },
+    {
+      "start": 122.84,
+      "end": 123.06,
+      "text": "You fuck."
+    },
+    {
+      "start": 123.06,
+      "end": 123.34,
+      "text": "You fuck."
+    },
+    {
+      "start": 123.34,
+      "end": 123.64,
+      "text": "You fuck."
+    },
+    {
+      "start": 123.64,
+      "end": 124.04,
+      "text": "You fuck."
+    },
+    {
+      "start": 124.04,
+      "end": 124.32,
+      "text": "You fuck."
+    },
+    {
+      "start": 124.32,
+      "end": 124.6,
+      "text": "You fuck."
+    },
+    {
+      "start": 124.6,
+      "end": 124.82,
+      "text": "You fuck."
+    },
+    {
+      "start": 124.82,
+      "end": 125.2,
+      "text": "You fuck."
+    },
+    {
+      "start": 125.2,
+      "end": 139.92,
+      "text": "Get back, get back. Everyone get back. I'll use your own signs against you."
+    },
+    {
+      "start": 139.92,
+      "end": 143.38,
+      "text": "Use your own signs against you. Get back now."
+    },
+    {
+      "start": 155.2,
+      "end": 168.2,
+      "text": "Get back. Can somebody please call an ambulance?"
+    },
+    {
+      "start": 168.2,
+      "end": 170.2,
+      "text": "Everyone get back."
+    },
+    {
+      "start": 170.2,
+      "end": 176.2,
+      "text": "This is Officer Brown. Okay. Come down, come down."
+    },
+    {
+      "start": 176.2,
+      "end": 178.2,
+      "text": "Okay."
+    }
+  ]
+}

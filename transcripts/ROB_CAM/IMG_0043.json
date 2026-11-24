@@ -1,0 +1,50 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0043",
+  "duration": 31.9617,
+  "creation_time": "2026-11-23T22:22:48-0800",
+  "language": "en",
+  "text": "Okay, so you're just waiting. They radioed you to wait down here because they're chasing you. Yeah, I copy that. They may have the subject over here around the corner. Oh, sounds like he's running. Let's find out what direction. What direction is he running? Go.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.68,
+      "text": "Okay, so you're just waiting."
+    },
+    {
+      "start": 15.46,
+      "end": 18.82,
+      "text": "They radioed you to wait down here because they're chasing you."
+    },
+    {
+      "start": 19.12,
+      "end": 19.74,
+      "text": "Yeah, I copy that."
+    },
+    {
+      "start": 21.74,
+      "end": 23.96,
+      "text": "They may have the subject over here around the corner."
+    },
+    {
+      "start": 25.24,
+      "end": 26.44,
+      "text": "Oh, sounds like he's running."
+    },
+    {
+      "start": 26.44,
+      "end": 29.86,
+      "text": "Let's find out what direction."
+    },
+    {
+      "start": 29.88,
+      "end": 30.68,
+      "text": "What direction is he running?"
+    },
+    {
+      "start": 31.56,
+      "end": 31.9,
+      "text": "Go."
+    }
+  ]
+}

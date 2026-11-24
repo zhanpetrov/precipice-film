@@ -1,0 +1,15 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0051",
+  "duration": 2.7067,
+  "creation_time": "2026-11-23T23:29:20-0800",
+  "language": "en",
+  "text": "Because of the boat, because people resist.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": "Because of the boat, because people resist."
+    }
+  ]
+}

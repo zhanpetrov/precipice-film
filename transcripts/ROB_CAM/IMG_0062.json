@@ -1,0 +1,80 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0062",
+  "duration": 41.128333,
+  "creation_time": "2026-11-24T01:20:13-0800",
+  "language": "en",
+  "text": "I don't know. Right. There's some horror film. There's some horror film that someone got. Some horror film way back then that, like, cut critical of planning with the actresses. Maybe you're thinking of, like, um, Ellen Burstyn. Wasn't Ellen Burstyn in, um, The Exorcist, right? Maybe it was The Exorcist scene. I don't know. After I saw an interview, was it Jodie Foster that did the site? No. After I saw Silence of the Lambs, you mean? I saw Silence of the Lambs, thank God, in Taiwan. And it was dumped slightly.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "I don't know."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Right."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "There's some horror film."
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "There's some horror film that someone got."
+    },
+    {
+      "start": 5.0,
+      "end": 14.0,
+      "text": "Some horror film way back then that, like, cut critical of planning with the actresses."
+    },
+    {
+      "start": 14.0,
+      "end": 20.0,
+      "text": "Maybe you're thinking of, like, um, Ellen Burstyn."
+    },
+    {
+      "start": 20.0,
+      "end": 25.0,
+      "text": "Wasn't Ellen Burstyn in, um, The Exorcist, right?"
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": "Maybe it was The Exorcist scene."
+    },
+    {
+      "start": 28.0,
+      "end": 29.0,
+      "text": "I don't know."
+    },
+    {
+      "start": 29.0,
+      "end": 33.0,
+      "text": "After I saw an interview, was it Jodie Foster that did the site?"
+    },
+    {
+      "start": 33.0,
+      "end": 34.0,
+      "text": "No."
+    },
+    {
+      "start": 34.0,
+      "end": 36.0,
+      "text": "After I saw Silence of the Lambs, you mean?"
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "I saw Silence of the Lambs, thank God, in Taiwan."
+    },
+    {
+      "start": 38.0,
+      "end": 40.0,
+      "text": "And it was dumped slightly."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0058",
+  "duration": 0.375,
+  "creation_time": "2026-11-24T00:53:41-0800",
+  "language": "en",
+  "text": "Thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.98,
+      "text": "Thank you."
+    }
+  ]
+}

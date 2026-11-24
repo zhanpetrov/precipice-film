@@ -1,0 +1,15 @@
+{
+  "camera": "CHICARA_CAM",
+  "shot": "IMG_1336",
+  "duration": 0.498333,
+  "creation_time": "2026-11-12T12:05:01-0800",
+  "language": "en",
+  "text": "Thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.98,
+      "text": "Thank you."
+    }
+  ]
+}

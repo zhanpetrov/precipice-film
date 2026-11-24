@@ -1,0 +1,40 @@
+{
+  "camera": "CHICARA_CAM",
+  "shot": "IMG_1332",
+  "duration": 10.965,
+  "creation_time": "2026-11-12T11:31:23-0800",
+  "language": "en",
+  "text": "... What the fuck? What the fuck? What the fuck? What the fuck? What the fuck?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "..."
+    },
+    {
+      "start": 2.54,
+      "end": 4.56,
+      "text": "What the fuck?"
+    },
+    {
+      "start": 4.56,
+      "end": 6.44,
+      "text": "What the fuck?"
+    },
+    {
+      "start": 6.44,
+      "end": 7.94,
+      "text": "What the fuck?"
+    },
+    {
+      "start": 7.94,
+      "end": 9.24,
+      "text": "What the fuck?"
+    },
+    {
+      "start": 9.24,
+      "end": 10.56,
+      "text": "What the fuck?"
+    }
+  ]
+}

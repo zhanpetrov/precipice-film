@@ -1,0 +1,686 @@
+[
+  {
+    "camera": "CHICARA_CAM",
+    "kind": "video",
+    "id": "1_6Jbnv9iVXAQzfKyA2YnXU9CHxvr0Tdb",
+    "name": "IMG_1336.MOV",
+    "size": 465442,
+    "modifiedTime": "2026-11-12T20:05:01.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/CHICARA_CAM/IMG_1336.MOV"
+  },
+  {
+    "camera": "CHICARA_CAM",
+    "kind": "video",
+    "id": "1NLQUwwaLQ6CzJtTe_LNSm8svIsfr5aFI",
+    "name": "IMG_1337.MOV",
+    "size": 1873058,
+    "modifiedTime": "2026-11-12T20:07:27.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/CHICARA_CAM/IMG_1337.MOV"
+  },
+  {
+    "camera": "CHICARA_CAM",
+    "kind": "video",
+    "id": "1w8ma6Iq6-zej8j_3TwWoYL-57fYNXzFf",
+    "name": "IMG_1324.MOV",
+    "size": 1960351,
+    "modifiedTime": "2026-11-12T16:12:44.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/CHICARA_CAM/IMG_1324.MOV"
+  },
+  {
+    "camera": "CHICARA_CAM",
+    "kind": "still",
+    "id": "19-jKWHmvWWwIr2oahkBQU9GtBI4sk5OT",
+    "name": "IMG_1326.HEIC",
+    "size": 2020516,
+    "modifiedTime": "2026-11-12T17:48:21.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/STILLS/CHICARA_CAM_IMG_1326.HEIC"
+  },
+  {
+    "camera": "CHICARA_CAM",
+    "kind": "video",
+    "id": "1BHah9Tv_HBfhAQeGDumijS-qc-ZlBeoZ",
+    "name": "IMG_1320.MOV",
+    "size": 10499653,
+    "modifiedTime": "2026-11-12T14:23:29.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/CHICARA_CAM/IMG_1320.MOV"
+  },
+  {
+    "camera": "CHICARA_CAM",
+    "kind": "video",
+    "id": "1EOUV3-xBjqbNnlRz-mPQRxBbyB0P6mbA",
+    "name": "IMG_1327.MOV",
+    "size": 18139074,
+    "modifiedTime": "2026-11-12T17:49:32.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/CHICARA_CAM/IMG_1327.MOV"
+  },
+  {
+    "camera": "CHICARA_CAM",
+    "kind": "video",
+    "id": "18853prHcCfL8Wpb0m54f5aQ_DDLxKRyR",
+    "name": "IMG_1332.MOV",
+    "size": 22055989,
+    "modifiedTime": "2026-11-12T19:31:23.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/CHICARA_CAM/IMG_1332.MOV"
+  },
+  {
+    "camera": "CHICARA_CAM",
+    "kind": "video",
+    "id": "1cThR4znhS0qYdMiMnpXD1BfwH4chbi0J",
+    "name": "IMG_1328.MOV",
+    "size": 96045047,
+    "modifiedTime": "2026-11-12T17:51:40.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/CHICARA_CAM/IMG_1328.MOV"
+  },
+  {
+    "camera": "CHICARA_CAM",
+    "kind": "video",
+    "id": "1tay3NUAmEv48FMYETz-HlOplllR95NGr",
+    "name": "IMG_1330.MOV",
+    "size": 129632460,
+    "modifiedTime": "2026-11-12T18:01:06.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/CHICARA_CAM/IMG_1330.MOV"
+  },
+  {
+    "camera": "CHICARA_CAM",
+    "kind": "video",
+    "id": "1nAXxQuotsVp0LQaZEjxU8EseG2Zh7CBI",
+    "name": "IMG_1333.MOV",
+    "size": 186633177,
+    "modifiedTime": "2026-11-12T19:42:34.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/CHICARA_CAM/IMG_1333.MOV"
+  },
+  {
+    "camera": "CHICARA_CAM",
+    "kind": "video",
+    "id": "1uIfwB83XFX48FBx-DiVSljkk-osw5uGd",
+    "name": "IMG_1335.MOV",
+    "size": 198279760,
+    "modifiedTime": "2026-11-12T19:55:43.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/CHICARA_CAM/IMG_1335.MOV"
+  },
+  {
+    "camera": "CHICARA_CAM",
+    "kind": "video",
+    "id": "1waVjwwJ9Bo0TgZntamvMLKxXpWbl30nc",
+    "name": "IMG_1322.MOV",
+    "size": 221991230,
+    "modifiedTime": "2026-11-12T15:08:03.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/CHICARA_CAM/IMG_1322.MOV"
+  },
+  {
+    "camera": "CHICARA_CAM",
+    "kind": "video",
+    "id": "1Klg39rsqQb6G5pFoNz8awx_VmNrFgJKN",
+    "name": "IMG_1334.MOV",
+    "size": 348329168,
+    "modifiedTime": "2026-11-12T19:47:59.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/CHICARA_CAM/IMG_1334.MOV"
+  },
+  {
+    "camera": "CHICARA_CAM",
+    "kind": "video",
+    "id": "11whaOPxduhKZKbE65XWlDQY4-4AMpRo1",
+    "name": "IMG_1329.MOV",
+    "size": 647316730,
+    "modifiedTime": "2026-11-12T17:53:47.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/CHICARA_CAM/IMG_1329.MOV"
+  },
+  {
+    "camera": "CHICARA_CAM",
+    "kind": "video",
+    "id": "1xjcCNzkNIPKspgWVN-GXKVTk1neWhyc8",
+    "name": "IMG_1331.MOV",
+    "size": 940421882,
+    "modifiedTime": "2026-11-12T18:42:13.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/CHICARA_CAM/IMG_1331.MOV"
+  },
+  {
+    "camera": "CHICARA_CAM",
+    "kind": "video",
+    "id": "1HJSIyuSL4NFwHPcnwSRPA6TxcQ9rr9_4",
+    "name": "IMG_1323.MOV",
+    "size": 1204761846,
+    "modifiedTime": "2026-11-12T15:59:36.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/CHICARA_CAM/IMG_1323.MOV"
+  },
+  {
+    "camera": "CHICARA_CAM",
+    "kind": "video",
+    "id": "1NKNkEKA48G10GljdlG1_aPGudKqmNzva",
+    "name": "IMG_1321.MOV",
+    "size": 2977798235,
+    "modifiedTime": "2026-11-12T14:23:50.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/CHICARA_CAM/IMG_1321.MOV"
+  },
+  {
+    "camera": "CHICARA_CAM",
+    "kind": "video",
+    "id": "1pJ5jGwq9oeiwpAjZ1BXU3FDLEjTDMoZg",
+    "name": "IMG_1325.MOV",
+    "size": 4633543308,
+    "modifiedTime": "2026-11-12T16:39:07.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/CHICARA_CAM/IMG_1325.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1gpzpibL1n9oImF98oZjQFch-iOwOJEls",
+    "name": "IMG_0058.MOV",
+    "size": 1080354,
+    "modifiedTime": "2026-11-24T08:53:41.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0058.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "still",
+    "id": "1VOuneDUxruqM1g7OY4tItpY1ZlAPdC9d",
+    "name": "IMG_0044.JPG",
+    "size": 1430103,
+    "modifiedTime": "2026-11-24T06:24:03.440Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/STILLS/ROB_CAM_IMG_0044.JPG"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "still",
+    "id": "1BkeRKQvDiyB5Z9mTzXlSEg2LjEOaOOjZ",
+    "name": "IMG_0047.JPG",
+    "size": 1607292,
+    "modifiedTime": "2026-11-24T07:17:32.570Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/STILLS/ROB_CAM_IMG_0047.JPG"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1W1NX3SsQECybTt5A90PGKHO5f7zIyGN3",
+    "name": "IMG_0059.MOV",
+    "size": 1742446,
+    "modifiedTime": "2026-11-24T09:10:20.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0059.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "10YOJmjQ7VDcDj_0-DJ3EnxSjkEGBD_Tv",
+    "name": "IMG_0061.MOV",
+    "size": 1783184,
+    "modifiedTime": "2026-11-24T09:18:57.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0061.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1BUlBreQiO1zjhysjtuibFwRaCbc68RjH",
+    "name": "IMG_0051.MOV",
+    "size": 2916150,
+    "modifiedTime": "2026-11-24T07:29:20.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0051.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1Y9inYxIHFe8gsG-0J-Zxry4TixXV06ON",
+    "name": "IMG_0071.MOV",
+    "size": 4287552,
+    "modifiedTime": "2026-11-24T11:29:34.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0071.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1kf006BEcRFuFarxM7-e9Nb-mf5TooQvF",
+    "name": "IMG_0076.MOV",
+    "size": 5452750,
+    "modifiedTime": "2026-11-24T11:30:40.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0076.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1UIvU500QS7ceIvHmKCgDWG2DhHVKhkqA",
+    "name": "IMG_0075.MOV",
+    "size": 5485714,
+    "modifiedTime": "2026-11-24T11:30:30.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0075.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1-tFKawlPm2wlghS1iERh_pVIyR3fQRFE",
+    "name": "IMG_0039.MOV",
+    "size": 5955425,
+    "modifiedTime": "2026-11-24T06:19:13.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0039.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1041pWlvbyRvODTPlNE1UA0_wztqvvzjp",
+    "name": "IMG_0069.MOV",
+    "size": 7655584,
+    "modifiedTime": "2026-11-24T11:29:11.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0069.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1t7zNdz_pWIWC6BfUYwtQxkkMKVGLN3YZ",
+    "name": "IMG_0072.MOV",
+    "size": 7872842,
+    "modifiedTime": "2026-11-24T11:29:44.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0072.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1w63C6DjhgQac-enZnhqGg4WwM2VzHiax",
+    "name": "IMG_0073.MOV",
+    "size": 11425369,
+    "modifiedTime": "2026-11-24T11:29:56.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0073.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1ANRUziMZBk9QDAm6cd8ShM0nefXf43Tb",
+    "name": "IMG_0088.MOV",
+    "size": 14449908,
+    "modifiedTime": "2026-11-24T12:20:29.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0088.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1XRiyiL0oNepG0g0iONEACfa7mUMfkTae",
+    "name": "IMG_0070.MOV",
+    "size": 15892038,
+    "modifiedTime": "2026-11-24T11:29:24.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0070.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "163xo4rYAgQqNEH4S5xduDHA6QiO3rGWz",
+    "name": "IMG_0068.MOV",
+    "size": 18044774,
+    "modifiedTime": "2026-11-24T11:28:49.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0068.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1Hernw0MQXULFxIv6JdbUUdlt3uBgIViX",
+    "name": "IMG_0074.MOV",
+    "size": 22207579,
+    "modifiedTime": "2026-11-24T11:30:09.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0074.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "17kuQvFDKJziuD34bqY3_uCZhnGzhkKJx",
+    "name": "IMG_0041.MOV",
+    "size": 23720248,
+    "modifiedTime": "2026-11-24T06:20:07.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0041.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1S5VFXd_8t-kETdv_lo53DVlsHbz5DbJP",
+    "name": "IMG_0042.MOV",
+    "size": 30398800,
+    "modifiedTime": "2026-11-24T06:20:36.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0042.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1Fr4vEM-XgXqgj3t2R_8Bn_1iQ7q48baa",
+    "name": "IMG_0093.MOV",
+    "size": 31351558,
+    "modifiedTime": "2026-11-24T12:46:02.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0093.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1Uklk4Usd0G36KiHF-eNNPQYSzv_NHM1d",
+    "name": "IMG_0077.MOV",
+    "size": 33797827,
+    "modifiedTime": "2026-11-24T11:30:52.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0077.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1e9jVi_d7_vOJfl0IsqXVlFPc1B_Jbgj5",
+    "name": "IMG_0078.MOV",
+    "size": 34745403,
+    "modifiedTime": "2026-11-24T11:31:21.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0078.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1eFUi1iWwIQyamfijYf91ICO579JgUYfu",
+    "name": "IMG_0092.MOV",
+    "size": 46138784,
+    "modifiedTime": "2026-11-24T12:44:56.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0092.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1T66bmbeLdhH8mu2Sa5KwlxK5y4FA8ra9",
+    "name": "IMG_0060.MOV",
+    "size": 51397875,
+    "modifiedTime": "2026-11-24T09:18:18.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0060.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "13xq5MYVBZae60qUMB4LOubXNY48E04Y5",
+    "name": "IMG_0053.mov",
+    "size": 55707772,
+    "modifiedTime": "2026-11-24T07:47:00.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0053.mov"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1yEHHn8OKO3uX_iqrb5YBzOHDkLAahr8K",
+    "name": "IMG_0043.MOV",
+    "size": 60025865,
+    "modifiedTime": "2026-11-24T06:22:48.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0043.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1vG4VENrxdMGOI5lB_QVu-Ekvl94AOdVW",
+    "name": "IMG_0050.MOV",
+    "size": 65328423,
+    "modifiedTime": "2026-11-24T07:28:12.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0050.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "10RFQZ_sF93qoVnENkPLQ6Xm3HycL1bGi",
+    "name": "IMG_0086.MOV",
+    "size": 68672422,
+    "modifiedTime": "2026-11-24T11:49:43.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0086.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1wKB-m4BeFU2XsFphwdXrlDs7WmWqtTn9",
+    "name": "IMG_0040.MOV",
+    "size": 71987461,
+    "modifiedTime": "2026-11-24T06:19:20.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0040.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1ZpU-1I36xUHmPuamIGW8dWxv7EIduJaH",
+    "name": "IMG_0062.MOV",
+    "size": 74433054,
+    "modifiedTime": "2026-11-24T09:20:13.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0062.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1B0Tx0WsOE6zcvVn3n-J7PcgFMsIeqWp8",
+    "name": "IMG_0080.MOV",
+    "size": 90457700,
+    "modifiedTime": "2026-11-24T11:32:52.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0080.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1JJXlj7Lp1ZnBS85y-jLt2S7HxaBmpcaY",
+    "name": "IMG_0079.MOV",
+    "size": 92338538,
+    "modifiedTime": "2026-11-24T11:31:52.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0079.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1VzfqSDjPsQowRhwkrRGDMEdB8MceMfDE",
+    "name": "IMG_0055.mov",
+    "size": 105227822,
+    "modifiedTime": "2026-11-24T07:50:21.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0055.mov"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1D0g--qY9ZBHyGzdjQFDvMgEBYzPh-7Wn",
+    "name": "IMG_0084.MOV",
+    "size": 108477199,
+    "modifiedTime": "2026-11-24T11:41:14.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0084.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1_4hJmTs11YkJ-MVRnNwC4v1zdDkLABxO",
+    "name": "IMG_0049.MOV",
+    "size": 110759593,
+    "modifiedTime": "2026-11-24T07:25:08.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0049.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1iolUIFGC6bWMeKIBD_LEQOJhuHOyx-lV",
+    "name": "IMG_0045.MOV",
+    "size": 110800839,
+    "modifiedTime": "2026-11-24T06:23:23.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0045.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1Xn5j_-O94T4pD7uGc22p0B40C_J1q3iN",
+    "name": "IMG_0038.MOV",
+    "size": 120302976,
+    "modifiedTime": "2026-11-24T06:05:22.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0038.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1hxwUUlInPBGWWgCvb6r04LBUBQWWEpOA",
+    "name": "IMG_0046.MOV",
+    "size": 137939252,
+    "modifiedTime": "2026-11-24T06:24:11.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0046.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "10l31jbqoFaxWlFh6-hRSd_CuLcVn0Nwg",
+    "name": "IMG_0083.MOV",
+    "size": 148026722,
+    "modifiedTime": "2026-11-24T11:39:37.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0083.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1kTUUYL6Gvctm0oHN9LXttjaUilo4aMcb",
+    "name": "IMG_0066.MOV",
+    "size": 188299598,
+    "modifiedTime": "2026-11-24T11:24:33.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0066.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1PXosSUkcpfWfZuI7aTCyeksHr4jhc20E",
+    "name": "IMG_0054.mov",
+    "size": 228251041,
+    "modifiedTime": "2026-11-24T07:47:45.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0054.mov"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1RzPQECvOgIcPXzV0kEtyfkvLolw3Uwmd",
+    "name": "IMG_0094.MOV",
+    "size": 266669310,
+    "modifiedTime": "2026-11-24T12:47:17.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0094.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "12UDWkTDrhiFqh4pzHkH0VffpMAuFkKOv",
+    "name": "IMG_0082.MOV",
+    "size": 267123911,
+    "modifiedTime": "2026-11-24T11:36:37.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0082.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "15VD5nYw-Q-RbcNDFdlOC567oVLJeyghr",
+    "name": "IMG_0067.MOV",
+    "size": 294001855,
+    "modifiedTime": "2026-11-24T11:26:39.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0067.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1TEmQJJAe8ZWarJIMdWIDp3xWtm4rqkoQ",
+    "name": "IMG_0081.MOV",
+    "size": 294979837,
+    "modifiedTime": "2026-11-24T11:34:02.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0081.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1IVQzJjuRF4e_ztaZP5vsDH-h8CavSHEl",
+    "name": "IMG_0087.MOV",
+    "size": 392214526,
+    "modifiedTime": "2026-11-24T11:50:30.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0087.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1UKtJpidn3OGgqwEeRvdPWSyjqYY5u7fB",
+    "name": "IMG_0089.MOV",
+    "size": 434107336,
+    "modifiedTime": "2026-11-24T12:24:51.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0089.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1y8N-U8ZcFZWA4fRCQi-JpHjjaU8jPmnT",
+    "name": "IMG_0065.MOV",
+    "size": 520670074,
+    "modifiedTime": "2026-11-24T11:18:21.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0065.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1LHZfQmxzXOkn1RSgnGY9YAmQFw_T5qDH",
+    "name": "IMG_0091.MOV",
+    "size": 578738351,
+    "modifiedTime": "2026-11-24T12:38:00.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0091.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1shsYIU3lm1KZFepZvn37S_y8LhHVyxL_",
+    "name": "IMG_0090.MOV",
+    "size": 698296653,
+    "modifiedTime": "2026-11-24T12:30:47.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0090.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "17cnP-RnrZ7bw-fHhPV6BTi50g1jj8Kkk",
+    "name": "IMG_0085.MOV",
+    "size": 797704574,
+    "modifiedTime": "2026-11-24T11:43:00.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0085.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1D4q3BQtUobzHvqzBhkof4hhjkozZCptT",
+    "name": "IMG_0064.MOV",
+    "size": 1186092346,
+    "modifiedTime": "2026-11-24T10:33:29.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0064.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1PWwMAd4em3mgEaAkyMAEoAOA6qTbb3IV",
+    "name": "IMG_0057.MOV",
+    "size": 1338188872,
+    "modifiedTime": "2026-11-24T08:41:36.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0057.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1_38i7Dw-KqdR-Z1jHrOYVZU4IcTNy-Q1",
+    "name": "IMG_0052.MOV",
+    "size": 1451366554,
+    "modifiedTime": "2026-11-24T07:29:27.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0052.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1sz1LGL7t_w_rnjgiQlMF98MtATdnctUs",
+    "name": "IMG_0048.MOV",
+    "size": 1459135294,
+    "modifiedTime": "2026-11-24T07:06:54.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0048.MOV"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "1lJO9ItxOCTcpr3zNCTiPfAXS_OeMhgDA",
+    "name": "IMG_0056.mov",
+    "size": 1740079432,
+    "modifiedTime": "2026-11-24T07:54:48.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0056.mov"
+  },
+  {
+    "camera": "ROB_CAM",
+    "kind": "video",
+    "id": "13lOMxOyGncKWulc-n214lSWwFACmzFBk",
+    "name": "IMG_0063.MOV",
+    "size": 4853105851,
+    "modifiedTime": "2026-11-24T09:21:20.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/ROB_CAM/IMG_0063.MOV"
+  },
+  {
+    "camera": "SECRET_CAM",
+    "kind": "video",
+    "id": "1jFvYJuzNHO1sQLDCOscrjZ3bgbyiA6WK",
+    "name": "IMG_6301.MOV",
+    "size": 7805190345,
+    "modifiedTime": "2026-11-24T11:55:15.000Z",
+    "out": "/Volumes/T7 Shield/DID AI KILL US ????/precipice-film/raw/SECRET_CAM/IMG_6301.MOV"
+  }
+]

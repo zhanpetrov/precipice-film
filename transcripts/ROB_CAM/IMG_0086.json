@@ -1,0 +1,90 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0086",
+  "duration": 37.463333,
+  "creation_time": "2026-11-24T03:49:43-0800",
+  "language": "en",
+  "text": "I think there's going to be a lot of screaming on this. I'm going to turn it down for no. You know what the hell? You know what the hell? You're going to go red for sure no matter what. I'm going to turn it down significantly. There are a lot of dialogue. I don't know what you're saying. I know. I know. What's your name? I'm going to go Saudi for sure. Oh, that's good. Holy Saudi right here. Not to do these low levels discussions. I'm going to go.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.64,
+      "text": "I think there's going to be a lot of screaming on this."
+    },
+    {
+      "start": 6.64,
+      "end": 8.66,
+      "text": "I'm going to turn it down for no."
+    },
+    {
+      "start": 8.66,
+      "end": 11.24,
+      "text": "You know what the hell?"
+    },
+    {
+      "start": 11.24,
+      "end": 14.24,
+      "text": "You know what the hell?"
+    },
+    {
+      "start": 14.24,
+      "end": 18.24,
+      "text": "You're going to go red for sure no matter what."
+    },
+    {
+      "start": 18.24,
+      "end": 20.24,
+      "text": "I'm going to turn it down significantly."
+    },
+    {
+      "start": 20.24,
+      "end": 22.24,
+      "text": "There are a lot of dialogue."
+    },
+    {
+      "start": 22.24,
+      "end": 24.24,
+      "text": "I don't know what you're saying."
+    },
+    {
+      "start": 24.24,
+      "end": 25.24,
+      "text": "I know."
+    },
+    {
+      "start": 25.24,
+      "end": 26.24,
+      "text": "I know."
+    },
+    {
+      "start": 26.24,
+      "end": 28.24,
+      "text": "What's your name?"
+    },
+    {
+      "start": 28.24,
+      "end": 30.24,
+      "text": "I'm going to go Saudi for sure."
+    },
+    {
+      "start": 30.24,
+      "end": 31.24,
+      "text": "Oh, that's good."
+    },
+    {
+      "start": 31.24,
+      "end": 33.24,
+      "text": "Holy Saudi right here."
+    },
+    {
+      "start": 33.24,
+      "end": 35.24,
+      "text": "Not to do these low levels discussions."
+    },
+    {
+      "start": 35.24,
+      "end": 37.24,
+      "text": "I'm going to go."
+    }
+  ]
+}

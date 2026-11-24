@@ -1,0 +1,15 @@
+{
+  "camera": "CHICARA_CAM",
+  "shot": "IMG_1337",
+  "duration": 1.4317,
+  "creation_time": "2026-11-12T12:07:27-0800",
+  "language": "en",
+  "text": "Can we get some crouty class?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "Can we get some crouty class?"
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0094",
+  "duration": 147.973333,
+  "creation_time": "2026-11-24T04:47:17-0800",
+  "language": "en",
+  "text": "Sound rolling. Hold the cameras and get it in the mood. And action. Hey, folks. Hey, folks. Hey, listen up, folks. This has been one hell of a night. I think the best thing for us all right now is to get you out of here. If you go back to the pool room and go to the left, there's an alley. You can go down. Ice won't be down there. Police won't be down there. There's another bar around the corner. We can get you there. They will take care of you. But I think right about now, we should call this a night. And we should get you out of here safely before anything else fucks up. Happens. You talking about we've been doing. Listen to Damien. Hey, hey. She says, come on. We had a drink first, man. It's fine. All right. Come back tomorrow. I'll buy you a drink. But tonight, we're going to end this tonight. Yeah, I really appreciate it. I appreciate it. Thank you. Oh, definitely. Oh, that'll work. It's okay. There's been blood still. That little drink needs nothing. Thank you. Okay. Okay. Let's get out of here. Man. As I say, another beautiful day in purgatory. Night, David. Night, David. I'm not happy. I'm not happy. I'm not happy. I'm not happy. I'm not happy. Be safe. Be safe. Be safe. Excuse me, Mr. Magick. That needs you too. Have a great day. You have a good one, sir. Keep going up. Keep going up. Keep going up. I'm going to college for this. 20,000, 1,000, 2,000, 3,000, 4,000, 5,000, 6,000, 7,000, 8,000, 9,000. Walk back in here. Hold your shot. Right. Look, look, look. And that's a wrap. Cut. Woo! Woo! Woo!",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.24,
+      "text": "Sound rolling."
+    },
+    {
+      "start": 1.24,
+      "end": 3.66,
+      "text": "Hold the cameras and get it in the mood."
+    },
+    {
+      "start": 4.08,
+      "end": 4.94,
+      "text": "And action."
+    },
+    {
+      "start": 15.94,
+      "end": 18.84,
+      "text": "Hey, folks."
+    },
+    {
+      "start": 19.28,
+      "end": 20.12,
+      "text": "Hey, folks."
+    },
+    {
+      "start": 20.52,
+      "end": 21.94,
+      "text": "Hey, listen up, folks."
+    },
+    {
+      "start": 23.4,
+      "end": 25.28,
+      "text": "This has been one hell of a night."
+    },
+    {
+      "start": 25.28,
+      "end": 31.76,
+      "text": "I think the best thing for us all right now is to get you out of here."
+    },
+    {
+      "start": 32.36,
+      "end": 36.18,
+      "text": "If you go back to the pool room and go to the left, there's an alley."
+    },
+    {
+      "start": 36.4,
+      "end": 37.1,
+      "text": "You can go down."
+    },
+    {
+      "start": 37.46,
+      "end": 38.56,
+      "text": "Ice won't be down there."
+    },
+    {
+      "start": 38.64,
+      "end": 39.58,
+      "text": "Police won't be down there."
+    },
+    {
+      "start": 40.22,
+      "end": 41.96,
+      "text": "There's another bar around the corner."
+    },
+    {
+      "start": 42.06,
+      "end": 42.9,
+      "text": "We can get you there."
+    },
+    {
+      "start": 43.06,
+      "end": 44.16,
+      "text": "They will take care of you."
+    },
+    {
+      "start": 44.58,
+      "end": 48.16,
+      "text": "But I think right about now, we should call this a night."
+    },
+    {
+      "start": 48.3,
+      "end": 52.56,
+      "text": "And we should get you out of here safely before anything else fucks up."
+    },
+    {
+      "start": 53.06,
+      "end": 53.46,
+      "text": "Happens."
+    },
+    {
+      "start": 53.46,
+      "end": 55.14,
+      "text": "You talking about we've been doing."
+    },
+    {
+      "start": 55.28,
+      "end": 56.0,
+      "text": "Listen to Damien."
+    },
+    {
+      "start": 56.0,
+      "end": 57.02,
+      "text": "Hey, hey."
+    },
+    {
+      "start": 57.26,
+      "end": 58.92,
+      "text": "She says, come on."
+    },
+    {
+      "start": 58.98,
+      "end": 60.0,
+      "text": "We had a drink first, man."
+    },
+    {
+      "start": 60.1,
+      "end": 60.36,
+      "text": "It's fine."
+    },
+    {
+      "start": 60.44,
+      "end": 60.7,
+      "text": "All right."
+    },
+    {
+      "start": 61.9,
+      "end": 63.22,
+      "text": "Come back tomorrow."
+    },
+    {
+      "start": 63.36,
+      "end": 64.18,
+      "text": "I'll buy you a drink."
+    },
+    {
+      "start": 64.76,
+      "end": 66.72,
+      "text": "But tonight, we're going to end this tonight."
+    },
+    {
+      "start": 66.96,
+      "end": 68.02,
+      "text": "Yeah, I really appreciate it."
+    },
+    {
+      "start": 68.02,
+      "end": 69.02,
+      "text": "I appreciate it."
+    },
+    {
+      "start": 69.2,
+      "end": 69.6,
+      "text": "Thank you."
+    },
+    {
+      "start": 69.78,
+      "end": 70.46,
+      "text": "Oh, definitely."
+    },
+    {
+      "start": 70.7,
+      "end": 72.44,
+      "text": "Oh, that'll work."
+    },
+    {
+      "start": 73.14,
+      "end": 73.8,
+      "text": "It's okay."
+    },
+    {
+      "start": 74.9,
+      "end": 76.04,
+      "text": "There's been blood still."
+    },
+    {
+      "start": 76.22,
+      "end": 77.64,
+      "text": "That little drink needs nothing."
+    },
+    {
+      "start": 77.64,
+      "end": 78.42,
+      "text": "Thank you."
+    },
+    {
+      "start": 79.28,
+      "end": 79.56,
+      "text": "Okay."
+    },
+    {
+      "start": 79.88,
+      "end": 80.22,
+      "text": "Okay."
+    },
+    {
+      "start": 80.4,
+      "end": 81.08,
+      "text": "Let's get out of here."
+    },
+    {
+      "start": 82.46,
+      "end": 83.1,
+      "text": "Man."
+    },
+    {
+      "start": 83.1,
+      "end": 90.16,
+      "text": "As I say, another beautiful day in purgatory."
+    },
+    {
+      "start": 90.48,
+      "end": 90.9,
+      "text": "Night, David."
+    },
+    {
+      "start": 90.9,
+      "end": 91.42,
+      "text": "Night, David."
+    },
+    {
+      "start": 91.42,
+      "end": 92.5,
+      "text": "I'm not happy."
+    },
+    {
+      "start": 92.5,
+      "end": 92.52,
+      "text": "I'm not happy."
+    },
+    {
+      "start": 92.52,
+      "end": 92.64,
+      "text": "I'm not happy."
+    },
+    {
+      "start": 92.64,
+      "end": 92.66,
+      "text": "I'm not happy."
+    },
+    {
+      "start": 92.66,
+      "end": 93.16,
+      "text": "I'm not happy."
+    },
+    {
+      "start": 93.16,
+      "end": 94.46,
+      "text": "Be safe."
+    },
+    {
+      "start": 94.46,
+      "end": 94.56,
+      "text": "Be safe."
+    },
+    {
+      "start": 94.56,
+      "end": 96.16,
+      "text": "Be safe."
+    },
+    {
+      "start": 98.38,
+      "end": 99.92,
+      "text": "Excuse me, Mr. Magick."
+    },
+    {
+      "start": 100.34,
+      "end": 101.6,
+      "text": "That needs you too."
+    },
+    {
+      "start": 103.08,
+      "end": 104.2,
+      "text": "Have a great day."
+    },
+    {
+      "start": 104.2,
+      "end": 105.74,
+      "text": "You have a good one, sir."
+    },
+    {
+      "start": 105.74,
+      "end": 116.4,
+      "text": "Keep going up."
+    },
+    {
+      "start": 116.56,
+      "end": 117.5,
+      "text": "Keep going up."
+    },
+    {
+      "start": 118.78,
+      "end": 119.88,
+      "text": "Keep going up."
+    },
+    {
+      "start": 120.14,
+      "end": 121.72,
+      "text": "I'm going to college for this."
+    },
+    {
+      "start": 121.72,
+      "end": 134.2,
+      "text": "20,000, 1,000, 2,000, 3,000, 4,000, 5,000, 6,000, 7,000, 8,000, 9,000."
+    },
+    {
+      "start": 134.2,
+      "end": 135.14,
+      "text": "Walk back in here."
+    },
+    {
+      "start": 137.16,
+      "end": 138.2,
+      "text": "Hold your shot."
+    },
+    {
+      "start": 139.12,
+      "end": 139.2,
+      "text": "Right."
+    },
+    {
+      "start": 139.68,
+      "end": 140.42,
+      "text": "Look, look, look."
+    },
+    {
+      "start": 140.88,
+      "end": 144.38,
+      "text": "And that's a wrap."
+    },
+    {
+      "start": 145.7,
+      "end": 146.22,
+      "text": "Cut."
+    },
+    {
+      "start": 146.22,
+      "end": 146.84,
+      "text": "Woo!"
+    },
+    {
+      "start": 147.34,
+      "end": 147.76,
+      "text": "Woo!"
+    },
+    {
+      "start": 147.76,
+      "end": 147.98,
+      "text": "Woo!"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0076",
+  "duration": 5.033333,
+  "creation_time": "2026-11-24T03:30:40-0800",
+  "language": "en",
+  "text": "or something? Where'd this guy come? I don't know who you are, man.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "or something?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Where'd this guy come?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "I don't know who you are, man."
+    }
+  ]
+}

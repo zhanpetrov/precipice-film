@@ -1,0 +1,305 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0082",
+  "duration": 144.826667,
+  "creation_time": "2026-11-24T03:36:37-0800",
+  "language": "en",
+  "text": "No, no. No. Well, no. Just pretty much give me a little nervous. We got the kind of money that I got to give. I don't think they have any advantages. But yeah. Yeah. Yeah. I just want to see where they win. I know. Let's do it. Vegas is big. We're going to have a six pack. We're going to have a six pack. We're going to have a six pack. We're going to have a six pack. I actually have a suggestion. This place actually sucks. Shall we go to a different bar? I mean, we need a drinks here. I don't know anything about it. You guys didn't get thrown out of here. You know, I think they're very loaded. I don't think they know what they're doing. I don't think they're going to have some drinks. I don't think they're around the block too much. I used to know what they're doing. I'm looking for it. Give me a phone number. He came in, man. He came in ready to roll. We're just going to go to the bar and get some drinks. How about we move to a different venue? Let's exchange phone numbers and we'll stay in touch for a game at a different place. What do you think? Still early. Yeah, I mean, let's start with the drinks. How about that? All right, let's do that. Sounds good to me. Sounds good. Sounds like a plan. Yeah, as long as we're planning on that big pay, we'll point out on that. So why don't you guys all go to the bar? Let's go. I'm fine, though. You're hungry? Huh? You're hungry? You're still kind of an elephant answer, yeah. You're really sure about this? Hmm. Come on, I feel okay. You keep saying that. You don't have to do that, huh? Okay, and cut. I think we're good cut.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "No, no."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "No."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Well, no."
+    },
+    {
+      "start": 6.0,
+      "end": 10.0,
+      "text": "Just pretty much give me a little nervous."
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "We got the kind of money that I got to give."
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "I don't think they have any advantages."
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "But yeah."
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "I just want to see where they win."
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "I know."
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "Let's do it."
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "Vegas is big."
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "We're going to have a six pack."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "We're going to have a six pack."
+    },
+    {
+      "start": 32.0,
+      "end": 34.0,
+      "text": "We're going to have a six pack."
+    },
+    {
+      "start": 34.0,
+      "end": 36.0,
+      "text": "We're going to have a six pack."
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "I actually have a suggestion."
+    },
+    {
+      "start": 38.0,
+      "end": 40.0,
+      "text": "This place actually sucks."
+    },
+    {
+      "start": 40.0,
+      "end": 42.0,
+      "text": "Shall we go to a different bar?"
+    },
+    {
+      "start": 42.0,
+      "end": 44.0,
+      "text": "I mean, we need a drinks here."
+    },
+    {
+      "start": 44.0,
+      "end": 46.0,
+      "text": "I don't know anything about it."
+    },
+    {
+      "start": 46.0,
+      "end": 48.0,
+      "text": "You guys didn't get thrown out of here."
+    },
+    {
+      "start": 48.0,
+      "end": 50.0,
+      "text": "You know, I think they're very loaded."
+    },
+    {
+      "start": 50.0,
+      "end": 52.0,
+      "text": "I don't think they know what they're doing."
+    },
+    {
+      "start": 52.0,
+      "end": 54.0,
+      "text": "I don't think they're going to have some drinks."
+    },
+    {
+      "start": 54.0,
+      "end": 56.0,
+      "text": "I don't think they're around the block too much."
+    },
+    {
+      "start": 56.0,
+      "end": 58.0,
+      "text": "I used to know what they're doing."
+    },
+    {
+      "start": 58.0,
+      "end": 60.0,
+      "text": "I'm looking for it."
+    },
+    {
+      "start": 60.0,
+      "end": 62.0,
+      "text": "Give me a phone number."
+    },
+    {
+      "start": 62.0,
+      "end": 64.0,
+      "text": "He came in, man."
+    },
+    {
+      "start": 64.0,
+      "end": 66.0,
+      "text": "He came in ready to roll."
+    },
+    {
+      "start": 66.0,
+      "end": 68.0,
+      "text": "We're just going to go to the bar and get some drinks."
+    },
+    {
+      "start": 68.0,
+      "end": 70.0,
+      "text": "How about we move to a different venue?"
+    },
+    {
+      "start": 70.0,
+      "end": 72.0,
+      "text": "Let's exchange phone numbers"
+    },
+    {
+      "start": 72.0,
+      "end": 74.0,
+      "text": "and we'll stay in touch for a game"
+    },
+    {
+      "start": 74.0,
+      "end": 76.0,
+      "text": "at a different place."
+    },
+    {
+      "start": 76.0,
+      "end": 78.0,
+      "text": "What do you think?"
+    },
+    {
+      "start": 78.0,
+      "end": 80.0,
+      "text": "Still early."
+    },
+    {
+      "start": 80.0,
+      "end": 82.0,
+      "text": "Yeah, I mean, let's start with the drinks."
+    },
+    {
+      "start": 82.0,
+      "end": 84.0,
+      "text": "How about that?"
+    },
+    {
+      "start": 84.0,
+      "end": 86.0,
+      "text": "All right, let's do that."
+    },
+    {
+      "start": 86.0,
+      "end": 88.0,
+      "text": "Sounds good to me."
+    },
+    {
+      "start": 88.0,
+      "end": 90.0,
+      "text": "Sounds good. Sounds like a plan."
+    },
+    {
+      "start": 90.0,
+      "end": 92.0,
+      "text": "Yeah, as long as we're planning on that big pay,"
+    },
+    {
+      "start": 92.0,
+      "end": 94.0,
+      "text": "we'll point out on that."
+    },
+    {
+      "start": 94.0,
+      "end": 96.0,
+      "text": "So why don't you guys all go to the bar?"
+    },
+    {
+      "start": 96.0,
+      "end": 98.0,
+      "text": "Let's go. I'm fine, though."
+    },
+    {
+      "start": 98.0,
+      "end": 100.0,
+      "text": "You're hungry?"
+    },
+    {
+      "start": 100.0,
+      "end": 102.0,
+      "text": "Huh?"
+    },
+    {
+      "start": 102.0,
+      "end": 104.0,
+      "text": "You're hungry?"
+    },
+    {
+      "start": 104.0,
+      "end": 106.0,
+      "text": "You're still kind of an elephant answer, yeah."
+    },
+    {
+      "start": 106.0,
+      "end": 108.0,
+      "text": "You're really sure about this?"
+    },
+    {
+      "start": 108.0,
+      "end": 110.0,
+      "text": "Hmm."
+    },
+    {
+      "start": 110.0,
+      "end": 112.0,
+      "text": "Come on, I feel okay."
+    },
+    {
+      "start": 112.0,
+      "end": 114.0,
+      "text": "You keep saying that."
+    },
+    {
+      "start": 114.0,
+      "end": 116.0,
+      "text": "You don't have to do that, huh?"
+    },
+    {
+      "start": 116.0,
+      "end": 120.0,
+      "text": "Okay, and cut."
+    },
+    {
+      "start": 120.0,
+      "end": 142.0,
+      "text": "I think we're good cut."
+    }
+  ]
+}

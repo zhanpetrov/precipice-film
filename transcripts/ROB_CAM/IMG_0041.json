@@ -1,0 +1,40 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0041",
+  "duration": 11.375,
+  "creation_time": "2026-11-23T22:20:07-0800",
+  "language": "en",
+  "text": "Get down to the ground now. Stop. Don't make me shoot you again. Do you understand? Get your hands out to the sides. Get your hands out to the sides.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "Get down to the ground now."
+    },
+    {
+      "start": 3.56,
+      "end": 4.0,
+      "text": "Stop."
+    },
+    {
+      "start": 4.72,
+      "end": 6.22,
+      "text": "Don't make me shoot you again."
+    },
+    {
+      "start": 6.3,
+      "end": 6.92,
+      "text": "Do you understand?"
+    },
+    {
+      "start": 8.26,
+      "end": 9.92,
+      "text": "Get your hands out to the sides."
+    },
+    {
+      "start": 10.02,
+      "end": 11.14,
+      "text": "Get your hands out to the sides."
+    }
+  ]
+}

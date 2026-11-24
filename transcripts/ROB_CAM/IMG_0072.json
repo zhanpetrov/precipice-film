@@ -1,0 +1,20 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0072",
+  "duration": 7.133333,
+  "creation_time": "2026-11-24T03:29:44-0800",
+  "language": "en",
+  "text": "I know you got some fire under your ass. I'm happy to hear that because it's some action moving here.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "I know you got some fire under your ass."
+    },
+    {
+      "start": 3.0,
+      "end": 7.0,
+      "text": "I'm happy to hear that because it's some action moving here."
+    }
+  ]
+}

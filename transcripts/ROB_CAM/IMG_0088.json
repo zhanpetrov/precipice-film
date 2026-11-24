@@ -1,0 +1,15 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0088",
+  "duration": 8.875,
+  "creation_time": "2026-11-24T04:20:29-0800",
+  "language": "en",
+  "text": "And also at the end, somehow...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "And also at the end, somehow..."
+    }
+  ]
+}

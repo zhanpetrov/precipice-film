@@ -1,0 +1,85 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0040",
+  "duration": 38.9617,
+  "creation_time": "2026-11-23T22:19:20-0800",
+  "language": "en",
+  "text": "Yeah, so I'm going to go out and wave, and they'll start running. He's going to yell, Rob, and when you hear Rob, you go. Okay, when I hear Rob go. Yeah, you guys go out and do your gun thing. Let's see if we can get it in a take. This might take a couple of times. Okay, everybody ready here? Yep. Okay. Okay. After he's shot, after he's shot, are we going to be moving up on him? Yep, you're going to circle around and figure out what to do with him. Okay. Okay. All right, go.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "Yeah, so I'm going to go out and wave, and they'll start running."
+    },
+    {
+      "start": 4.16,
+      "end": 8.42,
+      "text": "He's going to yell, Rob, and when you hear Rob, you go."
+    },
+    {
+      "start": 8.78,
+      "end": 9.7,
+      "text": "Okay, when I hear Rob go."
+    },
+    {
+      "start": 9.7,
+      "end": 13.84,
+      "text": "Yeah, you guys go out and do your gun thing."
+    },
+    {
+      "start": 14.16,
+      "end": 16.2,
+      "text": "Let's see if we can get it in a take."
+    },
+    {
+      "start": 16.32,
+      "end": 18.18,
+      "text": "This might take a couple of times."
+    },
+    {
+      "start": 19.0,
+      "end": 20.08,
+      "text": "Okay, everybody ready here?"
+    },
+    {
+      "start": 20.44,
+      "end": 20.68,
+      "text": "Yep."
+    },
+    {
+      "start": 21.08,
+      "end": 21.44,
+      "text": "Okay."
+    },
+    {
+      "start": 21.44,
+      "end": 21.56,
+      "text": "Okay."
+    },
+    {
+      "start": 27.4,
+      "end": 31.0,
+      "text": "After he's shot, after he's shot, are we going to be moving up on him?"
+    },
+    {
+      "start": 31.06,
+      "end": 33.86,
+      "text": "Yep, you're going to circle around and figure out what to do with him."
+    },
+    {
+      "start": 34.02,
+      "end": 34.22,
+      "text": "Okay."
+    },
+    {
+      "start": 34.86,
+      "end": 35.06,
+      "text": "Okay."
+    },
+    {
+      "start": 37.78,
+      "end": 38.52,
+      "text": "All right, go."
+    }
+  ]
+}

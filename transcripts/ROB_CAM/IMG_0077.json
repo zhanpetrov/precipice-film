@@ -1,0 +1,40 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0077",
+  "duration": 19.166667,
+  "creation_time": "2026-11-24T03:30:52-0800",
+  "language": "en",
+  "text": "Where are you from? Just, you know, somewhere. But I think it's more about where we're going. Oh, that's not crypto. Where are we from? You guys, you know something about this game.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Where are you from?"
+    },
+    {
+      "start": 2.0,
+      "end": 6.0,
+      "text": "Just, you know, somewhere."
+    },
+    {
+      "start": 6.0,
+      "end": 10.0,
+      "text": "But I think it's more about where we're going."
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Oh, that's not crypto."
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Where are we from?"
+    },
+    {
+      "start": 14.0,
+      "end": 18.0,
+      "text": "You guys, you know something about this game."
+    }
+  ]
+}

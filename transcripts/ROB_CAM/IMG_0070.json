@@ -1,0 +1,25 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0070",
+  "duration": 5.8,
+  "creation_time": "2026-11-24T03:29:24-0800",
+  "language": "en",
+  "text": "and you say to yourself, do I follow that limb? Do I fulfill that limb? Is it my role?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "and you say to yourself, do I follow that limb?"
+    },
+    {
+      "start": 2.4,
+      "end": 3.46,
+      "text": "Do I fulfill that limb?"
+    },
+    {
+      "start": 4.04,
+      "end": 5.7,
+      "text": "Is it my role?"
+    }
+  ]
+}

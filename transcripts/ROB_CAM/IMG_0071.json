@@ -1,0 +1,25 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0071",
+  "duration": 3.998333,
+  "creation_time": "2026-11-24T03:29:34-0800",
+  "language": "en",
+  "text": "for every little thing, every little win. What are you saying? And win.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "for every little thing, every little win."
+    },
+    {
+      "start": 2.16,
+      "end": 2.68,
+      "text": "What are you saying?"
+    },
+    {
+      "start": 2.68,
+      "end": 3.76,
+      "text": "And win."
+    }
+  ]
+}

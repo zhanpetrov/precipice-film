@@ -1,0 +1,130 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0080",
+  "duration": 43.865,
+  "creation_time": "2026-11-24T03:32:52-0800",
+  "language": "en",
+  "text": "I don't know, race to 50 for 50 grand? I mean... 50... Now we're talking, now we're talking here. You got a player. I can tell. What's your name, man? The player. Oscar. Oscar? You got 50 games in you? Yeah. Just right off the bat, you got 50 games. Oh, man. All right, well, give me a couple minutes, guys. You guys get a drink or something, because you guys aren't even holding drinks in your hands. We don't need drinks. It's California, dude. All right, dude. All right, dude. I don't know. Listen, just to... We'll...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": "I don't know, race to 50 for 50 grand?"
+    },
+    {
+      "start": 3.12,
+      "end": 4.44,
+      "text": "I mean..."
+    },
+    {
+      "start": 4.44,
+      "end": 5.76,
+      "text": "50..."
+    },
+    {
+      "start": 5.76,
+      "end": 7.7,
+      "text": "Now we're talking, now we're talking here."
+    },
+    {
+      "start": 8.42,
+      "end": 10.4,
+      "text": "You got a player."
+    },
+    {
+      "start": 10.66,
+      "end": 11.68,
+      "text": "I can tell."
+    },
+    {
+      "start": 11.68,
+      "end": 12.32,
+      "text": "What's your name, man?"
+    },
+    {
+      "start": 12.32,
+      "end": 12.6,
+      "text": "The player."
+    },
+    {
+      "start": 13.04,
+      "end": 13.36,
+      "text": "Oscar."
+    },
+    {
+      "start": 13.78,
+      "end": 14.18,
+      "text": "Oscar?"
+    },
+    {
+      "start": 14.48,
+      "end": 16.88,
+      "text": "You got 50 games in you?"
+    },
+    {
+      "start": 17.34,
+      "end": 17.52,
+      "text": "Yeah."
+    },
+    {
+      "start": 17.84,
+      "end": 19.72,
+      "text": "Just right off the bat, you got 50 games."
+    },
+    {
+      "start": 21.08,
+      "end": 21.98,
+      "text": "Oh, man."
+    },
+    {
+      "start": 22.68,
+      "end": 24.64,
+      "text": "All right, well, give me a couple minutes, guys."
+    },
+    {
+      "start": 24.74,
+      "end": 26.36,
+      "text": "You guys get a drink or something,"
+    },
+    {
+      "start": 26.5,
+      "end": 28.52,
+      "text": "because you guys aren't even holding drinks in your hands."
+    },
+    {
+      "start": 28.52,
+      "end": 31.24,
+      "text": "We don't need drinks."
+    },
+    {
+      "start": 31.38,
+      "end": 32.76,
+      "text": "It's California, dude."
+    },
+    {
+      "start": 33.06,
+      "end": 33.86,
+      "text": "All right, dude."
+    },
+    {
+      "start": 33.96,
+      "end": 34.58,
+      "text": "All right, dude."
+    },
+    {
+      "start": 34.72,
+      "end": 35.14,
+      "text": "I don't know."
+    },
+    {
+      "start": 35.14,
+      "end": 37.14,
+      "text": "Listen, just to..."
+    },
+    {
+      "start": 37.14,
+      "end": 38.14,
+      "text": "We'll..."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# Raw camera footage and large master video exports (hosted on Drive & YouTube)
+raw/
+exports/
+*.MOV
+*.mov
+*.mp4
+*.MP4
+*.wav
+*.WAV
+
+# macOS junk
+.DS_Store
+._*
+__pycache__/
+*.pyc
+.venv/

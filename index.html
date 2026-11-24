@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PRECIPICE — Multi-Camera Dailies &amp; Transcript Archive | Rob Nilsson</title>
+  <meta name="description" content="Complete multi-camera dailies, frame-accurate YouTube chapters, and searchable word-for-word transcripts for Rob Nilsson's film PRECIPICE." />
+  <meta name="theme-color" content="#000000" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Sticky Apple Frosted Glass Navigation -->
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a href="#top" class="brand">
+        <span class="brand-dot" aria-hidden="true"></span>
+        <span class="brand-name">PRECIPICE</span>
+        <span class="brand-sub">Dailies Archive</span>
+      </a>
+
+      <nav class="topbar-nav" aria-label="Primary">
+        <a href="#studio">Screening Room</a>
+        <a href="#shots">All Shots</a>
+        <a href="#stills">Stills</a>
+        <a id="nav-playlist-link" href="https://www.youtube.com/playlist?list=PLcER0Yz7OUpU" target="_blank" rel="noopener">YouTube Playlist ↗</a>
+        <a href="https://github.com/zhanpetrov/precipice-film" target="_blank" rel="noopener">GitHub ↗</a>
+      </nav>
+
+      <div class="topbar-actions">
+        <button id="search-trigger" class="icon-pill" type="button" title="Search transcripts (⌘K)">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+          <span>Search</span>
+          <kbd>⌘K</kbd>
+        </button>
+        <button id="theme-toggle" class="icon-btn" type="button" aria-label="Toggle theme" title="Switch Dark / Light appearance">
+          <svg id="theme-icon-sun" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M4.93 4.93l1.41 1.41m11.32 11.32 1.41 1.41M2 12h2m16 0h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>
+          <svg id="theme-icon-moon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" style="display:none"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="top">
+    <!-- Apple Keynote Hero -->
+    <section class="hero">
+      <div class="container">
+        <div class="hero-eyebrow">ROB NILSSON ART FORMS · UNLISTED PRODUCTION ARCHIVE</div>
+        <h1 class="hero-title">PRECIPICE</h1>
+        <p class="hero-lead">
+          Every camera angle assembled in full. Every shot transcribed word&#8209;for&#8209;word.
+          Synced to unlisted YouTube chapters with instant full&#8209;text search across the entire shoot.
+        </p>
+
+        <div class="metrics-bar" id="metrics-bar">
+          <div class="metric">
+            <span class="metric-value" id="stat-cameras">3</span>
+            <span class="metric-label">Cameras</span>
+          </div>
+          <div class="metric-sep" aria-hidden="true"></div>
+          <div class="metric">
+            <span class="metric-value" id="stat-shots">—</span>
+            <span class="metric-label">Transcribed Shots</span>
+          </div>
+          <div class="metric-sep" aria-hidden="true"></div>
+          <div class="metric">
+            <span class="metric-value" id="stat-runtime">—</span>
+            <span class="metric-label">Total Runtime</span>
+          </div>
+          <div class="metric-sep" aria-hidden="true"></div>
+          <div class="metric">
+            <span class="metric-value" id="stat-words">—</span>
+            <span class="metric-label">Indexed Words</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Studio Screening Room -->
+    <section id="studio" class="studio-section">
+      <div class="container">
+        <!-- Apple Segmented Camera Switcher -->
+        <div class="camera-bar">
+          <div class="segmented-control" id="camera-switcher" role="tablist" aria-label="Select Camera">
+            <!-- Populated dynamically -->
+          </div>
+          <div class="camera-links" id="camera-links">
+            <a id="btn-yt-watch" class="pill-btn primary" href="#" target="_blank" rel="noopener">Watch on YouTube ↗</a>
+            <a id="btn-dl-txt" class="pill-btn" href="#" download>Transcript .TXT</a>
+            <a id="btn-dl-srt" class="pill-btn" href="#" download>Subtitles .SRT</a>
+          </div>
+        </div>
+
+        <!-- 2-Column Pro Studio Grid -->
+        <div class="studio-grid">
+          <!-- Left: Cinema Video Stage + Active Shot Info -->
+          <div class="stage-col">
+            <div class="player-shell">
+              <div class="player-aspect">
+                <div id="yt-player"></div>
+                <div id="player-fallback" class="player-fallback" hidden>
+                  <p>Loading YouTube player…</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Live Now-Playing Strip -->
+            <div class="now-playing-card" id="now-playing">
+              <div class="np-left">
+                <span class="np-badge" id="np-badge">SHOT 01</span>
+                <div class="np-meta">
+                  <div class="np-title" id="np-title">Select a camera or shot to begin</div>
+                  <div class="np-sub" id="np-sub">—</div>
+                </div>
+              </div>
+              <div class="np-right">
+                <span class="np-timecode" id="np-timecode">00:00</span>
+                <button id="btn-copy-link" class="mini-btn" type="button" title="Copy timestamped YouTube URL">
+                  Copy Link
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <!-- Right: Live Synced Transcript & Global Search Inspector -->
+          <aside class="inspector-col" aria-label="Transcript Inspector">
+            <div class="inspector-header">
+              <div class="search-box">
+                <svg class="search-ico" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+                <input id="transcript-search" type="search" placeholder="Search dialogue across all 3 cameras…" autocomplete="off" />
+                <span id="search-count" class="search-count" hidden>0</span>
+              </div>
+
+              <div class="inspector-tabs" role="tablist">
+                <button class="itab active" data-mode="transcript" type="button">Transcript</button>
+                <button class="itab" data-mode="chapters" type="button">Chapters</button>
+                <button class="itab" data-mode="shot" type="button">Active Shot</button>
+              </div>
+            </div>
+
+            <div class="inspector-body" id="inspector-body">
+              <div class="empty-state">Loading transcripts…</div>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <!-- Visual Shot Filmstrip / Shot-by-Shot Index -->
+    <section id="shots" class="shots-section">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <h2 class="section-title" id="shots-heading">Shot-by-Shot Index</h2>
+            <p class="section-sub" id="shots-sub">Click any shot to jump directly to its chapter timestamp and inspect its full transcript.</p>
+          </div>
+          <div class="filter-pills">
+            <button class="filter-pill active" data-filter="all" type="button">All Shots</button>
+            <button class="filter-pill" data-filter="dialogue" type="button">With Dialogue</button>
+          </div>
+        </div>
+
+        <div class="shots-grid" id="shots-grid">
+          <!-- Populated dynamically -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Production Stills Gallery -->
+    <section id="stills" class="stills-section" hidden>
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <h2 class="section-title">On-Set Stills</h2>
+            <p class="section-sub">Captured alongside principal camera rolls on set.</p>
+          </div>
+        </div>
+        <div class="stills-grid" id="stills-grid"></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Lightbox Modal for Stills -->
+  <div id="lightbox" class="lightbox" hidden>
+    <button id="lightbox-close" class="lightbox-close" type="button" aria-label="Close">✕</button>
+    <img id="lightbox-img" src="" alt="On-set still" />
+    <div id="lightbox-caption" class="lightbox-caption"></div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div id="toast" class="toast" aria-live="polite"></div>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <strong>PRECIPICE</strong> · Directed by Rob Nilsson · Produced &amp; Photographed by Zhan Petrov
+      </div>
+      <div class="footer-links">
+        <a href="https://www.youtube.com/playlist?list=PLcER0Yz7OUpU" target="_blank" rel="noopener">PRECIPICE Playlist</a>
+        <a href="https://www.youtube.com/@robnilssonartforms" target="_blank" rel="noopener">ROB NILSSON ART FORMS</a>
+        <a href="https://github.com/zhanpetrov/precipice-film" target="_blank" rel="noopener">GitHub Repository</a>
+        <a href="data/shots.json" target="_blank" rel="noopener">shots.json</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="https://www.youtube.com/iframe_api"></script>
+  <script src="app.js"></script>
+</body>
+</html>

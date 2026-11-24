@@ -1,0 +1,280 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0049",
+  "duration": 98.801667,
+  "creation_time": "2026-11-23T23:25:08-0800",
+  "language": "en",
+  "text": "I'll tell you when. Wait a minute. I'll tell you when. Hold on. Hold on. John, you don't need to be there. Get it from here. When I take care of him, am I walking to him behind you? Yeah. I guess so. Yeah. So I've got, I've got Ken and I've got, I've got Russ and you've got. Yeah, I got, I'm rolling. You all set? Yeah. Sound rolling? Sound rolling. Okay. Keep, keep talking. So what made you think? I'm still, I'm still trying to figure out what the hell. Mickey, come in. I'm still trying to figure out what happened. He says from Pacifica. I don't know where's Pacifica. What is it? What? You lost a house? Yeah. I'm a contractor. Okay. It was on the edge of a cliff. On the edge of a cliff? Yeah. Who builds a house on the edge of a fucking cliff? Rich people. Lots of them. Okay. Here we go. I guess they have the money they can afford to lose a house. Exactly. They have the money. But I can't afford to lose all that equipment. People that have the money can afford anything. People that have the money run everything. We are, at best, puppets. Yeah. It's a fucked up world, isn't it? Yeah. Yeah. Completely. Just give me some, Cliff. Just give me some. Jay Mickey, okay, cut.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.12,
+      "text": "I'll tell you when."
+    },
+    {
+      "start": 5.78,
+      "end": 6.66,
+      "text": "Wait a minute."
+    },
+    {
+      "start": 6.72,
+      "end": 7.36,
+      "text": "I'll tell you when."
+    },
+    {
+      "start": 7.46,
+      "end": 7.92,
+      "text": "Hold on."
+    },
+    {
+      "start": 8.0,
+      "end": 8.34,
+      "text": "Hold on."
+    },
+    {
+      "start": 13.22,
+      "end": 15.3,
+      "text": "John, you don't need to be there."
+    },
+    {
+      "start": 15.6,
+      "end": 16.28,
+      "text": "Get it from here."
+    },
+    {
+      "start": 20.42,
+      "end": 24.7,
+      "text": "When I take care of him, am I walking to him behind you?"
+    },
+    {
+      "start": 24.8,
+      "end": 25.14,
+      "text": "Yeah."
+    },
+    {
+      "start": 25.4,
+      "end": 25.94,
+      "text": "I guess so."
+    },
+    {
+      "start": 25.94,
+      "end": 26.22,
+      "text": "Yeah."
+    },
+    {
+      "start": 26.22,
+      "end": 33.18,
+      "text": "So I've got, I've got Ken and I've got, I've got Russ and you've got."
+    },
+    {
+      "start": 33.84,
+      "end": 35.14,
+      "text": "Yeah, I got, I'm rolling."
+    },
+    {
+      "start": 35.28,
+      "end": 35.72,
+      "text": "You all set?"
+    },
+    {
+      "start": 36.14,
+      "end": 36.38,
+      "text": "Yeah."
+    },
+    {
+      "start": 36.72,
+      "end": 37.16,
+      "text": "Sound rolling?"
+    },
+    {
+      "start": 38.0,
+      "end": 38.68,
+      "text": "Sound rolling."
+    },
+    {
+      "start": 41.56,
+      "end": 42.08,
+      "text": "Okay."
+    },
+    {
+      "start": 42.12,
+      "end": 42.86,
+      "text": "Keep, keep talking."
+    },
+    {
+      "start": 44.14,
+      "end": 51.0,
+      "text": "So what made you think?"
+    },
+    {
+      "start": 52.86,
+      "end": 54.82,
+      "text": "I'm still, I'm still trying to figure out what the hell."
+    },
+    {
+      "start": 54.82,
+      "end": 55.38,
+      "text": "Mickey, come in."
+    },
+    {
+      "start": 56.22,
+      "end": 58.04,
+      "text": "I'm still trying to figure out what happened."
+    },
+    {
+      "start": 58.12,
+      "end": 59.54,
+      "text": "He says from Pacifica."
+    },
+    {
+      "start": 59.66,
+      "end": 60.52,
+      "text": "I don't know where's Pacifica."
+    },
+    {
+      "start": 60.58,
+      "end": 60.8,
+      "text": "What is it?"
+    },
+    {
+      "start": 60.84,
+      "end": 60.94,
+      "text": "What?"
+    },
+    {
+      "start": 61.04,
+      "end": 61.82,
+      "text": "You lost a house?"
+    },
+    {
+      "start": 62.62,
+      "end": 62.84,
+      "text": "Yeah."
+    },
+    {
+      "start": 63.02,
+      "end": 63.7,
+      "text": "I'm a contractor."
+    },
+    {
+      "start": 63.92,
+      "end": 64.2,
+      "text": "Okay."
+    },
+    {
+      "start": 64.7,
+      "end": 65.68,
+      "text": "It was on the edge of a cliff."
+    },
+    {
+      "start": 66.06,
+      "end": 66.96,
+      "text": "On the edge of a cliff?"
+    },
+    {
+      "start": 67.12,
+      "end": 67.32,
+      "text": "Yeah."
+    },
+    {
+      "start": 68.6,
+      "end": 70.48,
+      "text": "Who builds a house on the edge of a fucking cliff?"
+    },
+    {
+      "start": 70.6,
+      "end": 71.12,
+      "text": "Rich people."
+    },
+    {
+      "start": 71.62,
+      "end": 72.14,
+      "text": "Lots of them."
+    },
+    {
+      "start": 72.26,
+      "end": 72.58,
+      "text": "Okay."
+    },
+    {
+      "start": 72.94,
+      "end": 73.46,
+      "text": "Here we go."
+    },
+    {
+      "start": 75.52,
+      "end": 77.66,
+      "text": "I guess they have the money they can afford to lose a house."
+    },
+    {
+      "start": 77.66,
+      "end": 78.06,
+      "text": "Exactly."
+    },
+    {
+      "start": 78.18,
+      "end": 78.8,
+      "text": "They have the money."
+    },
+    {
+      "start": 79.38,
+      "end": 81.0,
+      "text": "But I can't afford to lose all that equipment."
+    },
+    {
+      "start": 81.88,
+      "end": 84.06,
+      "text": "People that have the money can afford anything."
+    },
+    {
+      "start": 84.82,
+      "end": 86.4,
+      "text": "People that have the money run everything."
+    },
+    {
+      "start": 87.28,
+      "end": 90.56,
+      "text": "We are, at best, puppets."
+    },
+    {
+      "start": 90.92,
+      "end": 91.06,
+      "text": "Yeah."
+    },
+    {
+      "start": 91.42,
+      "end": 92.46,
+      "text": "It's a fucked up world, isn't it?"
+    },
+    {
+      "start": 92.46,
+      "end": 92.74,
+      "text": "Yeah."
+    },
+    {
+      "start": 92.98,
+      "end": 93.22,
+      "text": "Yeah."
+    },
+    {
+      "start": 93.48,
+      "end": 93.86,
+      "text": "Completely."
+    },
+    {
+      "start": 93.86,
+      "end": 95.8,
+      "text": "Just give me some, Cliff."
+    },
+    {
+      "start": 96.08,
+      "end": 96.76,
+      "text": "Just give me some."
+    },
+    {
+      "start": 96.8,
+      "end": 98.4,
+      "text": "Jay Mickey, okay, cut."
+    }
+  ]
+}

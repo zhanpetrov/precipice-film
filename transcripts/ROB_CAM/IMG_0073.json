@@ -1,0 +1,15 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0073",
+  "duration": 10.033333,
+  "creation_time": "2026-11-24T03:29:56-0800",
+  "language": "en",
+  "text": "I'll look around, but I'm telling you, if...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "I'll look around, but I'm telling you, if..."
+    }
+  ]
+}

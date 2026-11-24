@@ -1,0 +1,533 @@
+{
+  "CHICARA_CAM": [
+    {
+      "time": 0,
+      "ts": "0:00:00",
+      "title": "Shot 01 (IMG_1320) — Where are we going?",
+      "shot_index": 1,
+      "filename": "IMG_1320.MOV"
+    },
+    {
+      "time": 2655,
+      "ts": "0:44:15",
+      "title": "Shot 03 (IMG_1322) — To me, that has to happen in our...",
+      "shot_index": 3,
+      "filename": "IMG_1322.MOV"
+    },
+    {
+      "time": 2762,
+      "ts": "0:46:02",
+      "title": "Shot 04 (IMG_1323) — Rolling sound! Sound is rolling!...",
+      "shot_index": 4,
+      "filename": "IMG_1323.MOV"
+    },
+    {
+      "time": 3479,
+      "ts": "0:57:59",
+      "title": "Shot 05 (IMG_1324) — Thank you.",
+      "shot_index": 5,
+      "filename": "IMG_1324.MOV"
+    },
+    {
+      "time": 6108,
+      "ts": "1:41:48",
+      "title": "Shot 07 (IMG_1327) — So she leaves but we stay.",
+      "shot_index": 7,
+      "filename": "IMG_1327.MOV"
+    },
+    {
+      "time": 6183,
+      "ts": "1:43:03",
+      "title": "Shot 09 (IMG_1329) — Thank you. Thank you. Thank you...",
+      "shot_index": 9,
+      "filename": "IMG_1329.MOV"
+    },
+    {
+      "time": 6604,
+      "ts": "1:50:04",
+      "title": "Shot 10 (IMG_1330) — Thank you. Thank you. Thank you.",
+      "shot_index": 10,
+      "filename": "IMG_1330.MOV"
+    },
+    {
+      "time": 6670,
+      "ts": "1:51:10",
+      "title": "Shot 11 (IMG_1331) — It's rolling. And action. Oh, yeah...",
+      "shot_index": 11,
+      "filename": "IMG_1331.MOV"
+    },
+    {
+      "time": 7518,
+      "ts": "2:05:18",
+      "title": "Shot 12 (IMG_1332) — ... What the fuck? What the fuck?...",
+      "shot_index": 12,
+      "filename": "IMG_1332.MOV"
+    },
+    {
+      "time": 7529,
+      "ts": "2:05:29",
+      "title": "Shot 13 (IMG_1333) — It's okay, we're almost done. So...",
+      "shot_index": 13,
+      "filename": "IMG_1333.MOV"
+    },
+    {
+      "time": 7707,
+      "ts": "2:08:27",
+      "title": "Shot 14 (IMG_1334) — What is happening is that the gun...",
+      "shot_index": 14,
+      "filename": "IMG_1334.MOV"
+    },
+    {
+      "time": 8093,
+      "ts": "2:14:53",
+      "title": "Shot 15 (IMG_1335) — Sound is rolling. Rolling. Rolling...",
+      "shot_index": 15,
+      "filename": "IMG_1335.MOV"
+    },
+    {
+      "time": 8271,
+      "ts": "2:17:51",
+      "title": "Shot 16 (IMG_1336) — Thank you.",
+      "shot_index": 16,
+      "filename": "IMG_1336.MOV"
+    }
+  ],
+  "ROB_CAM": [
+    {
+      "time": 0,
+      "ts": "0:00:00",
+      "title": "Shot 01 (IMG_0038) — dance of the cell phones. Yeah! Yeah!...",
+      "shot_index": 1,
+      "filename": "IMG_0038.MOV"
+    },
+    {
+      "time": 56,
+      "ts": "0:00:56",
+      "title": "Shot 02 (IMG_0039) — the camera's rolling.",
+      "shot_index": 2,
+      "filename": "IMG_0039.MOV"
+    },
+    {
+      "time": 99,
+      "ts": "0:01:39",
+      "title": "Shot 04 (IMG_0041) — Get down to the ground now. Stop...",
+      "shot_index": 4,
+      "filename": "IMG_0041.MOV"
+    },
+    {
+      "time": 110,
+      "ts": "0:01:50",
+      "title": "Shot 05 (IMG_0042) — before this guy bleeds out. You...",
+      "shot_index": 5,
+      "filename": "IMG_0042.MOV"
+    },
+    {
+      "time": 128,
+      "ts": "0:02:08",
+      "title": "Shot 06 (IMG_0043) — Okay, so you're just waiting. They...",
+      "shot_index": 6,
+      "filename": "IMG_0043.MOV"
+    },
+    {
+      "time": 160,
+      "ts": "0:02:40",
+      "title": "Shot 07 (IMG_0045) — Stop or I'll shoot you! Get on the...",
+      "shot_index": 7,
+      "filename": "IMG_0045.MOV"
+    },
+    {
+      "time": 207,
+      "ts": "0:03:27",
+      "title": "Shot 08 (IMG_0046) — Lay down. Okay, I'm gonna try to save...",
+      "shot_index": 8,
+      "filename": "IMG_0046.MOV"
+    },
+    {
+      "time": 284,
+      "ts": "0:04:44",
+      "title": "Shot 09 (IMG_0048) — Thanks, Devin. I'm definitely my...",
+      "shot_index": 9,
+      "filename": "IMG_0048.MOV"
+    },
+    {
+      "time": 1300,
+      "ts": "0:21:40",
+      "title": "Shot 10 (IMG_0049) — I'll tell you when. Wait a minute...",
+      "shot_index": 10,
+      "filename": "IMG_0049.MOV"
+    },
+    {
+      "time": 1399,
+      "ts": "0:23:19",
+      "title": "Shot 11 (IMG_0050) — Okay, action! Anybody home in here?...",
+      "shot_index": 11,
+      "filename": "IMG_0050.MOV"
+    },
+    {
+      "time": 1458,
+      "ts": "0:24:18",
+      "title": "Shot 12 (IMG_0051) — Because of the boat, because people...",
+      "shot_index": 12,
+      "filename": "IMG_0051.MOV"
+    },
+    {
+      "time": 2409,
+      "ts": "0:40:09",
+      "title": "Shot 14 (IMG_0053) — different parts of Latin in there...",
+      "shot_index": 14,
+      "filename": "IMG_0053.mov"
+    },
+    {
+      "time": 2441,
+      "ts": "0:40:41",
+      "title": "Shot 15 (IMG_0054) — and they come up here and spend...",
+      "shot_index": 15,
+      "filename": "IMG_0054.mov"
+    },
+    {
+      "time": 2576,
+      "ts": "0:42:56",
+      "title": "Shot 16 (IMG_0055) — That has to happen in our lives. Stay...",
+      "shot_index": 16,
+      "filename": "IMG_0055.mov"
+    },
+    {
+      "time": 2638,
+      "ts": "0:43:58",
+      "title": "Shot 17 (IMG_0056) — Okay, so we'll start this way, and...",
+      "shot_index": 17,
+      "filename": "IMG_0056.mov"
+    },
+    {
+      "time": 3514,
+      "ts": "0:58:34",
+      "title": "Shot 18 (IMG_0057) — greeting? What's that? Am I greeting?...",
+      "shot_index": 18,
+      "filename": "IMG_0057.MOV"
+    },
+    {
+      "time": 4239,
+      "ts": "1:10:39",
+      "title": "Shot 19 (IMG_0058) — Thank you.",
+      "shot_index": 19,
+      "filename": "IMG_0058.MOV"
+    },
+    {
+      "time": 4267,
+      "ts": "1:11:07",
+      "title": "Shot 22 (IMG_0061) — Thank you.",
+      "shot_index": 22,
+      "filename": "IMG_0061.MOV"
+    },
+    {
+      "time": 4309,
+      "ts": "1:11:49",
+      "title": "Shot 24 (IMG_0063) — Sound is rolling. And action. What a...",
+      "shot_index": 24,
+      "filename": "IMG_0063.MOV"
+    },
+    {
+      "time": 6939,
+      "ts": "1:55:39",
+      "title": "Shot 25 (IMG_0064) — I'll probably be very greedy. Mmm...",
+      "shot_index": 25,
+      "filename": "IMG_0064.MOV"
+    },
+    {
+      "time": 7602,
+      "ts": "2:06:42",
+      "title": "Shot 26 (IMG_0065) — Who has two mics? Uh... Billy? And...",
+      "shot_index": 26,
+      "filename": "IMG_0065.MOV"
+    },
+    {
+      "time": 7965,
+      "ts": "2:12:45",
+      "title": "Shot 27 (IMG_0066) — Oh, yeah, I know. It's not this one...",
+      "shot_index": 27,
+      "filename": "IMG_0066.MOV"
+    },
+    {
+      "time": 8070,
+      "ts": "2:14:30",
+      "title": "Shot 28 (IMG_0067) — happen. But first you're going to...",
+      "shot_index": 28,
+      "filename": "IMG_0067.MOV"
+    },
+    {
+      "time": 8195,
+      "ts": "2:16:35",
+      "title": "Shot 29 (IMG_0068) — Let's set up something difficult.",
+      "shot_index": 29,
+      "filename": "IMG_0068.MOV"
+    },
+    {
+      "time": 8211,
+      "ts": "2:16:51",
+      "title": "Shot 30 (IMG_0069) — You know, the situation. Yeah. Yeah...",
+      "shot_index": 30,
+      "filename": "IMG_0069.MOV"
+    },
+    {
+      "time": 8224,
+      "ts": "2:17:04",
+      "title": "Shot 32 (IMG_0071) — for every little thing, every little...",
+      "shot_index": 32,
+      "filename": "IMG_0071.MOV"
+    },
+    {
+      "time": 8235,
+      "ts": "2:17:15",
+      "title": "Shot 34 (IMG_0073) — I'll look around, but I'm telling...",
+      "shot_index": 34,
+      "filename": "IMG_0073.MOV"
+    },
+    {
+      "time": 8245,
+      "ts": "2:17:25",
+      "title": "Shot 35 (IMG_0074) — I can guarantee... Do you know who's...",
+      "shot_index": 35,
+      "filename": "IMG_0074.MOV"
+    },
+    {
+      "time": 8261,
+      "ts": "2:17:41",
+      "title": "Shot 36 (IMG_0075) — Are you okay? Well, thank you. Where...",
+      "shot_index": 36,
+      "filename": "IMG_0075.MOV"
+    },
+    {
+      "time": 8271,
+      "ts": "2:17:51",
+      "title": "Shot 38 (IMG_0077) — Where are you from? Just, you know...",
+      "shot_index": 38,
+      "filename": "IMG_0077.MOV"
+    },
+    {
+      "time": 8290,
+      "ts": "2:18:10",
+      "title": "Shot 39 (IMG_0078) — I mean look this guy you think this...",
+      "shot_index": 39,
+      "filename": "IMG_0078.MOV"
+    },
+    {
+      "time": 8320,
+      "ts": "2:18:40",
+      "title": "Shot 40 (IMG_0079) — I play a pool game. That's my man...",
+      "shot_index": 40,
+      "filename": "IMG_0079.MOV"
+    },
+    {
+      "time": 8371,
+      "ts": "2:19:31",
+      "title": "Shot 41 (IMG_0080) — I don't know, race to 50 for 50...",
+      "shot_index": 41,
+      "filename": "IMG_0080.MOV"
+    },
+    {
+      "time": 8415,
+      "ts": "2:20:15",
+      "title": "Shot 42 (IMG_0081) — How much do you think you can meet...",
+      "shot_index": 42,
+      "filename": "IMG_0081.MOV"
+    },
+    {
+      "time": 8563,
+      "ts": "2:22:43",
+      "title": "Shot 43 (IMG_0082) — No, no. No. Well, no. Just pretty...",
+      "shot_index": 43,
+      "filename": "IMG_0082.MOV"
+    },
+    {
+      "time": 8708,
+      "ts": "2:25:08",
+      "title": "Shot 44 (IMG_0083) — All the ISIS officers. All things are...",
+      "shot_index": 44,
+      "filename": "IMG_0083.MOV"
+    },
+    {
+      "time": 8793,
+      "ts": "2:26:33",
+      "title": "Shot 45 (IMG_0084) — So one bar and suddenly there's...",
+      "shot_index": 45,
+      "filename": "IMG_0084.MOV"
+    },
+    {
+      "time": 8861,
+      "ts": "2:27:41",
+      "title": "Shot 46 (IMG_0085) — Not anymore. It used to be because...",
+      "shot_index": 46,
+      "filename": "IMG_0085.MOV"
+    },
+    {
+      "time": 9240,
+      "ts": "2:34:00",
+      "title": "Shot 47 (IMG_0086) — I think there's going to be a lot of...",
+      "shot_index": 47,
+      "filename": "IMG_0086.MOV"
+    },
+    {
+      "time": 9278,
+      "ts": "2:34:38",
+      "title": "Shot 48 (IMG_0087) — Really? You just deny it? I just...",
+      "shot_index": 48,
+      "filename": "IMG_0087.MOV"
+    },
+    {
+      "time": 9528,
+      "ts": "2:38:48",
+      "title": "Shot 49 (IMG_0088) — And also at the end, somehow...",
+      "shot_index": 49,
+      "filename": "IMG_0088.MOV"
+    },
+    {
+      "time": 9764,
+      "ts": "2:42:44",
+      "title": "Shot 51 (IMG_0090) — Rolling. Should I continue? Action...",
+      "shot_index": 51,
+      "filename": "IMG_0090.MOV"
+    },
+    {
+      "time": 10131,
+      "ts": "2:48:51",
+      "title": "Shot 52 (IMG_0091) — Sound is rolling. Rolling. Rolling...",
+      "shot_index": 52,
+      "filename": "IMG_0091.MOV"
+    },
+    {
+      "time": 10449,
+      "ts": "2:54:09",
+      "title": "Shot 53 (IMG_0092) — I just can't. Are you ready? I can't...",
+      "shot_index": 53,
+      "filename": "IMG_0092.MOV"
+    },
+    {
+      "time": 10497,
+      "ts": "2:54:57",
+      "title": "Shot 54 (IMG_0093) — then be where you were yeah yeah yeah...",
+      "shot_index": 54,
+      "filename": "IMG_0093.MOV"
+    },
+    {
+      "time": 10517,
+      "ts": "2:55:17",
+      "title": "Shot 55 (IMG_0094) — Sound rolling. Hold the cameras and...",
+      "shot_index": 55,
+      "filename": "IMG_0094.MOV"
+    }
+  ],
+  "SECRET_CAM": [
+    {
+      "time": 0,
+      "ts": "0:00:00",
+      "title": "IMG_6301 Start — Yeah, but you know what?",
+      "shot_index": 1,
+      "filename": "IMG_6301.MOV"
+    },
+    {
+      "time": 309,
+      "ts": "0:05:09",
+      "title": ".",
+      "shot_index": 1,
+      "filename": "IMG_6301.MOV"
+    },
+    {
+      "time": 613,
+      "ts": "0:10:13",
+      "title": "He was like, dude!",
+      "shot_index": 1,
+      "filename": "IMG_6301.MOV"
+    },
+    {
+      "time": 916,
+      "ts": "0:15:16",
+      "title": "...the PA.",
+      "shot_index": 1,
+      "filename": "IMG_6301.MOV"
+    },
+    {
+      "time": 1232,
+      "ts": "0:20:32",
+      "title": "...",
+      "shot_index": 1,
+      "filename": "IMG_6301.MOV"
+    },
+    {
+      "time": 1534,
+      "ts": "0:25:34",
+      "title": "...",
+      "shot_index": 1,
+      "filename": "IMG_6301.MOV"
+    },
+    {
+      "time": 1854,
+      "ts": "0:30:54",
+      "title": "...",
+      "shot_index": 1,
+      "filename": "IMG_6301.MOV"
+    },
+    {
+      "time": 2164,
+      "ts": "0:36:04",
+      "title": "...",
+      "shot_index": 1,
+      "filename": "IMG_6301.MOV"
+    },
+    {
+      "time": 2466,
+      "ts": "0:41:06",
+      "title": "And then we're going to try to get an orderly shot of...",
+      "shot_index": 1,
+      "filename": "IMG_6301.MOV"
+    },
+    {
+      "time": 2772,
+      "ts": "0:46:12",
+      "title": "Let's see, we had a house slide down a fucking hill.",
+      "shot_index": 1,
+      "filename": "IMG_6301.MOV"
+    },
+    {
+      "time": 3075,
+      "ts": "0:51:15",
+      "title": "Everybody, when they last set, practice can't be.",
+      "shot_index": 1,
+      "filename": "IMG_6301.MOV"
+    },
+    {
+      "time": 3393,
+      "ts": "0:56:33",
+      "title": "Oh, thank you, brother.",
+      "shot_index": 1,
+      "filename": "IMG_6301.MOV"
+    },
+    {
+      "time": 3699,
+      "ts": "1:01:39",
+      "title": "Thank you.",
+      "shot_index": 1,
+      "filename": "IMG_6301.MOV"
+    },
+    {
+      "time": 4002,
+      "ts": "1:06:42",
+      "title": "No, because everything is going to change.",
+      "shot_index": 1,
+      "filename": "IMG_6301.MOV"
+    },
+    {
+      "time": 4312,
+      "ts": "1:11:52",
+      "title": "Here you go.",
+      "shot_index": 1,
+      "filename": "IMG_6301.MOV"
+    },
+    {
+      "time": 4619,
+      "ts": "1:16:59",
+      "title": "Okay.",
+      "shot_index": 1,
+      "filename": "IMG_6301.MOV"
+    }
+  ]
+}

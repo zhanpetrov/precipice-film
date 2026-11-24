@@ -1,0 +1,55 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0060",
+  "duration": 27.045,
+  "creation_time": "2026-11-24T01:18:18-0800",
+  "language": "en",
+  "text": "So... So... Cool. Alright, we'll do this. So we're not going to do this. That's your screen here. Do you want to sit? I don't know why you don't want to turn over, but anyway... It's a crazy setup.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "So..."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "So..."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Cool."
+    },
+    {
+      "start": 6.0,
+      "end": 10.0,
+      "text": "Alright, we'll do this."
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "So we're not going to do this."
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "That's your screen here."
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "Do you want to sit?"
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "I don't know why you don't want to turn over, but anyway..."
+    },
+    {
+      "start": 20.0,
+      "end": 26.0,
+      "text": "It's a crazy setup."
+    }
+  ]
+}

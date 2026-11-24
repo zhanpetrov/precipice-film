@@ -1,0 +1,40 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0069",
+  "duration": 6.8,
+  "creation_time": "2026-11-24T03:29:11-0800",
+  "language": "en",
+  "text": "You know, the situation. Yeah. Yeah. Yeah. You know. I mean, don't you?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "You know, the situation."
+    },
+    {
+      "start": 1.68,
+      "end": 1.82,
+      "text": "Yeah."
+    },
+    {
+      "start": 1.82,
+      "end": 1.88,
+      "text": "Yeah."
+    },
+    {
+      "start": 3.3,
+      "end": 3.76,
+      "text": "Yeah."
+    },
+    {
+      "start": 4.9,
+      "end": 5.26,
+      "text": "You know."
+    },
+    {
+      "start": 5.86,
+      "end": 6.58,
+      "text": "I mean, don't you?"
+    }
+  ]
+}

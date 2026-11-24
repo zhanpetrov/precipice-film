@@ -1,0 +1,100 @@
+{
+  "camera": "ROB_CAM",
+  "shot": "IMG_0092",
+  "duration": 47.671667,
+  "creation_time": "2026-11-24T04:44:56-0800",
+  "language": "en",
+  "text": "I just can't. Are you ready? I can't do it for a Shirley Temple. John, let him walk to you. He's going to walk from over there. He's thinking about what to do. You're looking at your friends. You're looking at the situation, and you decide what you've got to do there. And you're doing it not willingly. You don't want to throw out your best customers, but you realize you've got to do it. And they've got to realize, too, that that's the only way to do it. Now, when you leave, you're all going to go into the pool room and go to the left. And if we can fit everybody in there. It's going to be tight, but we can't. It's going to be very tight. So we may have to stop the shot with some of you waiting in line. Yeah. But so, Damon, make sure that.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "I just can't."
+    },
+    {
+      "start": 2.16,
+      "end": 3.0,
+      "text": "Are you ready?"
+    },
+    {
+      "start": 3.18,
+      "end": 4.32,
+      "text": "I can't do it for a Shirley Temple."
+    },
+    {
+      "start": 4.84,
+      "end": 6.8,
+      "text": "John, let him walk to you."
+    },
+    {
+      "start": 7.4,
+      "end": 8.82,
+      "text": "He's going to walk from over there."
+    },
+    {
+      "start": 8.92,
+      "end": 9.94,
+      "text": "He's thinking about what to do."
+    },
+    {
+      "start": 10.02,
+      "end": 11.26,
+      "text": "You're looking at your friends."
+    },
+    {
+      "start": 11.64,
+      "end": 15.34,
+      "text": "You're looking at the situation, and you decide what you've got to do there."
+    },
+    {
+      "start": 15.5,
+      "end": 17.98,
+      "text": "And you're doing it not willingly."
+    },
+    {
+      "start": 18.3,
+      "end": 23.02,
+      "text": "You don't want to throw out your best customers, but you realize you've got to do it."
+    },
+    {
+      "start": 23.54,
+      "end": 28.1,
+      "text": "And they've got to realize, too, that that's the only way to do it."
+    },
+    {
+      "start": 28.1,
+      "end": 33.96,
+      "text": "Now, when you leave, you're all going to go into the pool room and go to the left."
+    },
+    {
+      "start": 34.68,
+      "end": 36.8,
+      "text": "And if we can fit everybody in there."
+    },
+    {
+      "start": 36.96,
+      "end": 38.08,
+      "text": "It's going to be tight, but we can't."
+    },
+    {
+      "start": 38.08,
+      "end": 39.18,
+      "text": "It's going to be very tight."
+    },
+    {
+      "start": 39.28,
+      "end": 43.82,
+      "text": "So we may have to stop the shot with some of you waiting in line."
+    },
+    {
+      "start": 44.06,
+      "end": 44.18,
+      "text": "Yeah."
+    },
+    {
+      "start": 44.72,
+      "end": 47.66,
+      "text": "But so, Damon, make sure that."
+    }
+  ]
+}
