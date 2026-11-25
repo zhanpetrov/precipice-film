@@ -1089,7 +1089,7 @@ a { color: inherit; text-decoration: none; }
     bottom: 0;
     z-index: 140;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     padding: 8px 6px calc(8px + env(safe-area-inset-bottom));
     background: var(--bg-glass);
     backdrop-filter: saturate(180%) blur(24px);
@@ -1108,4 +1108,86 @@ a { color: inherit; text-decoration: none; }
     min-height: 44px;
   }
   .dock-item:active, .dock-item:hover { color: var(--accent); }
+}
+
+/* Signed Actor Releases Ledger */
+.releases-section { padding: 12px 0 64px; }
+
+.releases-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 14px;
+}
+
+.release-card {
+  border-radius: var(--radius-md);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.rel-top {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.rel-avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1.5px solid var(--green);
+  flex-shrink: 0;
+  background: var(--bg-elevated);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+.rel-info { min-width: 0; flex: 1; }
+.rel-name { font-size: 14.5px; font-weight: 600; color: var(--text); }
+.rel-sub { font-size: 12px; color: var(--text-secondary); margin-top: 2px; }
+
+.signed-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: rgba(48, 209, 88, 0.16);
+  color: var(--green);
+  font-size: 11px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.rel-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.rel-actions audio {
+  width: 100%;
+  height: 34px;
+  margin-top: 2px;
+}
+
+.person-signed-badge {
+  margin-top: 5px;
+  font-size: 10.5px;
+  color: var(--green);
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .releases-grid { grid-template-columns: 1fr; }
 }

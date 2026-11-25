@@ -2214,8 +2214,10 @@
           "text": "creating groups that are actively setting things in motion to create."
         }
       ],
-      "speaker": "Tiger Lily Dostolova",
-      "role": "Conference Guest"
+      "speaker": "Maya Dostal (Tiger Lily)",
+      "role": "Conference Guest",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8850.jpg"
     },
     {
       "id": "ZOOM0003_Tr1",
@@ -2252,8 +2254,10 @@
           "text": "Okay."
         }
       ],
-      "speaker": "Serge",
-      "role": "Tech Bro"
+      "speaker": "Sergei Solovev",
+      "role": "Tech Bro",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8859.jpg"
     },
     {
       "id": "ZOOM0004_Tr1",
@@ -2325,8 +2329,10 @@
           "text": "They will."
         }
       ],
-      "speaker": "Timothy Glynyn",
-      "role": "Cast"
+      "speaker": "Timofey Glinin",
+      "role": "Cast",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8854.jpg"
     },
     {
       "id": "ZOOM0005_Tr1",
@@ -2527,7 +2533,9 @@
         }
       ],
       "speaker": "Andrei Tatarinov",
-      "role": "Cast"
+      "role": "Cast",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8866.jpg"
     },
     {
       "id": "ZOOM0007_Tr1",
@@ -2560,7 +2568,8 @@
         }
       ],
       "speaker": "Alex Miller",
-      "role": "Protector"
+      "role": "Protector",
+      "release_signed": true
     },
     {
       "id": "ZOOM0008_Tr1",
@@ -2623,7 +2632,8 @@
         }
       ],
       "speaker": "Jim Dietrich",
-      "role": "Alex's Buddy"
+      "role": "Alex's Buddy",
+      "release_signed": true
     },
     {
       "id": "ZOOM0009_Tr1",
@@ -2721,7 +2731,9 @@
         }
       ],
       "speaker": "Antonia Kao",
-      "role": "Cast"
+      "role": "Cast",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8849.jpg"
     },
     {
       "id": "ZOOM0010_Tr1",
@@ -2848,8 +2860,10 @@
           "text": "Okay."
         }
       ],
-      "speaker": "Mary Ann Heath",
-      "role": "Tenderloin Y Group"
+      "speaker": "Marianne Heath",
+      "role": "Tenderloin Y Group",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8847.jpg"
     },
     {
       "id": "ZOOM0011_Tr1",
@@ -2927,7 +2941,9 @@
         }
       ],
       "speaker": "Angela Cross",
-      "role": "Cast"
+      "role": "Cast",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8845.jpg"
     },
     {
       "id": "ZOOM0012_Tr1",
@@ -3062,8 +3078,10 @@
           "text": "How did it know I was out of Viagra?"
         }
       ],
-      "speaker": "Ed (Take 2)",
-      "role": "Comedian"
+      "speaker": "Edward",
+      "role": "Comedian",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8848.jpg"
     },
     {
       "id": "ZOOM0014_Tr1",
@@ -3179,7 +3197,9 @@
         }
       ],
       "speaker": "Nick Mavrakis",
-      "role": "ICE Agent"
+      "role": "ICE Agent",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8852.jpg"
     },
     {
       "id": "ZOOM0016_Tr1",
@@ -3262,7 +3282,9 @@
         }
       ],
       "speaker": "Ronald Nevin",
-      "role": "SFPD Commander"
+      "role": "SFPD Commander",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8851.jpg"
     },
     {
       "id": "ZOOM0017_Tr1",
@@ -3429,8 +3451,10 @@
           "text": "All right."
         }
       ],
-      "speaker": "Steven Turner",
-      "role": "Tactical Officer"
+      "speaker": "Stephen Turner",
+      "role": "Tactical Officer",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8867.jpg"
     },
     {
       "id": "ZOOM0018_Tr1",
@@ -3462,8 +3486,10 @@
           "text": "And my colleagues and my officer Smith is going to help me out and put you in handcuffs."
         }
       ],
-      "speaker": "Thomas Steer",
-      "role": "ICE Officer"
+      "speaker": "Thomas Stier",
+      "role": "ICE Officer",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8868.jpg"
     },
     {
       "id": "ZOOM0019_Tr1",
@@ -3536,7 +3562,9 @@
         }
       ],
       "speaker": "Lance Walker",
-      "role": "Cast"
+      "role": "Cast",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8870.jpg"
     },
     {
       "id": "ZOOM0020_Tr1",
@@ -4211,8 +4239,9 @@
           "text": "All right."
         }
       ],
-      "speaker": "Billy Aguero",
-      "role": "Pool League Captain"
+      "speaker": "William (Billy Aguero)",
+      "role": "Pool League Captain",
+      "release_signed": true
     },
     {
       "id": "ZOOM0027_Tr1",
@@ -4377,8 +4406,10 @@
           "text": "I like to go to the gym also. I like to exercise a lot. Run. You know. Okay."
         }
       ],
-      "speaker": "Oscar Valdivieso",
-      "role": "Pro Pool Player"
+      "speaker": "Oscar Valdiviezo",
+      "role": "Pro Pool Player",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8855.jpg"
     },
     {
       "id": "ZOOM0029_Tr1",
@@ -4466,7 +4497,8 @@
         }
       ],
       "speaker": "Brady Pearson",
-      "role": "Comedian / Host"
+      "role": "Comedian / Host",
+      "release_signed": true
     },
     {
       "id": "ZOOM0030_Tr1",
@@ -4584,7 +4616,9 @@
         }
       ],
       "speaker": "Pam Benjamin",
-      "role": "Comedian"
+      "role": "Comedian",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8856.jpg"
     },
     {
       "id": "ZOOM0031_Tr1",
@@ -4721,8 +4755,10 @@
           "text": "That was..."
         }
       ],
-      "speaker": "Lauren Kraut",
-      "role": "Comedian"
+      "speaker": "Loren Kraut",
+      "role": "Comedian",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8858.jpg"
     },
     {
       "id": "ZOOM0032_Tr1",
@@ -4804,8 +4840,10 @@
           "text": "Okay"
         }
       ],
-      "speaker": "Victoria Barajas (Vicky Beretta)",
-      "role": "Comedian"
+      "speaker": "Vikki Beretta (Victoria Barajas)",
+      "role": "Comedian",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8865.jpg"
     },
     {
       "id": "ZOOM0033_Tr1",
@@ -4862,8 +4900,10 @@
           "text": "And I'm also an immigrant, I'm coming from Europe, so it took me almost three months from Europe to America in a ship container."
         }
       ],
-      "speaker": "Denis Rajchic",
-      "role": "Thursday Regular"
+      "speaker": "Denis Rajcic",
+      "role": "Thursday Regular",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8857.jpg"
     },
     {
       "id": "ZOOM0034_Tr1",
@@ -4930,8 +4970,10 @@
           "text": "currently here in 2026."
         }
       ],
-      "speaker": "Shondi Jeter",
-      "role": "Revolutionary"
+      "speaker": "Chaundi Perry Jeter",
+      "role": "Revolutionary",
+      "release_signed": true,
+      "release_img": "assets/releases/IMG_8869.jpg"
     }
   ],
   "scene_audio": [

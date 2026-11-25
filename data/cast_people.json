@@ -78,7 +78,7 @@
     {
       "id": "person_02",
       "index": 2,
-      "name": "Tiger Lily Dostolova",
+      "name": "Maya Dostal (Tiger Lily)",
       "verified_identity": false,
       "match_confidence": null,
       "avatar": "assets/cast_faces/person_02.jpg",
@@ -154,12 +154,15 @@
         "duration_hms": "01:09",
         "role": "Conference Guest",
         "text": "I'm Tiger Lily Dostolova and I feel absolutely honored to be surrounded by all these brilliant female minds coming together to learn more about each other's fields and all the relevant research that's going on as well as getting an opportunity to come together and talk about real-world happenings and the political climate and how it intersects with the work we're doing. I feel more than honored to be in the field of education because I get to continue this fight and inspire young minds to push forward and believe that they can do anything they set their minds to and change is possible. Being in this new city is is so magnificent to explore the way people in the West Coast are feeling about the political climate and banding together creating groups that are actively setting things in motion to create."
-      }
+      },
+      "release_signed": true,
+      "release_date": "2026-11-23",
+      "release_img": "assets/releases/IMG_8850.jpg"
     },
     {
       "id": "person_03",
       "index": 3,
-      "name": "Serge",
+      "name": "Sergei Solovev",
       "verified_identity": false,
       "match_confidence": null,
       "avatar": "assets/cast_faces/person_03.jpg",
@@ -235,12 +238,15 @@
         "duration_hms": "01:08",
         "role": "Tech Bro",
         "text": "I am Serge. I am shooting in Tech Bro. We are talked to drink. We are talked about girls, business, IT. And we are maybe looking at cheating and pull players who are cheating with, who want winner and pull for cheating us. Yeah, it's don't like. Yeah, I'm very angry. I'm hit you. I am say fuck you. I'm get tough. Yeah. And Mamacita do cerveza, por favor. Sitos hand my vodka. Austin, Texas. America's original craft vodka. This is bad for you. Reserved parking. Fans only. Okay."
-      }
+      },
+      "release_signed": true,
+      "release_date": "2026-11-23",
+      "release_img": "assets/releases/IMG_8859.jpg"
     },
     {
       "id": "person_04",
       "index": 4,
-      "name": "Timothy Glynyn",
+      "name": "Timofey Glinin",
       "verified_identity": false,
       "match_confidence": null,
       "avatar": "assets/cast_faces/person_04.jpg",
@@ -310,7 +316,10 @@
         "duration_hms": "01:14",
         "role": "Cast",
         "text": "protest how I try to make all people clever. Can you say your name one more time? Timothy Glynyn. Okay, go ahead. Yeah, and so back in St. Petersburg I was fan of Russian culture, I was fan of democratic politics and I was fan of Alexei Navalny and then my president was killed and when I protested against him they put me in jail and I spent actually one week there. It wasn't too hard but I understand that there are no future with people with my vision there and I understand that it is, yeah, they will kill everyone who against them and it is their methods and they proposed it so clear that no doubt Russian government would be like, they wouldn't react on society's vision. They will."
-      }
+      },
+      "release_signed": true,
+      "release_date": "2026-11-23",
+      "release_img": "assets/releases/IMG_8854.jpg"
     },
     {
       "id": "person_05",
@@ -460,7 +469,10 @@
         "duration_hms": "01:04",
         "role": "Cast",
         "text": "And go! Andrei Tatarinov, and I'm here, I don't know why. Apparently we're supposed to help this guy win this game. He's a fucking loser, he wants us to win this game. What are we supposed to do? I mean, prick the game? I'm not an asshole, I'm not gonna do that. Why would I do that? Maybe if the money is good, I'm gonna help. We'll see, we'll see how it's gonna go. I'm probably gonna just go to the bar and get some beer and say some stupid jokes. Trump jokes, Trump jokes are nice. MAGA jokes are fun. I love MAGA people. They're so dumb, it's so easy to joke about them. So why not? I'm just gonna go entertain some people. I'm gonna say some really stupid stuff that probably gonna get me arrested. But who knows, we'll see. Do you guys, do you guys make sure that you're not supposed to talk about? I don't even know what I'm supposed to speak about right now. I have a bunch of stuff that I'm working on right now to prepare my routine for the stand-up show. But I'm really bad at improvising stuff. I mean, I need to work on it, I need to prepare it."
-      }
+      },
+      "release_signed": true,
+      "release_date": "2026-11-23",
+      "release_img": "assets/releases/IMG_8866.jpg"
     },
     {
       "id": "person_07",
@@ -541,7 +553,9 @@
         "duration_hms": "01:02",
         "role": "Protector",
         "text": "Tell me when you're ready. All right, my name is Alex Miller. I'm here helping out on this to be sort of the protector pool playing person who hangs out with the group to be someone who enforces but protects but doesn't put up with any shit. So, you know, that type of thing. So, if I knew what my character was, I'd be doing it. But I'm trying my best here. So, what I am is I'm someone who doesn't put up with any shit. What I want to do is I don't put up with any crap from anybody. I've worked hard to get where I am and this is what I'm doing here. And I'm still doing it because this is what I'm doing. And if anybody gets in my way, I'm just going to kind of walk over them a little bit. If they get in my way, I walk over them a lot. That's what I do. And that's how it's going to work. I don't care if anybody gives a shit or not. That's who I am. That's what I'm doing. Okay, I'm still working it, baby. I'm still working it. So, you know, this is what I do."
-      }
+      },
+      "release_signed": true,
+      "release_date": "2026-11-23"
     },
     {
       "id": "person_08",
@@ -622,7 +636,9 @@
         "duration_hms": "01:02",
         "role": "Alex's Buddy",
         "text": "Hey, my name is Jim Dietrich and I'm here to back my buddy Alex up because he usually finds himself getting into some kind of scrape that he can't get himself out of on his own. So I thought, I got nothing better to do on a Monday night. Why don't I come down here and make sure my buddy doesn't get any undue trouble. So that's basically my job is to make here and make sure that he doesn't take things too far. And trust me, it's a big job. It's not for the timid, not for the weak of heart. But I know my buddy and I'm here to keep him calm. And that's what I intend to do. So if he gets out of line, you just look my way and say, Jim, it's time to take care of Alex and I'll be on him. And make sure that I get him out of here before too much trouble ensues. And that's basically my lot in life is making sure Alex stays out of trouble. And that's going to be what I do tonight. So keep your eye on me because I'll have my eye on him. And it's never boring. It's never dull. And with any luck, it'll actually..."
-      }
+      },
+      "release_signed": true,
+      "release_date": "2026-11-23"
     },
     {
       "id": "person_09",
@@ -691,12 +707,15 @@
         "role": "Cast",
         "text": "My character name or my real name? Either one. Okay, well I'll just say both. So my real name is Antonia Gao and I am playing Guan Kali, otherwise known as just Kali. My character is inspired by the goddess or the Hindu god Kali who I've actually resonated with. Instead of describing who your character is, be a character and talk about what you're going to do. Just pretend you're talking to somebody. Yeah, yeah. Go ahead. You know my favorite part of today's symposium was that one session on creative expression. That has got to be the most powerful stuff. It's what comes out of us when we are being fully expressed and how that moves the dialogue forward and creates the new world that we envision. I think that if I had to pick the one thing that I would want to emphasize if we created the symposium again next year, it would definitely be to focus on all things creative like the poetry, music, and also I really feel like we had a paucity of trans women. I think that we really need to... Okay. I think that we really need to..."
       },
-      "role": "Cast"
+      "role": "Cast",
+      "release_signed": true,
+      "release_date": "2026-11-23",
+      "release_img": "assets/releases/IMG_8849.jpg"
     },
     {
       "id": "person_10",
       "index": 10,
-      "name": "Mary Ann Heath",
+      "name": "Marianne Heath",
       "verified_identity": false,
       "match_confidence": null,
       "avatar": "assets/cast_faces/person_10.jpg",
@@ -778,7 +797,10 @@
         "duration_hms": "01:15",
         "role": "Tenderloin Y Group",
         "text": "This is Mary Ann Heath. This is Mary Ann Heath. I just ran into some old friends from the Tenderloin Y group that I worked with for many years. I got to see Bridget, who's now a new grandmother. I got to see Trudy, who is an old friend and former partner of Mickey Descend. I got to see Mickey for the first time in probably about 20 years. Mary Ann, why don't you get me? Talk as if you are in that cabin. You're going to meet tonight. Talk as if what? As a captain tonight. What kind of captain? Okay, okay, okay. And go. So yeah, I mean I'm just totally pissed off about this because I don't understand why he's even here. And he's not supposed to be here. And I just can't stand that guy and I just have to confront him. I have to get this off my chest. I can't believe that that would even be a possibility that he's here. And so I'm just going to go and confront him. He's completely put a horrible stain on my life. And it's everything I'm totally against. And this is something that inspired me to even be a part of this movement. So, okay. Okay."
-      }
+      },
+      "release_signed": true,
+      "release_date": "2026-11-23",
+      "release_img": "assets/releases/IMG_8847.jpg"
     },
     {
       "id": "person_11",
@@ -871,7 +893,10 @@
         "duration_hms": "01:06",
         "role": "Cast",
         "text": "Hi, this is Angela Cross and I am going to be talking about all kinds of things tonight. Some of them are going to be very prolonged and not so distinct because I'm a wackadoodle, but in general I will be talking about what it's like to be in a menstrual state of mind and I want to see what you want to be doing in this conference. And I really am curious to see how the day is going to go and what we can do after this conference to bring in some better things. Like we really have something going. How do we keep the momentum alive in this? This is so important and I really feel a lot of energy from this place. You did a great job hosting this conference and yeah, how can we make this happen for longer? This is just really a good experience and I really feel like the interdisciplinary aspects of the conference were some of the best things I've ever seen at a conference. This is what the world really needs to make some big changes and have fluidity in life."
-      }
+      },
+      "release_signed": true,
+      "release_date": "2026-11-23",
+      "release_img": "assets/releases/IMG_8845.jpg"
     },
     {
       "id": "person_12",
@@ -1835,7 +1860,7 @@
     {
       "id": "person_27",
       "index": 27,
-      "name": "Billy Aguero",
+      "name": "William (Billy Aguero)",
       "verified_identity": false,
       "match_confidence": null,
       "avatar": "assets/cast_faces/person_27.jpg",
@@ -1911,7 +1936,9 @@
         "duration_hms": "01:01",
         "role": "Pool League Captain",
         "text": "I'm Billy Aguero. I have 26 players on Tuesday night in Pool League. I have 18 on Thursday night in Scotch Devils League. We have tournaments every Wednesday night and Monday night. There's a big tournament in Vegas in February I'm going to attend. There's going to be about 400 teams playing and it's going to be a big thing. It goes on for 10 days. The good thing about it is I fly out of Santa Rosa instead of San Francisco to Vegas. Tomorrow I'm going to take my dogs to the dog park and ride around with them. They love it. And then Thanksgiving is coming up this Thursday. The whole family is getting together. And we're going to have a big feast which is so cool. And Friday hopefully if it's not raining I'm going to start playing golf again. All right."
-      }
+      },
+      "release_signed": true,
+      "release_date": "2026-11-23"
     },
     {
       "id": "person_28",
@@ -1997,7 +2024,7 @@
     {
       "id": "person_29",
       "index": 29,
-      "name": "Oscar Valdivieso",
+      "name": "Oscar Valdiviezo",
       "verified_identity": false,
       "match_confidence": null,
       "avatar": "assets/cast_faces/person_29.jpg",
@@ -2073,7 +2100,10 @@
         "duration_hms": "01:03",
         "role": "Pro Pool Player",
         "text": "My name is Oscar Valdivieso. I'm from Peru. I'm a professional pool player. I play a lot of tournaments around the USA. I represent my country in a lot of competitions, tournaments. I've been playing pool for like four years. I like to play a lot of pool. I live right now in Roanoke Park, California with my family. I work painting. I like to play soccer also. It's one of my hobbies. I like to play soccer. I like to go to the beach. I like to surf. I like to go to the gym also. I like to exercise a lot. Run. You know. Okay."
-      }
+      },
+      "release_signed": true,
+      "release_date": "2026-11-23",
+      "release_img": "assets/releases/IMG_8855.jpg"
     },
     {
       "id": "person_30",
@@ -2154,7 +2184,9 @@
         "duration_hms": "01:02",
         "role": "Comedian / Host",
         "text": "Hi everybody, my name is Brady Pearson. I'm so excited that you're here tonight. Bar and Dolores, how are we feeling? Feeling good? Great, that's incredible. How many, are there any people out here? Are you excited to hear some comedians tonight? All right, he's asking me. Are you excited to hear some comedians tonight? Yes, that's great. We've got a great backup here. We've got Pam, Lauren, Dennis, Vicky, and Mr. Weed. We're going to have a great time tonight. Let's get it up, let's get it up, let's get this energy up, give it a big round of applause. Is that good? Keep going. All right, let's keep this moving. Pam, are you ready? Let's go. Let's go, okay, so we have another, okay. So, all right, that was great. Great job, everyone. That was great. That was great. Pam, you're up next. Okay. Now, everyone, thank you so much. That was Pam. Give her a round of applause. Thank you. Everyone, bring her to Vicky Beretta. It's Vicky Beretta tonight. Okay. All right. Perfect. Thank you."
-      }
+      },
+      "release_signed": true,
+      "release_date": "2026-11-23"
     },
     {
       "id": "person_31",
@@ -2235,12 +2267,15 @@
         "duration_hms": "01:04",
         "role": "Comedian",
         "text": "You can say anything you want. Great. Hey, my name's Pam Benjamin, and I'm here to tell you guys some jokes tonight. Who else hates our fucking president? Trump sucks, Trump sucks. I moved. I actually moved to Athens, Greece two and a half years ago because I saw the writing on the wall. Nostradamus said, this asshole's going to be in charge of you guys, and you're all going to fall apart. Oh, no, America's falling apart. What are we going to do? It was crazy. I've always known there was a problem with Trump. I mean, what did we learn in 2016 when he took office for the first time? Not everybody hates black people, but everyone hates women. Am I right, Hillary? Ah, you were so—she was the secretary of state. She was so—like, who else was better for the job? Oh, no, but a guy who's never even been the mayor of anything. He wasn't even on a PTA school board. But let's let him run our country. What, what, what? Burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp"
-      }
+      },
+      "release_signed": true,
+      "release_date": "2026-11-23",
+      "release_img": "assets/releases/IMG_8856.jpg"
     },
     {
       "id": "person_32",
       "index": 32,
-      "name": "Lauren Kraut",
+      "name": "Loren Kraut",
       "verified_identity": false,
       "match_confidence": null,
       "avatar": "assets/cast_faces/person_32.jpg",
@@ -2316,12 +2351,15 @@
         "duration_hms": "01:05",
         "role": "Comedian",
         "text": "Say your name first and then for one minute just say whatever you want as a comedian. Okay, Lauren Kraut is my name. I grew up in New Jersey, a small town, and I was white. And my parents didn't know what to name me, so they had a name. They picked out Lauren. If it was a girl, if it was a boy, Lauren. A bunch of baby boomer souls nearby were hanging out waiting to be born because I was born a long time ago. And they would say, this time I want more money. This time I want more sex. And that one of those people had the nerve to pick my parents and become white, Jewish, anorexic, OCD with suicidal tendencies, lesbian, and allergic to cilantro. Yeah, I can kiss Mexican food, adios. And the comedian, I did this for you people. Where's my parade? Where's my parade? I don't know. I saw it. I thought maybe it wasn't that parade. It was a flood and they were running out to catch the water from the, I don't know. Is that enough? You want more? Yeah, could I get a little test on you? Because I think you're... That was..."
-      }
+      },
+      "release_signed": true,
+      "release_date": "2026-11-23",
+      "release_img": "assets/releases/IMG_8858.jpg"
     },
     {
       "id": "person_33",
       "index": 33,
-      "name": "Victoria Barajas (Vicky Beretta)",
+      "name": "Vikki Beretta (Victoria Barajas)",
       "verified_identity": false,
       "match_confidence": null,
       "avatar": "assets/cast_faces/person_33.jpg",
@@ -2397,12 +2435,15 @@
         "duration_hms": "01:05",
         "role": "Comedian",
         "text": "Anything goes hang up? So I go by Vicky Beretta, but my real name is Victoria Barajas, but I'm not trying to get deported. My real name is hella Mexican, but for some reason it took forever to stop pronouncing jalapeno as shit That's spicy. I would say that I peaked being Mexican when I discovered Chamoy But the problem was that I was a pre-diabetic at 95 pounds and pre-diabetic is such a funny word Because unless you're already diabetic aren't we all pre-diabetic and in that case pre should be in front of more words Like people who are dating should be called pre-married and then pre-divorced Religious people should be called pre-atheist and people who voted for Trump should be called pre-tarded So anyway back to about me I am a collab between a Mexican and a Vietnamese English mix which makes me limited edition I really don't know what my parents had in common because it was not English. I I was raised Vietnamese which means that instead of saying go to your room, they'd be like you go jail And I'd be like I feel like we're in jail. There's 16 of us in this tiny box Okay"
-      }
+      },
+      "release_signed": true,
+      "release_date": "2026-11-23",
+      "release_img": "assets/releases/IMG_8865.jpg"
     },
     {
       "id": "person_34",
       "index": 34,
-      "name": "Denis Rajchic",
+      "name": "Denis Rajcic",
       "verified_identity": false,
       "match_confidence": null,
       "avatar": "assets/cast_faces/person_34.jpg",
@@ -2478,12 +2519,15 @@
         "duration_hms": "01:07",
         "role": "Thursday Regular",
         "text": "Okay, my name is Denis Rajchic. We've been annoying the owner of this bar, Damien, year after year, every Thursday with our open mic. This is supposed to be stand-up comedy, but let's be honest, it's more like stand-up tragedy. So Damien finally said, fuck it, I want to watch this tragedy at my home too, every day. So that's why he decided to make this movie about open mic and he said, fuck it, Netflix, I want my bar on Dolores Fix. And yes, that's why we're doing here and doing stand-up comedy, which is great, great bar. Every Thursday we are here, we try to be funny, try to make everyone to be laughed. But to be honest, we're just annoying the owner of this bar, Damien. So yeah, he's our big support and he's helping us to be more funnier. And I'm also an immigrant, I'm coming from Europe, so it took me almost three months from Europe to America in a ship container."
-      }
+      },
+      "release_signed": true,
+      "release_date": "2026-11-23",
+      "release_img": "assets/releases/IMG_8857.jpg"
     },
     {
       "id": "person_35",
       "index": 35,
-      "name": "Shondi Jeter",
+      "name": "Chaundi Perry Jeter",
       "verified_identity": false,
       "match_confidence": null,
       "avatar": "assets/cast_faces/person_35.jpg",
@@ -2565,7 +2609,10 @@
         "duration_hms": "01:03",
         "role": "Revolutionary",
         "text": "I'm Shondi Jeter, 49 years old. I am considered myself a self-acclaimed, suited and booted revolutionary here in the San Francisco Bay Area, originally from Los Angeles, California. I am a newly recent long-term patron of the Bar Dolores here in San Francisco, California. I'm originally from Los Angeles. I've been here 11 years. I guess this is my 15 minutes of fame and I've heard that the role of the artist is to make the revolution irresistible. So I guess that's what it's from here to do. And yes, this is a great opportunity to do that and to contribute in the times that we're in currently under the Trump administration and we're hoping to change some views and be effective in showing people the results of a non-democratic, almost anarchist style leadership currently here in 2026."
-      }
+      },
+      "release_signed": true,
+      "release_date": "2026-11-23",
+      "release_img": "assets/releases/IMG_8869.jpg"
     }
   ],
   "voice_linked_count": 21

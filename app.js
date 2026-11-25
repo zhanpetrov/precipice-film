@@ -428,6 +428,7 @@
         </div>
         <div class="person-name">${escHtml(p.name)}</div>
         <div class="person-meta">${p.photo_count} ${p.photo_count === 1 ? "photo" : "photos"}</div>
+        ${p.release_signed ? `<div class="person-signed-badge">✓ Signed Release</div>` : ""}
       </article>
     `).join("");
 
@@ -443,20 +444,36 @@
     $("#pm-avatar").src = person.avatar;
     $("#pm-avatar").alt = person.name;
     $("#pm-name").textContent = person.name;
-    $("#pm-meta").textContent = `${person.photo_count} matched portraits · ${person.first_still} – ${person.last_still}`;
+    const relTag = person.release_signed ? ` · ✓ Signed Release (${person.release_date || "11/23/26"})` : "";
+    $("#pm-meta").textContent = `${person.photo_count} matched portraits${relTag}`;
 
     const voiceBox = $("#pm-voice");
+    const blocks = [];
+    if (person.release_img) {
+      blocks.push(`
+        <div class="audio-card-head">
+          <span class="signed-pill">✓ Signed Photo &amp; Video Release</span>
+          <button id="pm-open-release" class="mini-btn" type="button">View Signed Release</button>
+        </div>
+      `);
+    }
     if (person.voice_sample) {
       const v = person.voice_sample;
-      voiceBox.hidden = false;
-      voiceBox.innerHTML = `
+      blocks.push(`
         <div class="audio-card-head">
           <span class="audio-title">Voice Sample · ${escHtml(v.role || "Cast")}</span>
           <span class="audio-badge">${escHtml(v.duration_hms)}</span>
         </div>
         <audio controls preload="metadata" src="${escHtml(v.audio)}"></audio>
         <div class="pm-voice-text">${escHtml(v.text || "")}</div>
-      `;
+      `);
+    }
+    if (blocks.length) {
+      voiceBox.hidden = false;
+      voiceBox.innerHTML = blocks.join("");
+      $("#pm-open-release")?.addEventListener("click", () => {
+        openLightbox([{ src: person.release_img, cap: `${person.name} — Signed Release (${person.release_date || "2026-11-23"})` }], 0);
+      });
     } else {
       voiceBox.hidden = true;
       voiceBox.innerHTML = "";
@@ -475,6 +492,71 @@
     });
 
     $("#person-modal").hidden = false;
+  }
+
+  function renderReleases() {
+    const rd = state.releasesData;
+    const list = rd?.releases || [];
+    if (!list.length) return;
+    $("#releases").hidden = false;
+    $("#releases-title").textContent = `Signed Actor Releases (${list.length} Signed · ${rd.scans_archived} Scans)`;
+
+    const q = (state.releasesQuery || "").trim().toLowerCase();
+    const filtered = q
+      ? list.filter((r) => (r.legal_name + " " + (r.role || "") + " " + r.source_file).toLowerCase().includes(q))
+      : list;
+
+    const grid = $("#releases-grid");
+    if (!filtered.length) {
+      grid.innerHTML = `<div class="empty-state">No signed actors match "${escHtml(state.releasesQuery)}".</div>`;
+      return;
+    }
+
+    const people = state.castPeopleData?.people || [];
+    grid.innerHTML = filtered.map((r) => {
+      const initials = r.legal_name.split(/\s+/).slice(0, 2).map((w) => w[0] || "").join("").toUpperCase();
+      const avatarHtml = r.avatar
+        ? `<img class="rel-avatar" src="${escHtml(r.avatar)}" alt="${escHtml(r.legal_name)}" loading="lazy" />`
+        : `<span class="rel-avatar">${escHtml(initials)}</span>`;
+      const scanBtn = r.release_img
+        ? `<button class="mini-btn rel-view-scan" data-img="${escHtml(r.release_img)}" data-cap="${escHtml(r.legal_name)} — Signed Release (${escHtml(r.date_signed)})" type="button">View Release</button>`
+        : `<span class="shot-words">Signed · Scan pending Drive share (${escHtml(r.source_file)})</span>`;
+      const photosBtn = r.person_id
+        ? `<button class="mini-btn rel-open-person" data-pid="${escHtml(r.person_id)}" type="button">${r.photo_count} Portraits</button>`
+        : "";
+      const audioHtml = r.voice_audio
+        ? `<audio controls preload="none" src="${escHtml(r.voice_audio)}"></audio>`
+        : "";
+      return `
+        <article class="release-card">
+          <div class="rel-top">
+            ${avatarHtml}
+            <div class="rel-info">
+              <div class="rel-name">${escHtml(r.legal_name)}</div>
+              <div class="rel-sub">${escHtml(r.role || "Cast")} · Signed ${escHtml(r.date_signed)}</div>
+            </div>
+            <span class="signed-pill">✓ Signed</span>
+          </div>
+          <div class="rel-actions">
+            ${scanBtn}
+            ${photosBtn}
+          </div>
+          ${audioHtml}
+        </article>
+      `;
+    }).join("");
+
+    grid.querySelectorAll(".rel-view-scan").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        openLightbox([{ src: btn.dataset.img, cap: btn.dataset.cap }], 0);
+      });
+    });
+    grid.querySelectorAll(".rel-open-person").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const p = people.find((x) => x.id === btn.dataset.pid);
+        if (p) openPersonModal(p);
+      });
+    });
   }
 
   function renderHightailAudio() {
@@ -610,10 +692,14 @@
       });
     });
 
-    // People search & modal close
+    // People & Releases search + modal close
     $("#people-search")?.addEventListener("input", (e) => {
       state.peopleQuery = e.target.value;
       renderPeople();
+    });
+    $("#releases-search")?.addEventListener("input", (e) => {
+      state.releasesQuery = e.target.value;
+      renderReleases();
     });
     $("#pm-close")?.addEventListener("click", () => { $("#person-modal").hidden = true; });
     $("#person-modal")?.addEventListener("click", (e) => {
@@ -684,24 +770,27 @@
   async function boot() {
     wireUI();
     try {
-      const [shotsRes, chapRes, ytRes, htRes, cpRes] = await Promise.all([
+      const [shotsRes, chapRes, ytRes, htRes, cpRes, relRes] = await Promise.all([
         fetch("data/shots.json"),
         fetch("data/chapters.json").catch(() => null),
         fetch("data/youtube.json").catch(() => null),
         fetch("data/hightail_112326.json").catch(() => null),
         fetch("data/cast_people.json").catch(() => null),
+        fetch("data/releases.json").catch(() => null),
       ]);
       state.shotsData = await shotsRes.json();
       if (chapRes && chapRes.ok) state.chaptersData = await chapRes.json();
       if (ytRes && ytRes.ok) state.youtubeData = await ytRes.json();
       if (htRes && htRes.ok) state.hightailData = await htRes.json();
       if (cpRes && cpRes.ok) state.castPeopleData = await cpRes.json();
+      if (relRes && relRes.ok) state.releasesData = await relRes.json();
 
       renderMetrics();
       renderCameraBar();
       renderShotsGrid();
       renderInspector();
       renderPeople();
+      renderReleases();
       renderHightailAudio();
       renderCastStills();
       renderStills();
