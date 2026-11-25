@@ -178,8 +178,16 @@
       r.classList.toggle("active", isHit);
       if (isHit) activeRow = r;
     });
-    if (activeRow && !state.searchQuery && state.inspectorMode === "transcript") {
-      activeRow.scrollIntoView({ block: "nearest", behavior: "smooth" });
+    if (activeRow && activeRow !== state.lastActiveRow && !state.searchQuery && state.inspectorMode === "transcript") {
+      state.lastActiveRow = activeRow;
+      const isPlaying = state.player && typeof state.player.getPlayerState === "function" && state.player.getPlayerState() === 1;
+      if (isPlaying) {
+        const container = $("#inspector-body");
+        if (container) {
+          const targetTop = activeRow.offsetTop - container.offsetTop - container.clientHeight * 0.35;
+          container.scrollTo({ top: Math.max(0, targetTop), behavior: "smooth" });
+        }
+      }
     }
   }
 
