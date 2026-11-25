@@ -1,0 +1,2572 @@
+{
+  "generated_at": "2026-11-25T06:11:56Z",
+  "model": "MTCNN + InceptionResnetV1 (VGGFace2 512-D Arc/FaceNet Cosine Clustering)",
+  "total_stills_scanned": 339,
+  "faces_detected": 323,
+  "unmatched_stills": 16,
+  "unique_people_count": 35,
+  "people": [
+    {
+      "id": "person_01",
+      "index": 1,
+      "name": "Cast Member #01",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_01.jpg",
+      "photo_count": 8,
+      "first_still": "IMG_1145 2.HEIC",
+      "last_still": "IMG_1152.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1145_2",
+          "filename": "IMG_1145 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1145_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1145_2.jpg"
+        },
+        {
+          "id": "IMG_1146_2",
+          "filename": "IMG_1146 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1146_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1146_2.jpg"
+        },
+        {
+          "id": "IMG_1147_2",
+          "filename": "IMG_1147 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1147_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1147_2.jpg"
+        },
+        {
+          "id": "IMG_1148_2",
+          "filename": "IMG_1148 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1148_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1148_2.jpg"
+        },
+        {
+          "id": "IMG_1149_2",
+          "filename": "IMG_1149 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1149_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1149_2.jpg"
+        },
+        {
+          "id": "IMG_1150_2",
+          "filename": "IMG_1150 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1150_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1150_2.jpg"
+        },
+        {
+          "id": "IMG_1151_2",
+          "filename": "IMG_1151 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1151_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1151_2.jpg"
+        },
+        {
+          "id": "IMG_1152",
+          "filename": "IMG_1152.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1152.jpg",
+          "full": "assets/cast_stills/full/IMG_1152.jpg"
+        }
+      ],
+      "role": "Conference Guest",
+      "voice_sample": {
+        "id": "ZOOM0001_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0001_Tr1.m4a",
+        "duration_hms": "01:15",
+        "role": "Conference Guest",
+        "text": "And go! Yeah. So we are done with our conference and I think we really should enjoy the evening tonight together. I'm so happy that we are all here. We've done a great job and I think it was a very successful conference and all the participants were really, really, really pleased. But I also want to go ahead and see how we can continue this in the future, what kind of new perspectives we might want to explore. So let's continue spending time together. And I know I'm always talking a lot so I don't want to give a, I don't want to stop your ideas. So I want to listen to what you all have to contribute because all of you are such experts in your field that I'm so excited that we are all together. Lydia, say your name. Lydia Becker. Oh, or the name in the film. No. Okay. Okay."
+      }
+    },
+    {
+      "id": "person_02",
+      "index": 2,
+      "name": "Tiger Lily Dostolova",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_02.jpg",
+      "photo_count": 10,
+      "first_still": "IMG_1153 2.HEIC",
+      "last_still": "IMG_1162 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1153_2",
+          "filename": "IMG_1153 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1153_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1153_2.jpg"
+        },
+        {
+          "id": "IMG_1154_2",
+          "filename": "IMG_1154 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1154_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1154_2.jpg"
+        },
+        {
+          "id": "IMG_1155",
+          "filename": "IMG_1155.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1155.jpg",
+          "full": "assets/cast_stills/full/IMG_1155.jpg"
+        },
+        {
+          "id": "IMG_1156_2",
+          "filename": "IMG_1156 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1156_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1156_2.jpg"
+        },
+        {
+          "id": "IMG_1157_2",
+          "filename": "IMG_1157 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1157_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1157_2.jpg"
+        },
+        {
+          "id": "IMG_1158_2",
+          "filename": "IMG_1158 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1158_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1158_2.jpg"
+        },
+        {
+          "id": "IMG_1159_2",
+          "filename": "IMG_1159 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1159_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1159_2.jpg"
+        },
+        {
+          "id": "IMG_1160_2",
+          "filename": "IMG_1160 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1160_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1160_2.jpg"
+        },
+        {
+          "id": "IMG_1161",
+          "filename": "IMG_1161.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1161.jpg",
+          "full": "assets/cast_stills/full/IMG_1161.jpg"
+        },
+        {
+          "id": "IMG_1162_2",
+          "filename": "IMG_1162 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1162_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1162_2.jpg"
+        }
+      ],
+      "role": "Conference Guest",
+      "voice_sample": {
+        "id": "ZOOM0002_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0002_Tr1.m4a",
+        "duration_hms": "01:09",
+        "role": "Conference Guest",
+        "text": "I'm Tiger Lily Dostolova and I feel absolutely honored to be surrounded by all these brilliant female minds coming together to learn more about each other's fields and all the relevant research that's going on as well as getting an opportunity to come together and talk about real-world happenings and the political climate and how it intersects with the work we're doing. I feel more than honored to be in the field of education because I get to continue this fight and inspire young minds to push forward and believe that they can do anything they set their minds to and change is possible. Being in this new city is is so magnificent to explore the way people in the West Coast are feeling about the political climate and banding together creating groups that are actively setting things in motion to create."
+      }
+    },
+    {
+      "id": "person_03",
+      "index": 3,
+      "name": "Serge",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_03.jpg",
+      "photo_count": 10,
+      "first_still": "IMG_1163 2.HEIC",
+      "last_still": "IMG_1173 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1163_2",
+          "filename": "IMG_1163 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1163_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1163_2.jpg"
+        },
+        {
+          "id": "IMG_1164_2",
+          "filename": "IMG_1164 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1164_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1164_2.jpg"
+        },
+        {
+          "id": "IMG_1165_2",
+          "filename": "IMG_1165 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1165_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1165_2.jpg"
+        },
+        {
+          "id": "IMG_1166_2",
+          "filename": "IMG_1166 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1166_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1166_2.jpg"
+        },
+        {
+          "id": "IMG_1167_2",
+          "filename": "IMG_1167 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1167_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1167_2.jpg"
+        },
+        {
+          "id": "IMG_1168_2",
+          "filename": "IMG_1168 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1168_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1168_2.jpg"
+        },
+        {
+          "id": "IMG_1169_2",
+          "filename": "IMG_1169 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1169_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1169_2.jpg"
+        },
+        {
+          "id": "IMG_1171_2",
+          "filename": "IMG_1171 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1171_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1171_2.jpg"
+        },
+        {
+          "id": "IMG_1172_2",
+          "filename": "IMG_1172 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1172_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1172_2.jpg"
+        },
+        {
+          "id": "IMG_1173_2",
+          "filename": "IMG_1173 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1173_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1173_2.jpg"
+        }
+      ],
+      "role": "Tech Bro",
+      "voice_sample": {
+        "id": "ZOOM0003_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0003_Tr1.m4a",
+        "duration_hms": "01:08",
+        "role": "Tech Bro",
+        "text": "I am Serge. I am shooting in Tech Bro. We are talked to drink. We are talked about girls, business, IT. And we are maybe looking at cheating and pull players who are cheating with, who want winner and pull for cheating us. Yeah, it's don't like. Yeah, I'm very angry. I'm hit you. I am say fuck you. I'm get tough. Yeah. And Mamacita do cerveza, por favor. Sitos hand my vodka. Austin, Texas. America's original craft vodka. This is bad for you. Reserved parking. Fans only. Okay."
+      }
+    },
+    {
+      "id": "person_04",
+      "index": 4,
+      "name": "Timothy Glynyn",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_04.jpg",
+      "photo_count": 9,
+      "first_still": "IMG_1174 2.HEIC",
+      "last_still": "IMG_1182 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1174_2",
+          "filename": "IMG_1174 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1174_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1174_2.jpg"
+        },
+        {
+          "id": "IMG_1175_2",
+          "filename": "IMG_1175 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1175_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1175_2.jpg"
+        },
+        {
+          "id": "IMG_1176_2",
+          "filename": "IMG_1176 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1176_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1176_2.jpg"
+        },
+        {
+          "id": "IMG_1177_2",
+          "filename": "IMG_1177 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1177_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1177_2.jpg"
+        },
+        {
+          "id": "IMG_1178_2",
+          "filename": "IMG_1178 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1178_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1178_2.jpg"
+        },
+        {
+          "id": "IMG_1179_2",
+          "filename": "IMG_1179 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1179_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1179_2.jpg"
+        },
+        {
+          "id": "IMG_1180_2",
+          "filename": "IMG_1180 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1180_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1180_2.jpg"
+        },
+        {
+          "id": "IMG_1181_2",
+          "filename": "IMG_1181 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1181_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1181_2.jpg"
+        },
+        {
+          "id": "IMG_1182_2",
+          "filename": "IMG_1182 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1182_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1182_2.jpg"
+        }
+      ],
+      "role": "Cast",
+      "voice_sample": {
+        "id": "ZOOM0004_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0004_Tr1.m4a",
+        "duration_hms": "01:14",
+        "role": "Cast",
+        "text": "protest how I try to make all people clever. Can you say your name one more time? Timothy Glynyn. Okay, go ahead. Yeah, and so back in St. Petersburg I was fan of Russian culture, I was fan of democratic politics and I was fan of Alexei Navalny and then my president was killed and when I protested against him they put me in jail and I spent actually one week there. It wasn't too hard but I understand that there are no future with people with my vision there and I understand that it is, yeah, they will kill everyone who against them and it is their methods and they proposed it so clear that no doubt Russian government would be like, they wouldn't react on society's vision. They will."
+      }
+    },
+    {
+      "id": "person_05",
+      "index": 5,
+      "name": "Cast Member #05",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_05.jpg",
+      "photo_count": 10,
+      "first_still": "IMG_1186 2.HEIC",
+      "last_still": "IMG_1195 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1186_2",
+          "filename": "IMG_1186 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1186_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1186_2.jpg"
+        },
+        {
+          "id": "IMG_1187_2",
+          "filename": "IMG_1187 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1187_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1187_2.jpg"
+        },
+        {
+          "id": "IMG_1188_2",
+          "filename": "IMG_1188 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1188_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1188_2.jpg"
+        },
+        {
+          "id": "IMG_1189_2",
+          "filename": "IMG_1189 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1189_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1189_2.jpg"
+        },
+        {
+          "id": "IMG_1190_2",
+          "filename": "IMG_1190 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1190_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1190_2.jpg"
+        },
+        {
+          "id": "IMG_1191_2",
+          "filename": "IMG_1191 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1191_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1191_2.jpg"
+        },
+        {
+          "id": "IMG_1192_2",
+          "filename": "IMG_1192 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1192_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1192_2.jpg"
+        },
+        {
+          "id": "IMG_1193_2",
+          "filename": "IMG_1193 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1193_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1193_2.jpg"
+        },
+        {
+          "id": "IMG_1194_2",
+          "filename": "IMG_1194 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1194_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1194_2.jpg"
+        },
+        {
+          "id": "IMG_1195_2",
+          "filename": "IMG_1195 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1195_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1195_2.jpg"
+        }
+      ],
+      "role": "Cast",
+      "voice_sample": {
+        "id": "ZOOM0005_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0005_Tr1.m4a",
+        "duration_hms": "01:03",
+        "role": "Cast",
+        "text": "Okay, my... Can you try to speak? Hey guys, try to be quiet around here, okay? I need to get a good audio and... My name is Bob Ashok, and I'm just going to talk about whatever comes to mind. So what we're trying to do is we're trying to really build an AI system that surveils people while they're in Waymos. So something special about what we're doing is that we can get a live stream of exactly what's happening at any given time, and we hacked the computers, the Google computers, in order to be able to take that information and modify it, so that they only see something that is a deep fake version of reality. And behind the scenes, what we're doing is we're using that data and collecting it for our own nefarious purposes. So that's kind of the main plot of this movie, and the role that we're playing is the role of the tech bros who have designed this. Okay. Okay. Okay."
+      }
+    },
+    {
+      "id": "person_06",
+      "index": 6,
+      "name": "Andrei Tatarinov",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_06.jpg",
+      "photo_count": 8,
+      "first_still": "IMG_1196 2.HEIC",
+      "last_still": "IMG_1205 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1196_2",
+          "filename": "IMG_1196 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1196_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1196_2.jpg"
+        },
+        {
+          "id": "IMG_1197_2",
+          "filename": "IMG_1197 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1197_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1197_2.jpg"
+        },
+        {
+          "id": "IMG_1198_2",
+          "filename": "IMG_1198 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1198_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1198_2.jpg"
+        },
+        {
+          "id": "IMG_1199_2",
+          "filename": "IMG_1199 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1199_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1199_2.jpg"
+        },
+        {
+          "id": "IMG_1200_2",
+          "filename": "IMG_1200 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1200_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1200_2.jpg"
+        },
+        {
+          "id": "IMG_1201_2",
+          "filename": "IMG_1201 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1201_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1201_2.jpg"
+        },
+        {
+          "id": "IMG_1204_2",
+          "filename": "IMG_1204 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1204_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1204_2.jpg"
+        },
+        {
+          "id": "IMG_1205_2",
+          "filename": "IMG_1205 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1205_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1205_2.jpg"
+        }
+      ],
+      "role": "Cast",
+      "voice_sample": {
+        "id": "ZOOM0006_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0006_Tr1.m4a",
+        "duration_hms": "01:04",
+        "role": "Cast",
+        "text": "And go! Andrei Tatarinov, and I'm here, I don't know why. Apparently we're supposed to help this guy win this game. He's a fucking loser, he wants us to win this game. What are we supposed to do? I mean, prick the game? I'm not an asshole, I'm not gonna do that. Why would I do that? Maybe if the money is good, I'm gonna help. We'll see, we'll see how it's gonna go. I'm probably gonna just go to the bar and get some beer and say some stupid jokes. Trump jokes, Trump jokes are nice. MAGA jokes are fun. I love MAGA people. They're so dumb, it's so easy to joke about them. So why not? I'm just gonna go entertain some people. I'm gonna say some really stupid stuff that probably gonna get me arrested. But who knows, we'll see. Do you guys, do you guys make sure that you're not supposed to talk about? I don't even know what I'm supposed to speak about right now. I have a bunch of stuff that I'm working on right now to prepare my routine for the stand-up show. But I'm really bad at improvising stuff. I mean, I need to work on it, I need to prepare it."
+      }
+    },
+    {
+      "id": "person_07",
+      "index": 7,
+      "name": "Alex Miller",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_07.jpg",
+      "photo_count": 10,
+      "first_still": "IMG_1206 2.HEIC",
+      "last_still": "IMG_1215 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1206_2",
+          "filename": "IMG_1206 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1206_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1206_2.jpg"
+        },
+        {
+          "id": "IMG_1207_2",
+          "filename": "IMG_1207 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1207_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1207_2.jpg"
+        },
+        {
+          "id": "IMG_1208_2",
+          "filename": "IMG_1208 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1208_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1208_2.jpg"
+        },
+        {
+          "id": "IMG_1209_2",
+          "filename": "IMG_1209 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1209_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1209_2.jpg"
+        },
+        {
+          "id": "IMG_1210_2",
+          "filename": "IMG_1210 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1210_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1210_2.jpg"
+        },
+        {
+          "id": "IMG_1211_2",
+          "filename": "IMG_1211 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1211_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1211_2.jpg"
+        },
+        {
+          "id": "IMG_1212_2",
+          "filename": "IMG_1212 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1212_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1212_2.jpg"
+        },
+        {
+          "id": "IMG_1213_2",
+          "filename": "IMG_1213 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1213_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1213_2.jpg"
+        },
+        {
+          "id": "IMG_1214_2",
+          "filename": "IMG_1214 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1214_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1214_2.jpg"
+        },
+        {
+          "id": "IMG_1215_2",
+          "filename": "IMG_1215 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1215_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1215_2.jpg"
+        }
+      ],
+      "role": "Protector",
+      "voice_sample": {
+        "id": "ZOOM0007_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0007_Tr1.m4a",
+        "duration_hms": "01:02",
+        "role": "Protector",
+        "text": "Tell me when you're ready. All right, my name is Alex Miller. I'm here helping out on this to be sort of the protector pool playing person who hangs out with the group to be someone who enforces but protects but doesn't put up with any shit. So, you know, that type of thing. So, if I knew what my character was, I'd be doing it. But I'm trying my best here. So, what I am is I'm someone who doesn't put up with any shit. What I want to do is I don't put up with any crap from anybody. I've worked hard to get where I am and this is what I'm doing here. And I'm still doing it because this is what I'm doing. And if anybody gets in my way, I'm just going to kind of walk over them a little bit. If they get in my way, I walk over them a lot. That's what I do. And that's how it's going to work. I don't care if anybody gives a shit or not. That's who I am. That's what I'm doing. Okay, I'm still working it, baby. I'm still working it. So, you know, this is what I do."
+      }
+    },
+    {
+      "id": "person_08",
+      "index": 8,
+      "name": "Jim Dietrich",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_08.jpg",
+      "photo_count": 10,
+      "first_still": "IMG_1216 2.HEIC",
+      "last_still": "IMG_1225 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1216_2",
+          "filename": "IMG_1216 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1216_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1216_2.jpg"
+        },
+        {
+          "id": "IMG_1217_2",
+          "filename": "IMG_1217 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1217_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1217_2.jpg"
+        },
+        {
+          "id": "IMG_1218_2",
+          "filename": "IMG_1218 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1218_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1218_2.jpg"
+        },
+        {
+          "id": "IMG_1219",
+          "filename": "IMG_1219.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1219.jpg",
+          "full": "assets/cast_stills/full/IMG_1219.jpg"
+        },
+        {
+          "id": "IMG_1220_2",
+          "filename": "IMG_1220 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1220_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1220_2.jpg"
+        },
+        {
+          "id": "IMG_1221_2",
+          "filename": "IMG_1221 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1221_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1221_2.jpg"
+        },
+        {
+          "id": "IMG_1222_2",
+          "filename": "IMG_1222 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1222_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1222_2.jpg"
+        },
+        {
+          "id": "IMG_1223_2",
+          "filename": "IMG_1223 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1223_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1223_2.jpg"
+        },
+        {
+          "id": "IMG_1224_2",
+          "filename": "IMG_1224 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1224_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1224_2.jpg"
+        },
+        {
+          "id": "IMG_1225_2",
+          "filename": "IMG_1225 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1225_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1225_2.jpg"
+        }
+      ],
+      "role": "Alex's Buddy",
+      "voice_sample": {
+        "id": "ZOOM0008_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0008_Tr1.m4a",
+        "duration_hms": "01:02",
+        "role": "Alex's Buddy",
+        "text": "Hey, my name is Jim Dietrich and I'm here to back my buddy Alex up because he usually finds himself getting into some kind of scrape that he can't get himself out of on his own. So I thought, I got nothing better to do on a Monday night. Why don't I come down here and make sure my buddy doesn't get any undue trouble. So that's basically my job is to make here and make sure that he doesn't take things too far. And trust me, it's a big job. It's not for the timid, not for the weak of heart. But I know my buddy and I'm here to keep him calm. And that's what I intend to do. So if he gets out of line, you just look my way and say, Jim, it's time to take care of Alex and I'll be on him. And make sure that I get him out of here before too much trouble ensues. And that's basically my lot in life is making sure Alex stays out of trouble. And that's going to be what I do tonight. So keep your eye on me because I'll have my eye on him. And it's never boring. It's never dull. And with any luck, it'll actually..."
+      }
+    },
+    {
+      "id": "person_09",
+      "index": 9,
+      "name": "Antonia Kao",
+      "verified_identity": true,
+      "match_confidence": 0.722,
+      "avatar": "assets/cast_faces/person_09.jpg",
+      "photo_count": 8,
+      "first_still": "IMG_1226 2.HEIC",
+      "last_still": "IMG_1236 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1226_2",
+          "filename": "IMG_1226 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1226_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1226_2.jpg"
+        },
+        {
+          "id": "IMG_1227_2",
+          "filename": "IMG_1227 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1227_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1227_2.jpg"
+        },
+        {
+          "id": "IMG_1228_2",
+          "filename": "IMG_1228 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1228_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1228_2.jpg"
+        },
+        {
+          "id": "IMG_1229_2",
+          "filename": "IMG_1229 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1229_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1229_2.jpg"
+        },
+        {
+          "id": "IMG_1230_2",
+          "filename": "IMG_1230 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1230_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1230_2.jpg"
+        },
+        {
+          "id": "IMG_1231_2",
+          "filename": "IMG_1231 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1231_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1231_2.jpg"
+        },
+        {
+          "id": "IMG_1235_2",
+          "filename": "IMG_1235 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1235_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1235_2.jpg"
+        },
+        {
+          "id": "IMG_1236_2",
+          "filename": "IMG_1236 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1236_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1236_2.jpg"
+        }
+      ],
+      "voice_sample": {
+        "id": "ZOOM0009_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0009_Tr1.m4a",
+        "duration_hms": "01:26",
+        "role": "Cast",
+        "text": "My character name or my real name? Either one. Okay, well I'll just say both. So my real name is Antonia Gao and I am playing Guan Kali, otherwise known as just Kali. My character is inspired by the goddess or the Hindu god Kali who I've actually resonated with. Instead of describing who your character is, be a character and talk about what you're going to do. Just pretend you're talking to somebody. Yeah, yeah. Go ahead. You know my favorite part of today's symposium was that one session on creative expression. That has got to be the most powerful stuff. It's what comes out of us when we are being fully expressed and how that moves the dialogue forward and creates the new world that we envision. I think that if I had to pick the one thing that I would want to emphasize if we created the symposium again next year, it would definitely be to focus on all things creative like the poetry, music, and also I really feel like we had a paucity of trans women. I think that we really need to... Okay. I think that we really need to..."
+      },
+      "role": "Cast"
+    },
+    {
+      "id": "person_10",
+      "index": 10,
+      "name": "Mary Ann Heath",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_10.jpg",
+      "photo_count": 11,
+      "first_still": "IMG_1237 2.HEIC",
+      "last_still": "IMG_1247 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1237_2",
+          "filename": "IMG_1237 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1237_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1237_2.jpg"
+        },
+        {
+          "id": "IMG_1238_2",
+          "filename": "IMG_1238 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1238_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1238_2.jpg"
+        },
+        {
+          "id": "IMG_1239_2",
+          "filename": "IMG_1239 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1239_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1239_2.jpg"
+        },
+        {
+          "id": "IMG_1240_2",
+          "filename": "IMG_1240 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1240_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1240_2.jpg"
+        },
+        {
+          "id": "IMG_1241_2",
+          "filename": "IMG_1241 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1241_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1241_2.jpg"
+        },
+        {
+          "id": "IMG_1242_2",
+          "filename": "IMG_1242 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1242_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1242_2.jpg"
+        },
+        {
+          "id": "IMG_1243_2",
+          "filename": "IMG_1243 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1243_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1243_2.jpg"
+        },
+        {
+          "id": "IMG_1244",
+          "filename": "IMG_1244.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1244.jpg",
+          "full": "assets/cast_stills/full/IMG_1244.jpg"
+        },
+        {
+          "id": "IMG_1245_2",
+          "filename": "IMG_1245 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1245_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1245_2.jpg"
+        },
+        {
+          "id": "IMG_1246_2",
+          "filename": "IMG_1246 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1246_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1246_2.jpg"
+        },
+        {
+          "id": "IMG_1247_2",
+          "filename": "IMG_1247 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1247_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1247_2.jpg"
+        }
+      ],
+      "role": "Tenderloin Y Group",
+      "voice_sample": {
+        "id": "ZOOM0010_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0010_Tr1.m4a",
+        "duration_hms": "01:15",
+        "role": "Tenderloin Y Group",
+        "text": "This is Mary Ann Heath. This is Mary Ann Heath. I just ran into some old friends from the Tenderloin Y group that I worked with for many years. I got to see Bridget, who's now a new grandmother. I got to see Trudy, who is an old friend and former partner of Mickey Descend. I got to see Mickey for the first time in probably about 20 years. Mary Ann, why don't you get me? Talk as if you are in that cabin. You're going to meet tonight. Talk as if what? As a captain tonight. What kind of captain? Okay, okay, okay. And go. So yeah, I mean I'm just totally pissed off about this because I don't understand why he's even here. And he's not supposed to be here. And I just can't stand that guy and I just have to confront him. I have to get this off my chest. I can't believe that that would even be a possibility that he's here. And so I'm just going to go and confront him. He's completely put a horrible stain on my life. And it's everything I'm totally against. And this is something that inspired me to even be a part of this movement. So, okay. Okay."
+      }
+    },
+    {
+      "id": "person_11",
+      "index": 11,
+      "name": "Angela Cross",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_11.jpg",
+      "photo_count": 12,
+      "first_still": "IMG_1249 2.HEIC",
+      "last_still": "IMG_1260 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1249_2",
+          "filename": "IMG_1249 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1249_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1249_2.jpg"
+        },
+        {
+          "id": "IMG_1250_2",
+          "filename": "IMG_1250 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1250_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1250_2.jpg"
+        },
+        {
+          "id": "IMG_1251_2",
+          "filename": "IMG_1251 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1251_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1251_2.jpg"
+        },
+        {
+          "id": "IMG_1252_2",
+          "filename": "IMG_1252 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1252_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1252_2.jpg"
+        },
+        {
+          "id": "IMG_1253_2",
+          "filename": "IMG_1253 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1253_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1253_2.jpg"
+        },
+        {
+          "id": "IMG_1254_2",
+          "filename": "IMG_1254 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1254_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1254_2.jpg"
+        },
+        {
+          "id": "IMG_1255_2",
+          "filename": "IMG_1255 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1255_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1255_2.jpg"
+        },
+        {
+          "id": "IMG_1256_2",
+          "filename": "IMG_1256 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1256_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1256_2.jpg"
+        },
+        {
+          "id": "IMG_1257_2",
+          "filename": "IMG_1257 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1257_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1257_2.jpg"
+        },
+        {
+          "id": "IMG_1258_2",
+          "filename": "IMG_1258 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1258_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1258_2.jpg"
+        },
+        {
+          "id": "IMG_1259_2",
+          "filename": "IMG_1259 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1259_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1259_2.jpg"
+        },
+        {
+          "id": "IMG_1260_2",
+          "filename": "IMG_1260 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1260_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1260_2.jpg"
+        }
+      ],
+      "role": "Cast",
+      "voice_sample": {
+        "id": "ZOOM0011_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0011_Tr1.m4a",
+        "duration_hms": "01:06",
+        "role": "Cast",
+        "text": "Hi, this is Angela Cross and I am going to be talking about all kinds of things tonight. Some of them are going to be very prolonged and not so distinct because I'm a wackadoodle, but in general I will be talking about what it's like to be in a menstrual state of mind and I want to see what you want to be doing in this conference. And I really am curious to see how the day is going to go and what we can do after this conference to bring in some better things. Like we really have something going. How do we keep the momentum alive in this? This is so important and I really feel a lot of energy from this place. You did a great job hosting this conference and yeah, how can we make this happen for longer? This is just really a good experience and I really feel like the interdisciplinary aspects of the conference were some of the best things I've ever seen at a conference. This is what the world really needs to make some big changes and have fluidity in life."
+      }
+    },
+    {
+      "id": "person_12",
+      "index": 12,
+      "name": "Cast Person #12",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_12.jpg",
+      "photo_count": 10,
+      "first_still": "IMG_1261 2.HEIC",
+      "last_still": "IMG_1270 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1261_2",
+          "filename": "IMG_1261 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1261_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1261_2.jpg"
+        },
+        {
+          "id": "IMG_1262_2",
+          "filename": "IMG_1262 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1262_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1262_2.jpg"
+        },
+        {
+          "id": "IMG_1263_2",
+          "filename": "IMG_1263 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1263_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1263_2.jpg"
+        },
+        {
+          "id": "IMG_1264_2",
+          "filename": "IMG_1264 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1264_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1264_2.jpg"
+        },
+        {
+          "id": "IMG_1265_2",
+          "filename": "IMG_1265 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1265_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1265_2.jpg"
+        },
+        {
+          "id": "IMG_1266_2",
+          "filename": "IMG_1266 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1266_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1266_2.jpg"
+        },
+        {
+          "id": "IMG_1267_2",
+          "filename": "IMG_1267 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1267_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1267_2.jpg"
+        },
+        {
+          "id": "IMG_1268_2",
+          "filename": "IMG_1268 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1268_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1268_2.jpg"
+        },
+        {
+          "id": "IMG_1269_2",
+          "filename": "IMG_1269 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1269_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1269_2.jpg"
+        },
+        {
+          "id": "IMG_1270_2",
+          "filename": "IMG_1270 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1270_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1270_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "person_13",
+      "index": 13,
+      "name": "Cast Person #13",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_13.jpg",
+      "photo_count": 11,
+      "first_still": "IMG_1271 2.HEIC",
+      "last_still": "IMG_1281 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1271_2",
+          "filename": "IMG_1271 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1271_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1271_2.jpg"
+        },
+        {
+          "id": "IMG_1272_2",
+          "filename": "IMG_1272 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1272_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1272_2.jpg"
+        },
+        {
+          "id": "IMG_1273_2",
+          "filename": "IMG_1273 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1273_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1273_2.jpg"
+        },
+        {
+          "id": "IMG_1274_2",
+          "filename": "IMG_1274 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1274_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1274_2.jpg"
+        },
+        {
+          "id": "IMG_1275_2",
+          "filename": "IMG_1275 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1275_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1275_2.jpg"
+        },
+        {
+          "id": "IMG_1276_2",
+          "filename": "IMG_1276 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1276_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1276_2.jpg"
+        },
+        {
+          "id": "IMG_1277_2",
+          "filename": "IMG_1277 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1277_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1277_2.jpg"
+        },
+        {
+          "id": "IMG_1278_2",
+          "filename": "IMG_1278 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1278_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1278_2.jpg"
+        },
+        {
+          "id": "IMG_1279_2",
+          "filename": "IMG_1279 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1279_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1279_2.jpg"
+        },
+        {
+          "id": "IMG_1280_2",
+          "filename": "IMG_1280 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1280_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1280_2.jpg"
+        },
+        {
+          "id": "IMG_1281_2",
+          "filename": "IMG_1281 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1281_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1281_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "person_14",
+      "index": 14,
+      "name": "Cast Person #14",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_14.jpg",
+      "photo_count": 15,
+      "first_still": "IMG_1282 2.HEIC",
+      "last_still": "IMG_1314 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1282_2",
+          "filename": "IMG_1282 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1282_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1282_2.jpg"
+        },
+        {
+          "id": "IMG_1283_2",
+          "filename": "IMG_1283 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1283_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1283_2.jpg"
+        },
+        {
+          "id": "IMG_1284_2",
+          "filename": "IMG_1284 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1284_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1284_2.jpg"
+        },
+        {
+          "id": "IMG_1285_2",
+          "filename": "IMG_1285 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1285_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1285_2.jpg"
+        },
+        {
+          "id": "IMG_1286_2",
+          "filename": "IMG_1286 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1286_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1286_2.jpg"
+        },
+        {
+          "id": "IMG_1287_2",
+          "filename": "IMG_1287 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1287_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1287_2.jpg"
+        },
+        {
+          "id": "IMG_1288_2",
+          "filename": "IMG_1288 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1288_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1288_2.jpg"
+        },
+        {
+          "id": "IMG_1289_2",
+          "filename": "IMG_1289 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1289_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1289_2.jpg"
+        },
+        {
+          "id": "IMG_1290_2",
+          "filename": "IMG_1290 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1290_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1290_2.jpg"
+        },
+        {
+          "id": "IMG_1291_2",
+          "filename": "IMG_1291 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1291_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1291_2.jpg"
+        },
+        {
+          "id": "IMG_1292_2",
+          "filename": "IMG_1292 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1292_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1292_2.jpg"
+        },
+        {
+          "id": "IMG_1311_2",
+          "filename": "IMG_1311 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1311_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1311_2.jpg"
+        },
+        {
+          "id": "IMG_1312_2",
+          "filename": "IMG_1312 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1312_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1312_2.jpg"
+        },
+        {
+          "id": "IMG_1313_2",
+          "filename": "IMG_1313 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1313_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1313_2.jpg"
+        },
+        {
+          "id": "IMG_1314_2",
+          "filename": "IMG_1314 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1314_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1314_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "person_15",
+      "index": 15,
+      "name": "Cast Person #15",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_15.jpg",
+      "photo_count": 10,
+      "first_still": "IMG_1294 2.HEIC",
+      "last_still": "IMG_1303 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1294_2",
+          "filename": "IMG_1294 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1294_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1294_2.jpg"
+        },
+        {
+          "id": "IMG_1295_2",
+          "filename": "IMG_1295 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1295_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1295_2.jpg"
+        },
+        {
+          "id": "IMG_1296_2",
+          "filename": "IMG_1296 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1296_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1296_2.jpg"
+        },
+        {
+          "id": "IMG_1297_2",
+          "filename": "IMG_1297 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1297_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1297_2.jpg"
+        },
+        {
+          "id": "IMG_1298_2",
+          "filename": "IMG_1298 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1298_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1298_2.jpg"
+        },
+        {
+          "id": "IMG_1299_2",
+          "filename": "IMG_1299 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1299_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1299_2.jpg"
+        },
+        {
+          "id": "IMG_1300_2",
+          "filename": "IMG_1300 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1300_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1300_2.jpg"
+        },
+        {
+          "id": "IMG_1301_2",
+          "filename": "IMG_1301 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1301_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1301_2.jpg"
+        },
+        {
+          "id": "IMG_1302_2",
+          "filename": "IMG_1302 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1302_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1302_2.jpg"
+        },
+        {
+          "id": "IMG_1303_2",
+          "filename": "IMG_1303 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1303_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1303_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "person_16",
+      "index": 16,
+      "name": "Cast Person #16",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_16.jpg",
+      "photo_count": 7,
+      "first_still": "IMG_1304 2.HEIC",
+      "last_still": "IMG_1310 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1304_2",
+          "filename": "IMG_1304 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1304_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1304_2.jpg"
+        },
+        {
+          "id": "IMG_1305_2",
+          "filename": "IMG_1305 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1305_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1305_2.jpg"
+        },
+        {
+          "id": "IMG_1306_2",
+          "filename": "IMG_1306 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1306_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1306_2.jpg"
+        },
+        {
+          "id": "IMG_1307_2",
+          "filename": "IMG_1307 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1307_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1307_2.jpg"
+        },
+        {
+          "id": "IMG_1308_2",
+          "filename": "IMG_1308 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1308_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1308_2.jpg"
+        },
+        {
+          "id": "IMG_1309_2",
+          "filename": "IMG_1309 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1309_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1309_2.jpg"
+        },
+        {
+          "id": "IMG_1310_2",
+          "filename": "IMG_1310 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1310_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1310_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "person_17",
+      "index": 17,
+      "name": "Cast Person #17",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_17.jpg",
+      "photo_count": 6,
+      "first_still": "IMG_1317 2.HEIC",
+      "last_still": "IMG_1322 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1317_2",
+          "filename": "IMG_1317 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1317_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1317_2.jpg"
+        },
+        {
+          "id": "IMG_1318_2",
+          "filename": "IMG_1318 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1318_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1318_2.jpg"
+        },
+        {
+          "id": "IMG_1319_2",
+          "filename": "IMG_1319 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1319_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1319_2.jpg"
+        },
+        {
+          "id": "IMG_1320_2",
+          "filename": "IMG_1320 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1320_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1320_2.jpg"
+        },
+        {
+          "id": "IMG_1321_2",
+          "filename": "IMG_1321 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1321_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1321_2.jpg"
+        },
+        {
+          "id": "IMG_1322_2",
+          "filename": "IMG_1322 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1322_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1322_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "person_18",
+      "index": 18,
+      "name": "Cast Person #18",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_18.jpg",
+      "photo_count": 8,
+      "first_still": "IMG_1328 2.HEIC",
+      "last_still": "IMG_1336 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1328_2",
+          "filename": "IMG_1328 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1328_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1328_2.jpg"
+        },
+        {
+          "id": "IMG_1329_2",
+          "filename": "IMG_1329 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1329_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1329_2.jpg"
+        },
+        {
+          "id": "IMG_1330_2",
+          "filename": "IMG_1330 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1330_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1330_2.jpg"
+        },
+        {
+          "id": "IMG_1331_2",
+          "filename": "IMG_1331 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1331_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1331_2.jpg"
+        },
+        {
+          "id": "IMG_1332_2",
+          "filename": "IMG_1332 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1332_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1332_2.jpg"
+        },
+        {
+          "id": "IMG_1333_2",
+          "filename": "IMG_1333 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1333_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1333_2.jpg"
+        },
+        {
+          "id": "IMG_1335_2",
+          "filename": "IMG_1335 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1335_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1335_2.jpg"
+        },
+        {
+          "id": "IMG_1336_2",
+          "filename": "IMG_1336 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1336_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1336_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "person_19",
+      "index": 19,
+      "name": "Cast Person #19",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_19.jpg",
+      "photo_count": 10,
+      "first_still": "IMG_1338 2.HEIC",
+      "last_still": "IMG_1347 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1338_2",
+          "filename": "IMG_1338 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1338_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1338_2.jpg"
+        },
+        {
+          "id": "IMG_1339_2",
+          "filename": "IMG_1339 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1339_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1339_2.jpg"
+        },
+        {
+          "id": "IMG_1340_2",
+          "filename": "IMG_1340 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1340_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1340_2.jpg"
+        },
+        {
+          "id": "IMG_1341_2",
+          "filename": "IMG_1341 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1341_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1341_2.jpg"
+        },
+        {
+          "id": "IMG_1342_2",
+          "filename": "IMG_1342 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1342_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1342_2.jpg"
+        },
+        {
+          "id": "IMG_1343_2",
+          "filename": "IMG_1343 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1343_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1343_2.jpg"
+        },
+        {
+          "id": "IMG_1344_2",
+          "filename": "IMG_1344 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1344_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1344_2.jpg"
+        },
+        {
+          "id": "IMG_1345_2",
+          "filename": "IMG_1345 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1345_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1345_2.jpg"
+        },
+        {
+          "id": "IMG_1346_2",
+          "filename": "IMG_1346 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1346_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1346_2.jpg"
+        },
+        {
+          "id": "IMG_1347_2",
+          "filename": "IMG_1347 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1347_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1347_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "person_20",
+      "index": 20,
+      "name": "Cast Person #20",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_20.jpg",
+      "photo_count": 8,
+      "first_still": "IMG_1348 2.HEIC",
+      "last_still": "IMG_1357.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1348_2",
+          "filename": "IMG_1348 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1348_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1348_2.jpg"
+        },
+        {
+          "id": "IMG_1349_2",
+          "filename": "IMG_1349 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1349_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1349_2.jpg"
+        },
+        {
+          "id": "IMG_1350_2",
+          "filename": "IMG_1350 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1350_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1350_2.jpg"
+        },
+        {
+          "id": "IMG_1351_2",
+          "filename": "IMG_1351 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1351_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1351_2.jpg"
+        },
+        {
+          "id": "IMG_1352_2",
+          "filename": "IMG_1352 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1352_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1352_2.jpg"
+        },
+        {
+          "id": "IMG_1353_2",
+          "filename": "IMG_1353 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1353_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1353_2.jpg"
+        },
+        {
+          "id": "IMG_1356",
+          "filename": "IMG_1356.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1356.jpg",
+          "full": "assets/cast_stills/full/IMG_1356.jpg"
+        },
+        {
+          "id": "IMG_1357",
+          "filename": "IMG_1357.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1357.jpg",
+          "full": "assets/cast_stills/full/IMG_1357.jpg"
+        }
+      ]
+    },
+    {
+      "id": "person_21",
+      "index": 21,
+      "name": "Ken Newman",
+      "verified_identity": true,
+      "match_confidence": 0.771,
+      "avatar": "assets/cast_faces/person_21.jpg",
+      "photo_count": 10,
+      "first_still": "IMG_1358.HEIC",
+      "last_still": "IMG_1367.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1358",
+          "filename": "IMG_1358.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1358.jpg",
+          "full": "assets/cast_stills/full/IMG_1358.jpg"
+        },
+        {
+          "id": "IMG_1359",
+          "filename": "IMG_1359.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1359.jpg",
+          "full": "assets/cast_stills/full/IMG_1359.jpg"
+        },
+        {
+          "id": "IMG_1360",
+          "filename": "IMG_1360.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1360.jpg",
+          "full": "assets/cast_stills/full/IMG_1360.jpg"
+        },
+        {
+          "id": "IMG_1361",
+          "filename": "IMG_1361.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1361.jpg",
+          "full": "assets/cast_stills/full/IMG_1361.jpg"
+        },
+        {
+          "id": "IMG_1362",
+          "filename": "IMG_1362.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1362.jpg",
+          "full": "assets/cast_stills/full/IMG_1362.jpg"
+        },
+        {
+          "id": "IMG_1363",
+          "filename": "IMG_1363.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1363.jpg",
+          "full": "assets/cast_stills/full/IMG_1363.jpg"
+        },
+        {
+          "id": "IMG_1364",
+          "filename": "IMG_1364.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1364.jpg",
+          "full": "assets/cast_stills/full/IMG_1364.jpg"
+        },
+        {
+          "id": "IMG_1365",
+          "filename": "IMG_1365.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1365.jpg",
+          "full": "assets/cast_stills/full/IMG_1365.jpg"
+        },
+        {
+          "id": "IMG_1366",
+          "filename": "IMG_1366.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1366.jpg",
+          "full": "assets/cast_stills/full/IMG_1366.jpg"
+        },
+        {
+          "id": "IMG_1367",
+          "filename": "IMG_1367.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1367.jpg",
+          "full": "assets/cast_stills/full/IMG_1367.jpg"
+        }
+      ]
+    },
+    {
+      "id": "person_22",
+      "index": 22,
+      "name": "Cast Person #22",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_22.jpg",
+      "photo_count": 7,
+      "first_still": "IMG_1368.HEIC",
+      "last_still": "IMG_1374.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1368",
+          "filename": "IMG_1368.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1368.jpg",
+          "full": "assets/cast_stills/full/IMG_1368.jpg"
+        },
+        {
+          "id": "IMG_1369",
+          "filename": "IMG_1369.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1369.jpg",
+          "full": "assets/cast_stills/full/IMG_1369.jpg"
+        },
+        {
+          "id": "IMG_1370",
+          "filename": "IMG_1370.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1370.jpg",
+          "full": "assets/cast_stills/full/IMG_1370.jpg"
+        },
+        {
+          "id": "IMG_1371",
+          "filename": "IMG_1371.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1371.jpg",
+          "full": "assets/cast_stills/full/IMG_1371.jpg"
+        },
+        {
+          "id": "IMG_1372",
+          "filename": "IMG_1372.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1372.jpg",
+          "full": "assets/cast_stills/full/IMG_1372.jpg"
+        },
+        {
+          "id": "IMG_1373",
+          "filename": "IMG_1373.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1373.jpg",
+          "full": "assets/cast_stills/full/IMG_1373.jpg"
+        },
+        {
+          "id": "IMG_1374",
+          "filename": "IMG_1374.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1374.jpg",
+          "full": "assets/cast_stills/full/IMG_1374.jpg"
+        }
+      ]
+    },
+    {
+      "id": "person_23",
+      "index": 23,
+      "name": "Cast Person #23",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_23.jpg",
+      "photo_count": 4,
+      "first_still": "IMG_1375.HEIC",
+      "last_still": "IMG_1378.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1375",
+          "filename": "IMG_1375.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1375.jpg",
+          "full": "assets/cast_stills/full/IMG_1375.jpg"
+        },
+        {
+          "id": "IMG_1376",
+          "filename": "IMG_1376.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1376.jpg",
+          "full": "assets/cast_stills/full/IMG_1376.jpg"
+        },
+        {
+          "id": "IMG_1377",
+          "filename": "IMG_1377.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1377.jpg",
+          "full": "assets/cast_stills/full/IMG_1377.jpg"
+        },
+        {
+          "id": "IMG_1378",
+          "filename": "IMG_1378.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1378.jpg",
+          "full": "assets/cast_stills/full/IMG_1378.jpg"
+        }
+      ]
+    },
+    {
+      "id": "person_24",
+      "index": 24,
+      "name": "Cast Person #24",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_24.jpg",
+      "photo_count": 6,
+      "first_still": "IMG_1379.HEIC",
+      "last_still": "IMG_1384 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1379",
+          "filename": "IMG_1379.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1379.jpg",
+          "full": "assets/cast_stills/full/IMG_1379.jpg"
+        },
+        {
+          "id": "IMG_1380",
+          "filename": "IMG_1380.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1380.jpg",
+          "full": "assets/cast_stills/full/IMG_1380.jpg"
+        },
+        {
+          "id": "IMG_1381",
+          "filename": "IMG_1381.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1381.jpg",
+          "full": "assets/cast_stills/full/IMG_1381.jpg"
+        },
+        {
+          "id": "IMG_1382",
+          "filename": "IMG_1382.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1382.jpg",
+          "full": "assets/cast_stills/full/IMG_1382.jpg"
+        },
+        {
+          "id": "IMG_1383",
+          "filename": "IMG_1383.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1383.jpg",
+          "full": "assets/cast_stills/full/IMG_1383.jpg"
+        },
+        {
+          "id": "IMG_1384_2",
+          "filename": "IMG_1384 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1384_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1384_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "person_25",
+      "index": 25,
+      "name": "Cast Person #25",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_25.jpg",
+      "photo_count": 4,
+      "first_still": "IMG_1385 2.HEIC",
+      "last_still": "IMG_1388 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1385_2",
+          "filename": "IMG_1385 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1385_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1385_2.jpg"
+        },
+        {
+          "id": "IMG_1386_2",
+          "filename": "IMG_1386 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1386_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1386_2.jpg"
+        },
+        {
+          "id": "IMG_1387_2",
+          "filename": "IMG_1387 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1387_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1387_2.jpg"
+        },
+        {
+          "id": "IMG_1388_2",
+          "filename": "IMG_1388 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1388_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1388_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "person_26",
+      "index": 26,
+      "name": "Russell Murphy",
+      "verified_identity": true,
+      "match_confidence": 0.753,
+      "avatar": "assets/cast_faces/person_26.jpg",
+      "photo_count": 10,
+      "first_still": "IMG_1389 2.HEIC",
+      "last_still": "IMG_1398 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1389_2",
+          "filename": "IMG_1389 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1389_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1389_2.jpg"
+        },
+        {
+          "id": "IMG_1390_2",
+          "filename": "IMG_1390 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1390_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1390_2.jpg"
+        },
+        {
+          "id": "IMG_1391_2",
+          "filename": "IMG_1391 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1391_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1391_2.jpg"
+        },
+        {
+          "id": "IMG_1392_2",
+          "filename": "IMG_1392 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1392_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1392_2.jpg"
+        },
+        {
+          "id": "IMG_1393_2",
+          "filename": "IMG_1393 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1393_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1393_2.jpg"
+        },
+        {
+          "id": "IMG_1394_2",
+          "filename": "IMG_1394 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1394_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1394_2.jpg"
+        },
+        {
+          "id": "IMG_1395_2",
+          "filename": "IMG_1395 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1395_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1395_2.jpg"
+        },
+        {
+          "id": "IMG_1396_2",
+          "filename": "IMG_1396 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1396_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1396_2.jpg"
+        },
+        {
+          "id": "IMG_1397_2",
+          "filename": "IMG_1397 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1397_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1397_2.jpg"
+        },
+        {
+          "id": "IMG_1398_2",
+          "filename": "IMG_1398 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1398_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1398_2.jpg"
+        }
+      ],
+      "voice_sample": {
+        "id": "ZOOM0025_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0025_Tr1.m4a",
+        "duration_hms": "01:03",
+        "role": "Bar Regular",
+        "text": "My name is Russell Murphy and I have not been in this bar for at least 35 years. It's pretty amazing that these little neighborhood bars draw this kind of a crowd on a Monday night. But good for it. I'm glad to see us doing well. Thank you very much and I'm going to go say hi to a few friends I haven't seen for a while and maybe I can let them buy me a drink. If all goes well. Other than that, check out what these guys are doing at this pool game. That's something I can do but I like to watch. And I can keep talking as long as you want. Would you like to know what happened today in the news?"
+      },
+      "role": "Bar Regular"
+    },
+    {
+      "id": "person_27",
+      "index": 27,
+      "name": "Billy Aguero",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_27.jpg",
+      "photo_count": 10,
+      "first_still": "IMG_1399 2.HEIC",
+      "last_still": "IMG_1408 2.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1399_2",
+          "filename": "IMG_1399 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1399_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1399_2.jpg"
+        },
+        {
+          "id": "IMG_1400_2",
+          "filename": "IMG_1400 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1400_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1400_2.jpg"
+        },
+        {
+          "id": "IMG_1401_2",
+          "filename": "IMG_1401 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1401_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1401_2.jpg"
+        },
+        {
+          "id": "IMG_1402_2",
+          "filename": "IMG_1402 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1402_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1402_2.jpg"
+        },
+        {
+          "id": "IMG_1403_2",
+          "filename": "IMG_1403 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1403_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1403_2.jpg"
+        },
+        {
+          "id": "IMG_1404_2",
+          "filename": "IMG_1404 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1404_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1404_2.jpg"
+        },
+        {
+          "id": "IMG_1405_2",
+          "filename": "IMG_1405 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1405_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1405_2.jpg"
+        },
+        {
+          "id": "IMG_1406_2",
+          "filename": "IMG_1406 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1406_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1406_2.jpg"
+        },
+        {
+          "id": "IMG_1407_2",
+          "filename": "IMG_1407 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1407_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1407_2.jpg"
+        },
+        {
+          "id": "IMG_1408_2",
+          "filename": "IMG_1408 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1408_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1408_2.jpg"
+        }
+      ],
+      "role": "Pool League Captain",
+      "voice_sample": {
+        "id": "ZOOM0026_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0026_Tr1.m4a",
+        "duration_hms": "01:01",
+        "role": "Pool League Captain",
+        "text": "I'm Billy Aguero. I have 26 players on Tuesday night in Pool League. I have 18 on Thursday night in Scotch Devils League. We have tournaments every Wednesday night and Monday night. There's a big tournament in Vegas in February I'm going to attend. There's going to be about 400 teams playing and it's going to be a big thing. It goes on for 10 days. The good thing about it is I fly out of Santa Rosa instead of San Francisco to Vegas. Tomorrow I'm going to take my dogs to the dog park and ride around with them. They love it. And then Thanksgiving is coming up this Thursday. The whole family is getting together. And we're going to have a big feast which is so cool. And Friday hopefully if it's not raining I'm going to start playing golf again. All right."
+      }
+    },
+    {
+      "id": "person_28",
+      "index": 28,
+      "name": "Cast Member #27",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_28.jpg",
+      "photo_count": 10,
+      "first_still": "IMG_1409 2.HEIC",
+      "last_still": "IMG_1418.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1409_2",
+          "filename": "IMG_1409 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1409_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1409_2.jpg"
+        },
+        {
+          "id": "IMG_1410_2",
+          "filename": "IMG_1410 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1410_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1410_2.jpg"
+        },
+        {
+          "id": "IMG_1411_2",
+          "filename": "IMG_1411 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1411_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1411_2.jpg"
+        },
+        {
+          "id": "IMG_1412_2",
+          "filename": "IMG_1412 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1412_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1412_2.jpg"
+        },
+        {
+          "id": "IMG_1413_2",
+          "filename": "IMG_1413 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1413_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1413_2.jpg"
+        },
+        {
+          "id": "IMG_1414_2",
+          "filename": "IMG_1414 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1414_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1414_2.jpg"
+        },
+        {
+          "id": "IMG_1415_2",
+          "filename": "IMG_1415 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1415_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1415_2.jpg"
+        },
+        {
+          "id": "IMG_1416_2",
+          "filename": "IMG_1416 2.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1416_2.jpg",
+          "full": "assets/cast_stills/full/IMG_1416_2.jpg"
+        },
+        {
+          "id": "IMG_1417",
+          "filename": "IMG_1417.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1417.jpg",
+          "full": "assets/cast_stills/full/IMG_1417.jpg"
+        },
+        {
+          "id": "IMG_1418",
+          "filename": "IMG_1418.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1418.jpg",
+          "full": "assets/cast_stills/full/IMG_1418.jpg"
+        }
+      ],
+      "role": "Bar Patron",
+      "voice_sample": {
+        "id": "ZOOM0027_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0027_Tr1.m4a",
+        "duration_hms": "01:07",
+        "role": "Bar Patron",
+        "text": "And then go. Andre, what the hell are you talking about? They're doing the damn job. They have families to feed as well. If you shot him, if they shot him, he must have done something wrong. They're federal agents. They're enforcing the law. What do you expect them to do? Just stand there and do nothing? Oh, no. Now you care. Where was all this compassion when Charlie Kirk was shot? Where were your tears? Where was your outreach then? It has everything to do with this. I'm sick of your hypocrisy. You only care when it fits your politics. And I'm telling you, actions have consequences. If he would follow the law, none of this would have happened. I'm not going to apologize for supporting law enforcement. I'm not going to feel sorry for someone who refuses to follow the law. You know what? If you don't like this country and the way we enforce our laws, maybe you should go back to where you came from. Good."
+      }
+    },
+    {
+      "id": "person_29",
+      "index": 29,
+      "name": "Oscar Valdivieso",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_29.jpg",
+      "photo_count": 10,
+      "first_still": "IMG_1419.HEIC",
+      "last_still": "IMG_1428.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1419",
+          "filename": "IMG_1419.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1419.jpg",
+          "full": "assets/cast_stills/full/IMG_1419.jpg"
+        },
+        {
+          "id": "IMG_1420",
+          "filename": "IMG_1420.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1420.jpg",
+          "full": "assets/cast_stills/full/IMG_1420.jpg"
+        },
+        {
+          "id": "IMG_1421",
+          "filename": "IMG_1421.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1421.jpg",
+          "full": "assets/cast_stills/full/IMG_1421.jpg"
+        },
+        {
+          "id": "IMG_1422",
+          "filename": "IMG_1422.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1422.jpg",
+          "full": "assets/cast_stills/full/IMG_1422.jpg"
+        },
+        {
+          "id": "IMG_1423",
+          "filename": "IMG_1423.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1423.jpg",
+          "full": "assets/cast_stills/full/IMG_1423.jpg"
+        },
+        {
+          "id": "IMG_1424",
+          "filename": "IMG_1424.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1424.jpg",
+          "full": "assets/cast_stills/full/IMG_1424.jpg"
+        },
+        {
+          "id": "IMG_1425",
+          "filename": "IMG_1425.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1425.jpg",
+          "full": "assets/cast_stills/full/IMG_1425.jpg"
+        },
+        {
+          "id": "IMG_1426",
+          "filename": "IMG_1426.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1426.jpg",
+          "full": "assets/cast_stills/full/IMG_1426.jpg"
+        },
+        {
+          "id": "IMG_1427",
+          "filename": "IMG_1427.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1427.jpg",
+          "full": "assets/cast_stills/full/IMG_1427.jpg"
+        },
+        {
+          "id": "IMG_1428",
+          "filename": "IMG_1428.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1428.jpg",
+          "full": "assets/cast_stills/full/IMG_1428.jpg"
+        }
+      ],
+      "role": "Pro Pool Player",
+      "voice_sample": {
+        "id": "ZOOM0028_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0028_Tr1.m4a",
+        "duration_hms": "01:03",
+        "role": "Pro Pool Player",
+        "text": "My name is Oscar Valdivieso. I'm from Peru. I'm a professional pool player. I play a lot of tournaments around the USA. I represent my country in a lot of competitions, tournaments. I've been playing pool for like four years. I like to play a lot of pool. I live right now in Roanoke Park, California with my family. I work painting. I like to play soccer also. It's one of my hobbies. I like to play soccer. I like to go to the beach. I like to surf. I like to go to the gym also. I like to exercise a lot. Run. You know. Okay."
+      }
+    },
+    {
+      "id": "person_30",
+      "index": 30,
+      "name": "Brady Pearson",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_30.jpg",
+      "photo_count": 10,
+      "first_still": "IMG_1429.HEIC",
+      "last_still": "IMG_1438.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1429",
+          "filename": "IMG_1429.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1429.jpg",
+          "full": "assets/cast_stills/full/IMG_1429.jpg"
+        },
+        {
+          "id": "IMG_1430",
+          "filename": "IMG_1430.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1430.jpg",
+          "full": "assets/cast_stills/full/IMG_1430.jpg"
+        },
+        {
+          "id": "IMG_1431",
+          "filename": "IMG_1431.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1431.jpg",
+          "full": "assets/cast_stills/full/IMG_1431.jpg"
+        },
+        {
+          "id": "IMG_1432",
+          "filename": "IMG_1432.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1432.jpg",
+          "full": "assets/cast_stills/full/IMG_1432.jpg"
+        },
+        {
+          "id": "IMG_1433",
+          "filename": "IMG_1433.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1433.jpg",
+          "full": "assets/cast_stills/full/IMG_1433.jpg"
+        },
+        {
+          "id": "IMG_1434",
+          "filename": "IMG_1434.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1434.jpg",
+          "full": "assets/cast_stills/full/IMG_1434.jpg"
+        },
+        {
+          "id": "IMG_1435",
+          "filename": "IMG_1435.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1435.jpg",
+          "full": "assets/cast_stills/full/IMG_1435.jpg"
+        },
+        {
+          "id": "IMG_1436",
+          "filename": "IMG_1436.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1436.jpg",
+          "full": "assets/cast_stills/full/IMG_1436.jpg"
+        },
+        {
+          "id": "IMG_1437",
+          "filename": "IMG_1437.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1437.jpg",
+          "full": "assets/cast_stills/full/IMG_1437.jpg"
+        },
+        {
+          "id": "IMG_1438",
+          "filename": "IMG_1438.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1438.jpg",
+          "full": "assets/cast_stills/full/IMG_1438.jpg"
+        }
+      ],
+      "role": "Comedian / Host",
+      "voice_sample": {
+        "id": "ZOOM0029_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0029_Tr1.m4a",
+        "duration_hms": "01:02",
+        "role": "Comedian / Host",
+        "text": "Hi everybody, my name is Brady Pearson. I'm so excited that you're here tonight. Bar and Dolores, how are we feeling? Feeling good? Great, that's incredible. How many, are there any people out here? Are you excited to hear some comedians tonight? All right, he's asking me. Are you excited to hear some comedians tonight? Yes, that's great. We've got a great backup here. We've got Pam, Lauren, Dennis, Vicky, and Mr. Weed. We're going to have a great time tonight. Let's get it up, let's get it up, let's get this energy up, give it a big round of applause. Is that good? Keep going. All right, let's keep this moving. Pam, are you ready? Let's go. Let's go, okay, so we have another, okay. So, all right, that was great. Great job, everyone. That was great. That was great. Pam, you're up next. Okay. Now, everyone, thank you so much. That was Pam. Give her a round of applause. Thank you. Everyone, bring her to Vicky Beretta. It's Vicky Beretta tonight. Okay. All right. Perfect. Thank you."
+      }
+    },
+    {
+      "id": "person_31",
+      "index": 31,
+      "name": "Pam Benjamin",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_31.jpg",
+      "photo_count": 10,
+      "first_still": "IMG_1439.HEIC",
+      "last_still": "IMG_1448.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1439",
+          "filename": "IMG_1439.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1439.jpg",
+          "full": "assets/cast_stills/full/IMG_1439.jpg"
+        },
+        {
+          "id": "IMG_1440",
+          "filename": "IMG_1440.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1440.jpg",
+          "full": "assets/cast_stills/full/IMG_1440.jpg"
+        },
+        {
+          "id": "IMG_1441",
+          "filename": "IMG_1441.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1441.jpg",
+          "full": "assets/cast_stills/full/IMG_1441.jpg"
+        },
+        {
+          "id": "IMG_1442",
+          "filename": "IMG_1442.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1442.jpg",
+          "full": "assets/cast_stills/full/IMG_1442.jpg"
+        },
+        {
+          "id": "IMG_1443",
+          "filename": "IMG_1443.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1443.jpg",
+          "full": "assets/cast_stills/full/IMG_1443.jpg"
+        },
+        {
+          "id": "IMG_1444",
+          "filename": "IMG_1444.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1444.jpg",
+          "full": "assets/cast_stills/full/IMG_1444.jpg"
+        },
+        {
+          "id": "IMG_1445",
+          "filename": "IMG_1445.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1445.jpg",
+          "full": "assets/cast_stills/full/IMG_1445.jpg"
+        },
+        {
+          "id": "IMG_1446",
+          "filename": "IMG_1446.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1446.jpg",
+          "full": "assets/cast_stills/full/IMG_1446.jpg"
+        },
+        {
+          "id": "IMG_1447",
+          "filename": "IMG_1447.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1447.jpg",
+          "full": "assets/cast_stills/full/IMG_1447.jpg"
+        },
+        {
+          "id": "IMG_1448",
+          "filename": "IMG_1448.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1448.jpg",
+          "full": "assets/cast_stills/full/IMG_1448.jpg"
+        }
+      ],
+      "role": "Comedian",
+      "voice_sample": {
+        "id": "ZOOM0030_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0030_Tr1.m4a",
+        "duration_hms": "01:04",
+        "role": "Comedian",
+        "text": "You can say anything you want. Great. Hey, my name's Pam Benjamin, and I'm here to tell you guys some jokes tonight. Who else hates our fucking president? Trump sucks, Trump sucks. I moved. I actually moved to Athens, Greece two and a half years ago because I saw the writing on the wall. Nostradamus said, this asshole's going to be in charge of you guys, and you're all going to fall apart. Oh, no, America's falling apart. What are we going to do? It was crazy. I've always known there was a problem with Trump. I mean, what did we learn in 2016 when he took office for the first time? Not everybody hates black people, but everyone hates women. Am I right, Hillary? Ah, you were so—she was the secretary of state. She was so—like, who else was better for the job? Oh, no, but a guy who's never even been the mayor of anything. He wasn't even on a PTA school board. But let's let him run our country. What, what, what? Burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp"
+      }
+    },
+    {
+      "id": "person_32",
+      "index": 32,
+      "name": "Lauren Kraut",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_32.jpg",
+      "photo_count": 10,
+      "first_still": "IMG_1450.HEIC",
+      "last_still": "IMG_1461.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1450",
+          "filename": "IMG_1450.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1450.jpg",
+          "full": "assets/cast_stills/full/IMG_1450.jpg"
+        },
+        {
+          "id": "IMG_1451",
+          "filename": "IMG_1451.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1451.jpg",
+          "full": "assets/cast_stills/full/IMG_1451.jpg"
+        },
+        {
+          "id": "IMG_1452",
+          "filename": "IMG_1452.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1452.jpg",
+          "full": "assets/cast_stills/full/IMG_1452.jpg"
+        },
+        {
+          "id": "IMG_1453",
+          "filename": "IMG_1453.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1453.jpg",
+          "full": "assets/cast_stills/full/IMG_1453.jpg"
+        },
+        {
+          "id": "IMG_1454",
+          "filename": "IMG_1454.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1454.jpg",
+          "full": "assets/cast_stills/full/IMG_1454.jpg"
+        },
+        {
+          "id": "IMG_1455",
+          "filename": "IMG_1455.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1455.jpg",
+          "full": "assets/cast_stills/full/IMG_1455.jpg"
+        },
+        {
+          "id": "IMG_1458",
+          "filename": "IMG_1458.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1458.jpg",
+          "full": "assets/cast_stills/full/IMG_1458.jpg"
+        },
+        {
+          "id": "IMG_1459",
+          "filename": "IMG_1459.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1459.jpg",
+          "full": "assets/cast_stills/full/IMG_1459.jpg"
+        },
+        {
+          "id": "IMG_1460",
+          "filename": "IMG_1460.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1460.jpg",
+          "full": "assets/cast_stills/full/IMG_1460.jpg"
+        },
+        {
+          "id": "IMG_1461",
+          "filename": "IMG_1461.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1461.jpg",
+          "full": "assets/cast_stills/full/IMG_1461.jpg"
+        }
+      ],
+      "role": "Comedian",
+      "voice_sample": {
+        "id": "ZOOM0031_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0031_Tr1.m4a",
+        "duration_hms": "01:05",
+        "role": "Comedian",
+        "text": "Say your name first and then for one minute just say whatever you want as a comedian. Okay, Lauren Kraut is my name. I grew up in New Jersey, a small town, and I was white. And my parents didn't know what to name me, so they had a name. They picked out Lauren. If it was a girl, if it was a boy, Lauren. A bunch of baby boomer souls nearby were hanging out waiting to be born because I was born a long time ago. And they would say, this time I want more money. This time I want more sex. And that one of those people had the nerve to pick my parents and become white, Jewish, anorexic, OCD with suicidal tendencies, lesbian, and allergic to cilantro. Yeah, I can kiss Mexican food, adios. And the comedian, I did this for you people. Where's my parade? Where's my parade? I don't know. I saw it. I thought maybe it wasn't that parade. It was a flood and they were running out to catch the water from the, I don't know. Is that enough? You want more? Yeah, could I get a little test on you? Because I think you're... That was..."
+      }
+    },
+    {
+      "id": "person_33",
+      "index": 33,
+      "name": "Victoria Barajas (Vicky Beretta)",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_33.jpg",
+      "photo_count": 10,
+      "first_still": "IMG_1462.HEIC",
+      "last_still": "IMG_1471.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1462",
+          "filename": "IMG_1462.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1462.jpg",
+          "full": "assets/cast_stills/full/IMG_1462.jpg"
+        },
+        {
+          "id": "IMG_1463",
+          "filename": "IMG_1463.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1463.jpg",
+          "full": "assets/cast_stills/full/IMG_1463.jpg"
+        },
+        {
+          "id": "IMG_1464",
+          "filename": "IMG_1464.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1464.jpg",
+          "full": "assets/cast_stills/full/IMG_1464.jpg"
+        },
+        {
+          "id": "IMG_1465",
+          "filename": "IMG_1465.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1465.jpg",
+          "full": "assets/cast_stills/full/IMG_1465.jpg"
+        },
+        {
+          "id": "IMG_1466",
+          "filename": "IMG_1466.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1466.jpg",
+          "full": "assets/cast_stills/full/IMG_1466.jpg"
+        },
+        {
+          "id": "IMG_1467",
+          "filename": "IMG_1467.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1467.jpg",
+          "full": "assets/cast_stills/full/IMG_1467.jpg"
+        },
+        {
+          "id": "IMG_1468",
+          "filename": "IMG_1468.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1468.jpg",
+          "full": "assets/cast_stills/full/IMG_1468.jpg"
+        },
+        {
+          "id": "IMG_1469",
+          "filename": "IMG_1469.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1469.jpg",
+          "full": "assets/cast_stills/full/IMG_1469.jpg"
+        },
+        {
+          "id": "IMG_1470",
+          "filename": "IMG_1470.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1470.jpg",
+          "full": "assets/cast_stills/full/IMG_1470.jpg"
+        },
+        {
+          "id": "IMG_1471",
+          "filename": "IMG_1471.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1471.jpg",
+          "full": "assets/cast_stills/full/IMG_1471.jpg"
+        }
+      ],
+      "role": "Comedian",
+      "voice_sample": {
+        "id": "ZOOM0032_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0032_Tr1.m4a",
+        "duration_hms": "01:05",
+        "role": "Comedian",
+        "text": "Anything goes hang up? So I go by Vicky Beretta, but my real name is Victoria Barajas, but I'm not trying to get deported. My real name is hella Mexican, but for some reason it took forever to stop pronouncing jalapeno as shit That's spicy. I would say that I peaked being Mexican when I discovered Chamoy But the problem was that I was a pre-diabetic at 95 pounds and pre-diabetic is such a funny word Because unless you're already diabetic aren't we all pre-diabetic and in that case pre should be in front of more words Like people who are dating should be called pre-married and then pre-divorced Religious people should be called pre-atheist and people who voted for Trump should be called pre-tarded So anyway back to about me I am a collab between a Mexican and a Vietnamese English mix which makes me limited edition I really don't know what my parents had in common because it was not English. I I was raised Vietnamese which means that instead of saying go to your room, they'd be like you go jail And I'd be like I feel like we're in jail. There's 16 of us in this tiny box Okay"
+      }
+    },
+    {
+      "id": "person_34",
+      "index": 34,
+      "name": "Denis Rajchic",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_34.jpg",
+      "photo_count": 10,
+      "first_still": "IMG_1472.HEIC",
+      "last_still": "IMG_1481.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1472",
+          "filename": "IMG_1472.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1472.jpg",
+          "full": "assets/cast_stills/full/IMG_1472.jpg"
+        },
+        {
+          "id": "IMG_1473",
+          "filename": "IMG_1473.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1473.jpg",
+          "full": "assets/cast_stills/full/IMG_1473.jpg"
+        },
+        {
+          "id": "IMG_1474",
+          "filename": "IMG_1474.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1474.jpg",
+          "full": "assets/cast_stills/full/IMG_1474.jpg"
+        },
+        {
+          "id": "IMG_1475",
+          "filename": "IMG_1475.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1475.jpg",
+          "full": "assets/cast_stills/full/IMG_1475.jpg"
+        },
+        {
+          "id": "IMG_1476",
+          "filename": "IMG_1476.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1476.jpg",
+          "full": "assets/cast_stills/full/IMG_1476.jpg"
+        },
+        {
+          "id": "IMG_1477",
+          "filename": "IMG_1477.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1477.jpg",
+          "full": "assets/cast_stills/full/IMG_1477.jpg"
+        },
+        {
+          "id": "IMG_1478",
+          "filename": "IMG_1478.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1478.jpg",
+          "full": "assets/cast_stills/full/IMG_1478.jpg"
+        },
+        {
+          "id": "IMG_1479",
+          "filename": "IMG_1479.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1479.jpg",
+          "full": "assets/cast_stills/full/IMG_1479.jpg"
+        },
+        {
+          "id": "IMG_1480",
+          "filename": "IMG_1480.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1480.jpg",
+          "full": "assets/cast_stills/full/IMG_1480.jpg"
+        },
+        {
+          "id": "IMG_1481",
+          "filename": "IMG_1481.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1481.jpg",
+          "full": "assets/cast_stills/full/IMG_1481.jpg"
+        }
+      ],
+      "role": "Thursday Regular",
+      "voice_sample": {
+        "id": "ZOOM0033_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0033_Tr1.m4a",
+        "duration_hms": "01:07",
+        "role": "Thursday Regular",
+        "text": "Okay, my name is Denis Rajchic. We've been annoying the owner of this bar, Damien, year after year, every Thursday with our open mic. This is supposed to be stand-up comedy, but let's be honest, it's more like stand-up tragedy. So Damien finally said, fuck it, I want to watch this tragedy at my home too, every day. So that's why he decided to make this movie about open mic and he said, fuck it, Netflix, I want my bar on Dolores Fix. And yes, that's why we're doing here and doing stand-up comedy, which is great, great bar. Every Thursday we are here, we try to be funny, try to make everyone to be laughed. But to be honest, we're just annoying the owner of this bar, Damien. So yeah, he's our big support and he's helping us to be more funnier. And I'm also an immigrant, I'm coming from Europe, so it took me almost three months from Europe to America in a ship container."
+      }
+    },
+    {
+      "id": "person_35",
+      "index": 35,
+      "name": "Shondi Jeter",
+      "verified_identity": false,
+      "match_confidence": null,
+      "avatar": "assets/cast_faces/person_35.jpg",
+      "photo_count": 11,
+      "first_still": "IMG_1482.HEIC",
+      "last_still": "IMG_1492.HEIC",
+      "stills": [
+        {
+          "id": "IMG_1482",
+          "filename": "IMG_1482.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1482.jpg",
+          "full": "assets/cast_stills/full/IMG_1482.jpg"
+        },
+        {
+          "id": "IMG_1483",
+          "filename": "IMG_1483.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1483.jpg",
+          "full": "assets/cast_stills/full/IMG_1483.jpg"
+        },
+        {
+          "id": "IMG_1484",
+          "filename": "IMG_1484.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1484.jpg",
+          "full": "assets/cast_stills/full/IMG_1484.jpg"
+        },
+        {
+          "id": "IMG_1485",
+          "filename": "IMG_1485.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1485.jpg",
+          "full": "assets/cast_stills/full/IMG_1485.jpg"
+        },
+        {
+          "id": "IMG_1486",
+          "filename": "IMG_1486.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1486.jpg",
+          "full": "assets/cast_stills/full/IMG_1486.jpg"
+        },
+        {
+          "id": "IMG_1487",
+          "filename": "IMG_1487.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1487.jpg",
+          "full": "assets/cast_stills/full/IMG_1487.jpg"
+        },
+        {
+          "id": "IMG_1488",
+          "filename": "IMG_1488.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1488.jpg",
+          "full": "assets/cast_stills/full/IMG_1488.jpg"
+        },
+        {
+          "id": "IMG_1489",
+          "filename": "IMG_1489.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1489.jpg",
+          "full": "assets/cast_stills/full/IMG_1489.jpg"
+        },
+        {
+          "id": "IMG_1490",
+          "filename": "IMG_1490.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1490.jpg",
+          "full": "assets/cast_stills/full/IMG_1490.jpg"
+        },
+        {
+          "id": "IMG_1491",
+          "filename": "IMG_1491.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1491.jpg",
+          "full": "assets/cast_stills/full/IMG_1491.jpg"
+        },
+        {
+          "id": "IMG_1492",
+          "filename": "IMG_1492.HEIC",
+          "thumb": "assets/cast_stills/thumbs/IMG_1492.jpg",
+          "full": "assets/cast_stills/full/IMG_1492.jpg"
+        }
+      ],
+      "role": "Revolutionary",
+      "voice_sample": {
+        "id": "ZOOM0034_Tr1",
+        "audio": "assets/audio/voice_refs/ZOOM0034_Tr1.m4a",
+        "duration_hms": "01:03",
+        "role": "Revolutionary",
+        "text": "I'm Shondi Jeter, 49 years old. I am considered myself a self-acclaimed, suited and booted revolutionary here in the San Francisco Bay Area, originally from Los Angeles, California. I am a newly recent long-term patron of the Bar Dolores here in San Francisco, California. I'm originally from Los Angeles. I've been here 11 years. I guess this is my 15 minutes of fame and I've heard that the role of the artist is to make the revolution irresistible. So I guess that's what it's from here to do. And yes, this is a great opportunity to do that and to contribute in the times that we're in currently under the Trump administration and we're hoping to change some views and be effective in showing people the results of a non-democratic, almost anarchist style leadership currently here in 2026."
+      }
+    }
+  ],
+  "voice_linked_count": 21
+}

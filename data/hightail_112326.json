@@ -2,8 +2,8 @@
   "source": "Hightail — Chikara Motomura (Rob's Precipice 112326.zip)",
   "generated_at": "2026-11-25T06:00:09Z",
   "cast_stills_count": 339,
-  "voice_refs_count": 44,
-  "scene_audio_count": 3,
+  "voice_refs_count": 34,
+  "scene_audio_count": 13,
   "cast_stills": [
     {
       "id": "IMG_1145_2",
@@ -2145,7 +2145,9 @@
           "end": 76.82,
           "text": "Okay."
         }
-      ]
+      ],
+      "speaker": "Cast Member #01",
+      "role": "Conference Guest"
     },
     {
       "id": "ZOOM0002_Tr1",
@@ -2211,7 +2213,9 @@
           "end": 68.48,
           "text": "creating groups that are actively setting things in motion to create."
         }
-      ]
+      ],
+      "speaker": "Tiger Lily Dostolova",
+      "role": "Conference Guest"
     },
     {
       "id": "ZOOM0003_Tr1",
@@ -2247,7 +2251,9 @@
           "end": 67.0,
           "text": "Okay."
         }
-      ]
+      ],
+      "speaker": "Serge",
+      "role": "Tech Bro"
     },
     {
       "id": "ZOOM0004_Tr1",
@@ -2318,7 +2324,9 @@
           "end": 74.0,
           "text": "They will."
         }
-      ]
+      ],
+      "speaker": "Timothy Glynyn",
+      "role": "Cast"
     },
     {
       "id": "ZOOM0005_Tr1",
@@ -2399,7 +2407,9 @@
           "end": 67.0,
           "text": "Okay."
         }
-      ]
+      ],
+      "speaker": "Cast Member #05",
+      "role": "Cast"
     },
     {
       "id": "ZOOM0006_Tr1",
@@ -2515,7 +2525,9 @@
           "end": 64.0,
           "text": "I mean, I need to work on it, I need to prepare it."
         }
-      ]
+      ],
+      "speaker": "Andrei Tatarinov",
+      "role": "Cast"
     },
     {
       "id": "ZOOM0007_Tr1",
@@ -2546,7 +2558,9 @@
           "end": 60.34,
           "text": "Okay, I'm still working it, baby. I'm still working it. So, you know, this is what I do."
         }
-      ]
+      ],
+      "speaker": "Alex Miller",
+      "role": "Protector"
     },
     {
       "id": "ZOOM0008_Tr1",
@@ -2607,7 +2621,9 @@
           "end": 62.22,
           "text": "And it's never boring. It's never dull. And with any luck, it'll actually..."
         }
-      ]
+      ],
+      "speaker": "Jim Dietrich",
+      "role": "Alex's Buddy"
     },
     {
       "id": "ZOOM0009_Tr1",
@@ -2703,7 +2719,9 @@
           "end": 87.0,
           "text": "I think that we really need to..."
         }
-      ]
+      ],
+      "speaker": "Antonia Kao",
+      "role": "Cast"
     },
     {
       "id": "ZOOM0010_Tr1",
@@ -2829,7 +2847,9 @@
           "end": 75.0,
           "text": "Okay."
         }
-      ]
+      ],
+      "speaker": "Mary Ann Heath",
+      "role": "Tenderloin Y Group"
     },
     {
       "id": "ZOOM0011_Tr1",
@@ -2905,7 +2925,9 @@
           "end": 65.3,
           "text": "This is what the world really needs to make some big changes and have fluidity in life."
         }
-      ]
+      ],
+      "speaker": "Angela Cross",
+      "role": "Cast"
     },
     {
       "id": "ZOOM0012_Tr1",
@@ -2921,7 +2943,9 @@
           "end": 4.0,
           "text": "Yeah, my name is Ed. I'm a comedian."
         }
-      ]
+      ],
+      "speaker": "Ed (Take 1)",
+      "role": "Comedian"
     },
     {
       "id": "ZOOM0013_Tr1",
@@ -3037,7 +3061,9 @@
           "end": 60.08,
           "text": "How did it know I was out of Viagra?"
         }
-      ]
+      ],
+      "speaker": "Ed (Take 2)",
+      "role": "Comedian"
     },
     {
       "id": "ZOOM0014_Tr1",
@@ -3078,7 +3104,9 @@
           "end": 63.2,
           "text": "Yeah? Come on, baby. Come on, baby. My snake skin jacket."
         }
-      ]
+      ],
+      "speaker": "Jeff",
+      "role": "Cast"
     },
     {
       "id": "ZOOM0015_Tr1",
@@ -3149,7 +3177,9 @@
           "end": 62.56,
           "text": "If we are seen here, that protest is going to head our direction, and it's going to be a shit show."
         }
-      ]
+      ],
+      "speaker": "Nick Mavrakis",
+      "role": "ICE Agent"
     },
     {
       "id": "ZOOM0016_Tr1",
@@ -3230,7 +3260,9 @@
           "end": 57.86,
           "text": "Okay."
         }
-      ]
+      ],
+      "speaker": "Ronald Nevin",
+      "role": "SFPD Commander"
     },
     {
       "id": "ZOOM0017_Tr1",
@@ -3396,7 +3428,9 @@
           "end": 61.32,
           "text": "All right."
         }
-      ]
+      ],
+      "speaker": "Steven Turner",
+      "role": "Tactical Officer"
     },
     {
       "id": "ZOOM0018_Tr1",
@@ -3427,7 +3461,9 @@
           "end": 64.32,
           "text": "And my colleagues and my officer Smith is going to help me out and put you in handcuffs."
         }
-      ]
+      ],
+      "speaker": "Thomas Steer",
+      "role": "ICE Officer"
     },
     {
       "id": "ZOOM0019_Tr1",
@@ -3498,7 +3534,9 @@
           "end": 63.0,
           "text": "Lance Walker understands."
         }
-      ]
+      ],
+      "speaker": "Lance Walker",
+      "role": "Cast"
     },
     {
       "id": "ZOOM0020_Tr1",
@@ -3584,7 +3622,9 @@
           "end": 89.0,
           "text": "."
         }
-      ]
+      ],
+      "speaker": "Lucian Jamie",
+      "role": "Billy's Stakeholder"
     },
     {
       "id": "ZOOM0021_Tr1",
@@ -3810,7 +3850,9 @@
           "end": 60.76,
           "text": "Perfect."
         }
-      ]
+      ],
+      "speaker": "Damon Bell",
+      "role": "Bartender"
     },
     {
       "id": "ZOOM0022_Tr1",
@@ -3836,7 +3878,9 @@
           "end": 67.38,
           "text": "It's a lie in the interest of entertainment. But what we're being fed is lies for someone else's betterment."
         }
-      ]
+      ],
+      "speaker": "Ed Krendel",
+      "role": "Cast"
     },
     {
       "id": "ZOOM0023_Tr1",
@@ -3887,7 +3931,9 @@
           "end": 67.7,
           "text": "you will have all the information you need. All right."
         }
-      ]
+      ],
+      "speaker": "Dennis Demir",
+      "role": "Cast"
     },
     {
       "id": "ZOOM0024_Tr1",
@@ -4043,7 +4089,9 @@
           "end": 70.0,
           "text": "Okay."
         }
-      ]
+      ],
+      "speaker": "Ilya Fomin",
+      "role": "Protagonist"
     },
     {
       "id": "ZOOM0025_Tr1",
@@ -4114,7 +4162,9 @@
           "end": 62.96,
           "text": "Would you like to know what happened today in the news?"
         }
-      ]
+      ],
+      "speaker": "Russell Murphy",
+      "role": "Bar Regular"
     },
     {
       "id": "ZOOM0026_Tr1",
@@ -4160,7 +4210,9 @@
           "end": 61.56,
           "text": "All right."
         }
-      ]
+      ],
+      "speaker": "Billy Aguero",
+      "role": "Pool League Captain"
     },
     {
       "id": "ZOOM0027_Tr1",
@@ -4296,7 +4348,9 @@
           "end": 66.92,
           "text": "Good."
         }
-      ]
+      ],
+      "speaker": "Cast Member #27",
+      "role": "Bar Patron"
     },
     {
       "id": "ZOOM0028_Tr1",
@@ -4322,7 +4376,9 @@
           "end": 63.0,
           "text": "I like to go to the gym also. I like to exercise a lot. Run. You know. Okay."
         }
-      ]
+      ],
+      "speaker": "Oscar Valdivieso",
+      "role": "Pro Pool Player"
     },
     {
       "id": "ZOOM0029_Tr1",
@@ -4408,7 +4464,9 @@
           "end": 61.4,
           "text": "Thank you."
         }
-      ]
+      ],
+      "speaker": "Brady Pearson",
+      "role": "Comedian / Host"
     },
     {
       "id": "ZOOM0030_Tr1",
@@ -4524,7 +4582,9 @@
           "end": 64.15,
           "text": "Burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp, burp"
         }
-      ]
+      ],
+      "speaker": "Pam Benjamin",
+      "role": "Comedian"
     },
     {
       "id": "ZOOM0031_Tr1",
@@ -4660,7 +4720,9 @@
           "end": 65.34,
           "text": "That was..."
         }
-      ]
+      ],
+      "speaker": "Lauren Kraut",
+      "role": "Comedian"
     },
     {
       "id": "ZOOM0032_Tr1",
@@ -4741,7 +4803,9 @@
           "end": 65.4,
           "text": "Okay"
         }
-      ]
+      ],
+      "speaker": "Victoria Barajas (Vicky Beretta)",
+      "role": "Comedian"
     },
     {
       "id": "ZOOM0033_Tr1",
@@ -4797,7 +4861,9 @@
           "end": 66.14,
           "text": "And I'm also an immigrant, I'm coming from Europe, so it took me almost three months from Europe to America in a ship container."
         }
-      ]
+      ],
+      "speaker": "Denis Rajchic",
+      "role": "Thursday Regular"
     },
     {
       "id": "ZOOM0034_Tr1",
@@ -4862,6 +4928,2893 @@
           "start": 60.12,
           "end": 63.62,
           "text": "currently here in 2026."
+        }
+      ],
+      "speaker": "Shondi Jeter",
+      "role": "Revolutionary"
+    }
+  ],
+  "scene_audio": [
+    {
+      "id": "ZOOM0035",
+      "filename": "ZOOM0035 (Tr1 + Tr2 Mix)",
+      "audio": "assets/audio/scene_audio/ZOOM0035_MIX.m4a",
+      "duration": 309.97,
+      "duration_hms": "05:10",
+      "text": "Let me know if you want to test me. Do you have the mic on? Yeah, yeah. Good. Okay. One, two, three, one, two, three, one, two. Let's see if we got you. We have to make sure it's not separate. Where did it? See, two or three of the mic will come from another that are not a part of this. When they're going back and forth, I'm not sure. All right, go ahead. Test. Okay. Yes, yes. That looks like number two. Okay. Okay. Yes, yes. One, two, three, four. All right. Thank you. Right here. Wow. Wow. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Let me see you. We can. Oh, at least you have a body of yellow. Yeah, but you can't get it somewhere. Okay, go ahead. Test. You two, how do you think? It said you murdered your chicken over the sun. So that's number two? Just a second. Are you getting out? Can you hear me? I can not hear you. Can you hear me? Hello. Just can you hear me? Can you hear me? Hello. Great. Thank you. I just have a, can you hear me? Oh, you got it. No, that's it. Just give me a testing one, too. One, two, can you hear me? One, two. Color blue. Up and down. Uh, okay. So I did. No, no, no. Keep talking. Oh, okay. Yeah, I guess we pick up the lights and stuff. Okay. So, this is with them. So, this is just next to me, though. Yeah. So, is this one connected to here? Yeah. Just because this one. Yeah. Yeah. I think he's ready completely. One that he's getting Russ dialed in. I know. Trying to keep this. If it was all in one, it's, it's, it's, there are differences through. What might be the difference between the two? Uh, I guess me. And Russ is talking to you. How you doing? Good. Good. We're getting into a home stretch here. If you're good, I'm good. Yeah, I know. Some of the stuff we had discussions here are community. Yeah, no. Some of you did. No problem. No. All good. How you doing? You're not Mike, are you? No. That's my name. Hey. Mike, excuse me. I've got two of them. I've got something on me. Yeah, you are. Okay. Keep talking. Hey, how are you? I'm happy. Anything good? Anything bad? What are you doing for Thanksgiving? You got to be back. Now you talk a little bit. All right. Hold on. Hold on. Hold on. Okay, I've got the ball. Yeah, I will. Sure. Yeah. Yeah, keep talking, man. Sorry. Oh, no, it's okay. How you been? How you doing tonight? I've been better. I know. Haven't we all? Did you figure out that? But we've also been worse. Okay, who the fuck is on this report? What other people are mic'd? Does anybody know? I mic'd on it. Did you hear me? I don't know yet. You mic'd him, yeah? No. He's there. Right, so y'all got the bartender and Russ. I've got Mickey. And me. And who said me? Me, me, me, Ken. Ken, that's right. Who's got Russ? You got Russ? No. No. Do you have a mic? Oh, did I? Oh. And so if you have a mic, somebody must to have it. Well, it's him. It's him. It's him. Yes, I know. He has only one. He has only one. I only have the one. He's Russ. Oh, I know. No, he's got Russ. I've got Russ. And Russ. I've got Russ. He's one. His one. His one. You must have. You got yours? Okay. All right. Hold on. He has the bartender, you have the Russ. Different glass from the first time. I'm just giving you the same glass you had the first time.",
+      "word_count": 651,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 21.36,
+          "text": "Let me know if you want to test me."
+        },
+        {
+          "start": 21.36,
+          "end": 22.52,
+          "text": "Do you have the mic on?"
+        },
+        {
+          "start": 22.68,
+          "end": 23.0,
+          "text": "Yeah, yeah."
+        },
+        {
+          "start": 23.36,
+          "end": 23.68,
+          "text": "Good."
+        },
+        {
+          "start": 23.82,
+          "end": 24.1,
+          "text": "Okay."
+        },
+        {
+          "start": 24.78,
+          "end": 26.68,
+          "text": "One, two, three, one, two, three, one, two."
+        },
+        {
+          "start": 27.04,
+          "end": 27.9,
+          "text": "Let's see if we got you."
+        },
+        {
+          "start": 27.9,
+          "end": 29.94,
+          "text": "We have to make sure it's not separate."
+        },
+        {
+          "start": 30.52,
+          "end": 30.88,
+          "text": "Where did it?"
+        },
+        {
+          "start": 31.84,
+          "end": 38.2,
+          "text": "See, two or three of the mic will come from another that are not a part of this."
+        },
+        {
+          "start": 39.4,
+          "end": 42.0,
+          "text": "When they're going back and forth, I'm not sure."
+        },
+        {
+          "start": 43.4,
+          "end": 44.22,
+          "text": "All right, go ahead."
+        },
+        {
+          "start": 44.58,
+          "end": 44.84,
+          "text": "Test."
+        },
+        {
+          "start": 46.46,
+          "end": 46.86,
+          "text": "Okay."
+        },
+        {
+          "start": 47.18,
+          "end": 47.78,
+          "text": "Yes, yes."
+        },
+        {
+          "start": 47.78,
+          "end": 49.06,
+          "text": "That looks like number two."
+        },
+        {
+          "start": 56.74,
+          "end": 57.14,
+          "text": "Okay."
+        },
+        {
+          "start": 57.14,
+          "end": 57.46,
+          "text": "Okay."
+        },
+        {
+          "start": 57.52,
+          "end": 57.78,
+          "text": "Yes, yes."
+        },
+        {
+          "start": 57.94,
+          "end": 58.9,
+          "text": "One, two, three, four."
+        },
+        {
+          "start": 61.3,
+          "end": 61.82,
+          "text": "All right."
+        },
+        {
+          "start": 61.96,
+          "end": 62.48,
+          "text": "Thank you."
+        },
+        {
+          "start": 62.68,
+          "end": 63.16,
+          "text": "Right here."
+        },
+        {
+          "start": 64.48,
+          "end": 64.9,
+          "text": "Wow."
+        },
+        {
+          "start": 77.08,
+          "end": 77.96,
+          "text": "Wow."
+        },
+        {
+          "start": 78.92,
+          "end": 79.52,
+          "text": "Thank you."
+        },
+        {
+          "start": 80.16,
+          "end": 80.5,
+          "text": "Thank you."
+        },
+        {
+          "start": 81.0,
+          "end": 81.88,
+          "text": "Thank you."
+        },
+        {
+          "start": 82.04,
+          "end": 82.8,
+          "text": "Thank you."
+        },
+        {
+          "start": 83.06,
+          "end": 83.7,
+          "text": "Thank you."
+        },
+        {
+          "start": 83.76,
+          "end": 84.48,
+          "text": "Thank you."
+        },
+        {
+          "start": 84.94,
+          "end": 85.78,
+          "text": "Thank you."
+        },
+        {
+          "start": 85.78,
+          "end": 87.78,
+          "text": "Let me see you."
+        },
+        {
+          "start": 87.78,
+          "end": 88.78,
+          "text": "We can."
+        },
+        {
+          "start": 88.78,
+          "end": 90.78,
+          "text": "Oh, at least you have a body of yellow."
+        },
+        {
+          "start": 90.78,
+          "end": 92.78,
+          "text": "Yeah, but you can't get it somewhere."
+        },
+        {
+          "start": 92.78,
+          "end": 93.78,
+          "text": "Okay, go ahead."
+        },
+        {
+          "start": 93.78,
+          "end": 94.78,
+          "text": "Test."
+        },
+        {
+          "start": 94.78,
+          "end": 96.78,
+          "text": "You two, how do you think?"
+        },
+        {
+          "start": 96.78,
+          "end": 99.78,
+          "text": "It said you murdered your chicken over the sun."
+        },
+        {
+          "start": 99.78,
+          "end": 101.78,
+          "text": "So that's number two?"
+        },
+        {
+          "start": 101.78,
+          "end": 103.78,
+          "text": "Just a second."
+        },
+        {
+          "start": 103.78,
+          "end": 104.78,
+          "text": "Are you getting out?"
+        },
+        {
+          "start": 104.78,
+          "end": 105.78,
+          "text": "Can you hear me?"
+        },
+        {
+          "start": 105.78,
+          "end": 106.78,
+          "text": "I can not hear you."
+        },
+        {
+          "start": 106.78,
+          "end": 107.78,
+          "text": "Can you hear me?"
+        },
+        {
+          "start": 107.78,
+          "end": 108.78,
+          "text": "Hello."
+        },
+        {
+          "start": 108.78,
+          "end": 109.78,
+          "text": "Just can you hear me?"
+        },
+        {
+          "start": 109.78,
+          "end": 110.78,
+          "text": "Can you hear me?"
+        },
+        {
+          "start": 110.78,
+          "end": 111.78,
+          "text": "Hello."
+        },
+        {
+          "start": 111.78,
+          "end": 112.78,
+          "text": "Great."
+        },
+        {
+          "start": 112.78,
+          "end": 113.78,
+          "text": "Thank you."
+        },
+        {
+          "start": 113.78,
+          "end": 116.78,
+          "text": "I just have a, can you hear me?"
+        },
+        {
+          "start": 116.78,
+          "end": 118.78,
+          "text": "Oh, you got it."
+        },
+        {
+          "start": 118.78,
+          "end": 121.78,
+          "text": "No, that's it."
+        },
+        {
+          "start": 121.78,
+          "end": 124.78,
+          "text": "Just give me a testing one, too."
+        },
+        {
+          "start": 124.78,
+          "end": 126.78,
+          "text": "One, two, can you hear me?"
+        },
+        {
+          "start": 126.78,
+          "end": 127.78,
+          "text": "One, two."
+        },
+        {
+          "start": 127.78,
+          "end": 129.78,
+          "text": "Color blue."
+        },
+        {
+          "start": 129.78,
+          "end": 131.78,
+          "text": "Up and down."
+        },
+        {
+          "start": 131.78,
+          "end": 134.78,
+          "text": "Uh, okay."
+        },
+        {
+          "start": 134.78,
+          "end": 136.78,
+          "text": "So I did."
+        },
+        {
+          "start": 136.78,
+          "end": 138.78,
+          "text": "No, no, no."
+        },
+        {
+          "start": 138.78,
+          "end": 139.78,
+          "text": "Keep talking."
+        },
+        {
+          "start": 139.78,
+          "end": 140.78,
+          "text": "Oh, okay."
+        },
+        {
+          "start": 140.78,
+          "end": 143.78,
+          "text": "Yeah, I guess we pick up the lights and stuff."
+        },
+        {
+          "start": 143.78,
+          "end": 144.78,
+          "text": "Okay."
+        },
+        {
+          "start": 144.78,
+          "end": 146.78,
+          "text": "So, this is with them."
+        },
+        {
+          "start": 146.78,
+          "end": 152.78,
+          "text": "So, this is just next to me, though."
+        },
+        {
+          "start": 152.78,
+          "end": 153.78,
+          "text": "Yeah."
+        },
+        {
+          "start": 153.78,
+          "end": 155.78,
+          "text": "So, is this one connected to here?"
+        },
+        {
+          "start": 155.78,
+          "end": 156.78,
+          "text": "Yeah."
+        },
+        {
+          "start": 156.78,
+          "end": 157.78,
+          "text": "Just because this one."
+        },
+        {
+          "start": 157.78,
+          "end": 158.78,
+          "text": "Yeah."
+        },
+        {
+          "start": 158.78,
+          "end": 159.78,
+          "text": "Yeah."
+        },
+        {
+          "start": 159.78,
+          "end": 162.78,
+          "text": "I think he's ready completely."
+        },
+        {
+          "start": 162.78,
+          "end": 164.78,
+          "text": "One that he's getting Russ dialed in."
+        },
+        {
+          "start": 164.78,
+          "end": 165.78,
+          "text": "I know."
+        },
+        {
+          "start": 165.78,
+          "end": 166.78,
+          "text": "Trying to keep this."
+        },
+        {
+          "start": 166.78,
+          "end": 170.78,
+          "text": "If it was all in one, it's, it's, it's, there are differences through."
+        },
+        {
+          "start": 170.78,
+          "end": 172.78,
+          "text": "What might be the difference between the two?"
+        },
+        {
+          "start": 172.78,
+          "end": 176.78,
+          "text": "Uh, I guess me."
+        },
+        {
+          "start": 176.78,
+          "end": 178.78,
+          "text": "And Russ is talking to you."
+        },
+        {
+          "start": 178.78,
+          "end": 179.78,
+          "text": "How you doing?"
+        },
+        {
+          "start": 179.78,
+          "end": 180.78,
+          "text": "Good."
+        },
+        {
+          "start": 180.78,
+          "end": 181.78,
+          "text": "Good."
+        },
+        {
+          "start": 181.78,
+          "end": 182.78,
+          "text": "We're getting into a home stretch here."
+        },
+        {
+          "start": 182.78,
+          "end": 183.78,
+          "text": "If you're good, I'm good."
+        },
+        {
+          "start": 183.78,
+          "end": 184.78,
+          "text": "Yeah, I know."
+        },
+        {
+          "start": 184.78,
+          "end": 188.78,
+          "text": "Some of the stuff we had discussions here are community."
+        },
+        {
+          "start": 188.78,
+          "end": 189.78,
+          "text": "Yeah, no."
+        },
+        {
+          "start": 189.78,
+          "end": 190.78,
+          "text": "Some of you did."
+        },
+        {
+          "start": 190.78,
+          "end": 191.78,
+          "text": "No problem."
+        },
+        {
+          "start": 191.78,
+          "end": 192.78,
+          "text": "No."
+        },
+        {
+          "start": 192.78,
+          "end": 193.78,
+          "text": "All good."
+        },
+        {
+          "start": 193.78,
+          "end": 195.78,
+          "text": "How you doing?"
+        },
+        {
+          "start": 195.78,
+          "end": 197.78,
+          "text": "You're not Mike, are you?"
+        },
+        {
+          "start": 197.78,
+          "end": 198.78,
+          "text": "No."
+        },
+        {
+          "start": 198.78,
+          "end": 199.78,
+          "text": "That's my name."
+        },
+        {
+          "start": 199.78,
+          "end": 200.78,
+          "text": "Hey."
+        },
+        {
+          "start": 200.78,
+          "end": 201.78,
+          "text": "Mike, excuse me."
+        },
+        {
+          "start": 201.78,
+          "end": 202.78,
+          "text": "I've got two of them."
+        },
+        {
+          "start": 202.78,
+          "end": 203.78,
+          "text": "I've got something on me."
+        },
+        {
+          "start": 203.78,
+          "end": 204.78,
+          "text": "Yeah, you are."
+        },
+        {
+          "start": 204.78,
+          "end": 205.78,
+          "text": "Okay."
+        },
+        {
+          "start": 205.78,
+          "end": 207.78,
+          "text": "Keep talking."
+        },
+        {
+          "start": 207.78,
+          "end": 208.78,
+          "text": "Hey, how are you?"
+        },
+        {
+          "start": 208.78,
+          "end": 209.78,
+          "text": "I'm happy."
+        },
+        {
+          "start": 209.78,
+          "end": 211.78,
+          "text": "Anything good?"
+        },
+        {
+          "start": 211.78,
+          "end": 212.78,
+          "text": "Anything bad?"
+        },
+        {
+          "start": 212.78,
+          "end": 215.78,
+          "text": "What are you doing for Thanksgiving?"
+        },
+        {
+          "start": 215.78,
+          "end": 216.78,
+          "text": "You got to be back."
+        },
+        {
+          "start": 216.78,
+          "end": 217.78,
+          "text": "Now you talk a little bit."
+        },
+        {
+          "start": 217.78,
+          "end": 218.78,
+          "text": "All right."
+        },
+        {
+          "start": 218.78,
+          "end": 219.78,
+          "text": "Hold on."
+        },
+        {
+          "start": 219.78,
+          "end": 220.78,
+          "text": "Hold on."
+        },
+        {
+          "start": 220.78,
+          "end": 221.78,
+          "text": "Hold on."
+        },
+        {
+          "start": 221.78,
+          "end": 222.78,
+          "text": "Okay, I've got the ball."
+        },
+        {
+          "start": 222.78,
+          "end": 223.78,
+          "text": "Yeah, I will."
+        },
+        {
+          "start": 223.78,
+          "end": 224.78,
+          "text": "Sure."
+        },
+        {
+          "start": 224.78,
+          "end": 225.78,
+          "text": "Yeah."
+        },
+        {
+          "start": 225.78,
+          "end": 226.78,
+          "text": "Yeah, keep talking, man."
+        },
+        {
+          "start": 226.78,
+          "end": 227.78,
+          "text": "Sorry."
+        },
+        {
+          "start": 227.78,
+          "end": 228.78,
+          "text": "Oh, no, it's okay."
+        },
+        {
+          "start": 228.78,
+          "end": 229.78,
+          "text": "How you been?"
+        },
+        {
+          "start": 229.78,
+          "end": 230.78,
+          "text": "How you doing tonight?"
+        },
+        {
+          "start": 230.78,
+          "end": 231.78,
+          "text": "I've been better."
+        },
+        {
+          "start": 231.78,
+          "end": 232.78,
+          "text": "I know."
+        },
+        {
+          "start": 232.78,
+          "end": 233.78,
+          "text": "Haven't we all?"
+        },
+        {
+          "start": 233.78,
+          "end": 234.78,
+          "text": "Did you figure out that?"
+        },
+        {
+          "start": 234.78,
+          "end": 236.78,
+          "text": "But we've also been worse."
+        },
+        {
+          "start": 236.78,
+          "end": 242.78,
+          "text": "Okay, who the fuck is on this report?"
+        },
+        {
+          "start": 242.78,
+          "end": 244.78,
+          "text": "What other people are mic'd?"
+        },
+        {
+          "start": 244.78,
+          "end": 245.78,
+          "text": "Does anybody know?"
+        },
+        {
+          "start": 245.78,
+          "end": 246.78,
+          "text": "I mic'd on it."
+        },
+        {
+          "start": 246.78,
+          "end": 247.78,
+          "text": "Did you hear me?"
+        },
+        {
+          "start": 247.78,
+          "end": 248.78,
+          "text": "I don't know yet."
+        },
+        {
+          "start": 248.78,
+          "end": 250.78,
+          "text": "You mic'd him, yeah?"
+        },
+        {
+          "start": 250.78,
+          "end": 251.78,
+          "text": "No."
+        },
+        {
+          "start": 251.78,
+          "end": 252.78,
+          "text": "He's there."
+        },
+        {
+          "start": 252.78,
+          "end": 267.78,
+          "text": "Right, so y'all got the bartender and Russ."
+        },
+        {
+          "start": 267.78,
+          "end": 268.78,
+          "text": "I've got Mickey."
+        },
+        {
+          "start": 268.78,
+          "end": 269.78,
+          "text": "And me."
+        },
+        {
+          "start": 269.78,
+          "end": 270.78,
+          "text": "And who said me?"
+        },
+        {
+          "start": 270.78,
+          "end": 271.78,
+          "text": "Me, me, me, Ken."
+        },
+        {
+          "start": 271.78,
+          "end": 272.78,
+          "text": "Ken, that's right."
+        },
+        {
+          "start": 272.78,
+          "end": 273.78,
+          "text": "Who's got Russ?"
+        },
+        {
+          "start": 273.78,
+          "end": 274.78,
+          "text": "You got Russ?"
+        },
+        {
+          "start": 274.78,
+          "end": 275.78,
+          "text": "No."
+        },
+        {
+          "start": 275.78,
+          "end": 276.78,
+          "text": "No."
+        },
+        {
+          "start": 276.78,
+          "end": 277.78,
+          "text": "Do you have a mic?"
+        },
+        {
+          "start": 277.78,
+          "end": 278.78,
+          "text": "Oh, did I?"
+        },
+        {
+          "start": 278.78,
+          "end": 279.78,
+          "text": "Oh."
+        },
+        {
+          "start": 279.78,
+          "end": 282.78,
+          "text": "And so if you have a mic, somebody must to have it."
+        },
+        {
+          "start": 282.78,
+          "end": 283.78,
+          "text": "Well, it's him."
+        },
+        {
+          "start": 283.78,
+          "end": 284.78,
+          "text": "It's him."
+        },
+        {
+          "start": 284.78,
+          "end": 285.78,
+          "text": "It's him."
+        },
+        {
+          "start": 285.78,
+          "end": 286.78,
+          "text": "Yes, I know."
+        },
+        {
+          "start": 286.78,
+          "end": 287.78,
+          "text": "He has only one."
+        },
+        {
+          "start": 287.78,
+          "end": 288.78,
+          "text": "He has only one."
+        },
+        {
+          "start": 288.78,
+          "end": 289.78,
+          "text": "I only have the one."
+        },
+        {
+          "start": 289.78,
+          "end": 290.78,
+          "text": "He's Russ."
+        },
+        {
+          "start": 290.78,
+          "end": 291.78,
+          "text": "Oh, I know."
+        },
+        {
+          "start": 291.78,
+          "end": 292.78,
+          "text": "No, he's got Russ."
+        },
+        {
+          "start": 292.78,
+          "end": 293.78,
+          "text": "I've got Russ."
+        },
+        {
+          "start": 293.78,
+          "end": 294.78,
+          "text": "And Russ."
+        },
+        {
+          "start": 294.78,
+          "end": 295.78,
+          "text": "I've got Russ."
+        },
+        {
+          "start": 295.78,
+          "end": 296.78,
+          "text": "He's one."
+        },
+        {
+          "start": 296.78,
+          "end": 297.78,
+          "text": "His one."
+        },
+        {
+          "start": 297.78,
+          "end": 298.78,
+          "text": "His one."
+        },
+        {
+          "start": 298.78,
+          "end": 299.78,
+          "text": "You must have."
+        },
+        {
+          "start": 299.78,
+          "end": 300.78,
+          "text": "You got yours?"
+        },
+        {
+          "start": 300.78,
+          "end": 301.78,
+          "text": "Okay."
+        },
+        {
+          "start": 301.78,
+          "end": 302.78,
+          "text": "All right."
+        },
+        {
+          "start": 302.78,
+          "end": 303.78,
+          "text": "Hold on."
+        },
+        {
+          "start": 303.78,
+          "end": 305.78,
+          "text": "He has the bartender, you have the Russ."
+        },
+        {
+          "start": 305.78,
+          "end": 307.78,
+          "text": "Different glass from the first time."
+        },
+        {
+          "start": 307.78,
+          "end": 309.78,
+          "text": "I'm just giving you the same glass you had the first time."
+        }
+      ]
+    },
+    {
+      "id": "ZOOM0036",
+      "filename": "ZOOM0036 (Tr1 + Tr2 Mix)",
+      "audio": "assets/audio/scene_audio/ZOOM0036_MIX.m4a",
+      "duration": 4.5,
+      "duration_hms": "00:04",
+      "text": "I think there is a book I bought.",
+      "word_count": 8,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.5,
+          "text": "I think there is a book I bought."
+        }
+      ]
+    },
+    {
+      "id": "ZOOM0037",
+      "filename": "ZOOM0037 (Tr1 + Tr2 Mix)",
+      "audio": "assets/audio/scene_audio/ZOOM0037_MIX.m4a",
+      "duration": 628.4,
+      "duration_hms": "10:28",
+      "text": "I'm rolling! I'm rolling. Full cameras. Camera rolling. In action. All right, I gotta ask a question. You, a couple of, I wasn't really paying attention. You said something about hypnosis. You do hypnosis. It's like that bullshit Vegas thing where they go like, you know, they get on the spot like a chicken or what. What is hypnosis? Bullshit Vegas thing. Hypnosis goes back thousands of years and it's authentic, it's real. That there are bullshit artists that are not really doing as well. So you're not doing perform, you're doing like therapeutic whatever? I've been doing therapeutic hypnosis for almost 30 years now. I've worked with police officers who've been traumatized by the stuff they did. I've done with firemen, the same people, people that work to care about us. They were in trauma. What do you want ladies and board? You don't want them. I'm not sure. He has a way with women, doesn't he? Uh-huh. What? Do you remember me? Oh shit, no one. What's my name? Lucia. No. Cindy? No. Um. Maybe you should try some of your hypnosis. Yeah, and get her to tell it yourself. Yeah. My name is Suzanne Strauss. Suzanne, I've never heard a woman's name called Suzanne before. Yeah. But it sounds very good, you can do it first. I was on your medication retreat back in, back in 89. Yeah. Did you have a good time? You know what happened. No, I don't remember. I think her friend has a game. Maybe you could hypnotize him. You seduced multiple young girls. You seduced multiple young girls. Holy shit. I have never seduced a single girl through hypnosis in the whole time I've been doing this work. Yeah. What you were saying. I was 19. I love it. I love it. Yeah, Mr. From the Heart, Mr. Spirituality. Yeah. I was 19. Yeah. I was 19. Yeah. Yeah. Mr. From the Heart, Mr. Spirituality. Yeah. I was 19. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Oh my God. Are you in that much denial where you actually believe your own bullshit? It's unmitigated bullshit that you send. It never happens. It's crap. It's unbelievable. It's unbelievable that you, to this day, that you can't accept any response. You're doing a performance for somebody. You're an ego. Yes, you are. My ego? Yeah, for your ego. My ego? Yeah, your ego. Okay, and so, you think that going after girls that are 20 years younger than you? What a bunch of rubbish. Yeah, it's rubbish. Hey, folks, how you guys doing? Huh? Anything I can get for you, young lady? No. Okay. Just get out of here, right? No, I don't have to get out of here. Get away from me. You're not going to get a courteous response. What a bunch of... I don't know whether you realize it or not. You got an audience. You might as well cut out everybody what the fuck went down. Because I think it's like full of shit anyway. So I want to hear your piece. You know what happened. No, I don't. Well, tell us what happened. What can happen. Anything we need. What happened? I don't want to hear. No, thank you. No, thank you. Thank you. Is she leaving the phone? Yeah, she is. Why can't you leave me? I don't have to. Why can't you? Because I want to confront this motherfucker. Do you know what it's like? He's already told you. Do you know what it's like to be a 19-year-old girl and to be seduced by a 40-year-old guy? Hey, lady. He's already told you. You got the wrong guy. I do not. I know he is. Move along, baby. I do not. It's unmitigated bullshit. I've never done that. Hey, hey, hey. This is not the time and the place. This is not the time. If you have an issue, ma'am, take it up with the police. Take it out? Take it up with the police. Okay. Yeah, if you want to do that, go ahead and do that. I have a statute of limitations. The statute of limitations have passed away. Why don't you apply it to your own mind? And plus, I was unaged. I was unaged. This shit's better than Netflix. Why don't you just tell everybody what the fuck went there? I want to hear it. Why don't you just tell everybody what the fuck went there? Hey, folks, folks. Hey, guys, guys. Because you're at a bar with three people within earshot. Hey, guys. I can't fucking hear you. This is not the time or the place. Exactly. Oh, I don't know if it's not the place. Okay. It's exactly the place from what I've seen that goes on in here. Jesus. My mother paid you to take me on a retreat because she thought it would be a good mental leave for me. Mother paid you? My father, my father, my, paid you. My father had just passed and she knew that I was so upset and she thought I was so upset. And she thought the meditation would help me. Would help soothe me. And then you got me isolated and seduced me. Where was this? You know where it was. No, I don't. Yes, it was. It was a Marine. I never went up there and did anything with you. I never saw you before. I'm a fucking liar. You're a fucking liar. You're a fucking liar. This is BS. No, it's not. You know what it is. Absolutely BS. I just can't believe that you would deceive yourself. Deceive yourself into believing this. Why don't you just... Why don't you just atone? Atone? Yes. For something I've never fucking done? Yes. Get the fuck out of here. You're just full of shit. I don't have to get out of here. Yeah, you're making it... What are you doing? Putting on a show for somebody? No. You're filming this? You're tape recording it? You're going to write a little article about it? Fuck away from me, baby. I don't like you. Get out of here, Phil. All right? I could do this. There's a bunch of bullshit. So, Marianne, you have to work it up really heavy. The biggest blast and walk out the floor. Just go. Just work it up. That's right. Well... Mickey? Yeah, what? You want her to go? Very much so. I don't want this lady. I don't know what you're trying to prove, and I don't know... I'm not trying to prove anything, motherfucker! Why don't you get the fuck out of here? You don't have anything to do with this. Do you have any idea how this fucking affected my life? I'm sure it never happened, ladies. Oh, bullshit! How the fuck would you know? You're making this shit out of here. You weren't there, motherfucker! You don't know what you're talking about. You don't know what you're talking about. You want me to tell her to leave? You want me to tell her to leave? How dare you? I wasn't there. Fuck you! You weren't there, motherfucker! Hey, ma'am. Hey, ma'am. It might be time for you to go. Yeah, get her out of here. Get her out of here. It might be time for you to leave. You fucking piece of shit! Great. You proved your point. You made a lot of progress here tonight, lady. You really changed the world. Good job. Fuck you, motherfucker! Who the fuck do you think you're talking to? Hey! Hey! It's time for you to leave. You piece of shit! You're worse than him! How? You're playing that piece of shit! Fuck you, motherfucker! You're out! You're out! You're out! Well... I don't really know how to find him! Next time, take one up and stop the spot! It's nice to get you! Wow! What a whack job! Maybe everybody's kind of like, silenced. But maybe we just go across and see everybody. A little separate, each person. Don't look at me. Each person won't be out. Taking their own thoughts about what we just saw. Also make sure we get a shot of Damon and of Timothy, over here. Everybody's just... Don't get down at the same time. There's the tears, the applause, the applause, the applause, the applause, the applause, the applause, the applause, the applause, the applause, the applause, the applause, the noise. Do you typically charge for this kind of entertainment? Or is this some good shit? Gentlemen, you turn an interesting night into a very exciting night. And I'm not saying that's a good thing. Why is it gentlemen? I didn't know him. Here you are. Say it again, gentlemen. Gentlemen, you turn an interesting night into an exciting night. And I don't know if that's a good thing or not. Why is it gentlemen? I didn't know him in 80. Just hanging out here. And... Come on, Damon, we can put a way down. We go away. We go away. I don't know him. I don't know him. I don't know him. I don't know him. I don't know him. I don't know him. We go way back. We go way back. But this is a group thing by now. That was a trip, man. I don't believe her at all. You know that. That's not for me to say. He doesn't remember her. It's not a question of whether I remember her or not. Oh, because we believe everything he's been saying for the last two and a half, three hours or however the fuck we have been here. It's a pile of bullshit that she made up. Pick an animal with Mickey. The worst thing that you could say. Yeah. The truth is something that's happening. Probably after your money. It's probably after your money. Of course. It was a completely different world 20 years ago. Completely different world 20 years ago. Yeah. It was a different universe. And what's your point that it was a completely different world? It doesn't have a point. It doesn't have a point. You've heard it for the last half of an hour. It doesn't have a point. It doesn't have a point. I don't know what to believe anymore. I've seen way too many strange things go on in here to say who's right and who's wrong. It was different. Yeah, but I can tell you one thing. It may have heard strange things that you have. All right. I believe her. I don't appreciate it. What's that? Just shut up. Be quiet. Just look at each other. This is the end of the scene. If you just look. You're ready to cut. Thank you. All right. Cut. Cut. Cut. Cut. Cut. Cut. Cut.",
+      "word_count": 1835,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 0.84,
+          "text": "I'm rolling!"
+        },
+        {
+          "start": 0.84,
+          "end": 1.66,
+          "text": "I'm rolling."
+        },
+        {
+          "start": 1.66,
+          "end": 2.62,
+          "text": "Full cameras."
+        },
+        {
+          "start": 2.62,
+          "end": 3.72,
+          "text": "Camera rolling."
+        },
+        {
+          "start": 3.72,
+          "end": 4.88,
+          "text": "In action."
+        },
+        {
+          "start": 4.88,
+          "end": 7.22,
+          "text": "All right, I gotta ask a question."
+        },
+        {
+          "start": 7.22,
+          "end": 9.96,
+          "text": "You, a couple of, I wasn't really paying attention."
+        },
+        {
+          "start": 9.96,
+          "end": 11.38,
+          "text": "You said something about hypnosis."
+        },
+        {
+          "start": 11.38,
+          "end": 12.9,
+          "text": "You do hypnosis."
+        },
+        {
+          "start": 12.9,
+          "end": 14.36,
+          "text": "It's like that bullshit Vegas thing"
+        },
+        {
+          "start": 14.36,
+          "end": 15.32,
+          "text": "where they go like, you know,"
+        },
+        {
+          "start": 15.32,
+          "end": 17.06,
+          "text": "they get on the spot like a chicken or what."
+        },
+        {
+          "start": 17.06,
+          "end": 18.56,
+          "text": "What is hypnosis?"
+        },
+        {
+          "start": 20.16,
+          "end": 21.96,
+          "text": "Bullshit Vegas thing."
+        },
+        {
+          "start": 21.96,
+          "end": 24.16,
+          "text": "Hypnosis goes back thousands of years"
+        },
+        {
+          "start": 24.16,
+          "end": 26.48,
+          "text": "and it's authentic, it's real."
+        },
+        {
+          "start": 26.48,
+          "end": 27.82,
+          "text": "That there are bullshit artists"
+        },
+        {
+          "start": 27.82,
+          "end": 31.0,
+          "text": "that are not really doing as well."
+        },
+        {
+          "start": 31.0,
+          "end": 32.1,
+          "text": "So you're not doing perform,"
+        },
+        {
+          "start": 32.1,
+          "end": 34.06,
+          "text": "you're doing like therapeutic whatever?"
+        },
+        {
+          "start": 34.06,
+          "end": 36.14,
+          "text": "I've been doing therapeutic hypnosis"
+        },
+        {
+          "start": 36.14,
+          "end": 39.84,
+          "text": "for almost 30 years now."
+        },
+        {
+          "start": 39.84,
+          "end": 42.2,
+          "text": "I've worked with police officers"
+        },
+        {
+          "start": 42.2,
+          "end": 45.46,
+          "text": "who've been traumatized by the stuff they did."
+        },
+        {
+          "start": 45.46,
+          "end": 49.58,
+          "text": "I've done with firemen, the same people,"
+        },
+        {
+          "start": 49.58,
+          "end": 52.9,
+          "text": "people that work to care about us."
+        },
+        {
+          "start": 52.9,
+          "end": 56.58,
+          "text": "They were in trauma."
+        },
+        {
+          "start": 57.82,
+          "end": 60.0,
+          "text": "What do you want ladies and board?"
+        },
+        {
+          "start": 60.0,
+          "end": 61.0,
+          "text": "You don't want them."
+        },
+        {
+          "start": 61.0,
+          "end": 62.0,
+          "text": "I'm not sure."
+        },
+        {
+          "start": 62.0,
+          "end": 64.0,
+          "text": "He has a way with women, doesn't he?"
+        },
+        {
+          "start": 64.0,
+          "end": 65.0,
+          "text": "Uh-huh."
+        },
+        {
+          "start": 65.0,
+          "end": 65.5,
+          "text": "What?"
+        },
+        {
+          "start": 65.5,
+          "end": 66.5,
+          "text": "Do you remember me?"
+        },
+        {
+          "start": 66.5,
+          "end": 67.7,
+          "text": "Oh shit, no one."
+        },
+        {
+          "start": 67.7,
+          "end": 69.0,
+          "text": "What's my name?"
+        },
+        {
+          "start": 69.0,
+          "end": 70.0,
+          "text": "Lucia."
+        },
+        {
+          "start": 70.0,
+          "end": 71.0,
+          "text": "No."
+        },
+        {
+          "start": 71.0,
+          "end": 72.0,
+          "text": "Cindy?"
+        },
+        {
+          "start": 72.0,
+          "end": 73.0,
+          "text": "No."
+        },
+        {
+          "start": 73.0,
+          "end": 74.0,
+          "text": "Um."
+        },
+        {
+          "start": 74.0,
+          "end": 78.0,
+          "text": "Maybe you should try some of your hypnosis."
+        },
+        {
+          "start": 78.0,
+          "end": 80.0,
+          "text": "Yeah, and get her to tell it yourself."
+        },
+        {
+          "start": 80.0,
+          "end": 80.5,
+          "text": "Yeah."
+        },
+        {
+          "start": 80.5,
+          "end": 82.84,
+          "text": "My name is Suzanne Strauss."
+        },
+        {
+          "start": 82.84,
+          "end": 86.02,
+          "text": "Suzanne, I've never heard a woman's name called Suzanne before."
+        },
+        {
+          "start": 86.02,
+          "end": 87.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 87.02,
+          "end": 89.02,
+          "text": "But it sounds very good, you can do it first."
+        },
+        {
+          "start": 89.02,
+          "end": 93.02,
+          "text": "I was on your medication retreat back in, back in 89."
+        },
+        {
+          "start": 93.02,
+          "end": 94.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 94.02,
+          "end": 95.02,
+          "text": "Did you have a good time?"
+        },
+        {
+          "start": 95.02,
+          "end": 96.02,
+          "text": "You know what happened."
+        },
+        {
+          "start": 96.02,
+          "end": 97.02,
+          "text": "No, I don't remember."
+        },
+        {
+          "start": 97.02,
+          "end": 98.02,
+          "text": "I think her friend has a game."
+        },
+        {
+          "start": 98.02,
+          "end": 99.02,
+          "text": "Maybe you could hypnotize him."
+        },
+        {
+          "start": 99.02,
+          "end": 100.02,
+          "text": "You seduced multiple young girls."
+        },
+        {
+          "start": 100.02,
+          "end": 101.02,
+          "text": "You seduced multiple young girls."
+        },
+        {
+          "start": 101.02,
+          "end": 102.02,
+          "text": "Holy shit."
+        },
+        {
+          "start": 102.02,
+          "end": 105.02,
+          "text": "I have never seduced a single girl through hypnosis in the whole time I've been doing this work."
+        },
+        {
+          "start": 105.02,
+          "end": 106.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 106.02,
+          "end": 107.02,
+          "text": "What you were saying."
+        },
+        {
+          "start": 107.02,
+          "end": 108.02,
+          "text": "I was 19."
+        },
+        {
+          "start": 108.02,
+          "end": 109.02,
+          "text": "I love it."
+        },
+        {
+          "start": 109.02,
+          "end": 110.02,
+          "text": "I love it."
+        },
+        {
+          "start": 110.02,
+          "end": 111.02,
+          "text": "Yeah, Mr. From the Heart, Mr. Spirituality."
+        },
+        {
+          "start": 111.02,
+          "end": 112.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 112.02,
+          "end": 113.02,
+          "text": "I was 19."
+        },
+        {
+          "start": 113.02,
+          "end": 114.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 114.02,
+          "end": 115.02,
+          "text": "I was 19."
+        },
+        {
+          "start": 115.02,
+          "end": 116.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 116.02,
+          "end": 117.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 117.02,
+          "end": 118.02,
+          "text": "Mr. From the Heart, Mr. Spirituality."
+        },
+        {
+          "start": 118.02,
+          "end": 119.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 119.02,
+          "end": 120.02,
+          "text": "I was 19."
+        },
+        {
+          "start": 120.02,
+          "end": 121.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 121.02,
+          "end": 122.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 122.02,
+          "end": 123.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 123.02,
+          "end": 124.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 124.02,
+          "end": 125.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 125.02,
+          "end": 126.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 126.02,
+          "end": 127.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 127.02,
+          "end": 128.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 128.02,
+          "end": 129.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 129.02,
+          "end": 130.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 130.02,
+          "end": 131.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 131.02,
+          "end": 132.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 132.02,
+          "end": 133.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 133.02,
+          "end": 134.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 134.02,
+          "end": 135.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 135.02,
+          "end": 136.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 136.02,
+          "end": 137.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 137.02,
+          "end": 138.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 138.02,
+          "end": 139.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 139.02,
+          "end": 140.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 140.02,
+          "end": 141.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 141.02,
+          "end": 142.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 142.02,
+          "end": 143.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 143.02,
+          "end": 144.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 144.02,
+          "end": 145.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 145.02,
+          "end": 146.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 146.02,
+          "end": 147.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 147.02,
+          "end": 148.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 148.02,
+          "end": 149.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 149.02,
+          "end": 150.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 150.02,
+          "end": 151.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 151.02,
+          "end": 152.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 152.02,
+          "end": 153.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 153.02,
+          "end": 154.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 154.02,
+          "end": 155.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 155.02,
+          "end": 156.02,
+          "text": "Yeah."
+        },
+        {
+          "start": 156.02,
+          "end": 157.02,
+          "text": "Oh my God."
+        },
+        {
+          "start": 157.02,
+          "end": 161.12,
+          "text": "Are you in that much denial where you actually believe your own bullshit?"
+        },
+        {
+          "start": 164.7,
+          "end": 167.44,
+          "text": "It's unmitigated bullshit that you send."
+        },
+        {
+          "start": 167.66,
+          "end": 168.62,
+          "text": "It never happens."
+        },
+        {
+          "start": 169.28,
+          "end": 170.0,
+          "text": "It's crap."
+        },
+        {
+          "start": 170.1,
+          "end": 171.08,
+          "text": "It's unbelievable."
+        },
+        {
+          "start": 171.56,
+          "end": 176.82,
+          "text": "It's unbelievable that you, to this day, that you can't accept any response."
+        },
+        {
+          "start": 176.82,
+          "end": 178.86,
+          "text": "You're doing a performance for somebody."
+        },
+        {
+          "start": 179.14,
+          "end": 179.9,
+          "text": "You're an ego."
+        },
+        {
+          "start": 180.2,
+          "end": 181.12,
+          "text": "Yes, you are."
+        },
+        {
+          "start": 181.36,
+          "end": 182.34,
+          "text": "My ego?"
+        },
+        {
+          "start": 182.36,
+          "end": 183.56,
+          "text": "Yeah, for your ego."
+        },
+        {
+          "start": 183.68,
+          "end": 184.34,
+          "text": "My ego?"
+        },
+        {
+          "start": 184.52,
+          "end": 185.1,
+          "text": "Yeah, your ego."
+        },
+        {
+          "start": 185.1,
+          "end": 192.86,
+          "text": "Okay, and so, you think that going after girls that are 20 years younger than you?"
+        },
+        {
+          "start": 193.72,
+          "end": 195.06,
+          "text": "What a bunch of rubbish."
+        },
+        {
+          "start": 195.98,
+          "end": 197.08,
+          "text": "Yeah, it's rubbish."
+        },
+        {
+          "start": 197.08,
+          "end": 199.08,
+          "text": "Hey, folks, how you guys doing?"
+        },
+        {
+          "start": 199.88,
+          "end": 200.08,
+          "text": "Huh?"
+        },
+        {
+          "start": 200.3,
+          "end": 201.6,
+          "text": "Anything I can get for you, young lady?"
+        },
+        {
+          "start": 202.82,
+          "end": 203.26,
+          "text": "No."
+        },
+        {
+          "start": 204.74,
+          "end": 205.18,
+          "text": "Okay."
+        },
+        {
+          "start": 207.32,
+          "end": 208.6,
+          "text": "Just get out of here, right?"
+        },
+        {
+          "start": 208.74,
+          "end": 210.28,
+          "text": "No, I don't have to get out of here."
+        },
+        {
+          "start": 211.0,
+          "end": 211.94,
+          "text": "Get away from me."
+        },
+        {
+          "start": 211.94,
+          "end": 214.34,
+          "text": "You're not going to get a courteous response."
+        },
+        {
+          "start": 214.34,
+          "end": 215.26,
+          "text": "What a bunch of..."
+        },
+        {
+          "start": 215.26,
+          "end": 217.42,
+          "text": "I don't know whether you realize it or not."
+        },
+        {
+          "start": 217.5,
+          "end": 218.2,
+          "text": "You got an audience."
+        },
+        {
+          "start": 218.38,
+          "end": 220.28,
+          "text": "You might as well cut out everybody what the fuck went down."
+        },
+        {
+          "start": 220.4,
+          "end": 222.04,
+          "text": "Because I think it's like full of shit anyway."
+        },
+        {
+          "start": 222.3,
+          "end": 223.98,
+          "text": "So I want to hear your piece."
+        },
+        {
+          "start": 225.9,
+          "end": 226.7,
+          "text": "You know what happened."
+        },
+        {
+          "start": 226.98,
+          "end": 227.6,
+          "text": "No, I don't."
+        },
+        {
+          "start": 228.36,
+          "end": 229.26,
+          "text": "Well, tell us what happened."
+        },
+        {
+          "start": 229.26,
+          "end": 229.56,
+          "text": "What can happen."
+        },
+        {
+          "start": 230.08,
+          "end": 230.88,
+          "text": "Anything we need."
+        },
+        {
+          "start": 230.96,
+          "end": 231.36,
+          "text": "What happened?"
+        },
+        {
+          "start": 231.52,
+          "end": 231.98,
+          "text": "I don't want to hear."
+        },
+        {
+          "start": 231.98,
+          "end": 232.64,
+          "text": "No, thank you."
+        },
+        {
+          "start": 232.7,
+          "end": 233.14,
+          "text": "No, thank you."
+        },
+        {
+          "start": 233.2,
+          "end": 233.46,
+          "text": "Thank you."
+        },
+        {
+          "start": 233.54,
+          "end": 234.3,
+          "text": "Is she leaving the phone?"
+        },
+        {
+          "start": 234.96,
+          "end": 235.72,
+          "text": "Yeah, she is."
+        },
+        {
+          "start": 235.76,
+          "end": 236.58,
+          "text": "Why can't you leave me?"
+        },
+        {
+          "start": 236.58,
+          "end": 238.18,
+          "text": "I don't have to."
+        },
+        {
+          "start": 238.7,
+          "end": 239.32,
+          "text": "Why can't you?"
+        },
+        {
+          "start": 239.44,
+          "end": 241.14,
+          "text": "Because I want to confront this motherfucker."
+        },
+        {
+          "start": 241.72,
+          "end": 242.66,
+          "text": "Do you know what it's like?"
+        },
+        {
+          "start": 242.66,
+          "end": 242.8,
+          "text": "He's already told you."
+        },
+        {
+          "start": 242.92,
+          "end": 247.2,
+          "text": "Do you know what it's like to be a 19-year-old girl and to be seduced by a 40-year-old guy?"
+        },
+        {
+          "start": 247.3,
+          "end": 247.72,
+          "text": "Hey, lady."
+        },
+        {
+          "start": 247.72,
+          "end": 248.72,
+          "text": "He's already told you."
+        },
+        {
+          "start": 248.78,
+          "end": 249.86,
+          "text": "You got the wrong guy."
+        },
+        {
+          "start": 249.98,
+          "end": 250.84,
+          "text": "I do not."
+        },
+        {
+          "start": 251.04,
+          "end": 251.86,
+          "text": "I know he is."
+        },
+        {
+          "start": 251.86,
+          "end": 253.0,
+          "text": "Move along, baby."
+        },
+        {
+          "start": 253.46,
+          "end": 254.3,
+          "text": "I do not."
+        },
+        {
+          "start": 254.54,
+          "end": 255.74,
+          "text": "It's unmitigated bullshit."
+        },
+        {
+          "start": 255.9,
+          "end": 256.9,
+          "text": "I've never done that."
+        },
+        {
+          "start": 257.56,
+          "end": 258.88,
+          "text": "Hey, hey, hey."
+        },
+        {
+          "start": 258.88,
+          "end": 261.08,
+          "text": "This is not the time and the place."
+        },
+        {
+          "start": 261.38,
+          "end": 262.34,
+          "text": "This is not the time."
+        },
+        {
+          "start": 262.58,
+          "end": 266.3,
+          "text": "If you have an issue, ma'am, take it up with the police."
+        },
+        {
+          "start": 266.9,
+          "end": 267.78,
+          "text": "Take it out?"
+        },
+        {
+          "start": 268.08,
+          "end": 269.84,
+          "text": "Take it up with the police."
+        },
+        {
+          "start": 270.6,
+          "end": 270.9,
+          "text": "Okay."
+        },
+        {
+          "start": 271.66,
+          "end": 273.38,
+          "text": "Yeah, if you want to do that, go ahead and do that."
+        },
+        {
+          "start": 275.34,
+          "end": 276.64,
+          "text": "I have a statute of limitations."
+        },
+        {
+          "start": 277.16,
+          "end": 278.96,
+          "text": "The statute of limitations have passed away."
+        },
+        {
+          "start": 278.96,
+          "end": 280.16,
+          "text": "Why don't you apply it to your own mind?"
+        },
+        {
+          "start": 280.16,
+          "end": 282.06,
+          "text": "And plus, I was unaged."
+        },
+        {
+          "start": 282.06,
+          "end": 283.5,
+          "text": "I was unaged."
+        },
+        {
+          "start": 283.86,
+          "end": 285.14,
+          "text": "This shit's better than Netflix."
+        },
+        {
+          "start": 285.36,
+          "end": 287.32,
+          "text": "Why don't you just tell everybody what the fuck went there?"
+        },
+        {
+          "start": 287.32,
+          "end": 288.12,
+          "text": "I want to hear it."
+        },
+        {
+          "start": 288.88,
+          "end": 289.6,
+          "text": "Why don't you just tell everybody what the fuck went there?"
+        },
+        {
+          "start": 289.6,
+          "end": 290.68,
+          "text": "Hey, folks, folks."
+        },
+        {
+          "start": 291.2,
+          "end": 292.46,
+          "text": "Hey, guys, guys."
+        },
+        {
+          "start": 292.48,
+          "end": 294.84,
+          "text": "Because you're at a bar with three people within earshot."
+        },
+        {
+          "start": 294.96,
+          "end": 295.6,
+          "text": "Hey, guys."
+        },
+        {
+          "start": 295.68,
+          "end": 296.22,
+          "text": "I can't fucking hear you."
+        },
+        {
+          "start": 296.22,
+          "end": 298.92,
+          "text": "This is not the time or the place."
+        },
+        {
+          "start": 299.18,
+          "end": 299.5,
+          "text": "Exactly."
+        },
+        {
+          "start": 299.5,
+          "end": 300.82,
+          "text": "Oh, I don't know if it's not the place."
+        },
+        {
+          "start": 300.94,
+          "end": 301.22,
+          "text": "Okay."
+        },
+        {
+          "start": 301.42,
+          "end": 303.66,
+          "text": "It's exactly the place from what I've seen that goes on in here."
+        },
+        {
+          "start": 304.22,
+          "end": 304.54,
+          "text": "Jesus."
+        },
+        {
+          "start": 305.24,
+          "end": 309.96,
+          "text": "My mother paid you to take me on a retreat because she thought it would be a good mental"
+        },
+        {
+          "start": 309.96,
+          "end": 310.7,
+          "text": "leave for me."
+        },
+        {
+          "start": 311.32,
+          "end": 311.68,
+          "text": "Mother paid you?"
+        },
+        {
+          "start": 311.68,
+          "end": 314.12,
+          "text": "My father, my father, my, paid you."
+        },
+        {
+          "start": 314.46,
+          "end": 318.48,
+          "text": "My father had just passed and she knew that I was so upset and she thought I was so upset."
+        },
+        {
+          "start": 318.48,
+          "end": 320.24,
+          "text": "And she thought the meditation would help me."
+        },
+        {
+          "start": 320.48,
+          "end": 321.82,
+          "text": "Would help soothe me."
+        },
+        {
+          "start": 322.84,
+          "end": 326.36,
+          "text": "And then you got me isolated and seduced me."
+        },
+        {
+          "start": 326.44,
+          "end": 327.04,
+          "text": "Where was this?"
+        },
+        {
+          "start": 327.48,
+          "end": 328.48,
+          "text": "You know where it was."
+        },
+        {
+          "start": 328.5,
+          "end": 329.1,
+          "text": "No, I don't."
+        },
+        {
+          "start": 329.18,
+          "end": 330.0,
+          "text": "Yes, it was."
+        },
+        {
+          "start": 330.28,
+          "end": 331.0,
+          "text": "It was a Marine."
+        },
+        {
+          "start": 331.0,
+          "end": 333.66,
+          "text": "I never went up there and did anything with you."
+        },
+        {
+          "start": 333.76,
+          "end": 334.78,
+          "text": "I never saw you before."
+        },
+        {
+          "start": 335.0,
+          "end": 335.66,
+          "text": "I'm a fucking liar."
+        },
+        {
+          "start": 335.76,
+          "end": 336.58,
+          "text": "You're a fucking liar."
+        },
+        {
+          "start": 336.58,
+          "end": 337.58,
+          "text": "You're a fucking liar."
+        },
+        {
+          "start": 338.22,
+          "end": 338.96,
+          "text": "This is BS."
+        },
+        {
+          "start": 339.8,
+          "end": 340.56,
+          "text": "No, it's not."
+        },
+        {
+          "start": 340.8,
+          "end": 341.64,
+          "text": "You know what it is."
+        },
+        {
+          "start": 342.06,
+          "end": 343.0,
+          "text": "Absolutely BS."
+        },
+        {
+          "start": 343.12,
+          "end": 346.2,
+          "text": "I just can't believe that you would deceive yourself."
+        },
+        {
+          "start": 348.0,
+          "end": 349.72,
+          "text": "Deceive yourself into believing this."
+        },
+        {
+          "start": 349.76,
+          "end": 351.0,
+          "text": "Why don't you just..."
+        },
+        {
+          "start": 351.0,
+          "end": 352.04,
+          "text": "Why don't you just atone?"
+        },
+        {
+          "start": 353.04,
+          "end": 353.56,
+          "text": "Atone?"
+        },
+        {
+          "start": 353.72,
+          "end": 354.1,
+          "text": "Yes."
+        },
+        {
+          "start": 354.1,
+          "end": 355.8,
+          "text": "For something I've never fucking done?"
+        },
+        {
+          "start": 356.16,
+          "end": 356.52,
+          "text": "Yes."
+        },
+        {
+          "start": 356.66,
+          "end": 357.48,
+          "text": "Get the fuck out of here."
+        },
+        {
+          "start": 357.6,
+          "end": 358.68,
+          "text": "You're just full of shit."
+        },
+        {
+          "start": 359.16,
+          "end": 360.3,
+          "text": "I don't have to get out of here."
+        },
+        {
+          "start": 360.44,
+          "end": 361.34,
+          "text": "Yeah, you're making it..."
+        },
+        {
+          "start": 361.34,
+          "end": 362.04,
+          "text": "What are you doing?"
+        },
+        {
+          "start": 362.12,
+          "end": 363.5,
+          "text": "Putting on a show for somebody?"
+        },
+        {
+          "start": 363.72,
+          "end": 364.04,
+          "text": "No."
+        },
+        {
+          "start": 364.16,
+          "end": 364.96,
+          "text": "You're filming this?"
+        },
+        {
+          "start": 365.06,
+          "end": 366.12,
+          "text": "You're tape recording it?"
+        },
+        {
+          "start": 366.2,
+          "end": 368.04,
+          "text": "You're going to write a little article about it?"
+        },
+        {
+          "start": 368.54,
+          "end": 369.88,
+          "text": "Fuck away from me, baby."
+        },
+        {
+          "start": 369.96,
+          "end": 370.64,
+          "text": "I don't like you."
+        },
+        {
+          "start": 370.74,
+          "end": 371.64,
+          "text": "Get out of here, Phil."
+        },
+        {
+          "start": 371.92,
+          "end": 372.26,
+          "text": "All right?"
+        },
+        {
+          "start": 372.72,
+          "end": 373.1,
+          "text": "I could do this."
+        },
+        {
+          "start": 373.1,
+          "end": 374.0,
+          "text": "There's a bunch of bullshit."
+        },
+        {
+          "start": 374.34,
+          "end": 376.8,
+          "text": "So, Marianne, you have to work it up really heavy."
+        },
+        {
+          "start": 377.36,
+          "end": 379.92,
+          "text": "The biggest blast and walk out the floor."
+        },
+        {
+          "start": 380.2,
+          "end": 380.62,
+          "text": "Just go."
+        },
+        {
+          "start": 381.64,
+          "end": 382.56,
+          "text": "Just work it up."
+        },
+        {
+          "start": 383.0,
+          "end": 383.44,
+          "text": "That's right."
+        },
+        {
+          "start": 383.44,
+          "end": 387.44,
+          "text": "Well..."
+        },
+        {
+          "start": 388.22,
+          "end": 388.58,
+          "text": "Mickey?"
+        },
+        {
+          "start": 388.96,
+          "end": 389.58,
+          "text": "Yeah, what?"
+        },
+        {
+          "start": 391.62,
+          "end": 392.48,
+          "text": "You want her to go?"
+        },
+        {
+          "start": 393.32,
+          "end": 394.26,
+          "text": "Very much so."
+        },
+        {
+          "start": 394.74,
+          "end": 395.68,
+          "text": "I don't want this lady."
+        },
+        {
+          "start": 395.82,
+          "end": 397.6,
+          "text": "I don't know what you're trying to prove, and I don't know..."
+        },
+        {
+          "start": 397.6,
+          "end": 399.68,
+          "text": "I'm not trying to prove anything, motherfucker!"
+        },
+        {
+          "start": 399.98,
+          "end": 400.54,
+          "text": "Why don't you get the fuck out of here?"
+        },
+        {
+          "start": 400.78,
+          "end": 402.6,
+          "text": "You don't have anything to do with this."
+        },
+        {
+          "start": 402.86,
+          "end": 405.8,
+          "text": "Do you have any idea how this fucking affected my life?"
+        },
+        {
+          "start": 406.02,
+          "end": 407.42,
+          "text": "I'm sure it never happened, ladies."
+        },
+        {
+          "start": 407.46,
+          "end": 408.04,
+          "text": "Oh, bullshit!"
+        },
+        {
+          "start": 408.16,
+          "end": 409.36,
+          "text": "How the fuck would you know?"
+        },
+        {
+          "start": 409.38,
+          "end": 409.88,
+          "text": "You're making this shit out of here."
+        },
+        {
+          "start": 409.88,
+          "end": 411.06,
+          "text": "You weren't there, motherfucker!"
+        },
+        {
+          "start": 411.06,
+          "end": 413.06,
+          "text": "You don't know what you're talking about."
+        },
+        {
+          "start": 413.06,
+          "end": 414.06,
+          "text": "You don't know what you're talking about."
+        },
+        {
+          "start": 414.06,
+          "end": 415.06,
+          "text": "You want me to tell her to leave?"
+        },
+        {
+          "start": 415.06,
+          "end": 416.06,
+          "text": "You want me to tell her to leave?"
+        },
+        {
+          "start": 416.06,
+          "end": 417.06,
+          "text": "How dare you?"
+        },
+        {
+          "start": 417.06,
+          "end": 418.06,
+          "text": "I wasn't there."
+        },
+        {
+          "start": 418.06,
+          "end": 419.06,
+          "text": "Fuck you!"
+        },
+        {
+          "start": 419.06,
+          "end": 420.06,
+          "text": "You weren't there, motherfucker!"
+        },
+        {
+          "start": 420.06,
+          "end": 421.06,
+          "text": "Hey, ma'am."
+        },
+        {
+          "start": 421.06,
+          "end": 422.06,
+          "text": "Hey, ma'am."
+        },
+        {
+          "start": 422.06,
+          "end": 423.06,
+          "text": "It might be time for you to go."
+        },
+        {
+          "start": 423.06,
+          "end": 424.06,
+          "text": "Yeah, get her out of here."
+        },
+        {
+          "start": 424.06,
+          "end": 425.06,
+          "text": "Get her out of here."
+        },
+        {
+          "start": 425.06,
+          "end": 426.06,
+          "text": "It might be time for you to leave."
+        },
+        {
+          "start": 426.06,
+          "end": 427.06,
+          "text": "You fucking piece of shit!"
+        },
+        {
+          "start": 427.06,
+          "end": 428.06,
+          "text": "Great."
+        },
+        {
+          "start": 428.06,
+          "end": 429.06,
+          "text": "You proved your point."
+        },
+        {
+          "start": 429.06,
+          "end": 431.06,
+          "text": "You made a lot of progress here tonight, lady."
+        },
+        {
+          "start": 431.06,
+          "end": 432.06,
+          "text": "You really changed the world."
+        },
+        {
+          "start": 432.06,
+          "end": 433.06,
+          "text": "Good job."
+        },
+        {
+          "start": 433.06,
+          "end": 434.06,
+          "text": "Fuck you, motherfucker!"
+        },
+        {
+          "start": 434.06,
+          "end": 436.06,
+          "text": "Who the fuck do you think you're talking to?"
+        },
+        {
+          "start": 436.06,
+          "end": 437.06,
+          "text": "Hey!"
+        },
+        {
+          "start": 437.06,
+          "end": 438.06,
+          "text": "Hey!"
+        },
+        {
+          "start": 438.06,
+          "end": 439.06,
+          "text": "It's time for you to leave."
+        },
+        {
+          "start": 439.06,
+          "end": 440.06,
+          "text": "You piece of shit!"
+        },
+        {
+          "start": 440.06,
+          "end": 441.06,
+          "text": "You're worse than him!"
+        },
+        {
+          "start": 441.06,
+          "end": 442.06,
+          "text": "How?"
+        },
+        {
+          "start": 442.06,
+          "end": 444.06,
+          "text": "You're playing that piece of shit!"
+        },
+        {
+          "start": 444.06,
+          "end": 445.06,
+          "text": "Fuck you, motherfucker!"
+        },
+        {
+          "start": 445.06,
+          "end": 446.06,
+          "text": "You're out!"
+        },
+        {
+          "start": 446.06,
+          "end": 447.06,
+          "text": "You're out!"
+        },
+        {
+          "start": 447.06,
+          "end": 448.06,
+          "text": "You're out!"
+        },
+        {
+          "start": 448.06,
+          "end": 449.06,
+          "text": "Well..."
+        },
+        {
+          "start": 449.06,
+          "end": 450.06,
+          "text": "I don't really know how to find him!"
+        },
+        {
+          "start": 450.06,
+          "end": 451.06,
+          "text": "Next time, take one up and stop the spot!"
+        },
+        {
+          "start": 451.06,
+          "end": 452.06,
+          "text": "It's nice to get you!"
+        },
+        {
+          "start": 452.06,
+          "end": 453.06,
+          "text": "Wow!"
+        },
+        {
+          "start": 453.06,
+          "end": 454.06,
+          "text": "What a whack job!"
+        },
+        {
+          "start": 454.06,
+          "end": 455.06,
+          "text": "Maybe everybody's kind of like, silenced."
+        },
+        {
+          "start": 455.06,
+          "end": 456.06,
+          "text": "But maybe we just go across and see everybody."
+        },
+        {
+          "start": 456.06,
+          "end": 457.06,
+          "text": "A little separate, each person."
+        },
+        {
+          "start": 457.06,
+          "end": 458.06,
+          "text": "Don't look at me."
+        },
+        {
+          "start": 458.06,
+          "end": 459.06,
+          "text": "Each person won't be out."
+        },
+        {
+          "start": 459.06,
+          "end": 460.06,
+          "text": "Taking their own thoughts about what we just saw."
+        },
+        {
+          "start": 460.06,
+          "end": 461.06,
+          "text": "Also make sure we get a shot of Damon and of Timothy, over here."
+        },
+        {
+          "start": 461.06,
+          "end": 462.06,
+          "text": "Everybody's just..."
+        },
+        {
+          "start": 462.06,
+          "end": 463.06,
+          "text": "Don't get down at the same time."
+        },
+        {
+          "start": 463.06,
+          "end": 467.06,
+          "text": "There's the tears, the applause, the applause, the applause, the applause, the applause,"
+        },
+        {
+          "start": 467.06,
+          "end": 472.06,
+          "text": "the applause, the applause, the applause, the applause, the applause, the applause, the"
+        },
+        {
+          "start": 472.06,
+          "end": 473.06,
+          "text": "noise."
+        },
+        {
+          "start": 473.06,
+          "end": 489.06,
+          "text": "Do you typically charge for this kind of entertainment?"
+        },
+        {
+          "start": 489.06,
+          "end": 497.06,
+          "text": "Or is this some good shit?"
+        },
+        {
+          "start": 497.06,
+          "end": 501.06,
+          "text": "Gentlemen, you turn an interesting night into a very exciting night."
+        },
+        {
+          "start": 501.06,
+          "end": 504.06,
+          "text": "And I'm not saying that's a good thing."
+        },
+        {
+          "start": 504.06,
+          "end": 506.06,
+          "text": "Why is it gentlemen?"
+        },
+        {
+          "start": 506.06,
+          "end": 507.06,
+          "text": "I didn't know him."
+        },
+        {
+          "start": 507.06,
+          "end": 508.06,
+          "text": "Here you are."
+        },
+        {
+          "start": 508.06,
+          "end": 509.06,
+          "text": "Say it again, gentlemen."
+        },
+        {
+          "start": 509.06,
+          "end": 514.06,
+          "text": "Gentlemen, you turn an interesting night into an exciting night."
+        },
+        {
+          "start": 514.06,
+          "end": 517.06,
+          "text": "And I don't know if that's a good thing or not."
+        },
+        {
+          "start": 517.06,
+          "end": 518.06,
+          "text": "Why is it gentlemen?"
+        },
+        {
+          "start": 518.06,
+          "end": 519.06,
+          "text": "I didn't know him in 80."
+        },
+        {
+          "start": 519.06,
+          "end": 520.06,
+          "text": "Just hanging out here."
+        },
+        {
+          "start": 520.06,
+          "end": 521.06,
+          "text": "And..."
+        },
+        {
+          "start": 521.06,
+          "end": 522.06,
+          "text": "Come on, Damon, we can put a way down."
+        },
+        {
+          "start": 522.06,
+          "end": 523.06,
+          "text": "We go away."
+        },
+        {
+          "start": 523.06,
+          "end": 524.06,
+          "text": "We go away."
+        },
+        {
+          "start": 524.06,
+          "end": 525.06,
+          "text": "I don't know him."
+        },
+        {
+          "start": 525.06,
+          "end": 526.06,
+          "text": "I don't know him."
+        },
+        {
+          "start": 526.06,
+          "end": 527.06,
+          "text": "I don't know him."
+        },
+        {
+          "start": 527.06,
+          "end": 528.06,
+          "text": "I don't know him."
+        },
+        {
+          "start": 528.06,
+          "end": 529.06,
+          "text": "I don't know him."
+        },
+        {
+          "start": 529.06,
+          "end": 530.06,
+          "text": "I don't know him."
+        },
+        {
+          "start": 530.06,
+          "end": 531.06,
+          "text": "We go way back."
+        },
+        {
+          "start": 531.06,
+          "end": 532.06,
+          "text": "We go way back."
+        },
+        {
+          "start": 532.06,
+          "end": 534.06,
+          "text": "But this is a group thing by now."
+        },
+        {
+          "start": 534.06,
+          "end": 535.06,
+          "text": "That was a trip, man."
+        },
+        {
+          "start": 535.06,
+          "end": 536.06,
+          "text": "I don't believe her at all."
+        },
+        {
+          "start": 536.06,
+          "end": 537.06,
+          "text": "You know that."
+        },
+        {
+          "start": 537.06,
+          "end": 539.06,
+          "text": "That's not for me to say."
+        },
+        {
+          "start": 539.06,
+          "end": 542.06,
+          "text": "He doesn't remember her."
+        },
+        {
+          "start": 542.06,
+          "end": 545.06,
+          "text": "It's not a question of whether I remember her or not."
+        },
+        {
+          "start": 545.06,
+          "end": 551.06,
+          "text": "Oh, because we believe everything he's been saying for the last two and a half, three hours or however the fuck we have been here."
+        },
+        {
+          "start": 551.06,
+          "end": 554.06,
+          "text": "It's a pile of bullshit that she made up."
+        },
+        {
+          "start": 554.06,
+          "end": 555.06,
+          "text": "Pick an animal with Mickey."
+        },
+        {
+          "start": 555.06,
+          "end": 556.06,
+          "text": "The worst thing that you could say."
+        },
+        {
+          "start": 556.06,
+          "end": 557.06,
+          "text": "Yeah."
+        },
+        {
+          "start": 557.06,
+          "end": 558.06,
+          "text": "The truth is something that's happening."
+        },
+        {
+          "start": 558.06,
+          "end": 559.06,
+          "text": "Probably after your money."
+        },
+        {
+          "start": 559.06,
+          "end": 560.06,
+          "text": "It's probably after your money."
+        },
+        {
+          "start": 560.06,
+          "end": 561.06,
+          "text": "Of course."
+        },
+        {
+          "start": 561.06,
+          "end": 571.06,
+          "text": "It was a completely different world 20 years ago."
+        },
+        {
+          "start": 571.06,
+          "end": 576.06,
+          "text": "Completely different world 20 years ago."
+        },
+        {
+          "start": 576.06,
+          "end": 577.06,
+          "text": "Yeah."
+        },
+        {
+          "start": 577.06,
+          "end": 581.06,
+          "text": "It was a different universe."
+        },
+        {
+          "start": 581.06,
+          "end": 584.06,
+          "text": "And what's your point that it was a completely different world?"
+        },
+        {
+          "start": 584.06,
+          "end": 585.06,
+          "text": "It doesn't have a point."
+        },
+        {
+          "start": 585.06,
+          "end": 586.06,
+          "text": "It doesn't have a point."
+        },
+        {
+          "start": 586.06,
+          "end": 588.06,
+          "text": "You've heard it for the last half of an hour."
+        },
+        {
+          "start": 588.06,
+          "end": 589.06,
+          "text": "It doesn't have a point."
+        },
+        {
+          "start": 589.06,
+          "end": 590.06,
+          "text": "It doesn't have a point."
+        },
+        {
+          "start": 590.06,
+          "end": 594.06,
+          "text": "I don't know what to believe anymore."
+        },
+        {
+          "start": 594.06,
+          "end": 599.06,
+          "text": "I've seen way too many strange things go on in here to say who's right and who's wrong."
+        },
+        {
+          "start": 599.06,
+          "end": 600.06,
+          "text": "It was different."
+        },
+        {
+          "start": 600.06,
+          "end": 601.06,
+          "text": "Yeah, but I can tell you one thing."
+        },
+        {
+          "start": 601.06,
+          "end": 603.06,
+          "text": "It may have heard strange things that you have."
+        },
+        {
+          "start": 603.06,
+          "end": 604.06,
+          "text": "All right."
+        },
+        {
+          "start": 604.06,
+          "end": 605.06,
+          "text": "I believe her."
+        },
+        {
+          "start": 605.06,
+          "end": 606.06,
+          "text": "I don't appreciate it."
+        },
+        {
+          "start": 606.06,
+          "end": 607.06,
+          "text": "What's that?"
+        },
+        {
+          "start": 607.06,
+          "end": 608.06,
+          "text": "Just shut up."
+        },
+        {
+          "start": 608.06,
+          "end": 609.06,
+          "text": "Be quiet."
+        },
+        {
+          "start": 609.06,
+          "end": 610.06,
+          "text": "Just look at each other."
+        },
+        {
+          "start": 610.06,
+          "end": 612.06,
+          "text": "This is the end of the scene."
+        },
+        {
+          "start": 612.06,
+          "end": 613.06,
+          "text": "If you just look."
+        },
+        {
+          "start": 618.06,
+          "end": 619.06,
+          "text": "You're ready to cut."
+        },
+        {
+          "start": 619.06,
+          "end": 620.06,
+          "text": "Thank you."
+        },
+        {
+          "start": 620.06,
+          "end": 621.06,
+          "text": "All right."
+        },
+        {
+          "start": 621.06,
+          "end": 622.06,
+          "text": "Cut."
+        },
+        {
+          "start": 622.06,
+          "end": 623.06,
+          "text": "Cut."
+        },
+        {
+          "start": 623.06,
+          "end": 624.06,
+          "text": "Cut."
+        },
+        {
+          "start": 624.06,
+          "end": 625.06,
+          "text": "Cut."
+        },
+        {
+          "start": 625.06,
+          "end": 626.06,
+          "text": "Cut."
+        },
+        {
+          "start": 626.06,
+          "end": 627.06,
+          "text": "Cut."
+        },
+        {
+          "start": 627.06,
+          "end": 628.06,
+          "text": "Cut."
         }
       ]
     },
@@ -9787,2891 +12740,6 @@
           "start": 28.84,
           "end": 29.52,
           "text": "That'll do."
-        }
-      ]
-    }
-  ],
-  "scene_audio": [
-    {
-      "id": "ZOOM0035",
-      "filename": "ZOOM0035 (Tr1 + Tr2 Mix)",
-      "audio": "assets/audio/scene_audio/ZOOM0035_MIX.m4a",
-      "duration": 309.97,
-      "duration_hms": "05:10",
-      "text": "Let me know if you want to test me. Do you have the mic on? Yeah, yeah. Good. Okay. One, two, three, one, two, three, one, two. Let's see if we got you. We have to make sure it's not separate. Where did it? See, two or three of the mic will come from another that are not a part of this. When they're going back and forth, I'm not sure. All right, go ahead. Test. Okay. Yes, yes. That looks like number two. Okay. Okay. Yes, yes. One, two, three, four. All right. Thank you. Right here. Wow. Wow. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Let me see you. We can. Oh, at least you have a body of yellow. Yeah, but you can't get it somewhere. Okay, go ahead. Test. You two, how do you think? It said you murdered your chicken over the sun. So that's number two? Just a second. Are you getting out? Can you hear me? I can not hear you. Can you hear me? Hello. Just can you hear me? Can you hear me? Hello. Great. Thank you. I just have a, can you hear me? Oh, you got it. No, that's it. Just give me a testing one, too. One, two, can you hear me? One, two. Color blue. Up and down. Uh, okay. So I did. No, no, no. Keep talking. Oh, okay. Yeah, I guess we pick up the lights and stuff. Okay. So, this is with them. So, this is just next to me, though. Yeah. So, is this one connected to here? Yeah. Just because this one. Yeah. Yeah. I think he's ready completely. One that he's getting Russ dialed in. I know. Trying to keep this. If it was all in one, it's, it's, it's, there are differences through. What might be the difference between the two? Uh, I guess me. And Russ is talking to you. How you doing? Good. Good. We're getting into a home stretch here. If you're good, I'm good. Yeah, I know. Some of the stuff we had discussions here are community. Yeah, no. Some of you did. No problem. No. All good. How you doing? You're not Mike, are you? No. That's my name. Hey. Mike, excuse me. I've got two of them. I've got something on me. Yeah, you are. Okay. Keep talking. Hey, how are you? I'm happy. Anything good? Anything bad? What are you doing for Thanksgiving? You got to be back. Now you talk a little bit. All right. Hold on. Hold on. Hold on. Okay, I've got the ball. Yeah, I will. Sure. Yeah. Yeah, keep talking, man. Sorry. Oh, no, it's okay. How you been? How you doing tonight? I've been better. I know. Haven't we all? Did you figure out that? But we've also been worse. Okay, who the fuck is on this report? What other people are mic'd? Does anybody know? I mic'd on it. Did you hear me? I don't know yet. You mic'd him, yeah? No. He's there. Right, so y'all got the bartender and Russ. I've got Mickey. And me. And who said me? Me, me, me, Ken. Ken, that's right. Who's got Russ? You got Russ? No. No. Do you have a mic? Oh, did I? Oh. And so if you have a mic, somebody must to have it. Well, it's him. It's him. It's him. Yes, I know. He has only one. He has only one. I only have the one. He's Russ. Oh, I know. No, he's got Russ. I've got Russ. And Russ. I've got Russ. He's one. His one. His one. You must have. You got yours? Okay. All right. Hold on. He has the bartender, you have the Russ. Different glass from the first time. I'm just giving you the same glass you had the first time.",
-      "word_count": 651,
-      "segments": [
-        {
-          "start": 0.0,
-          "end": 21.36,
-          "text": "Let me know if you want to test me."
-        },
-        {
-          "start": 21.36,
-          "end": 22.52,
-          "text": "Do you have the mic on?"
-        },
-        {
-          "start": 22.68,
-          "end": 23.0,
-          "text": "Yeah, yeah."
-        },
-        {
-          "start": 23.36,
-          "end": 23.68,
-          "text": "Good."
-        },
-        {
-          "start": 23.82,
-          "end": 24.1,
-          "text": "Okay."
-        },
-        {
-          "start": 24.78,
-          "end": 26.68,
-          "text": "One, two, three, one, two, three, one, two."
-        },
-        {
-          "start": 27.04,
-          "end": 27.9,
-          "text": "Let's see if we got you."
-        },
-        {
-          "start": 27.9,
-          "end": 29.94,
-          "text": "We have to make sure it's not separate."
-        },
-        {
-          "start": 30.52,
-          "end": 30.88,
-          "text": "Where did it?"
-        },
-        {
-          "start": 31.84,
-          "end": 38.2,
-          "text": "See, two or three of the mic will come from another that are not a part of this."
-        },
-        {
-          "start": 39.4,
-          "end": 42.0,
-          "text": "When they're going back and forth, I'm not sure."
-        },
-        {
-          "start": 43.4,
-          "end": 44.22,
-          "text": "All right, go ahead."
-        },
-        {
-          "start": 44.58,
-          "end": 44.84,
-          "text": "Test."
-        },
-        {
-          "start": 46.46,
-          "end": 46.86,
-          "text": "Okay."
-        },
-        {
-          "start": 47.18,
-          "end": 47.78,
-          "text": "Yes, yes."
-        },
-        {
-          "start": 47.78,
-          "end": 49.06,
-          "text": "That looks like number two."
-        },
-        {
-          "start": 56.74,
-          "end": 57.14,
-          "text": "Okay."
-        },
-        {
-          "start": 57.14,
-          "end": 57.46,
-          "text": "Okay."
-        },
-        {
-          "start": 57.52,
-          "end": 57.78,
-          "text": "Yes, yes."
-        },
-        {
-          "start": 57.94,
-          "end": 58.9,
-          "text": "One, two, three, four."
-        },
-        {
-          "start": 61.3,
-          "end": 61.82,
-          "text": "All right."
-        },
-        {
-          "start": 61.96,
-          "end": 62.48,
-          "text": "Thank you."
-        },
-        {
-          "start": 62.68,
-          "end": 63.16,
-          "text": "Right here."
-        },
-        {
-          "start": 64.48,
-          "end": 64.9,
-          "text": "Wow."
-        },
-        {
-          "start": 77.08,
-          "end": 77.96,
-          "text": "Wow."
-        },
-        {
-          "start": 78.92,
-          "end": 79.52,
-          "text": "Thank you."
-        },
-        {
-          "start": 80.16,
-          "end": 80.5,
-          "text": "Thank you."
-        },
-        {
-          "start": 81.0,
-          "end": 81.88,
-          "text": "Thank you."
-        },
-        {
-          "start": 82.04,
-          "end": 82.8,
-          "text": "Thank you."
-        },
-        {
-          "start": 83.06,
-          "end": 83.7,
-          "text": "Thank you."
-        },
-        {
-          "start": 83.76,
-          "end": 84.48,
-          "text": "Thank you."
-        },
-        {
-          "start": 84.94,
-          "end": 85.78,
-          "text": "Thank you."
-        },
-        {
-          "start": 85.78,
-          "end": 87.78,
-          "text": "Let me see you."
-        },
-        {
-          "start": 87.78,
-          "end": 88.78,
-          "text": "We can."
-        },
-        {
-          "start": 88.78,
-          "end": 90.78,
-          "text": "Oh, at least you have a body of yellow."
-        },
-        {
-          "start": 90.78,
-          "end": 92.78,
-          "text": "Yeah, but you can't get it somewhere."
-        },
-        {
-          "start": 92.78,
-          "end": 93.78,
-          "text": "Okay, go ahead."
-        },
-        {
-          "start": 93.78,
-          "end": 94.78,
-          "text": "Test."
-        },
-        {
-          "start": 94.78,
-          "end": 96.78,
-          "text": "You two, how do you think?"
-        },
-        {
-          "start": 96.78,
-          "end": 99.78,
-          "text": "It said you murdered your chicken over the sun."
-        },
-        {
-          "start": 99.78,
-          "end": 101.78,
-          "text": "So that's number two?"
-        },
-        {
-          "start": 101.78,
-          "end": 103.78,
-          "text": "Just a second."
-        },
-        {
-          "start": 103.78,
-          "end": 104.78,
-          "text": "Are you getting out?"
-        },
-        {
-          "start": 104.78,
-          "end": 105.78,
-          "text": "Can you hear me?"
-        },
-        {
-          "start": 105.78,
-          "end": 106.78,
-          "text": "I can not hear you."
-        },
-        {
-          "start": 106.78,
-          "end": 107.78,
-          "text": "Can you hear me?"
-        },
-        {
-          "start": 107.78,
-          "end": 108.78,
-          "text": "Hello."
-        },
-        {
-          "start": 108.78,
-          "end": 109.78,
-          "text": "Just can you hear me?"
-        },
-        {
-          "start": 109.78,
-          "end": 110.78,
-          "text": "Can you hear me?"
-        },
-        {
-          "start": 110.78,
-          "end": 111.78,
-          "text": "Hello."
-        },
-        {
-          "start": 111.78,
-          "end": 112.78,
-          "text": "Great."
-        },
-        {
-          "start": 112.78,
-          "end": 113.78,
-          "text": "Thank you."
-        },
-        {
-          "start": 113.78,
-          "end": 116.78,
-          "text": "I just have a, can you hear me?"
-        },
-        {
-          "start": 116.78,
-          "end": 118.78,
-          "text": "Oh, you got it."
-        },
-        {
-          "start": 118.78,
-          "end": 121.78,
-          "text": "No, that's it."
-        },
-        {
-          "start": 121.78,
-          "end": 124.78,
-          "text": "Just give me a testing one, too."
-        },
-        {
-          "start": 124.78,
-          "end": 126.78,
-          "text": "One, two, can you hear me?"
-        },
-        {
-          "start": 126.78,
-          "end": 127.78,
-          "text": "One, two."
-        },
-        {
-          "start": 127.78,
-          "end": 129.78,
-          "text": "Color blue."
-        },
-        {
-          "start": 129.78,
-          "end": 131.78,
-          "text": "Up and down."
-        },
-        {
-          "start": 131.78,
-          "end": 134.78,
-          "text": "Uh, okay."
-        },
-        {
-          "start": 134.78,
-          "end": 136.78,
-          "text": "So I did."
-        },
-        {
-          "start": 136.78,
-          "end": 138.78,
-          "text": "No, no, no."
-        },
-        {
-          "start": 138.78,
-          "end": 139.78,
-          "text": "Keep talking."
-        },
-        {
-          "start": 139.78,
-          "end": 140.78,
-          "text": "Oh, okay."
-        },
-        {
-          "start": 140.78,
-          "end": 143.78,
-          "text": "Yeah, I guess we pick up the lights and stuff."
-        },
-        {
-          "start": 143.78,
-          "end": 144.78,
-          "text": "Okay."
-        },
-        {
-          "start": 144.78,
-          "end": 146.78,
-          "text": "So, this is with them."
-        },
-        {
-          "start": 146.78,
-          "end": 152.78,
-          "text": "So, this is just next to me, though."
-        },
-        {
-          "start": 152.78,
-          "end": 153.78,
-          "text": "Yeah."
-        },
-        {
-          "start": 153.78,
-          "end": 155.78,
-          "text": "So, is this one connected to here?"
-        },
-        {
-          "start": 155.78,
-          "end": 156.78,
-          "text": "Yeah."
-        },
-        {
-          "start": 156.78,
-          "end": 157.78,
-          "text": "Just because this one."
-        },
-        {
-          "start": 157.78,
-          "end": 158.78,
-          "text": "Yeah."
-        },
-        {
-          "start": 158.78,
-          "end": 159.78,
-          "text": "Yeah."
-        },
-        {
-          "start": 159.78,
-          "end": 162.78,
-          "text": "I think he's ready completely."
-        },
-        {
-          "start": 162.78,
-          "end": 164.78,
-          "text": "One that he's getting Russ dialed in."
-        },
-        {
-          "start": 164.78,
-          "end": 165.78,
-          "text": "I know."
-        },
-        {
-          "start": 165.78,
-          "end": 166.78,
-          "text": "Trying to keep this."
-        },
-        {
-          "start": 166.78,
-          "end": 170.78,
-          "text": "If it was all in one, it's, it's, it's, there are differences through."
-        },
-        {
-          "start": 170.78,
-          "end": 172.78,
-          "text": "What might be the difference between the two?"
-        },
-        {
-          "start": 172.78,
-          "end": 176.78,
-          "text": "Uh, I guess me."
-        },
-        {
-          "start": 176.78,
-          "end": 178.78,
-          "text": "And Russ is talking to you."
-        },
-        {
-          "start": 178.78,
-          "end": 179.78,
-          "text": "How you doing?"
-        },
-        {
-          "start": 179.78,
-          "end": 180.78,
-          "text": "Good."
-        },
-        {
-          "start": 180.78,
-          "end": 181.78,
-          "text": "Good."
-        },
-        {
-          "start": 181.78,
-          "end": 182.78,
-          "text": "We're getting into a home stretch here."
-        },
-        {
-          "start": 182.78,
-          "end": 183.78,
-          "text": "If you're good, I'm good."
-        },
-        {
-          "start": 183.78,
-          "end": 184.78,
-          "text": "Yeah, I know."
-        },
-        {
-          "start": 184.78,
-          "end": 188.78,
-          "text": "Some of the stuff we had discussions here are community."
-        },
-        {
-          "start": 188.78,
-          "end": 189.78,
-          "text": "Yeah, no."
-        },
-        {
-          "start": 189.78,
-          "end": 190.78,
-          "text": "Some of you did."
-        },
-        {
-          "start": 190.78,
-          "end": 191.78,
-          "text": "No problem."
-        },
-        {
-          "start": 191.78,
-          "end": 192.78,
-          "text": "No."
-        },
-        {
-          "start": 192.78,
-          "end": 193.78,
-          "text": "All good."
-        },
-        {
-          "start": 193.78,
-          "end": 195.78,
-          "text": "How you doing?"
-        },
-        {
-          "start": 195.78,
-          "end": 197.78,
-          "text": "You're not Mike, are you?"
-        },
-        {
-          "start": 197.78,
-          "end": 198.78,
-          "text": "No."
-        },
-        {
-          "start": 198.78,
-          "end": 199.78,
-          "text": "That's my name."
-        },
-        {
-          "start": 199.78,
-          "end": 200.78,
-          "text": "Hey."
-        },
-        {
-          "start": 200.78,
-          "end": 201.78,
-          "text": "Mike, excuse me."
-        },
-        {
-          "start": 201.78,
-          "end": 202.78,
-          "text": "I've got two of them."
-        },
-        {
-          "start": 202.78,
-          "end": 203.78,
-          "text": "I've got something on me."
-        },
-        {
-          "start": 203.78,
-          "end": 204.78,
-          "text": "Yeah, you are."
-        },
-        {
-          "start": 204.78,
-          "end": 205.78,
-          "text": "Okay."
-        },
-        {
-          "start": 205.78,
-          "end": 207.78,
-          "text": "Keep talking."
-        },
-        {
-          "start": 207.78,
-          "end": 208.78,
-          "text": "Hey, how are you?"
-        },
-        {
-          "start": 208.78,
-          "end": 209.78,
-          "text": "I'm happy."
-        },
-        {
-          "start": 209.78,
-          "end": 211.78,
-          "text": "Anything good?"
-        },
-        {
-          "start": 211.78,
-          "end": 212.78,
-          "text": "Anything bad?"
-        },
-        {
-          "start": 212.78,
-          "end": 215.78,
-          "text": "What are you doing for Thanksgiving?"
-        },
-        {
-          "start": 215.78,
-          "end": 216.78,
-          "text": "You got to be back."
-        },
-        {
-          "start": 216.78,
-          "end": 217.78,
-          "text": "Now you talk a little bit."
-        },
-        {
-          "start": 217.78,
-          "end": 218.78,
-          "text": "All right."
-        },
-        {
-          "start": 218.78,
-          "end": 219.78,
-          "text": "Hold on."
-        },
-        {
-          "start": 219.78,
-          "end": 220.78,
-          "text": "Hold on."
-        },
-        {
-          "start": 220.78,
-          "end": 221.78,
-          "text": "Hold on."
-        },
-        {
-          "start": 221.78,
-          "end": 222.78,
-          "text": "Okay, I've got the ball."
-        },
-        {
-          "start": 222.78,
-          "end": 223.78,
-          "text": "Yeah, I will."
-        },
-        {
-          "start": 223.78,
-          "end": 224.78,
-          "text": "Sure."
-        },
-        {
-          "start": 224.78,
-          "end": 225.78,
-          "text": "Yeah."
-        },
-        {
-          "start": 225.78,
-          "end": 226.78,
-          "text": "Yeah, keep talking, man."
-        },
-        {
-          "start": 226.78,
-          "end": 227.78,
-          "text": "Sorry."
-        },
-        {
-          "start": 227.78,
-          "end": 228.78,
-          "text": "Oh, no, it's okay."
-        },
-        {
-          "start": 228.78,
-          "end": 229.78,
-          "text": "How you been?"
-        },
-        {
-          "start": 229.78,
-          "end": 230.78,
-          "text": "How you doing tonight?"
-        },
-        {
-          "start": 230.78,
-          "end": 231.78,
-          "text": "I've been better."
-        },
-        {
-          "start": 231.78,
-          "end": 232.78,
-          "text": "I know."
-        },
-        {
-          "start": 232.78,
-          "end": 233.78,
-          "text": "Haven't we all?"
-        },
-        {
-          "start": 233.78,
-          "end": 234.78,
-          "text": "Did you figure out that?"
-        },
-        {
-          "start": 234.78,
-          "end": 236.78,
-          "text": "But we've also been worse."
-        },
-        {
-          "start": 236.78,
-          "end": 242.78,
-          "text": "Okay, who the fuck is on this report?"
-        },
-        {
-          "start": 242.78,
-          "end": 244.78,
-          "text": "What other people are mic'd?"
-        },
-        {
-          "start": 244.78,
-          "end": 245.78,
-          "text": "Does anybody know?"
-        },
-        {
-          "start": 245.78,
-          "end": 246.78,
-          "text": "I mic'd on it."
-        },
-        {
-          "start": 246.78,
-          "end": 247.78,
-          "text": "Did you hear me?"
-        },
-        {
-          "start": 247.78,
-          "end": 248.78,
-          "text": "I don't know yet."
-        },
-        {
-          "start": 248.78,
-          "end": 250.78,
-          "text": "You mic'd him, yeah?"
-        },
-        {
-          "start": 250.78,
-          "end": 251.78,
-          "text": "No."
-        },
-        {
-          "start": 251.78,
-          "end": 252.78,
-          "text": "He's there."
-        },
-        {
-          "start": 252.78,
-          "end": 267.78,
-          "text": "Right, so y'all got the bartender and Russ."
-        },
-        {
-          "start": 267.78,
-          "end": 268.78,
-          "text": "I've got Mickey."
-        },
-        {
-          "start": 268.78,
-          "end": 269.78,
-          "text": "And me."
-        },
-        {
-          "start": 269.78,
-          "end": 270.78,
-          "text": "And who said me?"
-        },
-        {
-          "start": 270.78,
-          "end": 271.78,
-          "text": "Me, me, me, Ken."
-        },
-        {
-          "start": 271.78,
-          "end": 272.78,
-          "text": "Ken, that's right."
-        },
-        {
-          "start": 272.78,
-          "end": 273.78,
-          "text": "Who's got Russ?"
-        },
-        {
-          "start": 273.78,
-          "end": 274.78,
-          "text": "You got Russ?"
-        },
-        {
-          "start": 274.78,
-          "end": 275.78,
-          "text": "No."
-        },
-        {
-          "start": 275.78,
-          "end": 276.78,
-          "text": "No."
-        },
-        {
-          "start": 276.78,
-          "end": 277.78,
-          "text": "Do you have a mic?"
-        },
-        {
-          "start": 277.78,
-          "end": 278.78,
-          "text": "Oh, did I?"
-        },
-        {
-          "start": 278.78,
-          "end": 279.78,
-          "text": "Oh."
-        },
-        {
-          "start": 279.78,
-          "end": 282.78,
-          "text": "And so if you have a mic, somebody must to have it."
-        },
-        {
-          "start": 282.78,
-          "end": 283.78,
-          "text": "Well, it's him."
-        },
-        {
-          "start": 283.78,
-          "end": 284.78,
-          "text": "It's him."
-        },
-        {
-          "start": 284.78,
-          "end": 285.78,
-          "text": "It's him."
-        },
-        {
-          "start": 285.78,
-          "end": 286.78,
-          "text": "Yes, I know."
-        },
-        {
-          "start": 286.78,
-          "end": 287.78,
-          "text": "He has only one."
-        },
-        {
-          "start": 287.78,
-          "end": 288.78,
-          "text": "He has only one."
-        },
-        {
-          "start": 288.78,
-          "end": 289.78,
-          "text": "I only have the one."
-        },
-        {
-          "start": 289.78,
-          "end": 290.78,
-          "text": "He's Russ."
-        },
-        {
-          "start": 290.78,
-          "end": 291.78,
-          "text": "Oh, I know."
-        },
-        {
-          "start": 291.78,
-          "end": 292.78,
-          "text": "No, he's got Russ."
-        },
-        {
-          "start": 292.78,
-          "end": 293.78,
-          "text": "I've got Russ."
-        },
-        {
-          "start": 293.78,
-          "end": 294.78,
-          "text": "And Russ."
-        },
-        {
-          "start": 294.78,
-          "end": 295.78,
-          "text": "I've got Russ."
-        },
-        {
-          "start": 295.78,
-          "end": 296.78,
-          "text": "He's one."
-        },
-        {
-          "start": 296.78,
-          "end": 297.78,
-          "text": "His one."
-        },
-        {
-          "start": 297.78,
-          "end": 298.78,
-          "text": "His one."
-        },
-        {
-          "start": 298.78,
-          "end": 299.78,
-          "text": "You must have."
-        },
-        {
-          "start": 299.78,
-          "end": 300.78,
-          "text": "You got yours?"
-        },
-        {
-          "start": 300.78,
-          "end": 301.78,
-          "text": "Okay."
-        },
-        {
-          "start": 301.78,
-          "end": 302.78,
-          "text": "All right."
-        },
-        {
-          "start": 302.78,
-          "end": 303.78,
-          "text": "Hold on."
-        },
-        {
-          "start": 303.78,
-          "end": 305.78,
-          "text": "He has the bartender, you have the Russ."
-        },
-        {
-          "start": 305.78,
-          "end": 307.78,
-          "text": "Different glass from the first time."
-        },
-        {
-          "start": 307.78,
-          "end": 309.78,
-          "text": "I'm just giving you the same glass you had the first time."
-        }
-      ]
-    },
-    {
-      "id": "ZOOM0036",
-      "filename": "ZOOM0036 (Tr1 + Tr2 Mix)",
-      "audio": "assets/audio/scene_audio/ZOOM0036_MIX.m4a",
-      "duration": 4.5,
-      "duration_hms": "00:04",
-      "text": "I think there is a book I bought.",
-      "word_count": 8,
-      "segments": [
-        {
-          "start": 0.0,
-          "end": 4.5,
-          "text": "I think there is a book I bought."
-        }
-      ]
-    },
-    {
-      "id": "ZOOM0037",
-      "filename": "ZOOM0037 (Tr1 + Tr2 Mix)",
-      "audio": "assets/audio/scene_audio/ZOOM0037_MIX.m4a",
-      "duration": 628.4,
-      "duration_hms": "10:28",
-      "text": "I'm rolling! I'm rolling. Full cameras. Camera rolling. In action. All right, I gotta ask a question. You, a couple of, I wasn't really paying attention. You said something about hypnosis. You do hypnosis. It's like that bullshit Vegas thing where they go like, you know, they get on the spot like a chicken or what. What is hypnosis? Bullshit Vegas thing. Hypnosis goes back thousands of years and it's authentic, it's real. That there are bullshit artists that are not really doing as well. So you're not doing perform, you're doing like therapeutic whatever? I've been doing therapeutic hypnosis for almost 30 years now. I've worked with police officers who've been traumatized by the stuff they did. I've done with firemen, the same people, people that work to care about us. They were in trauma. What do you want ladies and board? You don't want them. I'm not sure. He has a way with women, doesn't he? Uh-huh. What? Do you remember me? Oh shit, no one. What's my name? Lucia. No. Cindy? No. Um. Maybe you should try some of your hypnosis. Yeah, and get her to tell it yourself. Yeah. My name is Suzanne Strauss. Suzanne, I've never heard a woman's name called Suzanne before. Yeah. But it sounds very good, you can do it first. I was on your medication retreat back in, back in 89. Yeah. Did you have a good time? You know what happened. No, I don't remember. I think her friend has a game. Maybe you could hypnotize him. You seduced multiple young girls. You seduced multiple young girls. Holy shit. I have never seduced a single girl through hypnosis in the whole time I've been doing this work. Yeah. What you were saying. I was 19. I love it. I love it. Yeah, Mr. From the Heart, Mr. Spirituality. Yeah. I was 19. Yeah. I was 19. Yeah. Yeah. Mr. From the Heart, Mr. Spirituality. Yeah. I was 19. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Oh my God. Are you in that much denial where you actually believe your own bullshit? It's unmitigated bullshit that you send. It never happens. It's crap. It's unbelievable. It's unbelievable that you, to this day, that you can't accept any response. You're doing a performance for somebody. You're an ego. Yes, you are. My ego? Yeah, for your ego. My ego? Yeah, your ego. Okay, and so, you think that going after girls that are 20 years younger than you? What a bunch of rubbish. Yeah, it's rubbish. Hey, folks, how you guys doing? Huh? Anything I can get for you, young lady? No. Okay. Just get out of here, right? No, I don't have to get out of here. Get away from me. You're not going to get a courteous response. What a bunch of... I don't know whether you realize it or not. You got an audience. You might as well cut out everybody what the fuck went down. Because I think it's like full of shit anyway. So I want to hear your piece. You know what happened. No, I don't. Well, tell us what happened. What can happen. Anything we need. What happened? I don't want to hear. No, thank you. No, thank you. Thank you. Is she leaving the phone? Yeah, she is. Why can't you leave me? I don't have to. Why can't you? Because I want to confront this motherfucker. Do you know what it's like? He's already told you. Do you know what it's like to be a 19-year-old girl and to be seduced by a 40-year-old guy? Hey, lady. He's already told you. You got the wrong guy. I do not. I know he is. Move along, baby. I do not. It's unmitigated bullshit. I've never done that. Hey, hey, hey. This is not the time and the place. This is not the time. If you have an issue, ma'am, take it up with the police. Take it out? Take it up with the police. Okay. Yeah, if you want to do that, go ahead and do that. I have a statute of limitations. The statute of limitations have passed away. Why don't you apply it to your own mind? And plus, I was unaged. I was unaged. This shit's better than Netflix. Why don't you just tell everybody what the fuck went there? I want to hear it. Why don't you just tell everybody what the fuck went there? Hey, folks, folks. Hey, guys, guys. Because you're at a bar with three people within earshot. Hey, guys. I can't fucking hear you. This is not the time or the place. Exactly. Oh, I don't know if it's not the place. Okay. It's exactly the place from what I've seen that goes on in here. Jesus. My mother paid you to take me on a retreat because she thought it would be a good mental leave for me. Mother paid you? My father, my father, my, paid you. My father had just passed and she knew that I was so upset and she thought I was so upset. And she thought the meditation would help me. Would help soothe me. And then you got me isolated and seduced me. Where was this? You know where it was. No, I don't. Yes, it was. It was a Marine. I never went up there and did anything with you. I never saw you before. I'm a fucking liar. You're a fucking liar. You're a fucking liar. This is BS. No, it's not. You know what it is. Absolutely BS. I just can't believe that you would deceive yourself. Deceive yourself into believing this. Why don't you just... Why don't you just atone? Atone? Yes. For something I've never fucking done? Yes. Get the fuck out of here. You're just full of shit. I don't have to get out of here. Yeah, you're making it... What are you doing? Putting on a show for somebody? No. You're filming this? You're tape recording it? You're going to write a little article about it? Fuck away from me, baby. I don't like you. Get out of here, Phil. All right? I could do this. There's a bunch of bullshit. So, Marianne, you have to work it up really heavy. The biggest blast and walk out the floor. Just go. Just work it up. That's right. Well... Mickey? Yeah, what? You want her to go? Very much so. I don't want this lady. I don't know what you're trying to prove, and I don't know... I'm not trying to prove anything, motherfucker! Why don't you get the fuck out of here? You don't have anything to do with this. Do you have any idea how this fucking affected my life? I'm sure it never happened, ladies. Oh, bullshit! How the fuck would you know? You're making this shit out of here. You weren't there, motherfucker! You don't know what you're talking about. You don't know what you're talking about. You want me to tell her to leave? You want me to tell her to leave? How dare you? I wasn't there. Fuck you! You weren't there, motherfucker! Hey, ma'am. Hey, ma'am. It might be time for you to go. Yeah, get her out of here. Get her out of here. It might be time for you to leave. You fucking piece of shit! Great. You proved your point. You made a lot of progress here tonight, lady. You really changed the world. Good job. Fuck you, motherfucker! Who the fuck do you think you're talking to? Hey! Hey! It's time for you to leave. You piece of shit! You're worse than him! How? You're playing that piece of shit! Fuck you, motherfucker! You're out! You're out! You're out! Well... I don't really know how to find him! Next time, take one up and stop the spot! It's nice to get you! Wow! What a whack job! Maybe everybody's kind of like, silenced. But maybe we just go across and see everybody. A little separate, each person. Don't look at me. Each person won't be out. Taking their own thoughts about what we just saw. Also make sure we get a shot of Damon and of Timothy, over here. Everybody's just... Don't get down at the same time. There's the tears, the applause, the applause, the applause, the applause, the applause, the applause, the applause, the applause, the applause, the applause, the applause, the noise. Do you typically charge for this kind of entertainment? Or is this some good shit? Gentlemen, you turn an interesting night into a very exciting night. And I'm not saying that's a good thing. Why is it gentlemen? I didn't know him. Here you are. Say it again, gentlemen. Gentlemen, you turn an interesting night into an exciting night. And I don't know if that's a good thing or not. Why is it gentlemen? I didn't know him in 80. Just hanging out here. And... Come on, Damon, we can put a way down. We go away. We go away. I don't know him. I don't know him. I don't know him. I don't know him. I don't know him. I don't know him. We go way back. We go way back. But this is a group thing by now. That was a trip, man. I don't believe her at all. You know that. That's not for me to say. He doesn't remember her. It's not a question of whether I remember her or not. Oh, because we believe everything he's been saying for the last two and a half, three hours or however the fuck we have been here. It's a pile of bullshit that she made up. Pick an animal with Mickey. The worst thing that you could say. Yeah. The truth is something that's happening. Probably after your money. It's probably after your money. Of course. It was a completely different world 20 years ago. Completely different world 20 years ago. Yeah. It was a different universe. And what's your point that it was a completely different world? It doesn't have a point. It doesn't have a point. You've heard it for the last half of an hour. It doesn't have a point. It doesn't have a point. I don't know what to believe anymore. I've seen way too many strange things go on in here to say who's right and who's wrong. It was different. Yeah, but I can tell you one thing. It may have heard strange things that you have. All right. I believe her. I don't appreciate it. What's that? Just shut up. Be quiet. Just look at each other. This is the end of the scene. If you just look. You're ready to cut. Thank you. All right. Cut. Cut. Cut. Cut. Cut. Cut. Cut.",
-      "word_count": 1835,
-      "segments": [
-        {
-          "start": 0.0,
-          "end": 0.84,
-          "text": "I'm rolling!"
-        },
-        {
-          "start": 0.84,
-          "end": 1.66,
-          "text": "I'm rolling."
-        },
-        {
-          "start": 1.66,
-          "end": 2.62,
-          "text": "Full cameras."
-        },
-        {
-          "start": 2.62,
-          "end": 3.72,
-          "text": "Camera rolling."
-        },
-        {
-          "start": 3.72,
-          "end": 4.88,
-          "text": "In action."
-        },
-        {
-          "start": 4.88,
-          "end": 7.22,
-          "text": "All right, I gotta ask a question."
-        },
-        {
-          "start": 7.22,
-          "end": 9.96,
-          "text": "You, a couple of, I wasn't really paying attention."
-        },
-        {
-          "start": 9.96,
-          "end": 11.38,
-          "text": "You said something about hypnosis."
-        },
-        {
-          "start": 11.38,
-          "end": 12.9,
-          "text": "You do hypnosis."
-        },
-        {
-          "start": 12.9,
-          "end": 14.36,
-          "text": "It's like that bullshit Vegas thing"
-        },
-        {
-          "start": 14.36,
-          "end": 15.32,
-          "text": "where they go like, you know,"
-        },
-        {
-          "start": 15.32,
-          "end": 17.06,
-          "text": "they get on the spot like a chicken or what."
-        },
-        {
-          "start": 17.06,
-          "end": 18.56,
-          "text": "What is hypnosis?"
-        },
-        {
-          "start": 20.16,
-          "end": 21.96,
-          "text": "Bullshit Vegas thing."
-        },
-        {
-          "start": 21.96,
-          "end": 24.16,
-          "text": "Hypnosis goes back thousands of years"
-        },
-        {
-          "start": 24.16,
-          "end": 26.48,
-          "text": "and it's authentic, it's real."
-        },
-        {
-          "start": 26.48,
-          "end": 27.82,
-          "text": "That there are bullshit artists"
-        },
-        {
-          "start": 27.82,
-          "end": 31.0,
-          "text": "that are not really doing as well."
-        },
-        {
-          "start": 31.0,
-          "end": 32.1,
-          "text": "So you're not doing perform,"
-        },
-        {
-          "start": 32.1,
-          "end": 34.06,
-          "text": "you're doing like therapeutic whatever?"
-        },
-        {
-          "start": 34.06,
-          "end": 36.14,
-          "text": "I've been doing therapeutic hypnosis"
-        },
-        {
-          "start": 36.14,
-          "end": 39.84,
-          "text": "for almost 30 years now."
-        },
-        {
-          "start": 39.84,
-          "end": 42.2,
-          "text": "I've worked with police officers"
-        },
-        {
-          "start": 42.2,
-          "end": 45.46,
-          "text": "who've been traumatized by the stuff they did."
-        },
-        {
-          "start": 45.46,
-          "end": 49.58,
-          "text": "I've done with firemen, the same people,"
-        },
-        {
-          "start": 49.58,
-          "end": 52.9,
-          "text": "people that work to care about us."
-        },
-        {
-          "start": 52.9,
-          "end": 56.58,
-          "text": "They were in trauma."
-        },
-        {
-          "start": 57.82,
-          "end": 60.0,
-          "text": "What do you want ladies and board?"
-        },
-        {
-          "start": 60.0,
-          "end": 61.0,
-          "text": "You don't want them."
-        },
-        {
-          "start": 61.0,
-          "end": 62.0,
-          "text": "I'm not sure."
-        },
-        {
-          "start": 62.0,
-          "end": 64.0,
-          "text": "He has a way with women, doesn't he?"
-        },
-        {
-          "start": 64.0,
-          "end": 65.0,
-          "text": "Uh-huh."
-        },
-        {
-          "start": 65.0,
-          "end": 65.5,
-          "text": "What?"
-        },
-        {
-          "start": 65.5,
-          "end": 66.5,
-          "text": "Do you remember me?"
-        },
-        {
-          "start": 66.5,
-          "end": 67.7,
-          "text": "Oh shit, no one."
-        },
-        {
-          "start": 67.7,
-          "end": 69.0,
-          "text": "What's my name?"
-        },
-        {
-          "start": 69.0,
-          "end": 70.0,
-          "text": "Lucia."
-        },
-        {
-          "start": 70.0,
-          "end": 71.0,
-          "text": "No."
-        },
-        {
-          "start": 71.0,
-          "end": 72.0,
-          "text": "Cindy?"
-        },
-        {
-          "start": 72.0,
-          "end": 73.0,
-          "text": "No."
-        },
-        {
-          "start": 73.0,
-          "end": 74.0,
-          "text": "Um."
-        },
-        {
-          "start": 74.0,
-          "end": 78.0,
-          "text": "Maybe you should try some of your hypnosis."
-        },
-        {
-          "start": 78.0,
-          "end": 80.0,
-          "text": "Yeah, and get her to tell it yourself."
-        },
-        {
-          "start": 80.0,
-          "end": 80.5,
-          "text": "Yeah."
-        },
-        {
-          "start": 80.5,
-          "end": 82.84,
-          "text": "My name is Suzanne Strauss."
-        },
-        {
-          "start": 82.84,
-          "end": 86.02,
-          "text": "Suzanne, I've never heard a woman's name called Suzanne before."
-        },
-        {
-          "start": 86.02,
-          "end": 87.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 87.02,
-          "end": 89.02,
-          "text": "But it sounds very good, you can do it first."
-        },
-        {
-          "start": 89.02,
-          "end": 93.02,
-          "text": "I was on your medication retreat back in, back in 89."
-        },
-        {
-          "start": 93.02,
-          "end": 94.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 94.02,
-          "end": 95.02,
-          "text": "Did you have a good time?"
-        },
-        {
-          "start": 95.02,
-          "end": 96.02,
-          "text": "You know what happened."
-        },
-        {
-          "start": 96.02,
-          "end": 97.02,
-          "text": "No, I don't remember."
-        },
-        {
-          "start": 97.02,
-          "end": 98.02,
-          "text": "I think her friend has a game."
-        },
-        {
-          "start": 98.02,
-          "end": 99.02,
-          "text": "Maybe you could hypnotize him."
-        },
-        {
-          "start": 99.02,
-          "end": 100.02,
-          "text": "You seduced multiple young girls."
-        },
-        {
-          "start": 100.02,
-          "end": 101.02,
-          "text": "You seduced multiple young girls."
-        },
-        {
-          "start": 101.02,
-          "end": 102.02,
-          "text": "Holy shit."
-        },
-        {
-          "start": 102.02,
-          "end": 105.02,
-          "text": "I have never seduced a single girl through hypnosis in the whole time I've been doing this work."
-        },
-        {
-          "start": 105.02,
-          "end": 106.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 106.02,
-          "end": 107.02,
-          "text": "What you were saying."
-        },
-        {
-          "start": 107.02,
-          "end": 108.02,
-          "text": "I was 19."
-        },
-        {
-          "start": 108.02,
-          "end": 109.02,
-          "text": "I love it."
-        },
-        {
-          "start": 109.02,
-          "end": 110.02,
-          "text": "I love it."
-        },
-        {
-          "start": 110.02,
-          "end": 111.02,
-          "text": "Yeah, Mr. From the Heart, Mr. Spirituality."
-        },
-        {
-          "start": 111.02,
-          "end": 112.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 112.02,
-          "end": 113.02,
-          "text": "I was 19."
-        },
-        {
-          "start": 113.02,
-          "end": 114.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 114.02,
-          "end": 115.02,
-          "text": "I was 19."
-        },
-        {
-          "start": 115.02,
-          "end": 116.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 116.02,
-          "end": 117.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 117.02,
-          "end": 118.02,
-          "text": "Mr. From the Heart, Mr. Spirituality."
-        },
-        {
-          "start": 118.02,
-          "end": 119.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 119.02,
-          "end": 120.02,
-          "text": "I was 19."
-        },
-        {
-          "start": 120.02,
-          "end": 121.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 121.02,
-          "end": 122.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 122.02,
-          "end": 123.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 123.02,
-          "end": 124.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 124.02,
-          "end": 125.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 125.02,
-          "end": 126.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 126.02,
-          "end": 127.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 127.02,
-          "end": 128.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 128.02,
-          "end": 129.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 129.02,
-          "end": 130.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 130.02,
-          "end": 131.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 131.02,
-          "end": 132.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 132.02,
-          "end": 133.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 133.02,
-          "end": 134.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 134.02,
-          "end": 135.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 135.02,
-          "end": 136.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 136.02,
-          "end": 137.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 137.02,
-          "end": 138.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 138.02,
-          "end": 139.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 139.02,
-          "end": 140.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 140.02,
-          "end": 141.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 141.02,
-          "end": 142.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 142.02,
-          "end": 143.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 143.02,
-          "end": 144.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 144.02,
-          "end": 145.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 145.02,
-          "end": 146.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 146.02,
-          "end": 147.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 147.02,
-          "end": 148.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 148.02,
-          "end": 149.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 149.02,
-          "end": 150.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 150.02,
-          "end": 151.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 151.02,
-          "end": 152.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 152.02,
-          "end": 153.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 153.02,
-          "end": 154.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 154.02,
-          "end": 155.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 155.02,
-          "end": 156.02,
-          "text": "Yeah."
-        },
-        {
-          "start": 156.02,
-          "end": 157.02,
-          "text": "Oh my God."
-        },
-        {
-          "start": 157.02,
-          "end": 161.12,
-          "text": "Are you in that much denial where you actually believe your own bullshit?"
-        },
-        {
-          "start": 164.7,
-          "end": 167.44,
-          "text": "It's unmitigated bullshit that you send."
-        },
-        {
-          "start": 167.66,
-          "end": 168.62,
-          "text": "It never happens."
-        },
-        {
-          "start": 169.28,
-          "end": 170.0,
-          "text": "It's crap."
-        },
-        {
-          "start": 170.1,
-          "end": 171.08,
-          "text": "It's unbelievable."
-        },
-        {
-          "start": 171.56,
-          "end": 176.82,
-          "text": "It's unbelievable that you, to this day, that you can't accept any response."
-        },
-        {
-          "start": 176.82,
-          "end": 178.86,
-          "text": "You're doing a performance for somebody."
-        },
-        {
-          "start": 179.14,
-          "end": 179.9,
-          "text": "You're an ego."
-        },
-        {
-          "start": 180.2,
-          "end": 181.12,
-          "text": "Yes, you are."
-        },
-        {
-          "start": 181.36,
-          "end": 182.34,
-          "text": "My ego?"
-        },
-        {
-          "start": 182.36,
-          "end": 183.56,
-          "text": "Yeah, for your ego."
-        },
-        {
-          "start": 183.68,
-          "end": 184.34,
-          "text": "My ego?"
-        },
-        {
-          "start": 184.52,
-          "end": 185.1,
-          "text": "Yeah, your ego."
-        },
-        {
-          "start": 185.1,
-          "end": 192.86,
-          "text": "Okay, and so, you think that going after girls that are 20 years younger than you?"
-        },
-        {
-          "start": 193.72,
-          "end": 195.06,
-          "text": "What a bunch of rubbish."
-        },
-        {
-          "start": 195.98,
-          "end": 197.08,
-          "text": "Yeah, it's rubbish."
-        },
-        {
-          "start": 197.08,
-          "end": 199.08,
-          "text": "Hey, folks, how you guys doing?"
-        },
-        {
-          "start": 199.88,
-          "end": 200.08,
-          "text": "Huh?"
-        },
-        {
-          "start": 200.3,
-          "end": 201.6,
-          "text": "Anything I can get for you, young lady?"
-        },
-        {
-          "start": 202.82,
-          "end": 203.26,
-          "text": "No."
-        },
-        {
-          "start": 204.74,
-          "end": 205.18,
-          "text": "Okay."
-        },
-        {
-          "start": 207.32,
-          "end": 208.6,
-          "text": "Just get out of here, right?"
-        },
-        {
-          "start": 208.74,
-          "end": 210.28,
-          "text": "No, I don't have to get out of here."
-        },
-        {
-          "start": 211.0,
-          "end": 211.94,
-          "text": "Get away from me."
-        },
-        {
-          "start": 211.94,
-          "end": 214.34,
-          "text": "You're not going to get a courteous response."
-        },
-        {
-          "start": 214.34,
-          "end": 215.26,
-          "text": "What a bunch of..."
-        },
-        {
-          "start": 215.26,
-          "end": 217.42,
-          "text": "I don't know whether you realize it or not."
-        },
-        {
-          "start": 217.5,
-          "end": 218.2,
-          "text": "You got an audience."
-        },
-        {
-          "start": 218.38,
-          "end": 220.28,
-          "text": "You might as well cut out everybody what the fuck went down."
-        },
-        {
-          "start": 220.4,
-          "end": 222.04,
-          "text": "Because I think it's like full of shit anyway."
-        },
-        {
-          "start": 222.3,
-          "end": 223.98,
-          "text": "So I want to hear your piece."
-        },
-        {
-          "start": 225.9,
-          "end": 226.7,
-          "text": "You know what happened."
-        },
-        {
-          "start": 226.98,
-          "end": 227.6,
-          "text": "No, I don't."
-        },
-        {
-          "start": 228.36,
-          "end": 229.26,
-          "text": "Well, tell us what happened."
-        },
-        {
-          "start": 229.26,
-          "end": 229.56,
-          "text": "What can happen."
-        },
-        {
-          "start": 230.08,
-          "end": 230.88,
-          "text": "Anything we need."
-        },
-        {
-          "start": 230.96,
-          "end": 231.36,
-          "text": "What happened?"
-        },
-        {
-          "start": 231.52,
-          "end": 231.98,
-          "text": "I don't want to hear."
-        },
-        {
-          "start": 231.98,
-          "end": 232.64,
-          "text": "No, thank you."
-        },
-        {
-          "start": 232.7,
-          "end": 233.14,
-          "text": "No, thank you."
-        },
-        {
-          "start": 233.2,
-          "end": 233.46,
-          "text": "Thank you."
-        },
-        {
-          "start": 233.54,
-          "end": 234.3,
-          "text": "Is she leaving the phone?"
-        },
-        {
-          "start": 234.96,
-          "end": 235.72,
-          "text": "Yeah, she is."
-        },
-        {
-          "start": 235.76,
-          "end": 236.58,
-          "text": "Why can't you leave me?"
-        },
-        {
-          "start": 236.58,
-          "end": 238.18,
-          "text": "I don't have to."
-        },
-        {
-          "start": 238.7,
-          "end": 239.32,
-          "text": "Why can't you?"
-        },
-        {
-          "start": 239.44,
-          "end": 241.14,
-          "text": "Because I want to confront this motherfucker."
-        },
-        {
-          "start": 241.72,
-          "end": 242.66,
-          "text": "Do you know what it's like?"
-        },
-        {
-          "start": 242.66,
-          "end": 242.8,
-          "text": "He's already told you."
-        },
-        {
-          "start": 242.92,
-          "end": 247.2,
-          "text": "Do you know what it's like to be a 19-year-old girl and to be seduced by a 40-year-old guy?"
-        },
-        {
-          "start": 247.3,
-          "end": 247.72,
-          "text": "Hey, lady."
-        },
-        {
-          "start": 247.72,
-          "end": 248.72,
-          "text": "He's already told you."
-        },
-        {
-          "start": 248.78,
-          "end": 249.86,
-          "text": "You got the wrong guy."
-        },
-        {
-          "start": 249.98,
-          "end": 250.84,
-          "text": "I do not."
-        },
-        {
-          "start": 251.04,
-          "end": 251.86,
-          "text": "I know he is."
-        },
-        {
-          "start": 251.86,
-          "end": 253.0,
-          "text": "Move along, baby."
-        },
-        {
-          "start": 253.46,
-          "end": 254.3,
-          "text": "I do not."
-        },
-        {
-          "start": 254.54,
-          "end": 255.74,
-          "text": "It's unmitigated bullshit."
-        },
-        {
-          "start": 255.9,
-          "end": 256.9,
-          "text": "I've never done that."
-        },
-        {
-          "start": 257.56,
-          "end": 258.88,
-          "text": "Hey, hey, hey."
-        },
-        {
-          "start": 258.88,
-          "end": 261.08,
-          "text": "This is not the time and the place."
-        },
-        {
-          "start": 261.38,
-          "end": 262.34,
-          "text": "This is not the time."
-        },
-        {
-          "start": 262.58,
-          "end": 266.3,
-          "text": "If you have an issue, ma'am, take it up with the police."
-        },
-        {
-          "start": 266.9,
-          "end": 267.78,
-          "text": "Take it out?"
-        },
-        {
-          "start": 268.08,
-          "end": 269.84,
-          "text": "Take it up with the police."
-        },
-        {
-          "start": 270.6,
-          "end": 270.9,
-          "text": "Okay."
-        },
-        {
-          "start": 271.66,
-          "end": 273.38,
-          "text": "Yeah, if you want to do that, go ahead and do that."
-        },
-        {
-          "start": 275.34,
-          "end": 276.64,
-          "text": "I have a statute of limitations."
-        },
-        {
-          "start": 277.16,
-          "end": 278.96,
-          "text": "The statute of limitations have passed away."
-        },
-        {
-          "start": 278.96,
-          "end": 280.16,
-          "text": "Why don't you apply it to your own mind?"
-        },
-        {
-          "start": 280.16,
-          "end": 282.06,
-          "text": "And plus, I was unaged."
-        },
-        {
-          "start": 282.06,
-          "end": 283.5,
-          "text": "I was unaged."
-        },
-        {
-          "start": 283.86,
-          "end": 285.14,
-          "text": "This shit's better than Netflix."
-        },
-        {
-          "start": 285.36,
-          "end": 287.32,
-          "text": "Why don't you just tell everybody what the fuck went there?"
-        },
-        {
-          "start": 287.32,
-          "end": 288.12,
-          "text": "I want to hear it."
-        },
-        {
-          "start": 288.88,
-          "end": 289.6,
-          "text": "Why don't you just tell everybody what the fuck went there?"
-        },
-        {
-          "start": 289.6,
-          "end": 290.68,
-          "text": "Hey, folks, folks."
-        },
-        {
-          "start": 291.2,
-          "end": 292.46,
-          "text": "Hey, guys, guys."
-        },
-        {
-          "start": 292.48,
-          "end": 294.84,
-          "text": "Because you're at a bar with three people within earshot."
-        },
-        {
-          "start": 294.96,
-          "end": 295.6,
-          "text": "Hey, guys."
-        },
-        {
-          "start": 295.68,
-          "end": 296.22,
-          "text": "I can't fucking hear you."
-        },
-        {
-          "start": 296.22,
-          "end": 298.92,
-          "text": "This is not the time or the place."
-        },
-        {
-          "start": 299.18,
-          "end": 299.5,
-          "text": "Exactly."
-        },
-        {
-          "start": 299.5,
-          "end": 300.82,
-          "text": "Oh, I don't know if it's not the place."
-        },
-        {
-          "start": 300.94,
-          "end": 301.22,
-          "text": "Okay."
-        },
-        {
-          "start": 301.42,
-          "end": 303.66,
-          "text": "It's exactly the place from what I've seen that goes on in here."
-        },
-        {
-          "start": 304.22,
-          "end": 304.54,
-          "text": "Jesus."
-        },
-        {
-          "start": 305.24,
-          "end": 309.96,
-          "text": "My mother paid you to take me on a retreat because she thought it would be a good mental"
-        },
-        {
-          "start": 309.96,
-          "end": 310.7,
-          "text": "leave for me."
-        },
-        {
-          "start": 311.32,
-          "end": 311.68,
-          "text": "Mother paid you?"
-        },
-        {
-          "start": 311.68,
-          "end": 314.12,
-          "text": "My father, my father, my, paid you."
-        },
-        {
-          "start": 314.46,
-          "end": 318.48,
-          "text": "My father had just passed and she knew that I was so upset and she thought I was so upset."
-        },
-        {
-          "start": 318.48,
-          "end": 320.24,
-          "text": "And she thought the meditation would help me."
-        },
-        {
-          "start": 320.48,
-          "end": 321.82,
-          "text": "Would help soothe me."
-        },
-        {
-          "start": 322.84,
-          "end": 326.36,
-          "text": "And then you got me isolated and seduced me."
-        },
-        {
-          "start": 326.44,
-          "end": 327.04,
-          "text": "Where was this?"
-        },
-        {
-          "start": 327.48,
-          "end": 328.48,
-          "text": "You know where it was."
-        },
-        {
-          "start": 328.5,
-          "end": 329.1,
-          "text": "No, I don't."
-        },
-        {
-          "start": 329.18,
-          "end": 330.0,
-          "text": "Yes, it was."
-        },
-        {
-          "start": 330.28,
-          "end": 331.0,
-          "text": "It was a Marine."
-        },
-        {
-          "start": 331.0,
-          "end": 333.66,
-          "text": "I never went up there and did anything with you."
-        },
-        {
-          "start": 333.76,
-          "end": 334.78,
-          "text": "I never saw you before."
-        },
-        {
-          "start": 335.0,
-          "end": 335.66,
-          "text": "I'm a fucking liar."
-        },
-        {
-          "start": 335.76,
-          "end": 336.58,
-          "text": "You're a fucking liar."
-        },
-        {
-          "start": 336.58,
-          "end": 337.58,
-          "text": "You're a fucking liar."
-        },
-        {
-          "start": 338.22,
-          "end": 338.96,
-          "text": "This is BS."
-        },
-        {
-          "start": 339.8,
-          "end": 340.56,
-          "text": "No, it's not."
-        },
-        {
-          "start": 340.8,
-          "end": 341.64,
-          "text": "You know what it is."
-        },
-        {
-          "start": 342.06,
-          "end": 343.0,
-          "text": "Absolutely BS."
-        },
-        {
-          "start": 343.12,
-          "end": 346.2,
-          "text": "I just can't believe that you would deceive yourself."
-        },
-        {
-          "start": 348.0,
-          "end": 349.72,
-          "text": "Deceive yourself into believing this."
-        },
-        {
-          "start": 349.76,
-          "end": 351.0,
-          "text": "Why don't you just..."
-        },
-        {
-          "start": 351.0,
-          "end": 352.04,
-          "text": "Why don't you just atone?"
-        },
-        {
-          "start": 353.04,
-          "end": 353.56,
-          "text": "Atone?"
-        },
-        {
-          "start": 353.72,
-          "end": 354.1,
-          "text": "Yes."
-        },
-        {
-          "start": 354.1,
-          "end": 355.8,
-          "text": "For something I've never fucking done?"
-        },
-        {
-          "start": 356.16,
-          "end": 356.52,
-          "text": "Yes."
-        },
-        {
-          "start": 356.66,
-          "end": 357.48,
-          "text": "Get the fuck out of here."
-        },
-        {
-          "start": 357.6,
-          "end": 358.68,
-          "text": "You're just full of shit."
-        },
-        {
-          "start": 359.16,
-          "end": 360.3,
-          "text": "I don't have to get out of here."
-        },
-        {
-          "start": 360.44,
-          "end": 361.34,
-          "text": "Yeah, you're making it..."
-        },
-        {
-          "start": 361.34,
-          "end": 362.04,
-          "text": "What are you doing?"
-        },
-        {
-          "start": 362.12,
-          "end": 363.5,
-          "text": "Putting on a show for somebody?"
-        },
-        {
-          "start": 363.72,
-          "end": 364.04,
-          "text": "No."
-        },
-        {
-          "start": 364.16,
-          "end": 364.96,
-          "text": "You're filming this?"
-        },
-        {
-          "start": 365.06,
-          "end": 366.12,
-          "text": "You're tape recording it?"
-        },
-        {
-          "start": 366.2,
-          "end": 368.04,
-          "text": "You're going to write a little article about it?"
-        },
-        {
-          "start": 368.54,
-          "end": 369.88,
-          "text": "Fuck away from me, baby."
-        },
-        {
-          "start": 369.96,
-          "end": 370.64,
-          "text": "I don't like you."
-        },
-        {
-          "start": 370.74,
-          "end": 371.64,
-          "text": "Get out of here, Phil."
-        },
-        {
-          "start": 371.92,
-          "end": 372.26,
-          "text": "All right?"
-        },
-        {
-          "start": 372.72,
-          "end": 373.1,
-          "text": "I could do this."
-        },
-        {
-          "start": 373.1,
-          "end": 374.0,
-          "text": "There's a bunch of bullshit."
-        },
-        {
-          "start": 374.34,
-          "end": 376.8,
-          "text": "So, Marianne, you have to work it up really heavy."
-        },
-        {
-          "start": 377.36,
-          "end": 379.92,
-          "text": "The biggest blast and walk out the floor."
-        },
-        {
-          "start": 380.2,
-          "end": 380.62,
-          "text": "Just go."
-        },
-        {
-          "start": 381.64,
-          "end": 382.56,
-          "text": "Just work it up."
-        },
-        {
-          "start": 383.0,
-          "end": 383.44,
-          "text": "That's right."
-        },
-        {
-          "start": 383.44,
-          "end": 387.44,
-          "text": "Well..."
-        },
-        {
-          "start": 388.22,
-          "end": 388.58,
-          "text": "Mickey?"
-        },
-        {
-          "start": 388.96,
-          "end": 389.58,
-          "text": "Yeah, what?"
-        },
-        {
-          "start": 391.62,
-          "end": 392.48,
-          "text": "You want her to go?"
-        },
-        {
-          "start": 393.32,
-          "end": 394.26,
-          "text": "Very much so."
-        },
-        {
-          "start": 394.74,
-          "end": 395.68,
-          "text": "I don't want this lady."
-        },
-        {
-          "start": 395.82,
-          "end": 397.6,
-          "text": "I don't know what you're trying to prove, and I don't know..."
-        },
-        {
-          "start": 397.6,
-          "end": 399.68,
-          "text": "I'm not trying to prove anything, motherfucker!"
-        },
-        {
-          "start": 399.98,
-          "end": 400.54,
-          "text": "Why don't you get the fuck out of here?"
-        },
-        {
-          "start": 400.78,
-          "end": 402.6,
-          "text": "You don't have anything to do with this."
-        },
-        {
-          "start": 402.86,
-          "end": 405.8,
-          "text": "Do you have any idea how this fucking affected my life?"
-        },
-        {
-          "start": 406.02,
-          "end": 407.42,
-          "text": "I'm sure it never happened, ladies."
-        },
-        {
-          "start": 407.46,
-          "end": 408.04,
-          "text": "Oh, bullshit!"
-        },
-        {
-          "start": 408.16,
-          "end": 409.36,
-          "text": "How the fuck would you know?"
-        },
-        {
-          "start": 409.38,
-          "end": 409.88,
-          "text": "You're making this shit out of here."
-        },
-        {
-          "start": 409.88,
-          "end": 411.06,
-          "text": "You weren't there, motherfucker!"
-        },
-        {
-          "start": 411.06,
-          "end": 413.06,
-          "text": "You don't know what you're talking about."
-        },
-        {
-          "start": 413.06,
-          "end": 414.06,
-          "text": "You don't know what you're talking about."
-        },
-        {
-          "start": 414.06,
-          "end": 415.06,
-          "text": "You want me to tell her to leave?"
-        },
-        {
-          "start": 415.06,
-          "end": 416.06,
-          "text": "You want me to tell her to leave?"
-        },
-        {
-          "start": 416.06,
-          "end": 417.06,
-          "text": "How dare you?"
-        },
-        {
-          "start": 417.06,
-          "end": 418.06,
-          "text": "I wasn't there."
-        },
-        {
-          "start": 418.06,
-          "end": 419.06,
-          "text": "Fuck you!"
-        },
-        {
-          "start": 419.06,
-          "end": 420.06,
-          "text": "You weren't there, motherfucker!"
-        },
-        {
-          "start": 420.06,
-          "end": 421.06,
-          "text": "Hey, ma'am."
-        },
-        {
-          "start": 421.06,
-          "end": 422.06,
-          "text": "Hey, ma'am."
-        },
-        {
-          "start": 422.06,
-          "end": 423.06,
-          "text": "It might be time for you to go."
-        },
-        {
-          "start": 423.06,
-          "end": 424.06,
-          "text": "Yeah, get her out of here."
-        },
-        {
-          "start": 424.06,
-          "end": 425.06,
-          "text": "Get her out of here."
-        },
-        {
-          "start": 425.06,
-          "end": 426.06,
-          "text": "It might be time for you to leave."
-        },
-        {
-          "start": 426.06,
-          "end": 427.06,
-          "text": "You fucking piece of shit!"
-        },
-        {
-          "start": 427.06,
-          "end": 428.06,
-          "text": "Great."
-        },
-        {
-          "start": 428.06,
-          "end": 429.06,
-          "text": "You proved your point."
-        },
-        {
-          "start": 429.06,
-          "end": 431.06,
-          "text": "You made a lot of progress here tonight, lady."
-        },
-        {
-          "start": 431.06,
-          "end": 432.06,
-          "text": "You really changed the world."
-        },
-        {
-          "start": 432.06,
-          "end": 433.06,
-          "text": "Good job."
-        },
-        {
-          "start": 433.06,
-          "end": 434.06,
-          "text": "Fuck you, motherfucker!"
-        },
-        {
-          "start": 434.06,
-          "end": 436.06,
-          "text": "Who the fuck do you think you're talking to?"
-        },
-        {
-          "start": 436.06,
-          "end": 437.06,
-          "text": "Hey!"
-        },
-        {
-          "start": 437.06,
-          "end": 438.06,
-          "text": "Hey!"
-        },
-        {
-          "start": 438.06,
-          "end": 439.06,
-          "text": "It's time for you to leave."
-        },
-        {
-          "start": 439.06,
-          "end": 440.06,
-          "text": "You piece of shit!"
-        },
-        {
-          "start": 440.06,
-          "end": 441.06,
-          "text": "You're worse than him!"
-        },
-        {
-          "start": 441.06,
-          "end": 442.06,
-          "text": "How?"
-        },
-        {
-          "start": 442.06,
-          "end": 444.06,
-          "text": "You're playing that piece of shit!"
-        },
-        {
-          "start": 444.06,
-          "end": 445.06,
-          "text": "Fuck you, motherfucker!"
-        },
-        {
-          "start": 445.06,
-          "end": 446.06,
-          "text": "You're out!"
-        },
-        {
-          "start": 446.06,
-          "end": 447.06,
-          "text": "You're out!"
-        },
-        {
-          "start": 447.06,
-          "end": 448.06,
-          "text": "You're out!"
-        },
-        {
-          "start": 448.06,
-          "end": 449.06,
-          "text": "Well..."
-        },
-        {
-          "start": 449.06,
-          "end": 450.06,
-          "text": "I don't really know how to find him!"
-        },
-        {
-          "start": 450.06,
-          "end": 451.06,
-          "text": "Next time, take one up and stop the spot!"
-        },
-        {
-          "start": 451.06,
-          "end": 452.06,
-          "text": "It's nice to get you!"
-        },
-        {
-          "start": 452.06,
-          "end": 453.06,
-          "text": "Wow!"
-        },
-        {
-          "start": 453.06,
-          "end": 454.06,
-          "text": "What a whack job!"
-        },
-        {
-          "start": 454.06,
-          "end": 455.06,
-          "text": "Maybe everybody's kind of like, silenced."
-        },
-        {
-          "start": 455.06,
-          "end": 456.06,
-          "text": "But maybe we just go across and see everybody."
-        },
-        {
-          "start": 456.06,
-          "end": 457.06,
-          "text": "A little separate, each person."
-        },
-        {
-          "start": 457.06,
-          "end": 458.06,
-          "text": "Don't look at me."
-        },
-        {
-          "start": 458.06,
-          "end": 459.06,
-          "text": "Each person won't be out."
-        },
-        {
-          "start": 459.06,
-          "end": 460.06,
-          "text": "Taking their own thoughts about what we just saw."
-        },
-        {
-          "start": 460.06,
-          "end": 461.06,
-          "text": "Also make sure we get a shot of Damon and of Timothy, over here."
-        },
-        {
-          "start": 461.06,
-          "end": 462.06,
-          "text": "Everybody's just..."
-        },
-        {
-          "start": 462.06,
-          "end": 463.06,
-          "text": "Don't get down at the same time."
-        },
-        {
-          "start": 463.06,
-          "end": 467.06,
-          "text": "There's the tears, the applause, the applause, the applause, the applause, the applause,"
-        },
-        {
-          "start": 467.06,
-          "end": 472.06,
-          "text": "the applause, the applause, the applause, the applause, the applause, the applause, the"
-        },
-        {
-          "start": 472.06,
-          "end": 473.06,
-          "text": "noise."
-        },
-        {
-          "start": 473.06,
-          "end": 489.06,
-          "text": "Do you typically charge for this kind of entertainment?"
-        },
-        {
-          "start": 489.06,
-          "end": 497.06,
-          "text": "Or is this some good shit?"
-        },
-        {
-          "start": 497.06,
-          "end": 501.06,
-          "text": "Gentlemen, you turn an interesting night into a very exciting night."
-        },
-        {
-          "start": 501.06,
-          "end": 504.06,
-          "text": "And I'm not saying that's a good thing."
-        },
-        {
-          "start": 504.06,
-          "end": 506.06,
-          "text": "Why is it gentlemen?"
-        },
-        {
-          "start": 506.06,
-          "end": 507.06,
-          "text": "I didn't know him."
-        },
-        {
-          "start": 507.06,
-          "end": 508.06,
-          "text": "Here you are."
-        },
-        {
-          "start": 508.06,
-          "end": 509.06,
-          "text": "Say it again, gentlemen."
-        },
-        {
-          "start": 509.06,
-          "end": 514.06,
-          "text": "Gentlemen, you turn an interesting night into an exciting night."
-        },
-        {
-          "start": 514.06,
-          "end": 517.06,
-          "text": "And I don't know if that's a good thing or not."
-        },
-        {
-          "start": 517.06,
-          "end": 518.06,
-          "text": "Why is it gentlemen?"
-        },
-        {
-          "start": 518.06,
-          "end": 519.06,
-          "text": "I didn't know him in 80."
-        },
-        {
-          "start": 519.06,
-          "end": 520.06,
-          "text": "Just hanging out here."
-        },
-        {
-          "start": 520.06,
-          "end": 521.06,
-          "text": "And..."
-        },
-        {
-          "start": 521.06,
-          "end": 522.06,
-          "text": "Come on, Damon, we can put a way down."
-        },
-        {
-          "start": 522.06,
-          "end": 523.06,
-          "text": "We go away."
-        },
-        {
-          "start": 523.06,
-          "end": 524.06,
-          "text": "We go away."
-        },
-        {
-          "start": 524.06,
-          "end": 525.06,
-          "text": "I don't know him."
-        },
-        {
-          "start": 525.06,
-          "end": 526.06,
-          "text": "I don't know him."
-        },
-        {
-          "start": 526.06,
-          "end": 527.06,
-          "text": "I don't know him."
-        },
-        {
-          "start": 527.06,
-          "end": 528.06,
-          "text": "I don't know him."
-        },
-        {
-          "start": 528.06,
-          "end": 529.06,
-          "text": "I don't know him."
-        },
-        {
-          "start": 529.06,
-          "end": 530.06,
-          "text": "I don't know him."
-        },
-        {
-          "start": 530.06,
-          "end": 531.06,
-          "text": "We go way back."
-        },
-        {
-          "start": 531.06,
-          "end": 532.06,
-          "text": "We go way back."
-        },
-        {
-          "start": 532.06,
-          "end": 534.06,
-          "text": "But this is a group thing by now."
-        },
-        {
-          "start": 534.06,
-          "end": 535.06,
-          "text": "That was a trip, man."
-        },
-        {
-          "start": 535.06,
-          "end": 536.06,
-          "text": "I don't believe her at all."
-        },
-        {
-          "start": 536.06,
-          "end": 537.06,
-          "text": "You know that."
-        },
-        {
-          "start": 537.06,
-          "end": 539.06,
-          "text": "That's not for me to say."
-        },
-        {
-          "start": 539.06,
-          "end": 542.06,
-          "text": "He doesn't remember her."
-        },
-        {
-          "start": 542.06,
-          "end": 545.06,
-          "text": "It's not a question of whether I remember her or not."
-        },
-        {
-          "start": 545.06,
-          "end": 551.06,
-          "text": "Oh, because we believe everything he's been saying for the last two and a half, three hours or however the fuck we have been here."
-        },
-        {
-          "start": 551.06,
-          "end": 554.06,
-          "text": "It's a pile of bullshit that she made up."
-        },
-        {
-          "start": 554.06,
-          "end": 555.06,
-          "text": "Pick an animal with Mickey."
-        },
-        {
-          "start": 555.06,
-          "end": 556.06,
-          "text": "The worst thing that you could say."
-        },
-        {
-          "start": 556.06,
-          "end": 557.06,
-          "text": "Yeah."
-        },
-        {
-          "start": 557.06,
-          "end": 558.06,
-          "text": "The truth is something that's happening."
-        },
-        {
-          "start": 558.06,
-          "end": 559.06,
-          "text": "Probably after your money."
-        },
-        {
-          "start": 559.06,
-          "end": 560.06,
-          "text": "It's probably after your money."
-        },
-        {
-          "start": 560.06,
-          "end": 561.06,
-          "text": "Of course."
-        },
-        {
-          "start": 561.06,
-          "end": 571.06,
-          "text": "It was a completely different world 20 years ago."
-        },
-        {
-          "start": 571.06,
-          "end": 576.06,
-          "text": "Completely different world 20 years ago."
-        },
-        {
-          "start": 576.06,
-          "end": 577.06,
-          "text": "Yeah."
-        },
-        {
-          "start": 577.06,
-          "end": 581.06,
-          "text": "It was a different universe."
-        },
-        {
-          "start": 581.06,
-          "end": 584.06,
-          "text": "And what's your point that it was a completely different world?"
-        },
-        {
-          "start": 584.06,
-          "end": 585.06,
-          "text": "It doesn't have a point."
-        },
-        {
-          "start": 585.06,
-          "end": 586.06,
-          "text": "It doesn't have a point."
-        },
-        {
-          "start": 586.06,
-          "end": 588.06,
-          "text": "You've heard it for the last half of an hour."
-        },
-        {
-          "start": 588.06,
-          "end": 589.06,
-          "text": "It doesn't have a point."
-        },
-        {
-          "start": 589.06,
-          "end": 590.06,
-          "text": "It doesn't have a point."
-        },
-        {
-          "start": 590.06,
-          "end": 594.06,
-          "text": "I don't know what to believe anymore."
-        },
-        {
-          "start": 594.06,
-          "end": 599.06,
-          "text": "I've seen way too many strange things go on in here to say who's right and who's wrong."
-        },
-        {
-          "start": 599.06,
-          "end": 600.06,
-          "text": "It was different."
-        },
-        {
-          "start": 600.06,
-          "end": 601.06,
-          "text": "Yeah, but I can tell you one thing."
-        },
-        {
-          "start": 601.06,
-          "end": 603.06,
-          "text": "It may have heard strange things that you have."
-        },
-        {
-          "start": 603.06,
-          "end": 604.06,
-          "text": "All right."
-        },
-        {
-          "start": 604.06,
-          "end": 605.06,
-          "text": "I believe her."
-        },
-        {
-          "start": 605.06,
-          "end": 606.06,
-          "text": "I don't appreciate it."
-        },
-        {
-          "start": 606.06,
-          "end": 607.06,
-          "text": "What's that?"
-        },
-        {
-          "start": 607.06,
-          "end": 608.06,
-          "text": "Just shut up."
-        },
-        {
-          "start": 608.06,
-          "end": 609.06,
-          "text": "Be quiet."
-        },
-        {
-          "start": 609.06,
-          "end": 610.06,
-          "text": "Just look at each other."
-        },
-        {
-          "start": 610.06,
-          "end": 612.06,
-          "text": "This is the end of the scene."
-        },
-        {
-          "start": 612.06,
-          "end": 613.06,
-          "text": "If you just look."
-        },
-        {
-          "start": 618.06,
-          "end": 619.06,
-          "text": "You're ready to cut."
-        },
-        {
-          "start": 619.06,
-          "end": 620.06,
-          "text": "Thank you."
-        },
-        {
-          "start": 620.06,
-          "end": 621.06,
-          "text": "All right."
-        },
-        {
-          "start": 621.06,
-          "end": 622.06,
-          "text": "Cut."
-        },
-        {
-          "start": 622.06,
-          "end": 623.06,
-          "text": "Cut."
-        },
-        {
-          "start": 623.06,
-          "end": 624.06,
-          "text": "Cut."
-        },
-        {
-          "start": 624.06,
-          "end": 625.06,
-          "text": "Cut."
-        },
-        {
-          "start": 625.06,
-          "end": 626.06,
-          "text": "Cut."
-        },
-        {
-          "start": 626.06,
-          "end": 627.06,
-          "text": "Cut."
-        },
-        {
-          "start": 627.06,
-          "end": 628.06,
-          "text": "Cut."
         }
       ]
     }

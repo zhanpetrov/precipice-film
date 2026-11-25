@@ -402,6 +402,81 @@
     $("#lightbox-caption").textContent = `${item.cap} (${state.lightboxIdx + 1} / ${list.length})`;
   }
 
+  function renderPeople() {
+    const cp = state.castPeopleData;
+    const people = cp?.people || [];
+    if (!people.length) return;
+    $("#people").hidden = false;
+    $("#people-title").textContent = `People & Cast (${people.length} Recognized)`;
+
+    const q = (state.peopleQuery || "").trim().toLowerCase();
+    const filtered = q
+      ? people.filter((p) => (p.name + " " + p.id + " " + (p.voice_sample?.role || "")).toLowerCase().includes(q))
+      : people;
+
+    const grid = $("#people-grid");
+    if (!filtered.length) {
+      grid.innerHTML = `<div class="empty-state">No people match "${escHtml(state.peopleQuery)}".</div>`;
+      return;
+    }
+
+    grid.innerHTML = filtered.map((p) => `
+      <article class="person-card${p.verified_identity ? " verified" : ""}" data-pid="${escHtml(p.id)}">
+        <div class="person-avatar-wrap">
+          <img class="person-avatar" src="${escHtml(p.avatar)}" alt="${escHtml(p.name)}" loading="lazy" />
+          ${p.voice_sample ? `<span class="person-voice-dot" title="Voice sample linked">♪</span>` : ""}
+        </div>
+        <div class="person-name">${escHtml(p.name)}</div>
+        <div class="person-meta">${p.photo_count} ${p.photo_count === 1 ? "photo" : "photos"}</div>
+      </article>
+    `).join("");
+
+    grid.querySelectorAll(".person-card").forEach((card) => {
+      card.addEventListener("click", () => {
+        const person = people.find((x) => x.id === card.dataset.pid);
+        if (person) openPersonModal(person);
+      });
+    });
+  }
+
+  function openPersonModal(person) {
+    $("#pm-avatar").src = person.avatar;
+    $("#pm-avatar").alt = person.name;
+    $("#pm-name").textContent = person.name;
+    $("#pm-meta").textContent = `${person.photo_count} matched portraits · ${person.first_still} – ${person.last_still}`;
+
+    const voiceBox = $("#pm-voice");
+    if (person.voice_sample) {
+      const v = person.voice_sample;
+      voiceBox.hidden = false;
+      voiceBox.innerHTML = `
+        <div class="audio-card-head">
+          <span class="audio-title">Voice Sample · ${escHtml(v.role || "Cast")}</span>
+          <span class="audio-badge">${escHtml(v.duration_hms)}</span>
+        </div>
+        <audio controls preload="metadata" src="${escHtml(v.audio)}"></audio>
+        <div class="pm-voice-text">${escHtml(v.text || "")}</div>
+      `;
+    } else {
+      voiceBox.hidden = true;
+      voiceBox.innerHTML = "";
+    }
+
+    const lbList = person.stills.map((s) => ({ src: s.full, cap: `${person.name} · ${s.filename}` }));
+    const photosEl = $("#pm-photos");
+    photosEl.innerHTML = person.stills.map((s, idx) => `
+      <div class="pm-photo-tile" data-idx="${idx}">
+        <img src="${escHtml(s.thumb)}" alt="${escHtml(s.filename)}" loading="lazy" />
+      </div>
+    `).join("");
+
+    photosEl.querySelectorAll(".pm-photo-tile").forEach((el) => {
+      el.addEventListener("click", () => openLightbox(lbList, Number(el.dataset.idx)));
+    });
+
+    $("#person-modal").hidden = false;
+  }
+
   function renderHightailAudio() {
     const ht = state.hightailData;
     if (!ht) return;
@@ -410,7 +485,7 @@
     const list = state.audioTab === "scene" ? (ht.scene_audio || []) : (ht.voice_refs || []);
     const q = state.audioQuery.trim().toLowerCase();
     const filtered = q
-      ? list.filter((it) => (it.filename + " " + (it.text || "")).toLowerCase().includes(q))
+      ? list.filter((it) => ((it.speaker || "") + " " + (it.role || "") + " " + it.filename + " " + (it.text || "")).toLowerCase().includes(q))
       : list;
 
     $("#audio-count").textContent = `${filtered.length} of ${list.length} recordings`;
@@ -423,9 +498,10 @@
     grid.innerHTML = filtered.map((it) => `
       <article class="audio-card">
         <div class="audio-card-head">
-          <span class="audio-title">${escHtml(it.filename)}</span>
+          <span class="audio-title">${escHtml(it.speaker || it.filename)}</span>
           <span class="audio-badge">${escHtml(it.duration_hms)}</span>
         </div>
+        ${it.role ? `<div class="audio-role">${escHtml(it.role)} · ${escHtml(it.id)}</div>` : ""}
         <audio controls preload="none" src="${escHtml(it.audio)}"></audio>
         <div class="audio-transcript">${it.text ? highlight(it.text, state.audioQuery.trim()) : "<em>Ambient / no speech detected</em>"}</div>
       </article>
@@ -509,6 +585,8 @@
         if (e.key === "Escape") $("#lightbox").hidden = true;
         else if (e.key === "ArrowLeft") showLightboxAt(state.lightboxIdx - 1);
         else if (e.key === "ArrowRight") showLightboxAt(state.lightboxIdx + 1);
+      } else if (!$("#person-modal").hidden && e.key === "Escape") {
+        $("#person-modal").hidden = true;
       }
     });
 
@@ -530,6 +608,16 @@
         state.shotFilter = pill.dataset.filter;
         renderShotsGrid();
       });
+    });
+
+    // People search & modal close
+    $("#people-search")?.addEventListener("input", (e) => {
+      state.peopleQuery = e.target.value;
+      renderPeople();
+    });
+    $("#pm-close")?.addEventListener("click", () => { $("#person-modal").hidden = true; });
+    $("#person-modal")?.addEventListener("click", (e) => {
+      if (e.target.id === "person-modal") $("#person-modal").hidden = true;
     });
 
     // Audio Studio tabs & search
@@ -564,13 +652,27 @@
       navigator.clipboard?.writeText(url).then(() => toast(`Copied ${url}`));
     });
 
-    // Lightbox controls
-    $("#lightbox-close").addEventListener("click", () => { $("#lightbox").hidden = true; });
+    // Lightbox controls + phone touch swipe gestures
+    const lb = $("#lightbox");
+    $("#lightbox-close").addEventListener("click", () => { lb.hidden = true; });
     $("#lightbox-prev").addEventListener("click", () => showLightboxAt(state.lightboxIdx - 1));
     $("#lightbox-next").addEventListener("click", () => showLightboxAt(state.lightboxIdx + 1));
-    $("#lightbox").addEventListener("click", (e) => {
-      if (e.target.id === "lightbox") $("#lightbox").hidden = true;
+    lb.addEventListener("click", (e) => {
+      if (e.target.id === "lightbox") lb.hidden = true;
     });
+    let touchStartX = 0;
+    lb.addEventListener("touchstart", (e) => {
+      if (e.touches.length === 1) touchStartX = e.touches[0].clientX;
+    }, { passive: true });
+    lb.addEventListener("touchend", (e) => {
+      if (!touchStartX || !e.changedTouches.length) return;
+      const dx = e.changedTouches[0].clientX - touchStartX;
+      touchStartX = 0;
+      if (Math.abs(dx) > 45) {
+        if (dx < 0) showLightboxAt(state.lightboxIdx + 1);
+        else showLightboxAt(state.lightboxIdx - 1);
+      }
+    }, { passive: true });
   }
 
   function applyTheme(theme) {
@@ -582,21 +684,24 @@
   async function boot() {
     wireUI();
     try {
-      const [shotsRes, chapRes, ytRes, htRes] = await Promise.all([
+      const [shotsRes, chapRes, ytRes, htRes, cpRes] = await Promise.all([
         fetch("data/shots.json"),
         fetch("data/chapters.json").catch(() => null),
         fetch("data/youtube.json").catch(() => null),
         fetch("data/hightail_112326.json").catch(() => null),
+        fetch("data/cast_people.json").catch(() => null),
       ]);
       state.shotsData = await shotsRes.json();
       if (chapRes && chapRes.ok) state.chaptersData = await chapRes.json();
       if (ytRes && ytRes.ok) state.youtubeData = await ytRes.json();
       if (htRes && htRes.ok) state.hightailData = await htRes.json();
+      if (cpRes && cpRes.ok) state.castPeopleData = await cpRes.json();
 
       renderMetrics();
       renderCameraBar();
       renderShotsGrid();
       renderInspector();
+      renderPeople();
       renderHightailAudio();
       renderCastStills();
       renderStills();

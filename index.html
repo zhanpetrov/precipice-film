@@ -2,9 +2,9 @@
 <html lang="en" data-theme="dark">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>PRECIPICE — Multi-Camera Dailies &amp; Transcript Archive | Rob Nilsson</title>
-  <meta name="description" content="Complete multi-camera dailies, frame-accurate YouTube chapters, and searchable word-for-word transcripts for Rob Nilsson's film PRECIPICE." />
+  <meta name="description" content="Complete multi-camera dailies, face recognition cast directory, voice references, frame-accurate YouTube chapters, and searchable word-for-word transcripts for Rob Nilsson's film PRECIPICE." />
   <meta name="theme-color" content="#000000" />
   <link rel="stylesheet" href="styles.css" />
 </head>
@@ -19,11 +19,11 @@
       </a>
 
       <nav class="topbar-nav" aria-label="Primary">
-        <a href="#studio">Screening Room</a>
-        <a href="#shots">All Shots</a>
+        <a href="#studio">Cameras</a>
+        <a href="#people">People</a>
         <a href="#audio">Voice &amp; Audio</a>
-        <a href="#cast-stills">Cast Stills</a>
-        <a id="nav-playlist-link" href="https://www.youtube.com/playlist?list=PLcER0Yz7OUpU" target="_blank" rel="noopener">YouTube Playlist ↗</a>
+        <a href="#cast-stills">Stills</a>
+        <a id="nav-playlist-link" href="https://www.youtube.com/playlist?list=PLcER0Yz7OUpU" target="_blank" rel="noopener">Playlist ↗</a>
         <a href="https://github.com/zhanpetrov/precipice-film" target="_blank" rel="noopener">GitHub ↗</a>
       </nav>
 
@@ -166,21 +166,35 @@
       </div>
     </section>
 
+    <!-- Face Recognition: People & Cast Directory -->
+    <section id="people" class="people-section" hidden>
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <h2 class="section-title" id="people-title">People &amp; Cast (Face Recognition)</h2>
+            <p class="section-sub" id="people-sub">Every unique person automatically clustered across all 339 cast stills using deep 512-D face recognition. Tap any face to inspect all their portraits &amp; voice sample.</p>
+          </div>
+          <input id="people-search" class="audio-search" type="search" placeholder="Search people by name or #…" autocomplete="off" />
+        </div>
+        <div class="people-grid" id="people-grid"></div>
+      </div>
+    </section>
+
     <!-- Voice References & Scene Audio Studio (Chikara Motomura 11/23) -->
     <section id="audio" class="audio-section" hidden>
       <div class="container">
         <div class="section-head">
           <div>
-            <h2 class="section-title">Cast Voice References &amp; Scene Audio</h2>
-            <p class="section-sub" id="audio-sub">44 one-minute cast voice references &amp; scene audio recordings — playable with full Whisper transcripts.</p>
+            <h2 class="section-title">Cast Voice Samples &amp; Scene Audio</h2>
+            <p class="section-sub" id="audio-sub">34 named cast 1-minute voice samples &amp; 13 scene audio takes — playable on phone &amp; desktop with full Whisper transcripts.</p>
           </div>
           <div class="filter-pills">
-            <button class="filter-pill audio-tab active" data-atab="voice" type="button">Cast Voice Refs</button>
-            <button class="filter-pill audio-tab" data-atab="scene" type="button">Scene Audio</button>
+            <button class="filter-pill audio-tab active" data-atab="voice" type="button">Cast Voices (34)</button>
+            <button class="filter-pill audio-tab" data-atab="scene" type="button">Scene Audio (13)</button>
           </div>
         </div>
         <div class="audio-toolbar">
-          <input id="audio-search" class="audio-search" type="search" placeholder="Filter voice references by name or dialogue…" autocomplete="off" />
+          <input id="audio-search" class="audio-search" type="search" placeholder="Search actor name, role, or dialogue…" autocomplete="off" />
           <span id="audio-count" class="shot-words"></span>
         </div>
         <div class="audio-grid" id="audio-grid"></div>
@@ -193,7 +207,7 @@
         <div class="section-head">
           <div>
             <h2 class="section-title" id="cast-stills-title">Cast Stills Gallery</h2>
-            <p class="section-sub">Captured on set November 23, 2026 by Chikara Motomura. Click any portrait to open full-screen with arrow navigation.</p>
+            <p class="section-sub">Captured on set November 23, 2026 by Chikara Motomura. Tap any photo and swipe left/right full-screen.</p>
           </div>
         </div>
         <div class="cast-stills-grid" id="cast-stills-grid"></div>
@@ -218,6 +232,24 @@
     </section>
   </main>
 
+  <!-- Person Profile Modal (All matched faces + voice sample) -->
+  <div id="person-modal" class="person-modal" hidden>
+    <div class="person-sheet" role="dialog" aria-modal="true" aria-labelledby="pm-name">
+      <div class="pm-head">
+        <div class="pm-id">
+          <img id="pm-avatar" class="pm-avatar" src="" alt="" />
+          <div>
+            <h3 id="pm-name" class="pm-name">Person</h3>
+            <div id="pm-meta" class="pm-meta">—</div>
+          </div>
+        </div>
+        <button id="pm-close" class="icon-btn" type="button" aria-label="Close">✕</button>
+      </div>
+      <div id="pm-voice" class="pm-voice" hidden></div>
+      <div class="pm-photos" id="pm-photos"></div>
+    </div>
+  </div>
+
   <!-- Lightbox Modal for Stills -->
   <div id="lightbox" class="lightbox" hidden>
     <button id="lightbox-close" class="lightbox-close" type="button" aria-label="Close">✕</button>
@@ -226,6 +258,26 @@
     <button id="lightbox-next" class="lightbox-nav lightbox-next" type="button" aria-label="Next">›</button>
     <div id="lightbox-caption" class="lightbox-caption"></div>
   </div>
+
+  <!-- iOS-Style Mobile Bottom Tab Bar -->
+  <nav class="mobile-dock" aria-label="Mobile navigation">
+    <a href="#studio" class="dock-item">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9"><rect x="2" y="5" width="15" height="14" rx="2"/><path d="m17 10 5-3v10l-5-3Z"/></svg>
+      <span>Cameras</span>
+    </a>
+    <a href="#people" class="dock-item">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9"><circle cx="12" cy="8" r="4"/><path d="M5 20a7 7 0 0 1 14 0"/></svg>
+      <span>People</span>
+    </a>
+    <a href="#audio" class="dock-item">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/></svg>
+      <span>Voices</span>
+    </a>
+    <a href="#cast-stills" class="dock-item">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="9" cy="9" r="2"/><path d="m21 15-3.1-3.1a2 2 0 0 0-2.8 0L6 21"/></svg>
+      <span>Stills</span>
+    </a>
+  </nav>
 
   <!-- Toast Notification -->
   <div id="toast" class="toast" aria-live="polite"></div>
