@@ -781,8 +781,9 @@ def main() -> None:
         if isinstance(v, dict) and v.get("video_id"):
             seen_ids.add(v["video_id"])
 
+    cam_list = [c for c in ["CHICARA_CAM", "ROB_CAM", "SECRET_CAM", "CHIKARA_BONUS"] if c in shots_data["cameras"]]
     chapters_map = {}
-    for cam in ["CHICARA_CAM", "ROB_CAM", "SECRET_CAM"]:
+    for cam in cam_list:
         chapters_map[cam] = build_chapters_for_camera(cam, shots_data["cameras"][cam])
     CHAPTERS_JSON.write_text(json.dumps(chapters_map, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     print(f"Wrote {CHAPTERS_JSON} ({ {k: len(v) for k, v in chapters_map.items()} })", flush=True)
@@ -796,9 +797,10 @@ def main() -> None:
         "CHICARA_CAM": "PRECIPICE — Chicara Cam (Complete Assembly, 17 Shots) | Rob Nilsson",
         "ROB_CAM": "PRECIPICE — Rob Cam (Complete Assembly, 55 Shots) | Rob Nilsson",
         "SECRET_CAM": "PRECIPICE — Secret Cam (Complete Uncut Take) | Rob Nilsson",
+        "CHIKARA_BONUS": "PRECIPICE — Chikara 11/23 Reels (5 Shots) | Rob Nilsson",
     }
 
-    for cam in ["CHICARA_CAM", "ROB_CAM", "SECRET_CAM"]:
+    for cam in cam_list:
         if cam in existing and existing[cam].get("video_id"):
             print(f"[{cam}] Already uploaded: {existing[cam]['youtu_be']} — skipping.", flush=True)
             continue

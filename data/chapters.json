@@ -529,5 +529,35 @@
       "shot_index": 1,
       "filename": "IMG_6301.MOV"
     }
+  ],
+  "CHIKARA_BONUS": [
+    {
+      "time": 0,
+      "ts": "00:00",
+      "title": "Shot 01 (IMG_1493) — He did he, he begged me. Oh, okay. He...",
+      "shot_index": 1,
+      "filename": "IMG_1493.MOV"
+    },
+    {
+      "time": 141,
+      "ts": "02:21",
+      "title": "Shot 02 (IMG_1494) — And he did something. You know the...",
+      "shot_index": 2,
+      "filename": "IMG_1494.MOV"
+    },
+    {
+      "time": 288,
+      "ts": "04:48",
+      "title": "Shot 03 (IMG_1495) — I'm talking about what's clear and...",
+      "shot_index": 3,
+      "filename": "IMG_1495.MOV"
+    },
+    {
+      "time": 317,
+      "ts": "05:17",
+      "title": "Shot 04 (IMG_1496) — Let me tell you something. And I...",
+      "shot_index": 4,
+      "filename": "IMG_1496.MOV"
+    }
   ]
 }

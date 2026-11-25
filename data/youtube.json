@@ -64,5 +64,27 @@
     "verified_is_unlisted": true,
     "verified_oembed": true,
     "oembed_author": "ROB NILSSON ART FORMS "
+  },
+  "CHIKARA_BONUS": {
+    "camera": "CHIKARA_BONUS",
+    "channel_name": "ROB NILSSON ART FORMS",
+    "channel_id": "UCFVsk5TWJPDgA6UKyEbn3sQ",
+    "channel_url": "https://www.youtube.com/@robnilssonartforms",
+    "video_id": "rh9Og3ioc7Y",
+    "youtu_be": "https://youtu.be/rh9Og3ioc7Y",
+    "watch_url": "https://www.youtube.com/watch?v=rh9Og3ioc7Y",
+    "playlist_watch_url": "https://www.youtube.com/watch?v=rh9Og3ioc7Y&list=PLcER0Yz7OUpU",
+    "playlist_id": "PLcER0Yz7OUpU",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLcER0Yz7OUpU",
+    "playlist_selection": {
+      "matched": true,
+      "hadDialog": true
+    },
+    "embed_url": "https://www.youtube.com/embed/rh9Og3ioc7Y",
+    "title": "PRECIPICE \u2014 Chikara 11/23 Reels (5 Shots) | Rob Nilsson",
+    "visibility": "UNLISTED",
+    "verified_is_unlisted": true,
+    "verified_oembed": true,
+    "oembed_author": "ROB NILSSON ART FORMS "
   }
 }

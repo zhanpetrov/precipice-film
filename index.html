@@ -21,7 +21,8 @@
       <nav class="topbar-nav" aria-label="Primary">
         <a href="#studio">Screening Room</a>
         <a href="#shots">All Shots</a>
-        <a href="#stills">Stills</a>
+        <a href="#audio">Voice &amp; Audio</a>
+        <a href="#cast-stills">Cast Stills</a>
         <a id="nav-playlist-link" href="https://www.youtube.com/playlist?list=PLcER0Yz7OUpU" target="_blank" rel="noopener">YouTube Playlist ↗</a>
         <a href="https://github.com/zhanpetrov/precipice-film" target="_blank" rel="noopener">GitHub ↗</a>
       </nav>
@@ -165,12 +166,50 @@
       </div>
     </section>
 
+    <!-- Voice References & Scene Audio Studio (Chikara Motomura 11/23) -->
+    <section id="audio" class="audio-section" hidden>
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <h2 class="section-title">Cast Voice References &amp; Scene Audio</h2>
+            <p class="section-sub" id="audio-sub">44 one-minute cast voice references &amp; scene audio recordings — playable with full Whisper transcripts.</p>
+          </div>
+          <div class="filter-pills">
+            <button class="filter-pill audio-tab active" data-atab="voice" type="button">Cast Voice Refs</button>
+            <button class="filter-pill audio-tab" data-atab="scene" type="button">Scene Audio</button>
+          </div>
+        </div>
+        <div class="audio-toolbar">
+          <input id="audio-search" class="audio-search" type="search" placeholder="Filter voice references by name or dialogue…" autocomplete="off" />
+          <span id="audio-count" class="shot-words"></span>
+        </div>
+        <div class="audio-grid" id="audio-grid"></div>
+      </div>
+    </section>
+
+    <!-- Cast Stills Gallery (339 Photos from 11/23) -->
+    <section id="cast-stills" class="stills-section" hidden>
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <h2 class="section-title" id="cast-stills-title">Cast Stills Gallery</h2>
+            <p class="section-sub">Captured on set November 23, 2026 by Chikara Motomura. Click any portrait to open full-screen with arrow navigation.</p>
+          </div>
+        </div>
+        <div class="cast-stills-grid" id="cast-stills-grid"></div>
+        <div class="load-more-wrap" id="cast-stills-more" hidden>
+          <button id="btn-load-more-stills" class="pill-btn primary" type="button">Load 60 More</button>
+          <button id="btn-show-all-stills" class="pill-btn" type="button">Show All</button>
+        </div>
+      </div>
+    </section>
+
     <!-- Production Stills Gallery -->
     <section id="stills" class="stills-section" hidden>
       <div class="container">
         <div class="section-head">
           <div>
-            <h2 class="section-title">On-Set Stills</h2>
+            <h2 class="section-title">Additional On-Set Stills</h2>
             <p class="section-sub">Captured alongside principal camera rolls on set.</p>
           </div>
         </div>
@@ -182,7 +221,9 @@
   <!-- Lightbox Modal for Stills -->
   <div id="lightbox" class="lightbox" hidden>
     <button id="lightbox-close" class="lightbox-close" type="button" aria-label="Close">✕</button>
+    <button id="lightbox-prev" class="lightbox-nav lightbox-prev" type="button" aria-label="Previous">‹</button>
     <img id="lightbox-img" src="" alt="On-set still" />
+    <button id="lightbox-next" class="lightbox-nav lightbox-next" type="button" aria-label="Next">›</button>
     <div id="lightbox-caption" class="lightbox-caption"></div>
   </div>
 

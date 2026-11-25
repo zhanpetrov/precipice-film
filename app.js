@@ -1,16 +1,22 @@
 /* PRECIPICE — Interactive Multi-Camera Dailies & Transcript Studio */
 (() => {
-  const CAM_ORDER = ["CHICARA_CAM", "ROB_CAM", "SECRET_CAM"];
+  const CAM_ORDER = ["CHICARA_CAM", "ROB_CAM", "SECRET_CAM", "CHIKARA_BONUS"];
 
   const state = {
     shotsData: null,
     chaptersData: {},
     youtubeData: {},
+    hightailData: null,
     activeCam: "CHICARA_CAM",
     activeShotIdx: 1,
     inspectorMode: "transcript",
     shotFilter: "all",
     searchQuery: "",
+    audioTab: "voice",
+    audioQuery: "",
+    castStillsShown: 48,
+    lightboxList: [],
+    lightboxIdx: 0,
     player: null,
     ytApiReady: false,
     syncTimer: null,
@@ -380,24 +386,98 @@
     });
   }
 
+  function openLightbox(list, idx) {
+    state.lightboxList = list;
+    state.lightboxIdx = idx;
+    showLightboxAt(idx);
+    $("#lightbox").hidden = false;
+  }
+
+  function showLightboxAt(idx) {
+    const list = state.lightboxList;
+    if (!list.length) return;
+    state.lightboxIdx = (idx + list.length) % list.length;
+    const item = list[state.lightboxIdx];
+    $("#lightbox-img").src = item.src;
+    $("#lightbox-caption").textContent = `${item.cap} (${state.lightboxIdx + 1} / ${list.length})`;
+  }
+
+  function renderHightailAudio() {
+    const ht = state.hightailData;
+    if (!ht) return;
+    $("#audio").hidden = false;
+
+    const list = state.audioTab === "scene" ? (ht.scene_audio || []) : (ht.voice_refs || []);
+    const q = state.audioQuery.trim().toLowerCase();
+    const filtered = q
+      ? list.filter((it) => (it.filename + " " + (it.text || "")).toLowerCase().includes(q))
+      : list;
+
+    $("#audio-count").textContent = `${filtered.length} of ${list.length} recordings`;
+    const grid = $("#audio-grid");
+    if (!filtered.length) {
+      grid.innerHTML = `<div class="empty-state">No recordings match "${escHtml(state.audioQuery)}".</div>`;
+      return;
+    }
+
+    grid.innerHTML = filtered.map((it) => `
+      <article class="audio-card">
+        <div class="audio-card-head">
+          <span class="audio-title">${escHtml(it.filename)}</span>
+          <span class="audio-badge">${escHtml(it.duration_hms)}</span>
+        </div>
+        <audio controls preload="none" src="${escHtml(it.audio)}"></audio>
+        <div class="audio-transcript">${it.text ? highlight(it.text, state.audioQuery.trim()) : "<em>Ambient / no speech detected</em>"}</div>
+      </article>
+    `).join("");
+  }
+
+  function renderCastStills() {
+    const ht = state.hightailData;
+    const stills = ht?.cast_stills || [];
+    if (!stills.length) return;
+    $("#cast-stills").hidden = false;
+    $("#cast-stills-title").textContent = `Cast Stills Gallery (${stills.length} Photos)`;
+
+    const slice = stills.slice(0, state.castStillsShown);
+    const lbList = stills.map((s) => ({ src: s.full, cap: s.filename }));
+
+    const grid = $("#cast-stills-grid");
+    grid.innerHTML = slice.map((s, idx) => `
+      <figure class="cast-still-tile" data-idx="${idx}">
+        <img src="${escHtml(s.thumb)}" alt="${escHtml(s.filename)}" loading="lazy" />
+        <figcaption class="cast-still-label">${escHtml(s.filename)}</figcaption>
+      </figure>
+    `).join("");
+
+    grid.querySelectorAll(".cast-still-tile").forEach((el) => {
+      el.addEventListener("click", () => openLightbox(lbList, Number(el.dataset.idx)));
+    });
+
+    const moreWrap = $("#cast-stills-more");
+    if (state.castStillsShown < stills.length) {
+      moreWrap.hidden = false;
+      $("#btn-load-more-stills").textContent = `Load 60 More (${stills.length - state.castStillsShown} left)`;
+    } else {
+      moreWrap.hidden = true;
+    }
+  }
+
   function renderStills() {
     const stills = state.shotsData.stills || [];
     if (!stills.length) return;
     $("#stills").hidden = false;
+    const lbList = stills.map((s) => ({ src: s.path, cap: s.filename }));
     const grid = $("#stills-grid");
-    grid.innerHTML = stills.map((st) => `
-      <figure class="still-card" data-src="${escHtml(st.path)}" data-cap="${escHtml(st.filename)}">
+    grid.innerHTML = stills.map((st, idx) => `
+      <figure class="still-card" data-idx="${idx}">
         <img src="${escHtml(st.path)}" alt="${escHtml(st.filename)}" loading="lazy" />
         <figcaption class="still-cap">${escHtml(st.filename)}</figcaption>
       </figure>
     `).join("");
 
     grid.querySelectorAll(".still-card").forEach((el) => {
-      el.addEventListener("click", () => {
-        $("#lightbox-img").src = el.dataset.src;
-        $("#lightbox-caption").textContent = el.dataset.cap;
-        $("#lightbox").hidden = false;
-      });
+      el.addEventListener("click", () => openLightbox(lbList, Number(el.dataset.idx)));
     });
   }
 
@@ -425,8 +505,10 @@
       if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "k") {
         e.preventDefault();
         searchInput.focus();
-      } else if (e.key === "Escape") {
-        $("#lightbox").hidden = true;
+      } else if (!$("#lightbox").hidden) {
+        if (e.key === "Escape") $("#lightbox").hidden = true;
+        else if (e.key === "ArrowLeft") showLightboxAt(state.lightboxIdx - 1);
+        else if (e.key === "ArrowRight") showLightboxAt(state.lightboxIdx + 1);
       }
     });
 
@@ -441,13 +523,37 @@
     });
 
     // Shot filters
-    document.querySelectorAll(".filter-pill").forEach((pill) => {
+    document.querySelectorAll(".filter-pill[data-filter]").forEach((pill) => {
       pill.addEventListener("click", () => {
-        document.querySelectorAll(".filter-pill").forEach((p) => p.classList.remove("active"));
+        document.querySelectorAll(".filter-pill[data-filter]").forEach((p) => p.classList.remove("active"));
         pill.classList.add("active");
         state.shotFilter = pill.dataset.filter;
         renderShotsGrid();
       });
+    });
+
+    // Audio Studio tabs & search
+    document.querySelectorAll(".audio-tab[data-atab]").forEach((pill) => {
+      pill.addEventListener("click", () => {
+        document.querySelectorAll(".audio-tab[data-atab]").forEach((p) => p.classList.remove("active"));
+        pill.classList.add("active");
+        state.audioTab = pill.dataset.atab;
+        renderHightailAudio();
+      });
+    });
+    $("#audio-search")?.addEventListener("input", (e) => {
+      state.audioQuery = e.target.value;
+      renderHightailAudio();
+    });
+
+    // Cast stills pagination
+    $("#btn-load-more-stills")?.addEventListener("click", () => {
+      state.castStillsShown += 60;
+      renderCastStills();
+    });
+    $("#btn-show-all-stills")?.addEventListener("click", () => {
+      state.castStillsShown = 9999;
+      renderCastStills();
     });
 
     // Copy timestamped YouTube link
@@ -458,8 +564,10 @@
       navigator.clipboard?.writeText(url).then(() => toast(`Copied ${url}`));
     });
 
-    // Lightbox close
+    // Lightbox controls
     $("#lightbox-close").addEventListener("click", () => { $("#lightbox").hidden = true; });
+    $("#lightbox-prev").addEventListener("click", () => showLightboxAt(state.lightboxIdx - 1));
+    $("#lightbox-next").addEventListener("click", () => showLightboxAt(state.lightboxIdx + 1));
     $("#lightbox").addEventListener("click", (e) => {
       if (e.target.id === "lightbox") $("#lightbox").hidden = true;
     });
@@ -474,19 +582,23 @@
   async function boot() {
     wireUI();
     try {
-      const [shotsRes, chapRes, ytRes] = await Promise.all([
+      const [shotsRes, chapRes, ytRes, htRes] = await Promise.all([
         fetch("data/shots.json"),
         fetch("data/chapters.json").catch(() => null),
         fetch("data/youtube.json").catch(() => null),
+        fetch("data/hightail_112326.json").catch(() => null),
       ]);
       state.shotsData = await shotsRes.json();
       if (chapRes && chapRes.ok) state.chaptersData = await chapRes.json();
       if (ytRes && ytRes.ok) state.youtubeData = await ytRes.json();
+      if (htRes && htRes.ok) state.hightailData = await htRes.json();
 
       renderMetrics();
       renderCameraBar();
       renderShotsGrid();
       renderInspector();
+      renderHightailAudio();
+      renderCastStills();
       renderStills();
       mountOrSwitchPlayer();
       updateNowPlaying(0);
