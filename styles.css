@@ -353,6 +353,12 @@ a { color: inherit; text-decoration: none; }
   justify-content: center;
   color: var(--text-secondary);
   font-size: 14px;
+  background: #000;
+  z-index: 2;
+}
+
+.player-fallback[hidden] {
+  display: none !important;
 }
 
 .now-playing-card {
@@ -1013,6 +1019,101 @@ a { color: inherit; text-decoration: none; }
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   gap: 10px;
+}
+.pm-photos[hidden] { display: none; }
+
+.pm-tabs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px;
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg-elevated);
+}
+
+.pm-tab {
+  border: 1px solid var(--border);
+  background: var(--bg-card);
+  color: var(--text-secondary);
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 8px 12px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.pm-tab.active {
+  background: var(--accent);
+  color: #fff;
+  border-color: transparent;
+}
+
+.pm-footage {
+  padding: 14px 18px 24px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.pm-footage[hidden] { display: none; }
+
+.pm-clip-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px;
+  border-radius: 12px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+.pm-clip-card:hover { border-color: var(--accent); background: var(--bg-card-hover); }
+
+.pm-clip-thumb {
+  position: relative;
+  width: 112px;
+  height: 63px;
+  border-radius: 8px;
+  overflow: hidden;
+  flex-shrink: 0;
+  background: #000;
+}
+.pm-clip-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.pm-clip-ts {
+  position: absolute;
+  bottom: 4px;
+  left: 4px;
+  padding: 1px 6px;
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 600;
+}
+
+.pm-clip-info { min-width: 0; flex: 1; }
+.pm-clip-top { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+.pm-clip-cam {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 7px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+.pm-clip-shot { font-family: var(--font-mono); font-size: 11px; color: var(--text-tertiary); }
+.pm-clip-snip {
+  margin-top: 4px;
+  font-size: 12.5px;
+  color: var(--text-secondary);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .pm-photo-tile {

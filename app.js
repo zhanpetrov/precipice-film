@@ -511,17 +511,21 @@
       return;
     }
 
-    grid.innerHTML = filtered.map((p) => `
+    grid.innerHTML = filtered.map((p) => {
+      const clips = p.appearance_count || (p.appearances ? p.appearances.length : 0);
+      const clipTxt = clips > 0 ? `${clips} ${clips === 1 ? "clip" : "clips"} · ` : "";
+      return `
       <article class="person-card${p.verified_identity ? " verified" : ""}" data-pid="${escHtml(p.id)}">
         <div class="person-avatar-wrap">
           <img class="person-avatar" src="${escHtml(p.avatar)}" alt="${escHtml(p.name)}" loading="lazy" />
           ${p.voice_sample ? `<span class="person-voice-dot" title="Voice sample linked">♪</span>` : ""}
         </div>
         <div class="person-name">${escHtml(p.name)}</div>
-        <div class="person-meta">${p.photo_count} ${p.photo_count === 1 ? "photo" : "photos"}</div>
+        <div class="person-meta">${clipTxt}${p.photo_count} ${p.photo_count === 1 ? "photo" : "photos"}</div>
         ${p.release_signed ? `<div class="person-signed-badge">✓ Signed Release</div>` : ""}
       </article>
-    `).join("");
+    `;
+    }).join("");
 
     grid.querySelectorAll(".person-card").forEach((card) => {
       card.addEventListener("click", () => {
@@ -532,11 +536,12 @@
   }
 
   function openPersonModal(person) {
+    const apps = person.appearances || [];
     $("#pm-avatar").src = person.avatar;
     $("#pm-avatar").alt = person.name;
     $("#pm-name").textContent = person.name;
-    const relTag = person.release_signed ? ` · ✓ Signed Release (${person.release_date || "11/23/26"})` : "";
-    $("#pm-meta").textContent = `${person.photo_count} matched portraits${relTag}`;
+    const relTag = person.release_signed ? ` · ✓ Signed Release` : "";
+    $("#pm-meta").textContent = `${apps.length} footage clips · ${person.photo_count} portraits${relTag}`;
 
     const voiceBox = $("#pm-voice");
     const blocks = [];
@@ -570,8 +575,54 @@
       voiceBox.innerHTML = "";
     }
 
-    const lbList = person.stills.map((s) => ({ src: s.full, cap: `${person.name} · ${s.filename}` }));
+    // Tabs: Footage vs Portraits
+    const tabFoot = $("#pm-tab-footage");
+    const tabPort = $("#pm-tab-portraits");
+    const footEl = $("#pm-footage");
     const photosEl = $("#pm-photos");
+    tabFoot.textContent = `Footage (${apps.length})`;
+    tabPort.textContent = `Portraits (${person.stills.length})`;
+
+    const showTab = (which) => {
+      tabFoot.classList.toggle("active", which === "footage");
+      tabPort.classList.toggle("active", which === "portraits");
+      footEl.hidden = which !== "footage";
+      photosEl.hidden = which !== "portraits";
+    };
+    tabFoot.onclick = () => showTab("footage");
+    tabPort.onclick = () => showTab("portraits");
+
+    if (apps.length) {
+      footEl.innerHTML = apps.map((a) => `
+        <div class="pm-clip-card" data-cam="${escHtml(a.camera)}" data-start="${a.start}">
+          <div class="pm-clip-thumb">
+            <img src="${escHtml(a.thumb)}" alt="${escHtml(a.shot_filename)}" loading="lazy" />
+            <span class="pm-clip-ts">▶ ${escHtml(a.ts)}</span>
+          </div>
+          <div class="pm-clip-info">
+            <div class="pm-clip-top">
+              <span class="pm-clip-cam">${escHtml(a.camera_label)}</span>
+              <span class="pm-clip-shot">${escHtml(a.shot_filename)} · ${Math.round((a.confidence || 0) * 100)}%</span>
+            </div>
+            <div class="pm-clip-snip">${a.snippet ? escHtml(a.snippet) : "Tap to jump to this moment in YouTube"}</div>
+          </div>
+        </div>
+      `).join("");
+
+      footEl.querySelectorAll(".pm-clip-card").forEach((el) => {
+        el.addEventListener("click", () => {
+          const camId = el.dataset.cam;
+          const sec = parseFloat(el.dataset.start) || 0;
+          $("#person-modal").hidden = true;
+          seekTo(camId, sec);
+          $("#studio").scrollIntoView({ behavior: "smooth", block: "start" });
+        });
+      });
+    } else {
+      footEl.innerHTML = `<div class="empty-state">No direct frontal face matches detected in the 10s scan for this person — view their ${person.stills.length} cast portraits in the Portraits tab.</div>`;
+    }
+
+    const lbList = person.stills.map((s) => ({ src: s.full, cap: `${person.name} · ${s.filename}` }));
     photosEl.innerHTML = person.stills.map((s, idx) => `
       <div class="pm-photo-tile" data-idx="${idx}">
         <img src="${escHtml(s.thumb)}" alt="${escHtml(s.filename)}" loading="lazy" />
@@ -582,6 +633,7 @@
       el.addEventListener("click", () => openLightbox(lbList, Number(el.dataset.idx)));
     });
 
+    showTab(apps.length > 0 ? "footage" : "portraits");
     $("#person-modal").hidden = false;
   }
 

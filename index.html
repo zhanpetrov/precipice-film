@@ -6,7 +6,7 @@
   <title>PRECIPICE — Multi-Camera Dailies &amp; Transcript Archive | Rob Nilsson</title>
   <meta name="description" content="Complete multi-camera dailies, face recognition cast directory, voice references, frame-accurate YouTube chapters, and searchable word-for-word transcripts for Rob Nilsson's film PRECIPICE." />
   <meta name="theme-color" content="#000000" />
-  <link rel="stylesheet" href="styles.css?v=2" />
+  <link rel="stylesheet" href="styles.css?v=3" />
 </head>
 <body>
   <!-- Sticky Apple Frosted Glass Navigation -->
@@ -247,7 +247,7 @@
     </section>
   </main>
 
-  <!-- Person Profile Modal (All matched faces + voice sample) -->
+  <!-- Person Profile Modal (All matched footage + portraits + voice sample + release) -->
   <div id="person-modal" class="person-modal" hidden>
     <div class="person-sheet" role="dialog" aria-modal="true" aria-labelledby="pm-name">
       <div class="pm-head">
@@ -261,7 +261,12 @@
         <button id="pm-close" class="icon-btn" type="button" aria-label="Close">✕</button>
       </div>
       <div id="pm-voice" class="pm-voice" hidden></div>
-      <div class="pm-photos" id="pm-photos"></div>
+      <div class="pm-tabs" id="pm-tabs">
+        <button class="pm-tab active" data-pmtab="footage" type="button" id="pm-tab-footage">Footage</button>
+        <button class="pm-tab" data-pmtab="portraits" type="button" id="pm-tab-portraits">Portraits</button>
+      </div>
+      <div class="pm-footage" id="pm-footage"></div>
+      <div class="pm-photos" id="pm-photos" hidden></div>
     </div>
   </div>
 
@@ -315,6 +320,6 @@
     </div>
   </footer>
 
-  <script src="app.js?v=5"></script>
+  <script src="app.js?v=6"></script>
 </body>
 </html>
