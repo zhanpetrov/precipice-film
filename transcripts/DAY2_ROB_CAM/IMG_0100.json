@@ -1,0 +1,375 @@
+{
+  "camera": "DAY2_ROB_CAM",
+  "shot": "IMG_0100",
+  "duration": 110.746667,
+  "creation_time": "2026-11-25T03:15:41-0800",
+  "language": "en",
+  "text": "now um don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't don't Hold on Billy, hold on. You got it. You got something else, I got this. Just a second. Alright, action Billy. Oh, nice. There we go. Let's see. Hold on one more time. You're going to get the ball going in, I'm going to get Billy shooting. So really get down on the shot. Hold on a second. Hold on, hold on. Okay, hold on a second. Alright, let's go with this. Okay, ready and action. Let's see. Hold on, this time. Hold on. Wait a minute Billy. So you get the ball, John. You can do the ball, and you can do the ball. It's in theember. So. It's in the last one. So, you can do the ball, and you can do the ball. So, you can do the ball, and you can do the ball. So, you can do the ball, and you can do the ball. So, you can do the ball, and you can do the ball. So, you can do the ball, and you can do the ball. So, you can do the ball, and you can do the ball. So, you can do the ball, and you can do the ball, and you can do the ball. So, you can do the ball, and you can do the ball, and you can do the ball. So, you can do the ball, and you can do the ball, and you can do the ball.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "now"
+    },
+    {
+      "start": 2.8,
+      "end": 3.5,
+      "text": "um"
+    },
+    {
+      "start": 3.5,
+      "end": 4.7,
+      "text": "don't"
+    },
+    {
+      "start": 4.7,
+      "end": 5.0,
+      "text": "don't"
+    },
+    {
+      "start": 5.0,
+      "end": 5.2,
+      "text": "don't"
+    },
+    {
+      "start": 5.2,
+      "end": 5.34,
+      "text": "don't"
+    },
+    {
+      "start": 5.34,
+      "end": 5.4,
+      "text": "don't"
+    },
+    {
+      "start": 5.4,
+      "end": 5.46,
+      "text": "don't"
+    },
+    {
+      "start": 5.46,
+      "end": 5.5,
+      "text": "don't"
+    },
+    {
+      "start": 5.5,
+      "end": 5.58,
+      "text": "don't"
+    },
+    {
+      "start": 5.58,
+      "end": 5.64,
+      "text": "don't"
+    },
+    {
+      "start": 5.64,
+      "end": 5.7,
+      "text": "don't"
+    },
+    {
+      "start": 5.7,
+      "end": 5.76,
+      "text": "don't"
+    },
+    {
+      "start": 5.76,
+      "end": 5.84,
+      "text": "don't"
+    },
+    {
+      "start": 5.84,
+      "end": 5.9,
+      "text": "don't"
+    },
+    {
+      "start": 5.9,
+      "end": 5.96,
+      "text": "don't"
+    },
+    {
+      "start": 5.96,
+      "end": 6.0,
+      "text": "don't"
+    },
+    {
+      "start": 6.0,
+      "end": 6.1,
+      "text": "don't"
+    },
+    {
+      "start": 6.1,
+      "end": 6.2,
+      "text": "don't"
+    },
+    {
+      "start": 6.2,
+      "end": 6.3,
+      "text": "don't"
+    },
+    {
+      "start": 6.3,
+      "end": 6.38,
+      "text": "don't"
+    },
+    {
+      "start": 6.38,
+      "end": 6.46,
+      "text": "don't"
+    },
+    {
+      "start": 6.46,
+      "end": 6.5,
+      "text": "don't"
+    },
+    {
+      "start": 6.5,
+      "end": 6.56,
+      "text": "don't"
+    },
+    {
+      "start": 6.56,
+      "end": 6.6,
+      "text": "don't"
+    },
+    {
+      "start": 6.6,
+      "end": 6.66,
+      "text": "don't"
+    },
+    {
+      "start": 6.66,
+      "end": 6.74,
+      "text": "don't"
+    },
+    {
+      "start": 6.74,
+      "end": 6.84,
+      "text": "don't"
+    },
+    {
+      "start": 6.84,
+      "end": 6.92,
+      "text": "don't"
+    },
+    {
+      "start": 6.92,
+      "end": 7.08,
+      "text": "don't"
+    },
+    {
+      "start": 7.08,
+      "end": 7.16,
+      "text": "don't"
+    },
+    {
+      "start": 7.16,
+      "end": 7.24,
+      "text": "don't"
+    },
+    {
+      "start": 7.24,
+      "end": 7.34,
+      "text": "don't"
+    },
+    {
+      "start": 7.34,
+      "end": 7.42,
+      "text": "don't"
+    },
+    {
+      "start": 7.42,
+      "end": 7.5,
+      "text": "don't"
+    },
+    {
+      "start": 7.5,
+      "end": 7.56,
+      "text": "don't"
+    },
+    {
+      "start": 7.56,
+      "end": 7.6,
+      "text": "don't"
+    },
+    {
+      "start": 7.6,
+      "end": 7.62,
+      "text": "don't"
+    },
+    {
+      "start": 7.62,
+      "end": 7.64,
+      "text": "don't"
+    },
+    {
+      "start": 30.0,
+      "end": 37.0,
+      "text": "Hold on Billy, hold on."
+    },
+    {
+      "start": 37.0,
+      "end": 39.0,
+      "text": "You got it."
+    },
+    {
+      "start": 39.0,
+      "end": 42.0,
+      "text": "You got something else, I got this."
+    },
+    {
+      "start": 42.0,
+      "end": 43.0,
+      "text": "Just a second."
+    },
+    {
+      "start": 43.0,
+      "end": 45.0,
+      "text": "Alright, action Billy."
+    },
+    {
+      "start": 45.0,
+      "end": 48.0,
+      "text": "Oh, nice."
+    },
+    {
+      "start": 48.0,
+      "end": 51.0,
+      "text": "There we go."
+    },
+    {
+      "start": 51.0,
+      "end": 52.0,
+      "text": "Let's see."
+    },
+    {
+      "start": 52.0,
+      "end": 57.0,
+      "text": "Hold on one more time."
+    },
+    {
+      "start": 57.0,
+      "end": 61.0,
+      "text": "You're going to get the ball going in, I'm going to get Billy shooting."
+    },
+    {
+      "start": 61.0,
+      "end": 64.0,
+      "text": "So really get down on the shot."
+    },
+    {
+      "start": 67.0,
+      "end": 70.0,
+      "text": "Hold on a second."
+    },
+    {
+      "start": 74.0,
+      "end": 77.0,
+      "text": "Hold on, hold on."
+    },
+    {
+      "start": 77.0,
+      "end": 81.0,
+      "text": "Okay, hold on a second."
+    },
+    {
+      "start": 81.0,
+      "end": 84.0,
+      "text": "Alright, let's go with this."
+    },
+    {
+      "start": 84.0,
+      "end": 87.0,
+      "text": "Okay, ready and action."
+    },
+    {
+      "start": 100.0,
+      "end": 102.0,
+      "text": "Let's see."
+    },
+    {
+      "start": 102.0,
+      "end": 103.0,
+      "text": "Hold on, this time."
+    },
+    {
+      "start": 103.0,
+      "end": 104.0,
+      "text": "Hold on."
+    },
+    {
+      "start": 104.0,
+      "end": 107.0,
+      "text": "Wait a minute Billy."
+    },
+    {
+      "start": 107.0,
+      "end": 110.0,
+      "text": "So you get the ball, John."
+    },
+    {
+      "start": 110.0,
+      "end": 112.0,
+      "text": "You can do the ball, and you can do the ball."
+    },
+    {
+      "start": 112.0,
+      "end": 113.0,
+      "text": "It's in theember."
+    },
+    {
+      "start": 113.0,
+      "end": 114.0,
+      "text": "So."
+    },
+    {
+      "start": 114.0,
+      "end": 115.0,
+      "text": "It's in the last one."
+    },
+    {
+      "start": 115.0,
+      "end": 116.0,
+      "text": "So, you can do the ball, and you can do the ball."
+    },
+    {
+      "start": 116.0,
+      "end": 117.0,
+      "text": "So, you can do the ball, and you can do the ball."
+    },
+    {
+      "start": 117.0,
+      "end": 118.0,
+      "text": "So, you can do the ball, and you can do the ball."
+    },
+    {
+      "start": 118.0,
+      "end": 119.0,
+      "text": "So, you can do the ball, and you can do the ball."
+    },
+    {
+      "start": 119.0,
+      "end": 120.0,
+      "text": "So, you can do the ball, and you can do the ball."
+    },
+    {
+      "start": 120.0,
+      "end": 121.0,
+      "text": "So, you can do the ball, and you can do the ball."
+    },
+    {
+      "start": 121.0,
+      "end": 122.0,
+      "text": "So, you can do the ball, and you can do the ball, and you can do the ball."
+    },
+    {
+      "start": 122.0,
+      "end": 123.0,
+      "text": "So, you can do the ball, and you can do the ball, and you can do the ball."
+    },
+    {
+      "start": 123.0,
+      "end": 124.0,
+      "text": "So, you can do the ball, and you can do the ball, and you can do the ball."
+    }
+  ]
+}

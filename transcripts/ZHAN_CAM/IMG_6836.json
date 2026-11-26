@@ -1,0 +1,20 @@
+{
+  "camera": "ZHAN_CAM",
+  "shot": "IMG_6836",
+  "duration": 3.8317,
+  "creation_time": "2026-11-24T04:05:09-0800",
+  "language": "en",
+  "text": "get to share. You get to share.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "get to share."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "You get to share."
+    }
+  ]
+}

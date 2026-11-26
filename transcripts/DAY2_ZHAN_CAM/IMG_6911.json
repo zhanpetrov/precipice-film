@@ -1,0 +1,30 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6911",
+  "duration": 7.966667,
+  "creation_time": "2026-11-25T06:01:46-0800",
+  "language": "en",
+  "text": "I'm kind of mimicking what the women are going to do. Okay. Just a little pause. By the time...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.44,
+      "text": "I'm kind of mimicking what the women are going to do."
+    },
+    {
+      "start": 4.44,
+      "end": 4.7,
+      "text": "Okay."
+    },
+    {
+      "start": 5.1,
+      "end": 6.58,
+      "text": "Just a little pause."
+    },
+    {
+      "start": 6.58,
+      "end": 7.58,
+      "text": "By the time..."
+    }
+  ]
+}

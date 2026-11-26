@@ -1,0 +1,190 @@
+{
+  "camera": "ZHAN_CAM",
+  "shot": "IMG_6830",
+  "duration": 53.9,
+  "creation_time": "2026-11-24T03:21:17-0800",
+  "language": "en",
+  "text": "I'll have to work that out. It's looking pretty good. So how's your sciatica? Out of the way. Shit, my sciatica. I don't know what to do. Are you still taking those meds you got in Mexico? You know, I can never get enough of those damn things. They're not bad, though. I gotta tell you. How about you? How are you? Everything going okay? Oh, yeah. Oh, man. Fucked if you do. Fucked if you don't. Bill, how are you doing? Same shit every day. Just hanging on in there. How are you doing? You know, I get up. It shoots down my legs. I keep going. Whatever. It hurts. It hurts. Hey, somebody told me ice. Somebody told me heat. I tried both. Nothing works. Do you want a piece of tape on that, Johnny? The kind of light enough? You don't care about the little... Yeah, let's do that. We're glowing once again.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "I'll have to work that out."
+    },
+    {
+      "start": 2.32,
+      "end": 3.18,
+      "text": "It's looking pretty good."
+    },
+    {
+      "start": 3.64,
+      "end": 4.64,
+      "text": "So how's your sciatica?"
+    },
+    {
+      "start": 4.98,
+      "end": 5.48,
+      "text": "Out of the way."
+    },
+    {
+      "start": 5.82,
+      "end": 6.94,
+      "text": "Shit, my sciatica."
+    },
+    {
+      "start": 7.88,
+      "end": 8.84,
+      "text": "I don't know what to do."
+    },
+    {
+      "start": 9.88,
+      "end": 12.54,
+      "text": "Are you still taking those meds you got in Mexico?"
+    },
+    {
+      "start": 12.54,
+      "end": 14.94,
+      "text": "You know, I can never get enough of those damn things."
+    },
+    {
+      "start": 15.22,
+      "end": 16.14,
+      "text": "They're not bad, though."
+    },
+    {
+      "start": 16.16,
+      "end": 16.82,
+      "text": "I gotta tell you."
+    },
+    {
+      "start": 17.32,
+      "end": 19.0,
+      "text": "How about you?"
+    },
+    {
+      "start": 19.06,
+      "end": 19.36,
+      "text": "How are you?"
+    },
+    {
+      "start": 19.36,
+      "end": 19.88,
+      "text": "Everything going okay?"
+    },
+    {
+      "start": 20.22,
+      "end": 20.78,
+      "text": "Oh, yeah."
+    },
+    {
+      "start": 20.88,
+      "end": 21.36,
+      "text": "Oh, man."
+    },
+    {
+      "start": 21.56,
+      "end": 22.34,
+      "text": "Fucked if you do."
+    },
+    {
+      "start": 22.48,
+      "end": 23.32,
+      "text": "Fucked if you don't."
+    },
+    {
+      "start": 23.9,
+      "end": 24.72,
+      "text": "Bill, how are you doing?"
+    },
+    {
+      "start": 24.72,
+      "end": 25.18,
+      "text": "Same shit every day."
+    },
+    {
+      "start": 25.28,
+      "end": 26.24,
+      "text": "Just hanging on in there."
+    },
+    {
+      "start": 26.68,
+      "end": 27.72,
+      "text": "How are you doing?"
+    },
+    {
+      "start": 27.72,
+      "end": 30.62,
+      "text": "You know, I get up."
+    },
+    {
+      "start": 30.72,
+      "end": 32.18,
+      "text": "It shoots down my legs."
+    },
+    {
+      "start": 32.28,
+      "end": 33.34,
+      "text": "I keep going."
+    },
+    {
+      "start": 33.7,
+      "end": 34.0,
+      "text": "Whatever."
+    },
+    {
+      "start": 34.88,
+      "end": 35.22,
+      "text": "It hurts."
+    },
+    {
+      "start": 35.3,
+      "end": 35.7,
+      "text": "It hurts."
+    },
+    {
+      "start": 35.94,
+      "end": 37.34,
+      "text": "Hey, somebody told me ice."
+    },
+    {
+      "start": 37.44,
+      "end": 38.4,
+      "text": "Somebody told me heat."
+    },
+    {
+      "start": 38.52,
+      "end": 39.6,
+      "text": "I tried both."
+    },
+    {
+      "start": 39.82,
+      "end": 40.5,
+      "text": "Nothing works."
+    },
+    {
+      "start": 40.8,
+      "end": 42.42,
+      "text": "Do you want a piece of tape on that, Johnny?"
+    },
+    {
+      "start": 42.58,
+      "end": 43.76,
+      "text": "The kind of light enough?"
+    },
+    {
+      "start": 44.0,
+      "end": 46.16,
+      "text": "You don't care about the little..."
+    },
+    {
+      "start": 46.16,
+      "end": 47.58,
+      "text": "Yeah, let's do that."
+    },
+    {
+      "start": 51.58,
+      "end": 53.84,
+      "text": "We're glowing once again."
+    }
+  ]
+}

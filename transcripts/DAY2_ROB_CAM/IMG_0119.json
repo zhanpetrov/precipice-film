@@ -1,0 +1,15 @@
+{
+  "camera": "DAY2_ROB_CAM",
+  "shot": "IMG_0119",
+  "duration": 4.665,
+  "creation_time": "2026-11-25T06:49:55-0800",
+  "language": "en",
+  "text": "Okay, stop.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.68,
+      "text": "Okay, stop."
+    }
+  ]
+}

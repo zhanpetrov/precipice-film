@@ -1,0 +1,25 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6867",
+  "duration": 16.5317,
+  "creation_time": "2026-11-25T02:34:48-0800",
+  "language": "en",
+  "text": "Oh, different Andre. I'm talking about you. You're going to be coming in down below.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Oh, different Andre."
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "I'm talking about you."
+    },
+    {
+      "start": 10.0,
+      "end": 15.0,
+      "text": "You're going to be coming in down below."
+    }
+  ]
+}

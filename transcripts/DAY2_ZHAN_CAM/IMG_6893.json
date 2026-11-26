@@ -1,0 +1,30 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6893",
+  "duration": 23.8,
+  "creation_time": "2026-11-25T04:01:05-0800",
+  "language": "en",
+  "text": "Okay, number one. Number two. Freeze. Should we see if that worked?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Okay, number one."
+    },
+    {
+      "start": 7.0,
+      "end": 12.0,
+      "text": "Number two."
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "Freeze."
+    },
+    {
+      "start": 15.0,
+      "end": 22.0,
+      "text": "Should we see if that worked?"
+    }
+  ]
+}

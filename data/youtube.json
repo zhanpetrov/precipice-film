@@ -86,5 +86,71 @@
     "verified_is_unlisted": true,
     "verified_oembed": true,
     "oembed_author": "ROB NILSSON ART FORMS "
+  },
+  "ZHAN_CAM": {
+    "camera": "ZHAN_CAM",
+    "channel_name": "ROB NILSSON ART FORMS",
+    "channel_id": "UCFVsk5TWJPDgA6UKyEbn3sQ",
+    "channel_url": "https://www.youtube.com/@robnilssonartforms",
+    "video_id": "Qq-IMKhgknE",
+    "youtu_be": "https://youtu.be/Qq-IMKhgknE",
+    "watch_url": "https://www.youtube.com/watch?v=Qq-IMKhgknE",
+    "playlist_watch_url": "https://www.youtube.com/watch?v=Qq-IMKhgknE&list=PLcER0Yz7OUpU",
+    "playlist_id": "PLcER0Yz7OUpU",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLcER0Yz7OUpU",
+    "playlist_selection": {
+      "matched": true,
+      "hadDialog": true
+    },
+    "embed_url": "https://www.youtube.com/embed/Qq-IMKhgknE",
+    "title": "PRECIPICE \u2014 Day 1 Zhan Cam (Complete Assembly) | Rob Nilsson",
+    "visibility": "UNLISTED",
+    "verified_is_unlisted": true,
+    "verified_oembed": true,
+    "oembed_author": "ROB NILSSON ART FORMS "
+  },
+  "DAY2_ROB_CAM": {
+    "camera": "DAY2_ROB_CAM",
+    "channel_name": "ROB NILSSON ART FORMS",
+    "channel_id": "UCFVsk5TWJPDgA6UKyEbn3sQ",
+    "channel_url": "https://www.youtube.com/@robnilssonartforms",
+    "video_id": "ypR3TK9SXCY",
+    "youtu_be": "https://youtu.be/ypR3TK9SXCY",
+    "watch_url": "https://www.youtube.com/watch?v=ypR3TK9SXCY",
+    "playlist_watch_url": "https://www.youtube.com/watch?v=ypR3TK9SXCY&list=PLcER0Yz7OUpU",
+    "playlist_id": "PLcER0Yz7OUpU",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLcER0Yz7OUpU",
+    "playlist_selection": {
+      "matched": true,
+      "hadDialog": true
+    },
+    "embed_url": "https://www.youtube.com/embed/ypR3TK9SXCY",
+    "title": "PRECIPICE \u2014 Day 2 Rob Cam (Complete Assembly) | Rob Nilsson",
+    "visibility": "UNLISTED",
+    "verified_is_unlisted": true,
+    "verified_oembed": true,
+    "oembed_author": "ROB NILSSON ART FORMS "
+  },
+  "DAY2_ZHAN_CAM": {
+    "camera": "DAY2_ZHAN_CAM",
+    "channel_name": "ROB NILSSON ART FORMS",
+    "channel_id": "UCFVsk5TWJPDgA6UKyEbn3sQ",
+    "channel_url": "https://www.youtube.com/@robnilssonartforms",
+    "video_id": "r0tnniqrxRI",
+    "youtu_be": "https://youtu.be/r0tnniqrxRI",
+    "watch_url": "https://www.youtube.com/watch?v=r0tnniqrxRI",
+    "playlist_watch_url": "https://www.youtube.com/watch?v=r0tnniqrxRI&list=PLcER0Yz7OUpU",
+    "playlist_id": "PLcER0Yz7OUpU",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLcER0Yz7OUpU",
+    "playlist_selection": {
+      "matched": true,
+      "hadDialog": true
+    },
+    "embed_url": "https://www.youtube.com/embed/r0tnniqrxRI",
+    "title": "PRECIPICE \u2014 Day 2 Zhan Cam (Complete Assembly) | Rob Nilsson",
+    "visibility": "UNLISTED",
+    "verified_is_unlisted": true,
+    "verified_oembed": true,
+    "oembed_author": "ROB NILSSON ART FORMS "
   }
 }

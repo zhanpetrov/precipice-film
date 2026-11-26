@@ -1,0 +1,25 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6920",
+  "duration": 13.5,
+  "creation_time": "2026-11-25T06:37:46-0800",
+  "language": "en",
+  "text": "Of course, by now you'll be... Yeah, alright, so we're gonna try it. As soon as everybody comes back.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "text": "Of course, by now you'll be..."
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "Yeah, alright, so we're gonna try it."
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "As soon as everybody comes back."
+    }
+  ]
+}

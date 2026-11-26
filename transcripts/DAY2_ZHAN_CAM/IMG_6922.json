@@ -1,0 +1,25 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6922",
+  "duration": 9.1,
+  "creation_time": "2026-11-25T06:49:57-0800",
+  "language": "en",
+  "text": "Hey, stop. Stop. You look like you were supposed to go somewhere. I don't see you walking like...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hey, stop."
+    },
+    {
+      "start": 2.0,
+      "end": 6.0,
+      "text": "Stop. You look like you were supposed to go somewhere."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "I don't see you walking like..."
+    }
+  ]
+}

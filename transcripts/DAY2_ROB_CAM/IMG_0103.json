@@ -1,0 +1,180 @@
+{
+  "camera": "DAY2_ROB_CAM",
+  "shot": "IMG_0103",
+  "duration": 111.72,
+  "creation_time": "2026-11-25T03:23:40-0800",
+  "language": "en",
+  "text": "Okay, everybody, let's move into it. Let's shoot. Let's get this game going. Finished, that is. Rolling. Action. Nice. Nice, nice. Eyes moving a little too much, just relax a bit. Mm-hmm. Sweet. You're coming in, you're gonna sit down next to me. Sweet. Okay, you're coming in, you're gonna sit down next to me. Okay, go over, go over and, uh, tap him on the shoulder and whisper something to him. Yeah. Go around here. That's right. Hold on, just a second, I'll tell you. Okay, deep breath. Just stay in. Okay, you're thinking like, I'm thinking, yeah, I'm gonna, I think I saw something. Just tap and whisper something to him. Look up again. Something's going on. Yeah. Not too obvious. Okay, that's too much. I saw something up there. Something doesn't look right. Something doesn't look right. Okay, cut. Good. Good.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.56,
+      "text": "Okay, everybody, let's move into it."
+    },
+    {
+      "start": 2.56,
+      "end": 3.28,
+      "text": "Let's shoot."
+    },
+    {
+      "start": 3.28,
+      "end": 5.68,
+      "text": "Let's get this game going."
+    },
+    {
+      "start": 5.68,
+      "end": 6.9,
+      "text": "Finished, that is."
+    },
+    {
+      "start": 18.58,
+      "end": 19.42,
+      "text": "Rolling."
+    },
+    {
+      "start": 24.5,
+      "end": 25.34,
+      "text": "Action."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "Nice."
+    },
+    {
+      "start": 32.0,
+      "end": 34.0,
+      "text": "Nice, nice."
+    },
+    {
+      "start": 34.0,
+      "end": 38.0,
+      "text": "Eyes moving a little too much, just relax a bit."
+    },
+    {
+      "start": 38.0,
+      "end": 40.0,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 40.0,
+      "end": 44.0,
+      "text": "Sweet."
+    },
+    {
+      "start": 44.0,
+      "end": 48.0,
+      "text": "You're coming in, you're gonna sit down next to me."
+    },
+    {
+      "start": 48.0,
+      "end": 50.0,
+      "text": "Sweet."
+    },
+    {
+      "start": 50.0,
+      "end": 54.0,
+      "text": "Okay, you're coming in, you're gonna sit down next to me."
+    },
+    {
+      "start": 63.0,
+      "end": 68.0,
+      "text": "Okay, go over, go over and, uh, tap him on the shoulder and whisper something to him."
+    },
+    {
+      "start": 68.0,
+      "end": 69.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 69.0,
+      "end": 71.0,
+      "text": "Go around here."
+    },
+    {
+      "start": 71.0,
+      "end": 73.0,
+      "text": "That's right."
+    },
+    {
+      "start": 73.0,
+      "end": 78.0,
+      "text": "Hold on, just a second, I'll tell you."
+    },
+    {
+      "start": 78.0,
+      "end": 80.0,
+      "text": "Okay, deep breath."
+    },
+    {
+      "start": 80.0,
+      "end": 81.0,
+      "text": "Just stay in."
+    },
+    {
+      "start": 81.0,
+      "end": 87.0,
+      "text": "Okay, you're thinking like, I'm thinking, yeah, I'm gonna, I think I saw something."
+    },
+    {
+      "start": 87.0,
+      "end": 90.0,
+      "text": "Just tap and whisper something to him."
+    },
+    {
+      "start": 98.0,
+      "end": 99.0,
+      "text": "Look up again."
+    },
+    {
+      "start": 99.0,
+      "end": 100.0,
+      "text": "Something's going on."
+    },
+    {
+      "start": 100.0,
+      "end": 101.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 101.0,
+      "end": 102.0,
+      "text": "Not too obvious."
+    },
+    {
+      "start": 102.0,
+      "end": 103.0,
+      "text": "Okay, that's too much."
+    },
+    {
+      "start": 105.0,
+      "end": 106.0,
+      "text": "I saw something up there."
+    },
+    {
+      "start": 106.0,
+      "end": 108.0,
+      "text": "Something doesn't look right."
+    },
+    {
+      "start": 108.0,
+      "end": 109.0,
+      "text": "Something doesn't look right."
+    },
+    {
+      "start": 109.0,
+      "end": 110.0,
+      "text": "Okay, cut."
+    },
+    {
+      "start": 110.0,
+      "end": 111.0,
+      "text": "Good."
+    },
+    {
+      "start": 111.0,
+      "end": 112.0,
+      "text": "Good."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "camera": "DAY2_ROB_CAM",
+  "shot": "IMG_0113",
+  "duration": 79.6317,
+  "creation_time": "2026-11-25T06:39:02-0800",
+  "language": "en",
+  "text": "And active. And active. And active.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.1,
+      "text": "And active."
+    },
+    {
+      "start": 30.0,
+      "end": 59.98,
+      "text": "And active."
+    },
+    {
+      "start": 60.0,
+      "end": 89.98,
+      "text": "And active."
+    }
+  ]
+}

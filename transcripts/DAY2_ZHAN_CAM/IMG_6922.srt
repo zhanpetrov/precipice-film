@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hey, stop.
+
+2
+00:00:02,000 --> 00:00:06,000
+Stop. You look like you were supposed to go somewhere.
+
+3
+00:00:06,000 --> 00:00:08,000
+I don't see you walking like...

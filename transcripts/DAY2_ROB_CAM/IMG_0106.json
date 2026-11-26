@@ -1,0 +1,270 @@
+{
+  "camera": "DAY2_ROB_CAM",
+  "shot": "IMG_0106",
+  "duration": 58.963333,
+  "creation_time": "2026-11-25T04:09:31-0800",
+  "language": "en",
+  "text": "All right, we're ready to go? And... Sound rolling? Rolling. This is no good. So, okay, so, Billy, why don't you come from there? I'll follow you over. Right from there, just be looking at it for a second, and be kind of confused in action, and go ahead, look at it. I don't know what's going on. You feeling all right? I had a shot. No, I don't have a shot. I don't understand if there was anything like that. Yeah, I don't know. I don't know. You all right? I'm okay. You tired? I was running out to match. And I don't have a shot? I have a shot. No, I don't. It's crazy. And cut. Okay. So, and I just... so, and I just... you can't do that. And I just what I can do. And I can do that. And I can do that. And I can do that. And I can do that. And I can do that. And I can do that. And I can do that. And I can do that. And I can do that. And I can do that. And I can do that. And I can do that. And I can do that. And I can do that. And I can do that. And I can do that. And I can do that. And I can do that. And I can do that. And I can do that. And I can do that. And I can do that.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.32,
+      "text": "All right, we're ready to go?"
+    },
+    {
+      "start": 3.32,
+      "end": 4.32,
+      "text": "And..."
+    },
+    {
+      "start": 4.32,
+      "end": 5.32,
+      "text": "Sound rolling?"
+    },
+    {
+      "start": 5.32,
+      "end": 6.32,
+      "text": "Rolling."
+    },
+    {
+      "start": 6.32,
+      "end": 10.32,
+      "text": "This is no good."
+    },
+    {
+      "start": 10.32,
+      "end": 16.76,
+      "text": "So, okay, so, Billy, why don't you come from there?"
+    },
+    {
+      "start": 16.76,
+      "end": 18.08,
+      "text": "I'll follow you over."
+    },
+    {
+      "start": 18.08,
+      "end": 24.32,
+      "text": "Right from there, just be looking at it for a second, and be kind of confused in action,"
+    },
+    {
+      "start": 24.32,
+      "end": 27.76,
+      "text": "and go ahead, look at it."
+    },
+    {
+      "start": 27.76,
+      "end": 31.76,
+      "text": "I don't know what's going on."
+    },
+    {
+      "start": 31.76,
+      "end": 32.76,
+      "text": "You feeling all right?"
+    },
+    {
+      "start": 32.76,
+      "end": 33.76,
+      "text": "I had a shot."
+    },
+    {
+      "start": 33.76,
+      "end": 34.76,
+      "text": "No, I don't have a shot."
+    },
+    {
+      "start": 34.76,
+      "end": 39.76,
+      "text": "I don't understand if there was anything like that."
+    },
+    {
+      "start": 39.76,
+      "end": 40.76,
+      "text": "Yeah, I don't know."
+    },
+    {
+      "start": 40.76,
+      "end": 41.76,
+      "text": "I don't know."
+    },
+    {
+      "start": 41.76,
+      "end": 42.76,
+      "text": "You all right?"
+    },
+    {
+      "start": 42.76,
+      "end": 43.76,
+      "text": "I'm okay."
+    },
+    {
+      "start": 43.76,
+      "end": 44.76,
+      "text": "You tired?"
+    },
+    {
+      "start": 44.76,
+      "end": 46.76,
+      "text": "I was running out to match."
+    },
+    {
+      "start": 46.76,
+      "end": 48.76,
+      "text": "And I don't have a shot?"
+    },
+    {
+      "start": 48.76,
+      "end": 49.76,
+      "text": "I have a shot."
+    },
+    {
+      "start": 49.76,
+      "end": 50.76,
+      "text": "No, I don't."
+    },
+    {
+      "start": 50.76,
+      "end": 54.76,
+      "text": "It's crazy."
+    },
+    {
+      "start": 54.76,
+      "end": 57.76,
+      "text": "And cut."
+    },
+    {
+      "start": 57.76,
+      "end": 58.76,
+      "text": "Okay."
+    },
+    {
+      "start": 58.76,
+      "end": 59.76,
+      "text": "So, and I just..."
+    },
+    {
+      "start": 59.76,
+      "end": 60.76,
+      "text": "so, and I just..."
+    },
+    {
+      "start": 60.76,
+      "end": 61.76,
+      "text": "you can't do that."
+    },
+    {
+      "start": 61.76,
+      "end": 62.76,
+      "text": "And I just what I can do."
+    },
+    {
+      "start": 62.76,
+      "end": 63.76,
+      "text": "And I can do that."
+    },
+    {
+      "start": 63.76,
+      "end": 64.76,
+      "text": "And I can do that."
+    },
+    {
+      "start": 64.76,
+      "end": 65.76,
+      "text": "And I can do that."
+    },
+    {
+      "start": 65.76,
+      "end": 66.06,
+      "text": "And I can do that."
+    },
+    {
+      "start": 66.06,
+      "end": 66.76,
+      "text": "And I can do that."
+    },
+    {
+      "start": 66.76,
+      "end": 67.76,
+      "text": "And I can do that."
+    },
+    {
+      "start": 67.76,
+      "end": 68.76,
+      "text": "And I can do that."
+    },
+    {
+      "start": 68.76,
+      "end": 69.76,
+      "text": "And I can do that."
+    },
+    {
+      "start": 69.76,
+      "end": 70.72,
+      "text": "And I can do that."
+    },
+    {
+      "start": 70.72,
+      "end": 71.74,
+      "text": "And I can do that."
+    },
+    {
+      "start": 71.74,
+      "end": 72.58,
+      "text": "And I can do that."
+    },
+    {
+      "start": 72.58,
+      "end": 73.42,
+      "text": "And I can do that."
+    },
+    {
+      "start": 73.42,
+      "end": 73.82,
+      "text": "And I can do that."
+    },
+    {
+      "start": 73.82,
+      "end": 74.48,
+      "text": "And I can do that."
+    },
+    {
+      "start": 74.48,
+      "end": 75.26,
+      "text": "And I can do that."
+    },
+    {
+      "start": 75.26,
+      "end": 75.72,
+      "text": "And I can do that."
+    },
+    {
+      "start": 75.72,
+      "end": 76.36,
+      "text": "And I can do that."
+    },
+    {
+      "start": 76.36,
+      "end": 77.18,
+      "text": "And I can do that."
+    },
+    {
+      "start": 77.18,
+      "end": 77.68,
+      "text": "And I can do that."
+    },
+    {
+      "start": 77.68,
+      "end": 78.16,
+      "text": "And I can do that."
+    },
+    {
+      "start": 78.16,
+      "end": 78.7,
+      "text": "And I can do that."
+    },
+    {
+      "start": 78.7,
+      "end": 79.26,
+      "text": "And I can do that."
+    }
+  ]
+}

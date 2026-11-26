@@ -1,0 +1,20 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6901",
+  "duration": 11.475,
+  "creation_time": "2026-11-25T04:40:39-0800",
+  "language": "en",
+  "text": "ah no what what is this wait wait a minute we're not shooting it yet i just i just want i just want to see how he's going to do it okay",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.76,
+      "text": "ah no what what is this wait wait a minute we're not shooting it yet"
+    },
+    {
+      "start": 7.76,
+      "end": 20.0,
+      "text": "i just i just want i just want to see how he's going to do it okay"
+    }
+  ]
+}

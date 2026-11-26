@@ -1,0 +1,55 @@
+{
+  "camera": "DAY2_ROB_CAM",
+  "shot": "IMG_0118",
+  "duration": 15.71,
+  "creation_time": "2026-11-25T06:47:44-0800",
+  "language": "en",
+  "text": "We tried to go from course up to course up. Okay. And John, you're going to do the same thing again, right? Pretty much? Yeah, same thing what I did. Okay. You're going to do it again. Yeah. Yeah, the whole thing.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "We tried to go from course up to course up."
+    },
+    {
+      "start": 3.12,
+      "end": 4.12,
+      "text": "Okay."
+    },
+    {
+      "start": 4.12,
+      "end": 7.16,
+      "text": "And John, you're going to do the same thing again, right?"
+    },
+    {
+      "start": 7.16,
+      "end": 8.16,
+      "text": "Pretty much?"
+    },
+    {
+      "start": 8.16,
+      "end": 12.48,
+      "text": "Yeah, same thing what I did."
+    },
+    {
+      "start": 12.48,
+      "end": 13.48,
+      "text": "Okay."
+    },
+    {
+      "start": 13.48,
+      "end": 14.48,
+      "text": "You're going to do it again."
+    },
+    {
+      "start": 14.48,
+      "end": 15.48,
+      "text": "Yeah."
+    },
+    {
+      "start": 15.48,
+      "end": 16.48,
+      "text": "Yeah, the whole thing."
+    }
+  ]
+}

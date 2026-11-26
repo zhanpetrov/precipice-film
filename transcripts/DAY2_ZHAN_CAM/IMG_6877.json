@@ -1,0 +1,30 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6877",
+  "duration": 10.343333,
+  "creation_time": "2026-11-25T03:07:27-0800",
+  "language": "en",
+  "text": "Let's go. All right, we're back in the balls. I'm going to watch Billy doing that. You get other people.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Let's go."
+    },
+    {
+      "start": 1.0,
+      "end": 4.0,
+      "text": "All right, we're back in the balls."
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "I'm going to watch Billy doing that."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "You get other people."
+    }
+  ]
+}

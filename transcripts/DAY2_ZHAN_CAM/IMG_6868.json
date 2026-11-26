@@ -1,0 +1,20 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6868",
+  "duration": 7.038333,
+  "creation_time": "2026-11-25T02:48:11-0800",
+  "language": "en",
+  "text": "No, no, no. You're ready?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "No, no, no."
+    },
+    {
+      "start": 2.0,
+      "end": 6.0,
+      "text": "You're ready?"
+    }
+  ]
+}

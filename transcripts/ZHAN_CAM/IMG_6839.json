@@ -1,0 +1,50 @@
+{
+  "camera": "ZHAN_CAM",
+  "shot": "IMG_6839",
+  "duration": 20.218333,
+  "creation_time": "2026-11-24T04:10:21-0800",
+  "language": "en",
+  "text": "I probably don't know. I would like to be seeing how this is going to be. So, can we get him? Okay. All right, let's see. All right. Thanks for sharing. Oh, you won't put my hair shit off.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "I probably don't know."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "I would like to be seeing how this is going to be."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "So, can we get him?"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Okay."
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "All right, let's see."
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "All right."
+    },
+    {
+      "start": 14.0,
+      "end": 18.0,
+      "text": "Thanks for sharing."
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "Oh, you won't put my hair shit off."
+    }
+  ]
+}

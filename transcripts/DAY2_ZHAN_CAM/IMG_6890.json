@@ -1,0 +1,110 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6890",
+  "duration": 53.166667,
+  "creation_time": "2026-11-25T03:55:39-0800",
+  "language": "en",
+  "text": "All right. Go back, please. You're right here, man. Jesus Christ. Okay, so let's go. One more time. Number one. Stay here. Stay here. Because last time you walked away. Okay. So number one. We rolling? Yeah. Okay. Number two. Freeze. Ball. Action. Okay, now let's see if it worked. Hang on a second. Cut. Cut.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "All right."
+    },
+    {
+      "start": 2.0,
+      "end": 6.0,
+      "text": "Go back, please."
+    },
+    {
+      "start": 6.0,
+      "end": 10.0,
+      "text": "You're right here, man."
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Jesus Christ."
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Okay, so let's go."
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "One more time."
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "Number one."
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "Stay here."
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "Stay here."
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "Because last time you walked away."
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "Okay."
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "So number one."
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "We rolling? Yeah. Okay."
+    },
+    {
+      "start": 30.0,
+      "end": 34.0,
+      "text": "Number two."
+    },
+    {
+      "start": 34.0,
+      "end": 36.0,
+      "text": "Freeze."
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "Ball."
+    },
+    {
+      "start": 38.0,
+      "end": 40.0,
+      "text": "Action."
+    },
+    {
+      "start": 40.0,
+      "end": 42.0,
+      "text": "Okay, now let's see if it worked."
+    },
+    {
+      "start": 42.0,
+      "end": 44.0,
+      "text": "Hang on a second. Cut."
+    },
+    {
+      "start": 44.0,
+      "end": 54.0,
+      "text": "Cut."
+    }
+  ]
+}

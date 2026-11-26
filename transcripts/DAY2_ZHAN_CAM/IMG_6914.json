@@ -1,0 +1,25 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6914",
+  "duration": 11.733333,
+  "creation_time": "2026-11-25T06:12:03-0800",
+  "language": "en",
+  "text": "We're not arresting him, you just need something out of him and we got it? All you wanted to do is we could sit out of him because he told you to. I just want to see what happened.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "We're not arresting him, you just need something out of him and we got it?"
+    },
+    {
+      "start": 3.0,
+      "end": 8.0,
+      "text": "All you wanted to do is we could sit out of him because he told you to."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "I just want to see what happened."
+    }
+  ]
+}

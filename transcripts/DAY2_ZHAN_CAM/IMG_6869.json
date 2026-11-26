@@ -1,0 +1,40 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6869",
+  "duration": 17.18,
+  "creation_time": "2026-11-25T02:48:42-0800",
+  "language": "en",
+  "text": "so you went too far? you? you went too far, so here's where the computer's gonna be this one? okay, but you're gonna do the computer yeah",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.12,
+      "text": "so you went too far?"
+    },
+    {
+      "start": 11.12,
+      "end": 11.34,
+      "text": "you?"
+    },
+    {
+      "start": 11.64,
+      "end": 14.2,
+      "text": "you went too far, so here's where the computer's gonna be"
+    },
+    {
+      "start": 14.2,
+      "end": 15.5,
+      "text": "this one?"
+    },
+    {
+      "start": 15.5,
+      "end": 16.84,
+      "text": "okay, but you're gonna do the computer"
+    },
+    {
+      "start": 16.84,
+      "end": 17.16,
+      "text": "yeah"
+    }
+  ]
+}

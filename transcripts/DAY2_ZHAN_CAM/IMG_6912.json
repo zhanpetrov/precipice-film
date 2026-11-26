@@ -1,0 +1,80 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6912",
+  "duration": 47.163333,
+  "creation_time": "2026-11-25T06:05:16-0800",
+  "language": "en",
+  "text": "Do you want to melt some chocolate? Hey, do you think you could use non-scented pizza next time? Oh yeah, how's that flavor? Yeah, I did that, okay? Put some respect on the name. Don't get all those spider bites, it's a long story. Is there any way to get a little like burn on his lip? I did that with pizza. Yeah, okay. What? I'm gonna eat it. We're not doing it. Not, not pizza on the teeth. I think you got the effect going. I think we might be sad.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Do you want to melt some chocolate?"
+    },
+    {
+      "start": 2.0,
+      "end": 8.0,
+      "text": "Hey, do you think you could use non-scented pizza next time?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Oh yeah, how's that flavor?"
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "text": "Yeah, I did that, okay? Put some respect on the name."
+    },
+    {
+      "start": 14.0,
+      "end": 18.0,
+      "text": "Don't get all those spider bites, it's a long story."
+    },
+    {
+      "start": 18.0,
+      "end": 22.0,
+      "text": "Is there any way to get a little like burn on his lip?"
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "I did that with pizza."
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "Yeah, okay."
+    },
+    {
+      "start": 26.0,
+      "end": 27.0,
+      "text": "What?"
+    },
+    {
+      "start": 27.0,
+      "end": 37.0,
+      "text": "I'm gonna eat it."
+    },
+    {
+      "start": 37.0,
+      "end": 39.0,
+      "text": "We're not doing it."
+    },
+    {
+      "start": 39.0,
+      "end": 43.0,
+      "text": "Not, not pizza on the teeth."
+    },
+    {
+      "start": 43.0,
+      "end": 45.0,
+      "text": "I think you got the effect going."
+    },
+    {
+      "start": 45.0,
+      "end": 47.0,
+      "text": "I think we might be sad."
+    }
+  ]
+}

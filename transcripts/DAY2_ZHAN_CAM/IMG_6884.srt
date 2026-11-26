@@ -1,0 +1,535 @@
+1
+00:00:00,000 --> 00:00:04,400
+Here, have some coffee. This is not going too well.
+
+2
+00:00:04,400 --> 00:00:06,800
+What's inside? What kind of coffee?
+
+3
+00:00:06,800 --> 00:00:09,200
+I just buy coffee with half of it.
+
+4
+00:00:09,200 --> 00:00:11,200
+I don't do half of it.
+
+5
+00:00:11,200 --> 00:00:12,200
+No, no, no.
+
+6
+00:00:12,200 --> 00:00:13,200
+Just black.
+
+7
+00:00:13,200 --> 00:00:14,200
+That's fine.
+
+8
+00:00:14,200 --> 00:00:20,200
+They have a creamer. I was saying that it's not going too well.
+
+9
+00:00:20,200 --> 00:00:24,200
+Have some coffee and we'll want to do something pretty soon.
+
+10
+00:00:24,200 --> 00:00:25,200
+What's going on?
+
+11
+00:00:25,200 --> 00:00:32,200
+It's...Oscar is just playing with his left foot or something.
+
+12
+00:00:32,200 --> 00:00:34,200
+I don't know.
+
+13
+00:00:34,200 --> 00:00:36,200
+He's got a better guy.
+
+14
+00:00:36,200 --> 00:00:40,200
+I don't actually think he's a better guy.
+
+15
+00:00:40,200 --> 00:00:42,200
+Something shady going on.
+
+16
+00:00:42,200 --> 00:00:46,200
+I think we should just prepare our shading.
+
+17
+00:00:46,200 --> 00:00:48,200
+We're in the system.
+
+18
+00:00:48,200 --> 00:00:49,200
+Already? Okay.
+
+19
+00:00:49,200 --> 00:00:51,200
+So that's what we need to do.
+
+20
+00:00:51,200 --> 00:00:54,200
+Maybe we'll do some of the...
+
+21
+00:00:54,200 --> 00:00:57,200
+Let me check one second one second.
+
+22
+00:00:57,200 --> 00:00:59,200
+There's one second one.
+
+23
+00:00:59,200 --> 00:01:00,200
+Ooh.
+
+24
+00:01:00,200 --> 00:01:01,200
+Okay.
+
+25
+00:01:01,200 --> 00:01:03,200
+Code is connected.
+
+26
+00:01:03,200 --> 00:01:05,200
+I don't know where code is at.
+
+27
+00:01:05,200 --> 00:01:07,200
+So we've got a nice little ring.
+
+28
+00:01:07,200 --> 00:01:08,200
+Yes?
+
+29
+00:01:08,200 --> 00:01:09,200
+Yes.
+
+30
+00:01:09,200 --> 00:01:10,200
+Oh, good.
+
+31
+00:01:10,200 --> 00:01:12,200
+The defense are all set.
+
+32
+00:01:12,200 --> 00:01:13,200
+That's fine.
+
+33
+00:01:13,200 --> 00:01:14,200
+Okay.
+
+34
+00:01:14,200 --> 00:01:16,200
+What's the line?
+
+35
+00:01:16,200 --> 00:01:18,200
+So, but over here...
+
+36
+00:01:18,200 --> 00:01:21,200
+I mentioned if there's a tenth ball.
+
+37
+00:01:21,200 --> 00:01:22,200
+What's gonna happen?
+
+38
+00:01:22,200 --> 00:01:24,200
+We're gonna have to cut the stream.
+
+39
+00:01:24,200 --> 00:01:27,200
+We're gonna have to cut the security stream.
+
+40
+00:01:27,200 --> 00:01:28,200
+Okay.
+
+41
+00:01:28,200 --> 00:01:29,200
+The camera?
+
+42
+00:01:29,200 --> 00:01:30,200
+Yeah.
+
+43
+00:01:30,200 --> 00:01:33,200
+We have a deep fake model prepared, so it's gonna handle the rest.
+
+44
+00:01:33,200 --> 00:01:35,200
+Okay, just like in our fucking booths, right?
+
+45
+00:01:35,200 --> 00:01:36,200
+Yeah, exactly.
+
+46
+00:01:36,200 --> 00:01:37,200
+Okay, okay.
+
+47
+00:01:37,200 --> 00:01:38,200
+The same thing.
+
+48
+00:01:38,200 --> 00:01:44,200
+So when people are fucking away moves, then we basically hijack it.
+
+49
+00:01:44,200 --> 00:01:45,200
+We cut the stream the same way.
+
+50
+00:01:45,200 --> 00:01:46,200
+Just like a regular person.
+
+51
+00:01:46,200 --> 00:01:47,200
+Exactly.
+
+52
+00:01:47,200 --> 00:01:48,200
+And here it's gonna be just...
+
+53
+00:01:48,200 --> 00:01:50,200
+It's not gonna be the same video, right?
+
+54
+00:01:50,200 --> 00:01:52,200
+It's gonna be like the pool and everything.
+
+55
+00:01:52,200 --> 00:01:53,200
+We're gonna get the live stream.
+
+56
+00:01:53,200 --> 00:01:55,200
+We're gonna cut the stream feed to the camera.
+
+57
+00:01:55,200 --> 00:01:56,200
+And we're gonna do our deep things.
+
+58
+00:01:56,200 --> 00:01:57,200
+Upload that.
+
+59
+00:01:57,200 --> 00:01:58,200
+And that's gonna be on their hard drive.
+
+60
+00:01:58,200 --> 00:01:59,200
+Wow.
+
+61
+00:01:59,200 --> 00:02:00,200
+And you will move the ball as well.
+
+62
+00:02:00,200 --> 00:02:01,200
+I could never think about something like this, but it's just been brilliant.
+
+63
+00:02:01,200 --> 00:02:02,200
+Yeah.
+
+64
+00:02:02,200 --> 00:02:03,200
+Okay, cool.
+
+65
+00:02:03,200 --> 00:02:04,200
+I got this, brother.
+
+66
+00:02:04,200 --> 00:02:05,200
+I know they can always count on you.
+
+67
+00:02:05,200 --> 00:02:06,200
+Thanks to this guy.
+
+68
+00:02:06,200 --> 00:02:07,200
+Yeah, it's the first one, remember?
+
+69
+00:02:07,200 --> 00:02:08,200
+It's the one that we hacked the first way.
+
+70
+00:02:08,200 --> 00:02:09,200
+No, that's pretty cool.
+
+71
+00:02:09,200 --> 00:02:10,200
+Yeah.
+
+72
+00:02:10,200 --> 00:02:11,200
+I know they can always count on you.
+
+73
+00:02:11,200 --> 00:02:12,200
+I know they can always count on you, yeah.
+
+74
+00:02:12,200 --> 00:02:13,200
+Thanks to this guy.
+
+75
+00:02:13,200 --> 00:02:14,200
+Yeah, it's the first one, remember?
+
+76
+00:02:14,200 --> 00:02:15,200
+That's the one that we hacked the first way.
+
+77
+00:02:15,200 --> 00:02:26,200
+Remember when we were just like, we're hanging out together, got this thing, just like what
+
+78
+00:02:26,200 --> 00:02:33,200
+to do with it and figured out maybe we'll just, you know, have some fun in that way
+
+79
+00:02:33,200 --> 00:02:37,200
+moment deal, you know, have some drinks and without Google fucking breathing down our
+
+80
+00:02:37,200 --> 00:02:38,200
+asses.
+
+81
+00:02:38,200 --> 00:02:39,200
+That's like forever ago.
+
+82
+00:02:39,200 --> 00:02:40,200
+Seems like yesterday.
+
+83
+00:02:40,200 --> 00:02:44,200
+Yeah, but that dude, you know, just like, I don't remember half of the day.
+
+84
+00:02:44,200 --> 00:02:45,200
+I don't remember half of it.
+
+85
+00:02:45,200 --> 00:02:46,200
+I think we were too drunk.
+
+86
+00:02:46,200 --> 00:02:51,200
+I'm happy that we were recording everything on cameras so that...
+
+87
+00:02:51,200 --> 00:02:52,200
+We're taking care of it now.
+
+88
+00:02:52,200 --> 00:02:53,200
+Yeah?
+
+89
+00:02:53,200 --> 00:02:54,200
+Yeah.
+
+90
+00:02:54,200 --> 00:02:55,200
+Wiped all that footage from there.
+
+91
+00:02:55,200 --> 00:02:56,200
+Okay, okay, okay.
+
+92
+00:02:56,200 --> 00:02:58,200
+Overrode it with a deep fake.
+
+93
+00:02:58,200 --> 00:02:59,200
+So, so...
+
+94
+00:02:59,200 --> 00:03:04,200
+Now we have, we have access to their servers too, thanks to the encryption key from Surge.
+
+95
+00:03:04,200 --> 00:03:05,200
+Wow.
+
+96
+00:03:05,200 --> 00:03:08,200
+So, can we actually get into way more?
+
+97
+00:03:08,200 --> 00:03:09,200
+Yeah, in real time.
+
+98
+00:03:09,200 --> 00:03:10,200
+Wow.
+
+99
+00:03:10,200 --> 00:03:11,200
+That's cool.
+
+100
+00:03:11,200 --> 00:03:12,200
+What could we do with it?
+
+101
+00:03:12,200 --> 00:03:13,200
+Maybe something, could we make something better?
+
+102
+00:03:13,200 --> 00:03:14,200
+We're gonna make so much money from this.
+
+103
+00:03:14,200 --> 00:03:15,200
+We're gonna fly with us to destroy the system.
+
+104
+00:03:15,200 --> 00:03:16,200
+How much more money do you need?
+
+105
+00:03:16,200 --> 00:03:17,200
+I don't need any more money.
+
+106
+00:03:17,200 --> 00:03:18,200
+I'm gonna destroy the system.
+
+107
+00:03:18,200 --> 00:03:19,200
+How much more money do you need?
+
+108
+00:03:19,200 --> 00:03:20,200
+I don't need any more money.
+
+109
+00:03:20,200 --> 00:03:21,200
+I'm gonna destroy the system.
+
+110
+00:03:21,200 --> 00:03:22,200
+I'm gonna control the system.
+
+111
+00:03:22,200 --> 00:03:23,040
+I'm gonna kill the system.
+
+112
+00:03:23,040 --> 00:03:23,720
+I'm gonna check the system.
+
+113
+00:03:23,720 --> 00:03:24,220
+I'm gonna try to destroy the system.
+
+114
+00:03:24,220 --> 00:03:25,020
+I'm gonna make it.
+
+115
+00:03:25,020 --> 00:03:25,640
+I'm gonna break.
+
+116
+00:03:25,640 --> 00:03:26,220
+I'm gonna control the system.
+
+117
+00:03:26,220 --> 00:03:27,020
+I'm gonna try to save the system.
+
+118
+00:03:27,020 --> 00:03:27,280
+I'm gonna show you.
+
+119
+00:03:27,280 --> 00:03:27,640
+I'm gonna show you.
+
+120
+00:03:27,640 --> 00:03:27,720
+I'm gonna show you.
+
+121
+00:03:27,720 --> 00:03:27,820
+I'm gonna show you.
+
+122
+00:03:27,820 --> 00:03:27,920
+I'm gonna show you.
+
+123
+00:03:27,920 --> 00:03:28,040
+I'm gonna show you.
+
+124
+00:03:28,040 --> 00:03:28,180
+I'm gonna show you.
+
+125
+00:03:28,180 --> 00:03:28,360
+I'm gonna show you.
+
+126
+00:03:28,360 --> 00:03:28,580
+I'm gonna show you.
+
+127
+00:03:28,580 --> 00:03:28,820
+I'm gonna show you.
+
+128
+00:03:28,820 --> 00:03:29,080
+I'm gonna show you.
+
+129
+00:03:29,080 --> 00:03:29,400
+I'm gonna show you.
+
+130
+00:03:29,400 --> 00:03:29,620
+I'm gonna show you.
+
+131
+00:03:29,620 --> 00:03:29,740
+I'm gonna show you.
+
+132
+00:03:29,740 --> 00:03:29,900
+I'm gonna show you.
+
+133
+00:03:29,900 --> 00:03:30,080
+I'm gonna show you.
+
+134
+00:03:30,080 --> 00:03:30,280
+I'm gonna show you.

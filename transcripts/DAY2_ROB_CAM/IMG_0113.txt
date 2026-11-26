@@ -1,0 +1,3 @@
+[00:00 -> 00:03] And active.
+[00:30 -> 01:00] And active.
+[01:00 -> 01:30] And active.

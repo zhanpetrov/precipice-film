@@ -1,0 +1,220 @@
+{
+  "camera": "DAY2_ROB_CAM",
+  "shot": "IMG_0096",
+  "duration": 63.423333,
+  "creation_time": "2026-11-25T02:59:30-0800",
+  "language": "en",
+  "text": "Hey, how's it going? Remind me. Yeah, so it's Andre. Andre, Andre. Do you like this bar so far? I mean, the pool table is... Listen, are you guys serious about this? Of course, of course we are. I mean, the deal is still cold. We're here for you. I, you know... That's our IT guy, come on. Of course. The deal is going on, so we're good like 11 out of 21 for 20 grams. I don't know what to make out of you guys, honestly. This is your player right there. This is the guy. You want me? You want... This is our guy. And we have the cash. We have the money, so the deal is up. All right. So let's go for it. Let's do this. As soon as I hear from the house man, you gave him the cash, then we can proceed. Where is the house man? He's there. Just send one of you guys. Give him the cash. Can you check it out? As soon as I hear from him that it's legit. Yeah, just take it short, yeah. You are the cash man. What are you talking about? I have the cash in my bank account. I'm just going to go to the cash machine and get him the cash. That's fine. Whatever. Whatever. Whatever. Whatever.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hey, how's it going?"
+    },
+    {
+      "start": 2.0,
+      "end": 2.62,
+      "text": "Remind me."
+    },
+    {
+      "start": 2.92,
+      "end": 4.78,
+      "text": "Yeah, so it's Andre."
+    },
+    {
+      "start": 5.04,
+      "end": 5.86,
+      "text": "Andre, Andre."
+    },
+    {
+      "start": 6.3,
+      "end": 7.26,
+      "text": "Do you like this bar so far?"
+    },
+    {
+      "start": 7.38,
+      "end": 9.2,
+      "text": "I mean, the pool table is..."
+    },
+    {
+      "start": 9.2,
+      "end": 10.92,
+      "text": "Listen, are you guys serious about this?"
+    },
+    {
+      "start": 11.26,
+      "end": 12.7,
+      "text": "Of course, of course we are."
+    },
+    {
+      "start": 12.82,
+      "end": 15.1,
+      "text": "I mean, the deal is still cold."
+    },
+    {
+      "start": 15.38,
+      "end": 16.0,
+      "text": "We're here for you."
+    },
+    {
+      "start": 16.64,
+      "end": 18.44,
+      "text": "I, you know..."
+    },
+    {
+      "start": 18.44,
+      "end": 19.98,
+      "text": "That's our IT guy, come on."
+    },
+    {
+      "start": 20.14,
+      "end": 20.56,
+      "text": "Of course."
+    },
+    {
+      "start": 21.04,
+      "end": 25.76,
+      "text": "The deal is going on, so we're good like 11 out of 21 for 20 grams."
+    },
+    {
+      "start": 25.76,
+      "end": 27.4,
+      "text": "I don't know what to make out of you guys, honestly."
+    },
+    {
+      "start": 27.52,
+      "end": 28.9,
+      "text": "This is your player right there."
+    },
+    {
+      "start": 28.98,
+      "end": 29.48,
+      "text": "This is the guy."
+    },
+    {
+      "start": 29.48,
+      "end": 29.88,
+      "text": "You want me?"
+    },
+    {
+      "start": 30.02,
+      "end": 30.62,
+      "text": "You want..."
+    },
+    {
+      "start": 30.62,
+      "end": 31.88,
+      "text": "This is our guy."
+    },
+    {
+      "start": 32.1,
+      "end": 32.84,
+      "text": "And we have the cash."
+    },
+    {
+      "start": 33.1,
+      "end": 35.22,
+      "text": "We have the money, so the deal is up."
+    },
+    {
+      "start": 35.4,
+      "end": 35.7,
+      "text": "All right."
+    },
+    {
+      "start": 35.82,
+      "end": 36.46,
+      "text": "So let's go for it."
+    },
+    {
+      "start": 36.5,
+      "end": 36.88,
+      "text": "Let's do this."
+    },
+    {
+      "start": 36.92,
+      "end": 41.84,
+      "text": "As soon as I hear from the house man, you gave him the cash, then we can proceed."
+    },
+    {
+      "start": 42.42,
+      "end": 43.2,
+      "text": "Where is the house man?"
+    },
+    {
+      "start": 43.5,
+      "end": 44.6,
+      "text": "He's there."
+    },
+    {
+      "start": 44.66,
+      "end": 45.66,
+      "text": "Just send one of you guys."
+    },
+    {
+      "start": 46.16,
+      "end": 46.8,
+      "text": "Give him the cash."
+    },
+    {
+      "start": 46.82,
+      "end": 47.92,
+      "text": "Can you check it out?"
+    },
+    {
+      "start": 47.94,
+      "end": 50.92,
+      "text": "As soon as I hear from him that it's legit."
+    },
+    {
+      "start": 51.0,
+      "end": 53.0,
+      "text": "Yeah, just take it short, yeah."
+    },
+    {
+      "start": 53.22,
+      "end": 54.6,
+      "text": "You are the cash man."
+    },
+    {
+      "start": 55.56,
+      "end": 57.48,
+      "text": "What are you talking about?"
+    },
+    {
+      "start": 57.48,
+      "end": 59.64,
+      "text": "I have the cash in my bank account."
+    },
+    {
+      "start": 59.88,
+      "end": 62.04,
+      "text": "I'm just going to go to the cash machine and get him the cash."
+    },
+    {
+      "start": 62.16,
+      "end": 62.56,
+      "text": "That's fine."
+    },
+    {
+      "start": 62.7,
+      "end": 62.9,
+      "text": "Whatever."
+    },
+    {
+      "start": 62.9,
+      "end": 63.0,
+      "text": "Whatever."
+    },
+    {
+      "start": 63.0,
+      "end": 63.5,
+      "text": "Whatever."
+    },
+    {
+      "start": 63.58,
+      "end": 63.5,
+      "text": "Whatever."
+    }
+  ]
+}

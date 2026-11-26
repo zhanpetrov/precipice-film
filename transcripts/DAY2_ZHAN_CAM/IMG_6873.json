@@ -1,0 +1,150 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6873",
+  "duration": 64.825,
+  "creation_time": "2026-11-25T02:59:30-0800",
+  "language": "en",
+  "text": "Hey, how's it going? Remind me. It's Andre. Do you like this bar so far? I mean the pool table is... Listen, are you guys serious about this? Of course, of course we are. I mean, the deal still holds. So we're... You know... We're here for you, of course. We're serious. The deal is going on. So we beat like 11 out of 21 for 20 grand. I don't know what to make out of you, honestly. This is your player, I think, this is the guy you want to... This is our guy. And we have the cash. We have the money, so the deal is over. All right. Well, listen, as soon as I hear from the house man, you gave him the cash, then we can proceed. Where's the house man? He's there. Just send one of you guys... As soon as I hear from him that it's legit, then we'll... Just make sure it's legit, yeah. Where's the cash man? What are you talking about? I've got the cash in my bank account. I'm just going to go to the cash machine and get to the cash. That's fine. Whatever, whatever, whatever. So... So...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hey, how's it going?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Remind me."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "It's Andre."
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "Do you like this bar so far? I mean the pool table is..."
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Listen, are you guys serious about this?"
+    },
+    {
+      "start": 11.0,
+      "end": 15.0,
+      "text": "Of course, of course we are. I mean, the deal still holds."
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "So we're..."
+    },
+    {
+      "start": 17.0,
+      "end": 19.0,
+      "text": "You know..."
+    },
+    {
+      "start": 19.0,
+      "end": 21.0,
+      "text": "We're here for you, of course."
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "text": "We're serious."
+    },
+    {
+      "start": 22.0,
+      "end": 26.0,
+      "text": "The deal is going on. So we beat like 11 out of 21 for 20 grand."
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "I don't know what to make out of you, honestly."
+    },
+    {
+      "start": 28.0,
+      "end": 31.0,
+      "text": "This is your player, I think, this is the guy you want to..."
+    },
+    {
+      "start": 31.0,
+      "end": 33.0,
+      "text": "This is our guy. And we have the cash."
+    },
+    {
+      "start": 33.0,
+      "end": 35.0,
+      "text": "We have the money, so the deal is over."
+    },
+    {
+      "start": 35.0,
+      "end": 39.0,
+      "text": "All right. Well, listen, as soon as I hear from the house man,"
+    },
+    {
+      "start": 39.0,
+      "end": 42.0,
+      "text": "you gave him the cash, then we can proceed."
+    },
+    {
+      "start": 42.0,
+      "end": 43.0,
+      "text": "Where's the house man?"
+    },
+    {
+      "start": 43.0,
+      "end": 46.0,
+      "text": "He's there. Just send one of you guys..."
+    },
+    {
+      "start": 46.0,
+      "end": 51.0,
+      "text": "As soon as I hear from him that it's legit, then we'll..."
+    },
+    {
+      "start": 51.0,
+      "end": 53.0,
+      "text": "Just make sure it's legit, yeah."
+    },
+    {
+      "start": 53.0,
+      "end": 55.0,
+      "text": "Where's the cash man?"
+    },
+    {
+      "start": 55.0,
+      "end": 57.0,
+      "text": "What are you talking about?"
+    },
+    {
+      "start": 57.0,
+      "end": 59.0,
+      "text": "I've got the cash in my bank account."
+    },
+    {
+      "start": 59.0,
+      "end": 61.0,
+      "text": "I'm just going to go to the cash machine and get to the cash."
+    },
+    {
+      "start": 61.0,
+      "end": 63.0,
+      "text": "That's fine. Whatever, whatever, whatever."
+    },
+    {
+      "start": 63.0,
+      "end": 64.0,
+      "text": "So..."
+    },
+    {
+      "start": 64.0,
+      "end": 65.0,
+      "text": "So..."
+    }
+  ]
+}

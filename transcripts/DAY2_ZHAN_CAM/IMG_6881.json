@@ -1,0 +1,90 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6881",
+  "duration": 112.483333,
+  "creation_time": "2026-11-25T03:23:50-0800",
+  "language": "en",
+  "text": "Rolling. Rolling. Yep. Billet. Action. Okay. Nice moving over too much. Just relax a bit. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Very good. Great. All right, so we've got some notes. Let's see.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.18,
+      "text": "Rolling."
+    },
+    {
+      "start": 8.18,
+      "end": 8.24,
+      "text": "Rolling."
+    },
+    {
+      "start": 9.14,
+      "end": 9.7,
+      "text": "Yep."
+    },
+    {
+      "start": 12.42,
+      "end": 12.8,
+      "text": "Billet."
+    },
+    {
+      "start": 13.8,
+      "end": 14.42,
+      "text": "Action."
+    },
+    {
+      "start": 20.42,
+      "end": 21.02,
+      "text": "Okay."
+    },
+    {
+      "start": 25.46,
+      "end": 27.06,
+      "text": "Nice moving over too much."
+    },
+    {
+      "start": 27.18,
+      "end": 28.0,
+      "text": "Just relax a bit."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "Okay."
+    },
+    {
+      "start": 60.0,
+      "end": 62.0,
+      "text": "Okay."
+    },
+    {
+      "start": 62.0,
+      "end": 64.0,
+      "text": "Okay."
+    },
+    {
+      "start": 64.0,
+      "end": 66.0,
+      "text": "Okay."
+    },
+    {
+      "start": 66.0,
+      "end": 68.0,
+      "text": "Okay."
+    },
+    {
+      "start": 68.0,
+      "end": 70.0,
+      "text": "Okay."
+    },
+    {
+      "start": 70.0,
+      "end": 72.0,
+      "text": "Okay."
+    },
+    {
+      "start": 100.0,
+      "end": 107.0,
+      "text": "Very good. Great. All right, so we've got some notes. Let's see."
+    }
+  ]
+}

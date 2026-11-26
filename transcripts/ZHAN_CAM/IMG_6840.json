@@ -1,0 +1,50 @@
+{
+  "camera": "ZHAN_CAM",
+  "shot": "IMG_6840",
+  "duration": 10.066667,
+  "creation_time": "2026-11-24T04:13:38-0800",
+  "language": "en",
+  "text": "How are we going? Walk through. Walk through. Okay, so five days. Whoa, whoa, whoa, whoa, whoa. Stop. Hold on. Wait a little.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "How are we going?"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Walk through."
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Walk through."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Okay, so five days."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Whoa, whoa, whoa, whoa, whoa."
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "Stop."
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "Hold on."
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Wait a little."
+    }
+  ]
+}

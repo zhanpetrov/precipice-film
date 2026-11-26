@@ -1,0 +1,40 @@
+{
+  "camera": "ZHAN_CAM",
+  "shot": "IMG_6837",
+  "duration": 15.166667,
+  "creation_time": "2026-11-24T04:07:46-0800",
+  "language": "en",
+  "text": "Okay, let's just walk through and see what it looks like. Where are you going to go? You have to have a chair. Oh, I see. Okay, good. Okay, hold on.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Okay, let's just walk through and see what it looks like."
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "Where are you going to go?"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "You have to have a chair."
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "Oh, I see."
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Okay, good."
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": "Okay, hold on."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 /* PRECIPICE — Interactive Multi-Camera Dailies & Transcript Studio */
 (() => {
-  const CAM_ORDER = ["CHICARA_CAM", "ROB_CAM", "SECRET_CAM", "CHIKARA_BONUS"];
+  const CAM_ORDER = ["CHICARA_CAM", "ROB_CAM", "SECRET_CAM", "ZHAN_CAM", "CHIKARA_BONUS", "DAY2_ROB_CAM", "DAY2_ZHAN_CAM"];
 
   const state = {
     shotsData: null,

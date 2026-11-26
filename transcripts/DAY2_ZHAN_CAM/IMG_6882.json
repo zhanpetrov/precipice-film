@@ -1,0 +1,20 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6882",
+  "duration": 12.076667,
+  "creation_time": "2026-11-25T03:25:55-0800",
+  "language": "en",
+  "text": "Should we try to have a conversation between the parties? Why don't you guys have a little conversation right here?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Should we try to have a conversation between the parties?"
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "Why don't you guys have a little conversation right here?"
+    }
+  ]
+}

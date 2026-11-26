@@ -1,0 +1,30 @@
+{
+  "camera": "ZHAN_CAM",
+  "shot": "IMG_6838",
+  "duration": 30.833333,
+  "creation_time": "2026-11-24T04:08:27-0800",
+  "language": "en",
+  "text": "sit down in this chair oh well i was gonna control okay or just try to get there yeah maybe try to keep these guys back but it's all right",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.2,
+      "text": "sit down in this chair"
+    },
+    {
+      "start": 7.2,
+      "end": 21.3,
+      "text": "oh well i was gonna control okay"
+    },
+    {
+      "start": 21.3,
+      "end": 27.92,
+      "text": "or just try to get there yeah maybe try to keep these guys back"
+    },
+    {
+      "start": 27.92,
+      "end": 31.32,
+      "text": "but it's all right"
+    }
+  ]
+}

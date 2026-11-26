@@ -1,0 +1,40 @@
+{
+  "camera": "ZHAN_CAM",
+  "shot": "IMG_6845",
+  "duration": 23.0,
+  "creation_time": "2026-11-24T04:36:26-0800",
+  "language": "en",
+  "text": "of the wound. Have you said anything yet? I've just been saying, asking for an ambulance. So when he comes in and listen to him, he's going to point out whether these guys and the cops are in the league or if there's a separate organization that needs to be listened to. Okay?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.46,
+      "text": "of the wound. Have you said anything yet?"
+    },
+    {
+      "start": 4.46,
+      "end": 9.32,
+      "text": "I've just been saying, asking for an ambulance."
+    },
+    {
+      "start": 9.32,
+      "end": 12.6,
+      "text": "So when he comes in and listen to him,"
+    },
+    {
+      "start": 12.6,
+      "end": 17.88,
+      "text": "he's going to point out whether these guys and the cops are in the league"
+    },
+    {
+      "start": 17.88,
+      "end": 21.64,
+      "text": "or if there's a separate organization that needs to be listened to."
+    },
+    {
+      "start": 21.64,
+      "end": 22.64,
+      "text": "Okay?"
+    }
+  ]
+}

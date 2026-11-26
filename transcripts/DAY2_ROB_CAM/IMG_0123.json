@@ -1,0 +1,30 @@
+{
+  "camera": "DAY2_ROB_CAM",
+  "shot": "IMG_0123",
+  "duration": 95.435,
+  "creation_time": "2026-11-25T06:59:26-0800",
+  "language": "en",
+  "text": "Thank you. Thank you. Thank you. Thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.98,
+      "text": "Thank you."
+    },
+    {
+      "start": 30.0,
+      "end": 59.98,
+      "text": "Thank you."
+    },
+    {
+      "start": 60.0,
+      "end": 89.98,
+      "text": "Thank you."
+    },
+    {
+      "start": 90.0,
+      "end": 92.0,
+      "text": "Thank you."
+    }
+  ]
+}

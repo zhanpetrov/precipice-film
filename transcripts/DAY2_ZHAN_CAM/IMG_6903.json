@@ -1,0 +1,70 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6903",
+  "duration": 38.8,
+  "creation_time": "2026-11-25T04:54:35-0800",
+  "language": "en",
+  "text": "So why don't we just shoot the close-up here? Shoot the rehearsal. So, I'm going to be able to see the camera. I can't see. Oh, it's too dark. I can't see his face. Oh, I see it at the back of his head. Oh, you're leaving space. Okay, let's just try it. And action. Okay, one of the things that I'm going to do. No, not really. I just wanted to just... But that doesn't...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "So why don't we just shoot the close-up here?"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "Shoot the rehearsal."
+    },
+    {
+      "start": 5.0,
+      "end": 9.0,
+      "text": "So, I'm going to be able to see the camera."
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "I can't see."
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Oh, it's too dark. I can't see his face."
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "Oh, I see it at the back of his head."
+    },
+    {
+      "start": 15.0,
+      "end": 18.0,
+      "text": "Oh, you're leaving space."
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "Okay, let's just try it."
+    },
+    {
+      "start": 20.0,
+      "end": 23.0,
+      "text": "And action."
+    },
+    {
+      "start": 30.0,
+      "end": 35.0,
+      "text": "Okay, one of the things that I'm going to do."
+    },
+    {
+      "start": 35.0,
+      "end": 38.0,
+      "text": "No, not really. I just wanted to just..."
+    },
+    {
+      "start": 38.0,
+      "end": 39.0,
+      "text": "But that doesn't..."
+    }
+  ]
+}

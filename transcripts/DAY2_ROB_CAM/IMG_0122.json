@@ -1,0 +1,20 @@
+{
+  "camera": "DAY2_ROB_CAM",
+  "shot": "IMG_0122",
+  "duration": 11.941667,
+  "creation_time": "2026-11-25T06:59:09-0800",
+  "language": "en",
+  "text": "so you",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.66,
+      "text": "so"
+    },
+    {
+      "start": 4.66,
+      "end": 7.38,
+      "text": "you"
+    }
+  ]
+}

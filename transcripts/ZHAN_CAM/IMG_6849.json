@@ -1,0 +1,20 @@
+{
+  "camera": "ZHAN_CAM",
+  "shot": "IMG_6849",
+  "duration": 15.533333,
+  "creation_time": "2026-11-24T05:48:29-0800",
+  "language": "en",
+  "text": "We had a dramatic feature about it. We got some foundation money, I don't know how we did it. The damn thing went to Connery, we won the best.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.0,
+      "text": "We had a dramatic feature about it. We got some foundation money, I don't know how we did it."
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "The damn thing went to Connery, we won the best."
+    }
+  ]
+}

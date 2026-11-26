@@ -781,7 +781,10 @@ def main() -> None:
         if isinstance(v, dict) and v.get("video_id"):
             seen_ids.add(v["video_id"])
 
-    cam_list = [c for c in ["CHICARA_CAM", "ROB_CAM", "SECRET_CAM", "CHIKARA_BONUS"] if c in shots_data["cameras"]]
+    cam_list = [
+        c for c in ["CHICARA_CAM", "ROB_CAM", "SECRET_CAM", "CHIKARA_BONUS", "ZHAN_CAM", "DAY2_ROB_CAM", "DAY2_ZHAN_CAM"]
+        if c in shots_data["cameras"]
+    ]
     chapters_map = {}
     for cam in cam_list:
         chapters_map[cam] = build_chapters_for_camera(cam, shots_data["cameras"][cam])
@@ -798,6 +801,9 @@ def main() -> None:
         "ROB_CAM": "PRECIPICE — Rob Cam (Complete Assembly, 55 Shots) | Rob Nilsson",
         "SECRET_CAM": "PRECIPICE — Secret Cam (Complete Uncut Take) | Rob Nilsson",
         "CHIKARA_BONUS": "PRECIPICE — Chikara 11/23 Reels (5 Shots) | Rob Nilsson",
+        "ZHAN_CAM": "PRECIPICE — Day 1 Zhan Cam (Complete Assembly) | Rob Nilsson",
+        "DAY2_ROB_CAM": "PRECIPICE — Day 2 Rob Cam (Complete Assembly) | Rob Nilsson",
+        "DAY2_ZHAN_CAM": "PRECIPICE — Day 2 Zhan Cam (Complete Assembly) | Rob Nilsson",
     }
 
     for cam in cam_list:

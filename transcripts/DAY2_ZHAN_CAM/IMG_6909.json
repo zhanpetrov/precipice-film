@@ -1,0 +1,40 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6909",
+  "duration": 11.398333,
+  "creation_time": "2026-11-25T05:59:51-0800",
+  "language": "en",
+  "text": "Okay, so it wouldn't have to be actually so... Yeah. It'd be a little bit bad. That's going to be a problem. They don't look so bad, but when we get over here, it's a little tougher over here, right?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.92,
+      "text": "Okay, so it wouldn't have to be actually so..."
+    },
+    {
+      "start": 1.92,
+      "end": 2.2,
+      "text": "Yeah."
+    },
+    {
+      "start": 2.58,
+      "end": 3.62,
+      "text": "It'd be a little bit bad."
+    },
+    {
+      "start": 4.28,
+      "end": 5.4,
+      "text": "That's going to be a problem."
+    },
+    {
+      "start": 6.68,
+      "end": 9.3,
+      "text": "They don't look so bad, but when we get over here,"
+    },
+    {
+      "start": 9.84,
+      "end": 11.32,
+      "text": "it's a little tougher over here, right?"
+    }
+  ]
+}

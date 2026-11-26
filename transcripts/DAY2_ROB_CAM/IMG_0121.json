@@ -1,0 +1,35 @@
+{
+  "camera": "DAY2_ROB_CAM",
+  "shot": "IMG_0121",
+  "duration": 120.628333,
+  "creation_time": "2026-11-25T06:56:47-0800",
+  "language": "zh",
+  "text": "響鐘 響鐘 響鐘 響鐘 響鐘",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "響鐘"
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "響鐘"
+    },
+    {
+      "start": 60.0,
+      "end": 62.0,
+      "text": "響鐘"
+    },
+    {
+      "start": 90.0,
+      "end": 92.0,
+      "text": "響鐘"
+    },
+    {
+      "start": 120.0,
+      "end": 122.0,
+      "text": "響鐘"
+    }
+  ]
+}

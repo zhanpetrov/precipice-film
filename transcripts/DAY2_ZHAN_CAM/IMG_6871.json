@@ -1,0 +1,25 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6871",
+  "duration": 30.358333,
+  "creation_time": "2026-11-25T02:58:15-0800",
+  "language": "en",
+  "text": "please action what's up fellas how you doing hey are you guys right yeah and hey you bet you bet you tried this so so how's it going good good so you guys uh okay good good good",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "please action"
+    },
+    {
+      "start": 16.16,
+      "end": 23.28,
+      "text": "what's up fellas how you doing hey are you guys right yeah and hey you bet you"
+    },
+    {
+      "start": 23.28,
+      "end": 30.24,
+      "text": "bet you tried this so so how's it going good good so you guys uh okay good good good"
+    }
+  ]
+}

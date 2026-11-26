@@ -1,0 +1,285 @@
+{
+  "camera": "DAY2_ROB_CAM",
+  "shot": "IMG_0102",
+  "duration": 152.0117,
+  "creation_time": "2026-11-25T03:20:25-0800",
+  "language": "en",
+  "text": "Sound still rolling? Yes, sir. Okay. All right. Yeah. Maybe you should... Yep. I think now's the time. Better hit it. Okay, now. I'm going to hit it again. You're not looking there. You know where you're supposed to be looking. So... Okay. Hit a shot, and I'll cue you. Hit a shot, Billy. So you got something to watch. Okay. Okay, yeah, but... I did notice something back up behind. I wonder what they could be doing. Hold on, hold on, hold on, hold on. Maybe I should take a little walk up there. We'll pull up a chair and just sit next to him. Just like... Totally nonchalant. Yeah, right. Okay. Okay, I'm going to do it again. Pull the chair in. You guys aren't noticing each other. Don't worry. No, he's not going to see you, but you're going to see him. Okay. Start right here. Start right there. Wait a minute. I'll tell you when. Hold on. And... Action. Okay. That's right. Look out. So I'm going to come in tighter now. Now for another look, we're going to jump ahead where you're going to look, and then you're going to very quietly decide that you're going to come down and talk to somebody about it. So ready, action now. Just looky looking. Slowly. Maybe I should... I think I better talk to Billy about it. Okay.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.08,
+      "text": "Sound still rolling?"
+    },
+    {
+      "start": 1.6,
+      "end": 2.16,
+      "text": "Yes, sir."
+    },
+    {
+      "start": 2.38,
+      "end": 2.74,
+      "text": "Okay."
+    },
+    {
+      "start": 4.1,
+      "end": 5.04,
+      "text": "All right."
+    },
+    {
+      "start": 5.2,
+      "end": 5.64,
+      "text": "Yeah."
+    },
+    {
+      "start": 6.0,
+      "end": 7.58,
+      "text": "Maybe you should..."
+    },
+    {
+      "start": 7.58,
+      "end": 7.86,
+      "text": "Yep."
+    },
+    {
+      "start": 8.02,
+      "end": 9.02,
+      "text": "I think now's the time."
+    },
+    {
+      "start": 9.1,
+      "end": 9.58,
+      "text": "Better hit it."
+    },
+    {
+      "start": 12.54,
+      "end": 13.34,
+      "text": "Okay, now."
+    },
+    {
+      "start": 14.54,
+      "end": 15.68,
+      "text": "I'm going to hit it again."
+    },
+    {
+      "start": 16.34,
+      "end": 17.18,
+      "text": "You're not looking there."
+    },
+    {
+      "start": 18.98,
+      "end": 20.22,
+      "text": "You know where you're supposed to be looking."
+    },
+    {
+      "start": 20.88,
+      "end": 21.84,
+      "text": "So..."
+    },
+    {
+      "start": 21.84,
+      "end": 23.42,
+      "text": "Okay."
+    },
+    {
+      "start": 23.54,
+      "end": 25.58,
+      "text": "Hit a shot, and I'll cue you."
+    },
+    {
+      "start": 26.26,
+      "end": 27.24,
+      "text": "Hit a shot, Billy."
+    },
+    {
+      "start": 27.24,
+      "end": 28.6,
+      "text": "So you got something to watch."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "Okay."
+    },
+    {
+      "start": 35.68,
+      "end": 37.72,
+      "text": "Okay, yeah, but..."
+    },
+    {
+      "start": 37.72,
+      "end": 39.56,
+      "text": "I did notice something back up behind."
+    },
+    {
+      "start": 41.1,
+      "end": 42.8,
+      "text": "I wonder what they could be doing."
+    },
+    {
+      "start": 43.14,
+      "end": 45.1,
+      "text": "Hold on, hold on, hold on, hold on."
+    },
+    {
+      "start": 46.46,
+      "end": 48.94,
+      "text": "Maybe I should take a little walk up there."
+    },
+    {
+      "start": 48.94,
+      "end": 60.9,
+      "text": "We'll pull up a chair and just sit next to him."
+    },
+    {
+      "start": 62.48,
+      "end": 63.94,
+      "text": "Just like..."
+    },
+    {
+      "start": 63.94,
+      "end": 66.38,
+      "text": "Totally nonchalant."
+    },
+    {
+      "start": 66.66,
+      "end": 67.42,
+      "text": "Yeah, right."
+    },
+    {
+      "start": 67.42,
+      "end": 68.42,
+      "text": "Okay."
+    },
+    {
+      "start": 73.22,
+      "end": 74.7,
+      "text": "Okay, I'm going to do it again."
+    },
+    {
+      "start": 74.84,
+      "end": 76.04,
+      "text": "Pull the chair in."
+    },
+    {
+      "start": 77.3,
+      "end": 79.14,
+      "text": "You guys aren't noticing each other."
+    },
+    {
+      "start": 79.26,
+      "end": 79.56,
+      "text": "Don't worry."
+    },
+    {
+      "start": 79.72,
+      "end": 83.16,
+      "text": "No, he's not going to see you, but you're going to see him."
+    },
+    {
+      "start": 83.72,
+      "end": 83.9,
+      "text": "Okay."
+    },
+    {
+      "start": 83.9,
+      "end": 87.18,
+      "text": "Start right here."
+    },
+    {
+      "start": 87.98,
+      "end": 88.74,
+      "text": "Start right there."
+    },
+    {
+      "start": 92.36,
+      "end": 92.88,
+      "text": "Wait a minute."
+    },
+    {
+      "start": 92.9,
+      "end": 93.5,
+      "text": "I'll tell you when."
+    },
+    {
+      "start": 93.88,
+      "end": 94.3,
+      "text": "Hold on."
+    },
+    {
+      "start": 97.74,
+      "end": 98.34,
+      "text": "And..."
+    },
+    {
+      "start": 98.34,
+      "end": 99.26,
+      "text": "Action."
+    },
+    {
+      "start": 99.26,
+      "end": 100.26,
+      "text": "Okay."
+    },
+    {
+      "start": 100.26,
+      "end": 112.82,
+      "text": "That's right."
+    },
+    {
+      "start": 112.82,
+      "end": 114.04,
+      "text": "Look out."
+    },
+    {
+      "start": 114.04,
+      "end": 126.38,
+      "text": "So I'm going to come in tighter now."
+    },
+    {
+      "start": 126.38,
+      "end": 130.1,
+      "text": "Now for another look, we're going to jump ahead where you're going to look,"
+    },
+    {
+      "start": 130.22,
+      "end": 133.62,
+      "text": "and then you're going to very quietly decide that you're going to come down"
+    },
+    {
+      "start": 133.62,
+      "end": 134.86,
+      "text": "and talk to somebody about it."
+    },
+    {
+      "start": 135.64,
+      "end": 137.58,
+      "text": "So ready, action now."
+    },
+    {
+      "start": 137.7,
+      "end": 138.6,
+      "text": "Just looky looking."
+    },
+    {
+      "start": 139.64,
+      "end": 140.04,
+      "text": "Slowly."
+    },
+    {
+      "start": 140.4,
+      "end": 141.38,
+      "text": "Maybe I should..."
+    },
+    {
+      "start": 142.22,
+      "end": 143.88,
+      "text": "I think I better talk to Billy about it."
+    },
+    {
+      "start": 150.66,
+      "end": 151.1,
+      "text": "Okay."
+    }
+  ]
+}

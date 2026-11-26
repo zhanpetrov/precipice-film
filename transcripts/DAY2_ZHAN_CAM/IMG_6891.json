@@ -1,0 +1,35 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6891",
+  "duration": 52.233333,
+  "creation_time": "2026-11-25T03:57:19-0800",
+  "language": "en",
+  "text": "Okay. Move yourself over to your right so you can go straight to it rather than reach so far. More to the right. More to the right. No, no, no. Come back. Come back. Now sit down there. Sit down. Now reach for the ball. Let me see where your hand…oh, you have to go that high. We can jump out when he's moving there. See the ball move. They're moving too. Maybe we can. Let's try it again. Just a minute. Okay, let's roll camera.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.32,
+      "text": "Okay. Move yourself over to your right so you can go straight to it rather than reach"
+    },
+    {
+      "start": 12.32,
+      "end": 20.62,
+      "text": "so far. More to the right. More to the right. No, no, no. Come back. Come back. Now sit"
+    },
+    {
+      "start": 20.62,
+      "end": 27.38,
+      "text": "down there. Sit down. Now reach for the ball. Let me see where your hand…oh, you have"
+    },
+    {
+      "start": 27.38,
+      "end": 38.9,
+      "text": "to go that high. We can jump out when he's moving there. See the ball move. They're moving"
+    },
+    {
+      "start": 38.9,
+      "end": 52.5,
+      "text": "too. Maybe we can. Let's try it again. Just a minute. Okay, let's roll camera."
+    }
+  ]
+}

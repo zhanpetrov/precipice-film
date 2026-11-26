@@ -1,0 +1,50 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6874",
+  "duration": 17.733333,
+  "creation_time": "2026-11-25T03:01:08-0800",
+  "language": "en",
+  "text": "You could send Serge to get some cash in your binoculars. And then you'll go that way. But we won't see him. So Serge is the guy, if it comes to that, he's going to get the money. OK, let's go. Got it. Go get it.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.24,
+      "text": "You could send Serge to get some cash in your binoculars."
+    },
+    {
+      "start": 7.24,
+      "end": 9.24,
+      "text": "And then you'll go that way."
+    },
+    {
+      "start": 9.24,
+      "end": 11.82,
+      "text": "But we won't see him."
+    },
+    {
+      "start": 11.82,
+      "end": 13.98,
+      "text": "So Serge is the guy, if it comes to that,"
+    },
+    {
+      "start": 13.98,
+      "end": 14.88,
+      "text": "he's going to get the money."
+    },
+    {
+      "start": 14.88,
+      "end": 15.82,
+      "text": "OK, let's go."
+    },
+    {
+      "start": 15.82,
+      "end": 16.42,
+      "text": "Got it."
+    },
+    {
+      "start": 16.42,
+      "end": 17.92,
+      "text": "Go get it."
+    }
+  ]
+}

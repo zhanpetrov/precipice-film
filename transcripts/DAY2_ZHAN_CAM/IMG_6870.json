@@ -1,0 +1,65 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6870",
+  "duration": 24.418333,
+  "creation_time": "2026-11-25T02:56:30-0800",
+  "language": "en",
+  "text": "And relax. And this little camera. Camera rolling. And audio. Audio, sorry. Audio one. Just a second. Just a second. John, John. Holding for sound. Pardon me.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "And relax."
+    },
+    {
+      "start": 3.08,
+      "end": 4.98,
+      "text": "And this little camera."
+    },
+    {
+      "start": 5.56,
+      "end": 6.28,
+      "text": "Camera rolling."
+    },
+    {
+      "start": 6.78,
+      "end": 7.78,
+      "text": "And audio."
+    },
+    {
+      "start": 8.12,
+      "end": 9.02,
+      "text": "Audio, sorry."
+    },
+    {
+      "start": 9.5,
+      "end": 10.12,
+      "text": "Audio one."
+    },
+    {
+      "start": 12.12,
+      "end": 12.56,
+      "text": "Just a second."
+    },
+    {
+      "start": 19.56,
+      "end": 20.8,
+      "text": "Just a second."
+    },
+    {
+      "start": 21.5,
+      "end": 22.42,
+      "text": "John, John."
+    },
+    {
+      "start": 22.62,
+      "end": 23.58,
+      "text": "Holding for sound."
+    },
+    {
+      "start": 23.74,
+      "end": 24.1,
+      "text": "Pardon me."
+    }
+  ]
+}

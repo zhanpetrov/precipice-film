@@ -1,0 +1,35 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6904",
+  "duration": 34.108333,
+  "creation_time": "2026-11-25T04:56:10-0800",
+  "language": "en",
+  "text": "Okay, cool. So that's all that's what we're gonna follow me. Yeah Okay Behind me Get this out of your way, there's always a lot of distraction Okay, we're coming ready in action",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.14,
+      "text": "Okay, cool. So that's all that's what we're gonna follow me. Yeah"
+    },
+    {
+      "start": 21.36,
+      "end": 23.36,
+      "text": "Okay"
+    },
+    {
+      "start": 23.36,
+      "end": 25.36,
+      "text": "Behind me"
+    },
+    {
+      "start": 26.38,
+      "end": 29.18,
+      "text": "Get this out of your way, there's always a lot of distraction"
+    },
+    {
+      "start": 30.0,
+      "end": 33.86,
+      "text": "Okay, we're coming ready in action"
+    }
+  ]
+}

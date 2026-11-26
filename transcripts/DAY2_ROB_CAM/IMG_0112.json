@@ -1,0 +1,20 @@
+{
+  "camera": "DAY2_ROB_CAM",
+  "shot": "IMG_0112",
+  "duration": 19.375,
+  "creation_time": "2026-11-25T06:32:49-0800",
+  "language": "en",
+  "text": "Okay, just, you're looking at them. They're right here behind me.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "Okay, just, you're looking at them."
+    },
+    {
+      "start": 2.54,
+      "end": 3.94,
+      "text": "They're right here behind me."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "camera": "ZHAN_CAM",
+  "shot": "IMG_6835",
+  "duration": 15.9,
+  "creation_time": "2026-11-24T04:02:24-0800",
+  "language": "en",
+  "text": "of you here facing these jokers at the table or not. Yeah, we can do that. He just needs to get to that. Yeah. Let me just see it. Come in and make the...",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "of you here facing these jokers at the table or not."
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "Yeah, we can do that. He just needs to get to that."
+    },
+    {
+      "start": 10.0,
+      "end": 16.0,
+      "text": "Yeah. Let me just see it. Come in and make the..."
+    }
+  ]
+}

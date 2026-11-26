@@ -1,0 +1,30 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6875",
+  "duration": 6.933333,
+  "creation_time": "2026-11-25T03:01:32-0800",
+  "language": "en",
+  "text": "So, is our deal still on? Shall we play? Wait for reaction. I'm sorry. John, what were you doing?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "So, is our deal still on? Shall we play?"
+    },
+    {
+      "start": 2.8,
+      "end": 3.8,
+      "text": "Wait for reaction."
+    },
+    {
+      "start": 3.8,
+      "end": 4.8,
+      "text": "I'm sorry."
+    },
+    {
+      "start": 4.8,
+      "end": 6.8,
+      "text": "John, what were you doing?"
+    }
+  ]
+}

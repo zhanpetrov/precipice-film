@@ -1,0 +1,5 @@
+[00:00 -> 00:01] Audio's rolling.
+[00:01 -> 00:02] Coach is going.
+[00:02 -> 00:02] Sorry.
+[00:02 -> 00:03] Sorry.
+[00:04 -> 00:04] Okay, sorry.

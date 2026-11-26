@@ -1,0 +1,50 @@
+{
+  "camera": "DAY2_ZHAN_CAM",
+  "shot": "IMG_6921",
+  "duration": 209.73,
+  "creation_time": "2026-11-25T06:38:48-0800",
+  "language": "en",
+  "text": "I'm ready. A nice wide shot. I'm ready. I'm ready. I'm ready. I'm ready. I'm ready. I'm ready.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "I'm ready."
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "A nice wide shot."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "I'm ready."
+    },
+    {
+      "start": 60.0,
+      "end": 89.98,
+      "text": "I'm ready."
+    },
+    {
+      "start": 90.0,
+      "end": 119.98,
+      "text": "I'm ready."
+    },
+    {
+      "start": 120.0,
+      "end": 149.98,
+      "text": "I'm ready."
+    },
+    {
+      "start": 150.0,
+      "end": 179.98,
+      "text": "I'm ready."
+    },
+    {
+      "start": 180.0,
+      "end": 209.98,
+      "text": "I'm ready."
+    }
+  ]
+}

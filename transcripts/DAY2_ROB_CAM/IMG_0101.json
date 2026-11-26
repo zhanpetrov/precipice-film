@@ -1,0 +1,20 @@
+{
+  "camera": "DAY2_ROB_CAM",
+  "shot": "IMG_0101",
+  "duration": 12.908333,
+  "creation_time": "2026-11-25T03:17:34-0800",
+  "language": "en",
+  "text": "and action okay so let's",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "and action"
+    },
+    {
+      "start": 3.16,
+      "end": 12.9,
+      "text": "okay so let's"
+    }
+  ]
+}
